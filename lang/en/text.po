@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-08-20 02:01+0000\n"
-"PO-Revision-Date: 2016-06-27 17:16-0400\n"
+"PO-Revision-Date: 2016-06-30 17:40-0400\n"
 "Last-Translator: Admin <admin@videogametranslations.org>\n"
 "Language-Team: \n"
 "Language: es\n"
@@ -15,2688 +15,2688 @@ msgstr ""
 "X-POOTLE-MTIME: 1440036078.000000\n"
 
 msgid "Rushing"
-msgstr ""
+msgstr "Rushing"
 
 msgid "Maneuvering"
-msgstr ""
+msgstr "Maneuvering"
 
 msgid "Edit palette"
-msgstr ""
+msgstr "Edit palette"
 
 msgid "Exit"
-msgstr ""
+msgstr "Exit"
 
 msgid "Export ship as a file on your Desktop"
-msgstr ""
+msgstr "Export ship as a file on your Desktop"
 
 msgid "Import"
-msgstr ""
+msgstr "Import"
 
 msgid "Warning: exceeded max P"
-msgstr ""
+msgstr "Warning: exceeded max P"
 
 msgid "Unnamed Spaceship"
-msgstr ""
+msgstr "Unnamed Spaceship"
 
 #, c-format
 msgid "Test Error: %s"
-msgstr ""
+msgstr "Test Error: %s"
 
 msgid "Child Spawn Order"
-msgstr ""
+msgstr "Child Spawn Order"
 
 msgid "Design Storage"
-msgstr ""
+msgstr "Design Storage"
 
 msgid "Drop to swap"
-msgstr ""
+msgstr "Drop to swap"
 
 msgid "Press DELETE again to confirm"
-msgstr ""
+msgstr "Press DELETE again to confirm"
 
 msgid "DELETE to delete"
-msgstr ""
+msgstr "DELETE to delete"
 
 msgid "No controlling faction"
-msgstr ""
+msgstr "No controlling faction"
 
 msgid "Inactive Station"
-msgstr ""
+msgstr "Inactive Station"
 
 #, c-format
 msgid " Range %d"
-msgstr " "
+msgstr " Range %d"
 
 msgid "Neutral"
-msgstr ""
+msgstr "Neutral"
 
 msgid "Fleet: "
-msgstr " "
+msgstr "Fleet: "
 
 msgid "Back"
-msgstr ""
+msgstr "Back"
 
 msgid "Select fleet or ship"
-msgstr ""
+msgstr "Select fleet or ship"
 
 msgid "Select ship"
-msgstr ""
+msgstr "Select ship"
 
 #, c-format
 msgid "Agent '%s' destroyed %s of your stations"
-msgstr ""
+msgstr "Agent '%s' destroyed %s of your stations"
 
 msgid "Generating"
-msgstr ""
+msgstr "Generating"
 
 msgid "Return To Game"
-msgstr ""
+msgstr "Return To Game"
 
 msgid "Save & Quit"
-msgstr ""
+msgstr "Save & Quit"
 
 msgid "Select Faction"
-msgstr ""
+msgstr "Select Faction"
 
 msgid "OLD SAVE: regenerate"
-msgstr ""
+msgstr "OLD SAVE: regenerate"
 
 msgid "ERROR: CORRUPTED"
-msgstr ""
+msgstr "ERROR: CORRUPTED"
 
 msgid "Clear Slot"
-msgstr ""
+msgstr "Clear Slot"
 
 msgid "Import Fleet"
-msgstr ""
+msgstr "Import Fleet"
 
 msgid "Export as Fleet"
-msgstr ""
+msgstr "Export as Fleet"
 
 msgid "WARNING: Not connected to Steam"
-msgstr ""
+msgstr "WARNING: Not connected to Steam"
 
 msgid "Warning: Steam Cloud did not finish syncing (restart game)"
-msgstr ""
+msgstr "Warning: Steam Cloud did not finish syncing (restart game)"
 
 #, c-format
 msgid "%s/%s available"
-msgstr ""
+msgstr "%s/%s available"
 
 #, c-format
 msgid "%d/%d files available"
-msgstr ""
+msgstr "%d/%d files available"
 
 msgid "Mod Export Failed (see log for details)"
-msgstr ""
+msgstr "Mod Export Failed (see log for details)"
 
 #, c-format
 msgid "Exported slot %d to %s\n"
-msgstr ""
+msgstr "Exported slot %d to %s\n"
 
 msgid "Not logged in"
-msgstr ""
+msgstr "Not logged in"
 
 msgid "Standalone Ship Builder"
-msgstr ""
+msgstr "Standalone Ship Builder"
 
 #, c-format
 msgid "Slot %d/%d"
-msgstr ""
+msgstr "Slot %d/%d"
 
 msgid "Abort"
-msgstr ""
+msgstr "Abort"
 
 msgid "Fleet uses modded blocks, upload disabled"
-msgstr ""
+msgstr "Fleet uses modded blocks, upload disabled"
 
 #, c-format
 msgid "Wormhole Connection Error: %s"
-msgstr ""
+msgstr "Wormhole Connection Error: %s"
 
 msgid "OK!"
-msgstr ""
+msgstr "OK!"
 
 msgid "Adjust background music volume"
-msgstr ""
+msgstr "Adjust background music volume"
 
 msgid "Adjust sound effects volume"
-msgstr ""
+msgstr "Adjust sound effects volume"
 
 msgid "Windowed"
-msgstr ""
+msgstr "Windowed"
 
 msgid "Nicest Smoothed"
-msgstr ""
+msgstr "Nicest Smoothed"
 
 msgid "Composer/Sfx"
-msgstr ""
+msgstr "Composer/Sfx"
 
 msgid "Marketing Materials"
-msgstr ""
+msgstr "Marketing Materials"
 
 msgid "Select"
-msgstr ""
+msgstr "Select"
 
 #, c-format
 msgid "Press %s to clear"
-msgstr ""
+msgstr "Press %s to clear"
 
 msgid "Cursor Damping"
-msgstr ""
+msgstr "Cursor Damping"
 
 msgid "Adjust cursor movement smoothing"
-msgstr ""
+msgstr "Adjust cursor movement smoothing"
 
 msgid "Absolute"
-msgstr ""
+msgstr "Absolute"
 
 #, c-format
 msgid "%s for next tip"
-msgstr ""
+msgstr "%s for next tip"
 
 msgid "Basic"
-msgstr ""
+msgstr "Basic"
 
 msgid "Secondary Group"
-msgstr ""
+msgstr "Secondary Group"
 
 msgid "Tertiary Group"
-msgstr ""
+msgstr "Tertiary Group"
 
 msgid "Auxiliary Group - automatically fire at selected target"
-msgstr ""
+msgstr "Auxiliary Group - automatically fire at selected target"
 
 msgid "Autofire"
-msgstr ""
+msgstr "Autofire"
 
 msgid "Mouse Wheel"
-msgstr ""
+msgstr "Mouse Wheel"
 
 msgid "Needs Update"
-msgstr ""
+msgstr "Needs Update"
 
 msgid "Uploading"
-msgstr ""
+msgstr "Uploading"
 
 msgid "Mod Load Log"
-msgstr ""
+msgstr "Mod Load Log"
 
 msgid "Top mods take precedence (drag to change order)"
-msgstr ""
+msgstr "Top mods take precedence (drag to change order)"
 
 msgid "Engage My Target"
-msgstr ""
+msgstr "Engage My Target"
 
 msgid "Disengage"
-msgstr ""
+msgstr "Disengage"
 
 msgid "Enabled Auto Zoom"
-msgstr ""
+msgstr "Enabled Auto Zoom"
 
 msgid "Enabled Auto Target"
-msgstr ""
+msgstr "Enabled Auto Target"
 
 msgid "Minimal HUD"
-msgstr ""
+msgstr "Minimal HUD"
 
 msgid "Entered Command Mode"
-msgstr ""
+msgstr "Entered Command Mode"
 
 msgid "Can't recruit stations"
-msgstr ""
+msgstr "Can't recruit stations"
 
 msgid "Entered Wormhole"
-msgstr ""
+msgstr "Entered Wormhole"
 
 msgid "Station"
-msgstr ""
+msgstr "Station"
 
 #, c-format
 msgid "Liberated %s"
-msgstr ""
+msgstr "Liberated %s"
 
 #, c-format
 msgid "%s was destroyed by %s"
-msgstr ""
+msgstr "%s was destroyed by %s"
 
 #, c-format
 msgid "%s was destroyed"
-msgstr ""
+msgstr "%s was destroyed"
 
 #, c-format
 msgid "Faction %d unlocked"
-msgstr ""
+msgstr "Faction %d unlocked"
 
 msgid "Unlocked Faction"
-msgstr ""
+msgstr "Unlocked Faction"
 
 msgid "Safe Journey"
-msgstr ""
+msgstr "Safe Journey"
 
 #, c-format
 msgid "Need %d additional R to spawn"
-msgstr ""
+msgstr "Need %d additional R to spawn"
 
 #, c-format
 msgid "Need %d additional P to metamorphosize ship"
-msgstr ""
+msgstr "Need %d additional P to metamorphosize ship"
 
 msgid "Seed"
-msgstr ""
+msgstr "Seed"
 
 msgid "Hull Section\n"
-msgstr ""
+msgstr "Hull Section\n"
 
 msgid "R Collection Range Booster\n"
-msgstr ""
+msgstr "R Collection Range Booster\n"
 
 #, c-format
 msgid "  Damage: %.f/round\n"
-msgstr "  "
+msgstr "  Damage: %.f/round\n"
 
 #, c-format
 msgid "  Rate: %g rounds/sec\n"
-msgstr "  "
+msgstr "  Rate: %g rounds/sec\n"
 
 #, c-format
 msgid "  Velocity: %.f\n"
-msgstr "  "
+msgstr "  Velocity: %.f\n"
 
 msgid "Energy"
-msgstr ""
+msgstr "Energy"
 
 msgid "Damage"
-msgstr ""
+msgstr "Damage"
 
 msgid "Beam Weapon:\n"
-msgstr ""
+msgstr "Beam Weapon:\n"
 
 #, c-format
 msgid "  Damage: %.f/discharge\n"
-msgstr "  "
+msgstr "  Damage: %.f/discharge\n"
 
 #, c-format
 msgid "  Damage: %.f/sec\n"
-msgstr "  "
+msgstr "  Damage: %.f/sec\n"
 
 #, c-format
 msgid "  Energy: %.f/sec\n"
-msgstr "  "
+msgstr "  Energy: %.f/sec\n"
 
 #, c-format
 msgid "Shield Regen Energy: %.f/sec\n"
-msgstr ""
+msgstr "Shield Regen Energy: %.f/sec\n"
 
 #, c-format
 msgid "Energy Generated: %.f/sec\n"
-msgstr ""
+msgstr "Energy Generated: %.f/sec\n"
 
 msgid "Block Limit Reached"
-msgstr ""
+msgstr "Block Limit Reached"
 
 #, c-format
 msgid "Finished %s Tutorial"
-msgstr ""
+msgstr "Finished %s Tutorial"
 
 #, c-format
 msgid "Energy: %.f/%.f"
-msgstr ""
+msgstr "Energy: %.f/%.f"
 
 msgid "^6Transferring^7"
-msgstr ""
+msgstr "^6Transferring^7"
 
 msgid "Maximum reached"
-msgstr ""
+msgstr "Maximum reached"
 
 msgid "Palette"
-msgstr ""
+msgstr "Palette"
 
 msgid ""
 "Permanently increase P\n"
 "Not enough C to increase"
-msgstr ""
+msgstr "Permanently increase P\nNot enough C to increase"
 
 msgid "Resource Description"
-msgstr ""
+msgstr "Resource Description"
 
 msgid "Tutorials"
-msgstr ""
+msgstr "Tutorials"
 
 msgid "Binding"
-msgstr ""
+msgstr "Binding"
 
 msgid "Fleet"
-msgstr ""
+msgstr "Fleet"
 
 #, c-format
 msgid "%d wins, %d losses"
-msgstr ""
+msgstr "%d wins, %d losses"
 
 #, c-format
 msgid "%2d wins: %s"
-msgstr ""
+msgstr "%2d wins: %s"
 
 #, c-format
 msgid "%d wins"
-msgstr ""
+msgstr "%d wins"
 
 msgid "Tournament Brackets"
-msgstr ""
+msgstr "Tournament Brackets"
 
 msgid "Weapon Bindings"
-msgstr ""
+msgstr "Weapon Bindings"
 
 msgid "Teleport"
-msgstr ""
+msgstr "Teleport"
 
 msgid "Toggle Command mode"
-msgstr ""
+msgstr "Toggle Command mode"
 
 msgid "Left Click"
-msgstr ""
+msgstr "Left Click"
 
 msgid "Unknown"
-msgstr ""
+msgstr "Unknown"
 
 msgid "Bracket"
-msgstr ""
+msgstr "Bracket"
 
 msgid "Really Clear?"
-msgstr ""
+msgstr "Really Clear?"
 
 msgid "Steam Friends"
-msgstr ""
+msgstr "Steam Friends"
 
 msgid "Available"
-msgstr ""
+msgstr "Available"
 
 #, c-format
 msgid "Downloading Steam Friend Ships: %.f%%"
-msgstr ""
+msgstr "Downloading Steam Friend Ships: %.f%%"
 
 msgid "Command Module"
-msgstr ""
+msgstr "Command Module"
 
 msgid "The core of every ship"
-msgstr ""
+msgstr "The core of every ship"
 
 msgid "Produces a small amount of thrust"
-msgstr ""
+msgstr "Produces a small amount of thrust"
 
 msgid "Solar Panel"
-msgstr ""
+msgstr "Solar Panel"
 
 msgid "RK-12 Standard"
-msgstr ""
+msgstr "RK-12 Standard"
 
 msgid "Basic light cannon. Its consistent rate of fire and low energy use make it a reliable weapon"
-msgstr ""
+msgstr "Basic light cannon. Its consistent rate of fire and low energy use make it a reliable weapon"
 
 msgid "MGVD-4 Bolshevik"
-msgstr ""
+msgstr "MGVD-4 Bolshevik"
 
 msgid "AF-75 Spitter"
-msgstr ""
+msgstr "AF-75 Spitter"
 
 msgid "A powerful burst-fire turret that excels at medium range"
-msgstr ""
+msgstr "A powerful burst-fire turret that excels at medium range"
 
 msgid "SG-9 Scattergun"
-msgstr ""
+msgstr "SG-9 Scattergun"
 
 msgid "HC3"
-msgstr ""
+msgstr "HC3"
 
 msgid "Heavy Turret"
-msgstr ""
+msgstr "Heavy Turret"
 
 msgid "Station Defense Laser"
-msgstr ""
+msgstr "Station Defense Laser"
 
 msgid "Tractor"
-msgstr ""
+msgstr "Tractor"
 
 msgid "Mini size"
-msgstr ""
+msgstr "Mini size"
 
 msgid "Phaser"
-msgstr ""
+msgstr "Phaser"
 
 msgid "Laser"
-msgstr ""
+msgstr "Laser"
 
 msgid "Drone Launcher"
-msgstr ""
+msgstr "Drone Launcher"
 
 msgid "Strut"
-msgstr ""
+msgstr "Strut"
 
 msgid "Defense Laser"
-msgstr ""
+msgstr "Defense Laser"
 
 msgid "RBank"
-msgstr ""
+msgstr "RBank"
 
 msgid "Stem"
-msgstr ""
+msgstr "Stem"
 
 msgid "Joint"
-msgstr ""
+msgstr "Joint"
 
 msgid "Leaf"
-msgstr ""
+msgstr "Leaf"
 
 msgid "Laser Drone Launcher"
-msgstr ""
+msgstr "Laser Drone Launcher"
 
 msgid "Propulsor"
-msgstr ""
+msgstr "Propulsor"
 
 msgid "Armored building block"
-msgstr ""
+msgstr "Armored building block"
 
 msgid "Resource storage"
-msgstr ""
+msgstr "Resource storage"
 
 msgid "Basic turreted damage dealer"
-msgstr ""
+msgstr "Basic turreted damage dealer"
 
 msgid "Increase mobility - mega size"
-msgstr ""
+msgstr "Increase mobility - mega size"
 
 msgid "Missile Launcher"
-msgstr ""
+msgstr "Missile Launcher"
 
 msgid "Launches homing missiles"
-msgstr ""
+msgstr "Launches homing missiles"
 
 msgid "Long range high damage spinal beam weapon"
-msgstr ""
+msgstr "Long range high damage spinal beam weapon"
 
 msgid "Defense Cannon"
-msgstr ""
+msgstr "Defense Cannon"
 
 msgid "Plasma Projector"
-msgstr ""
+msgstr "Plasma Projector"
 
 msgid "Autocannon"
-msgstr ""
+msgstr "Autocannon"
 
 msgid "Armor block"
-msgstr ""
+msgstr "Armor block"
 
 msgid "Create more spaceships"
-msgstr ""
+msgstr "Create more spaceships"
 
 msgid "Flak Cannon"
-msgstr ""
+msgstr "Flak Cannon"
 
 msgid "Explosive point defense cannon"
-msgstr ""
+msgstr "Explosive point defense cannon"
 
 msgid "Antimatter Cannon"
-msgstr ""
+msgstr "Antimatter Cannon"
 
 msgid "Launches flurries of unguided rockets"
-msgstr ""
+msgstr "Launches flurries of unguided rockets"
 
 msgid "Hex Wall"
-msgstr ""
+msgstr "Hex Wall"
 
 msgid "Wedge"
-msgstr ""
+msgstr "Wedge"
 
 msgid "Micro"
-msgstr ""
+msgstr "Micro"
 
 msgid "Medium"
-msgstr ""
+msgstr "Medium"
 
 msgid "Macro"
-msgstr ""
+msgstr "Macro"
 
 msgid "Mighty"
-msgstr ""
+msgstr "Mighty"
 
 msgid "Pulser"
-msgstr ""
+msgstr "Pulser"
 
 msgid "Highly responsive low impulse thruster"
-msgstr ""
+msgstr "Highly responsive low impulse thruster"
 
 msgid "Laser Drone"
-msgstr ""
+msgstr "Laser Drone"
 
 msgid "Slow, high damage defense turret"
-msgstr ""
+msgstr "Slow, high damage defense turret"
 
 msgid "Flurry Missiles"
-msgstr ""
+msgstr "Flurry Missiles"
 
 msgid "Nuclear Option"
-msgstr ""
+msgstr "Nuclear Option"
 
 msgid "Segment"
-msgstr ""
+msgstr "Segment"
 
 msgid "Core hull"
-msgstr ""
+msgstr "Core hull"
 
 msgid "Thrust vector unit"
-msgstr ""
+msgstr "Thrust vector unit"
 
 msgid "Left Mouse"
-msgstr ""
+msgstr "Left Mouse"
 
 msgid "Right Mouse"
-msgstr ""
+msgstr "Right Mouse"
 
 msgid "Alt"
-msgstr ""
+msgstr "Alt"
 
 msgid "Tab"
-msgstr ""
+msgstr "Tab"
 
 msgid "Page Up"
-msgstr ""
+msgstr "Page Up"
 
 msgid "Page Down"
-msgstr ""
+msgstr "Page Down"
 
 msgid "Home"
-msgstr ""
+msgstr "Home"
 
 msgid "Gamepad Guide"
-msgstr ""
+msgstr "Gamepad Guide"
 
 msgid "DPad Right"
-msgstr ""
+msgstr "DPad Right"
 
 msgid "Left Trigger Axis"
-msgstr ""
+msgstr "Left Trigger Axis"
 
 msgid "Right Trigger Axis"
-msgstr ""
+msgstr "Right Trigger Axis"
 
 msgid "Left Stick Up"
-msgstr ""
+msgstr "Left Stick Up"
 
 msgid "Right Stick Up"
-msgstr ""
+msgstr "Right Stick Up"
 
 msgid "Volume Down"
-msgstr ""
+msgstr "Volume Down"
 
 msgid "Ctrl-"
-msgstr ""
+msgstr "Ctrl-"
 
 msgid "Farmer"
-msgstr ""
+msgstr "Farmer"
 
 msgid "Red"
-msgstr ""
+msgstr "Red"
 
 msgid "Flies"
-msgstr ""
+msgstr "Flies"
 
 msgid "Crystalline"
-msgstr ""
+msgstr "Crystalline"
 
 msgid "Contestant"
-msgstr ""
+msgstr "Contestant"
 
 msgid "Drop here to remove"
-msgstr ""
+msgstr "Drop here to remove"
 
 msgid "Bindings"
-msgstr ""
+msgstr "Bindings"
 
 msgid "Save"
-msgstr ""
+msgstr "Save"
 
 msgid "Discard"
-msgstr ""
+msgstr "Discard"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Cancel"
 
 msgid "Warning: Not enough P to build this ship"
-msgstr ""
+msgstr "Warning: Not enough P to build this ship"
 
 msgid "Help"
-msgstr ""
+msgstr "Help"
 
 msgid "Instructions"
-msgstr ""
+msgstr "Instructions"
 
 msgid "Export"
-msgstr ""
+msgstr "Export"
 
 msgid " WARNING: Acquire additional P"
-msgstr " "
+msgstr " WARNING: Acquire additional P"
 
 msgid "Alt-drag to clone"
-msgstr ""
+msgstr "Alt-drag to clone"
 
 msgid "Click to select waypoint"
-msgstr ""
+msgstr "Click to select waypoint"
 
 msgid "ships"
-msgstr ""
+msgstr "ships"
 
 #, c-format
 msgid "Sector %dx%d"
-msgstr ""
+msgstr "Sector %dx%d"
 
 msgid "Map Overview"
-msgstr ""
+msgstr "Map Overview"
 
 msgid "Spawner"
-msgstr ""
+msgstr "Spawner"
 
 msgid "by "
-msgstr " "
+msgstr "by "
 
 #, c-format
 msgid "%d drones, "
-msgstr " "
+msgstr "%d drones, "
 
 msgid "<"
-msgstr ""
+msgstr "<"
 
 #, c-format
 msgid "%s exported to '%s'"
-msgstr ""
+msgstr "%s exported to '%s'"
 
 msgid "Destroyed"
-msgstr ""
+msgstr "Destroyed"
 
 msgid "FAILED!!!!"
-msgstr ""
+msgstr "FAILED!!!!"
 
 msgid "Welcome"
-msgstr ""
+msgstr "Welcome"
 
 msgid "Generating Map"
-msgstr ""
+msgstr "Generating Map"
 
 msgid "Saving Game"
-msgstr ""
+msgstr "Saving Game"
 
 msgid "Saving Blueprints"
-msgstr ""
+msgstr "Saving Blueprints"
 
 msgid "Options"
-msgstr ""
+msgstr "Options"
 
 msgid "Identify Yourself"
-msgstr ""
+msgstr "Identify Yourself"
 
 #, c-format
 msgid "Slot %d"
-msgstr ""
+msgstr "Slot %d"
 
 msgid "Destroy a capital ship from each faction to unlock"
-msgstr ""
+msgstr "Destroy a capital ship from each faction to unlock"
 
 msgid "Loading..."
-msgstr ""
+msgstr "Loading..."
 
 msgid "Export as Mod"
-msgstr ""
+msgstr "Export as Mod"
 
 msgid "Export as Mod (create blocks.lua)"
-msgstr ""
+msgstr "Export as Mod (create blocks.lua)"
 
 msgid "Really regenerate world for save slot?"
-msgstr ""
+msgstr "Really regenerate world for save slot?"
 
 msgid "Really clear save slot?"
-msgstr ""
+msgstr "Really clear save slot?"
 
 msgid "Submit"
-msgstr ""
+msgstr "Submit"
 
 msgid "Log Out"
-msgstr ""
+msgstr "Log Out"
 
 msgid "Log In"
-msgstr ""
+msgstr "Log In"
 
 #, c-format
 msgid "Logged in as '%s'"
-msgstr ""
+msgstr "Logged in as '%s'"
 
 msgid "Tournament"
-msgstr ""
+msgstr "Tournament"
 
 msgid "Mods"
-msgstr ""
+msgstr "Mods"
 
 msgid "Credits"
-msgstr ""
+msgstr "Credits"
 
 msgid "Log in to enable upload through wormhole"
-msgstr ""
+msgstr "Log in to enable upload through wormhole"
 
 msgid "Login Failed"
-msgstr ""
+msgstr "Login Failed"
 
 msgid "Connecting... "
-msgstr " "
+msgstr "Connecting... "
 
 msgid "Login"
-msgstr ""
+msgstr "Login"
 
 msgid "Sfx Volume"
-msgstr ""
+msgstr "Sfx Volume"
 
 msgid "Fullscreen"
-msgstr ""
+msgstr "Fullscreen"
 
 msgid "60 FPS cap"
-msgstr ""
+msgstr "60 FPS cap"
 
 msgid "No limiter"
-msgstr ""
+msgstr "No limiter"
 
 msgid "Adaptive Vsync"
-msgstr ""
+msgstr "Adaptive Vsync"
 
 msgid "Particle effects"
-msgstr ""
+msgstr "Particle effects"
 
 msgid "Stars and Halos"
-msgstr ""
+msgstr "Stars and Halos"
 
 msgid "Post Processing"
-msgstr ""
+msgstr "Post Processing"
 
 msgid "Blur Effect"
-msgstr ""
+msgstr "Blur Effect"
 
 msgid "Language"
-msgstr ""
+msgstr "Language"
 
 msgid "Developer"
-msgstr ""
+msgstr "Developer"
 
 msgid "Production, Marketing"
-msgstr ""
+msgstr "Production, Marketing"
 
 msgid "Localization"
-msgstr ""
+msgstr "Localization"
 
 #, c-format
 msgid ""
 "Kickstarter\n"
 "Backers (%.1f%%):"
-msgstr ""
+msgstr "Kickstarter\nBackers (%.1f%%):"
 
 msgid "DELETE"
-msgstr ""
+msgstr "DELETE"
 
 msgid "Rebinding"
-msgstr ""
+msgstr "Rebinding"
 
 #, c-format
 msgid "Press %s to cancel"
-msgstr ""
+msgstr "Press %s to cancel"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Enabled"
 
 msgid "Deadzone Size"
-msgstr ""
+msgstr "Deadzone Size"
 
 msgid "Adjust stick sensitivity"
-msgstr ""
+msgstr "Adjust stick sensitivity"
 
 msgid "Relative"
-msgstr ""
+msgstr "Relative"
 
 msgid "No Gamepad Detected"
-msgstr ""
+msgstr "No Gamepad Detected"
 
 msgid "Flying"
-msgstr ""
+msgstr "Flying"
 
 msgid "<Not Bound>"
-msgstr ""
+msgstr "<Not Bound>"
 
 msgid "Space Sounds"
-msgstr ""
+msgstr "Space Sounds"
 
 msgid "View Workshop"
-msgstr ""
+msgstr "View Workshop"
 
 #, c-format
 msgid "View %d Errors"
-msgstr ""
+msgstr "View %d Errors"
 
 #, c-format
 msgid "by %s"
-msgstr ""
+msgstr "by %s"
 
 msgid "Workshop"
-msgstr ""
+msgstr "Workshop"
 
 msgid "Docs"
-msgstr ""
+msgstr "Docs"
 
 #, c-format
 msgid "%d Mods Loaded"
-msgstr ""
+msgstr "%d Mods Loaded"
 
 msgid "Steam Workshop unavailable"
-msgstr ""
+msgstr "Steam Workshop unavailable"
 
 msgid "Fire at Will"
-msgstr ""
+msgstr "Fire at Will"
 
 msgid "Gamepad Deactivated"
-msgstr ""
+msgstr "Gamepad Deactivated"
 
 msgid "Disabled Auto Zoom"
-msgstr ""
+msgstr "Disabled Auto Zoom"
 
 msgid "Disabled Auto Target"
-msgstr ""
+msgstr "Disabled Auto Target"
 
 msgid "Entered Pilot Mode"
-msgstr ""
+msgstr "Entered Pilot Mode"
 
 msgid "Fleet Orders: "
-msgstr " "
+msgstr "Fleet Orders: "
 
 #, c-format
 msgid "Destroyed %s's fleet"
-msgstr ""
+msgstr "Destroyed %s's fleet"
 
 #, c-format
 msgid "Destroyed %s"
-msgstr ""
+msgstr "Destroyed %s"
 
 msgid "Welcome back"
-msgstr ""
+msgstr "Welcome back"
 
 msgid "Ship does not contain factory"
-msgstr ""
+msgstr "Ship does not contain factory"
 
 msgid "Child blueprint not defined"
-msgstr ""
+msgstr "Child blueprint not defined"
 
 msgid "Drone"
-msgstr ""
+msgstr "Drone"
 
 msgid "Ship Production Unit\n"
-msgstr ""
+msgstr "Ship Production Unit\n"
 
 #, c-format
 msgid "Explode Radius: %.f\n"
-msgstr ""
+msgstr "Explode Radius: %.f\n"
 
 msgid "Charging"
-msgstr ""
+msgstr "Charging"
 
 #, c-format
 msgid "  Splash Radius: %.f\n"
-msgstr "  "
+msgstr "  Splash Radius: %.f\n"
 
 #, c-format
 msgid "  Burst Size: %d rounds\n"
-msgstr "  "
+msgstr "  Burst Size: %d rounds\n"
 
 #, c-format
 msgid "  Min discharge: %.1f secs\n"
-msgstr "  "
+msgstr "  Min discharge: %.1f secs\n"
 
 #, c-format
 msgid "  Energy: %.f/discharge\n"
-msgstr "  "
+msgstr "  Energy: %.f/discharge\n"
 
 #, c-format
 msgid "Acceleration: %.f\n"
-msgstr ""
+msgstr "Acceleration: %.f\n"
 
 #, c-format
 msgid "Shield Regen Rate: %.f health/sec\n"
-msgstr ""
+msgstr "Shield Regen Rate: %.f health/sec\n"
 
 #, c-format
 msgid "%3d Blocks Selected. Mass: %3.f, Health: %4.f, %4dP"
-msgstr ""
+msgstr "%3d Blocks Selected. Mass: %3.f, Health: %4.f, %4dP"
 
 msgid "MAX"
-msgstr ""
+msgstr "MAX"
 
 msgid "Not enough C to increase P"
-msgstr ""
+msgstr "Not enough C to increase P"
 
 msgid "Click to add to palette"
-msgstr ""
+msgstr "Click to add to palette"
 
 msgid "Click to decrypt"
-msgstr ""
+msgstr "Click to decrypt"
 
 #, c-format
 msgid "%.f Points"
-msgstr ""
+msgstr "%.f Points"
 
 #, c-format
 msgid "Round %d of %d"
-msgstr ""
+msgstr "Round %d of %d"
 
 #, c-format
 msgid "%s Wins!"
-msgstr ""
+msgstr "%s Wins!"
 
 msgid "Ripple Fire alternates weapons to maximize rate of fire"
-msgstr ""
+msgstr "Ripple Fire alternates weapons to maximize rate of fire"
 
 msgid "Forwards"
-msgstr ""
+msgstr "Forwards"
 
 msgid "Stop"
-msgstr ""
+msgstr "Stop"
 
 msgid "View Weapon Bindings"
-msgstr ""
+msgstr "View Weapon Bindings"
 
 msgid "View Upgrades"
-msgstr ""
+msgstr "View Upgrades"
 
 msgid "Toggle auto-zoom"
-msgstr ""
+msgstr "Toggle auto-zoom"
 
 msgid "Zoom Out"
-msgstr ""
+msgstr "Zoom Out"
 
 msgid "Edit Current Ship"
-msgstr ""
+msgstr "Edit Current Ship"
 
 msgid "Rotate Camera Clockwise"
-msgstr ""
+msgstr "Rotate Camera Clockwise"
 
 msgid "Next"
-msgstr ""
+msgstr "Next"
 
 msgid "Skip"
-msgstr ""
+msgstr "Skip"
 
 msgid "Pause"
-msgstr ""
+msgstr "Pause"
 
 msgid "Right Click"
-msgstr ""
+msgstr "Right Click"
 
 msgid "Mirror"
-msgstr ""
+msgstr "Mirror"
 
 msgid "Paste"
-msgstr ""
+msgstr "Paste"
 
 msgid "Scale Up"
-msgstr ""
+msgstr "Scale Up"
 
 msgid "Rotate Counterclockwise"
-msgstr ""
+msgstr "Rotate Counterclockwise"
 
 msgid "Rotate Clockwise"
-msgstr ""
+msgstr "Rotate Clockwise"
 
 msgid "Delete"
-msgstr ""
+msgstr "Delete"
 
 msgid "Steam Profile is Private"
-msgstr ""
+msgstr "Steam Profile is Private"
 
 msgid "Mode"
-msgstr ""
+msgstr "Mode"
 
 #, c-format
 msgid "%d ships"
-msgstr ""
+msgstr "%d ships"
 
 msgid "Thruster"
-msgstr ""
+msgstr "Thruster"
 
 msgid "Provides a large amount of thrust"
-msgstr ""
+msgstr "Provides a large amount of thrust"
 
 msgid "Produces energy to power a ship's weapons. More generators, more energy"
-msgstr ""
+msgstr "Produces energy to power a ship's weapons. More generators, more energy"
 
 msgid "Adapter"
-msgstr ""
+msgstr "Adapter"
 
 msgid "Armor"
-msgstr ""
+msgstr "Armor"
 
 msgid "Swatter"
-msgstr ""
+msgstr "Swatter"
 
 msgid "HC2"
-msgstr ""
+msgstr "HC2"
 
 msgid "MC3"
-msgstr ""
+msgstr "MC3"
 
 msgid "Very high rate of fire, medium range"
-msgstr ""
+msgstr "Very high rate of fire, medium range"
 
 msgid "Shield"
-msgstr ""
+msgstr "Shield"
 
 msgid "HM1"
-msgstr ""
+msgstr "HM1"
 
 msgid "Arkas PRP-2"
-msgstr ""
+msgstr "Arkas PRP-2"
 
 msgid "The instantaneous nature of lasers mean that damage is delivered before all else"
-msgstr ""
+msgstr "The instantaneous nature of lasers mean that damage is delivered before all else"
 
 msgid "Arkas PRP-3"
-msgstr ""
+msgstr "Arkas PRP-3"
 
 msgid "Station Battery"
-msgstr ""
+msgstr "Station Battery"
 
 msgid "Penrose One"
-msgstr ""
+msgstr "Penrose One"
 
 msgid "Medium size"
-msgstr ""
+msgstr "Medium size"
 
 msgid "Large size"
-msgstr ""
+msgstr "Large size"
 
 msgid "Tempest"
-msgstr ""
+msgstr "Tempest"
 
 msgid "Anti-Missile Laser"
-msgstr ""
+msgstr "Anti-Missile Laser"
 
 msgid "Storage Pod"
-msgstr ""
+msgstr "Storage Pod"
 
 msgid "CannonBase"
-msgstr ""
+msgstr "CannonBase"
 
 msgid "RateAmplifier"
-msgstr ""
+msgstr "RateAmplifier"
 
 msgid "Protector"
-msgstr ""
+msgstr "Protector"
 
 msgid "Seed Planter"
-msgstr ""
+msgstr "Seed Planter"
 
 #, c-format
 msgid "Laser %d:%d"
-msgstr ""
+msgstr "Laser %d:%d"
 
 msgid "Sensoria"
-msgstr ""
+msgstr "Sensoria"
 
 msgid "Chitin"
-msgstr ""
+msgstr "Chitin"
 
 msgid "Sting"
-msgstr ""
+msgstr "Sting"
 
 msgid "Harvester"
-msgstr ""
+msgstr "Harvester"
 
 msgid "Increase resource pickup range"
-msgstr ""
+msgstr "Increase resource pickup range"
 
 msgid "Container"
-msgstr ""
+msgstr "Container"
 
 msgid "Increase mobility - mini size"
-msgstr ""
+msgstr "Increase mobility - mini size"
 
 msgid "Increase mobility - medium size"
-msgstr ""
+msgstr "Increase mobility - medium size"
 
 msgid "Increase mobility - asteroid relocation size"
-msgstr ""
+msgstr "Increase mobility - asteroid relocation size"
 
 msgid "Launches intelligent drones armed with plasma cannons"
-msgstr ""
+msgstr "Launches intelligent drones armed with plasma cannons"
 
 msgid "Short range rapid-fire point defense"
-msgstr ""
+msgstr "Short range rapid-fire point defense"
 
 msgid "Torpedo Launcher"
-msgstr ""
+msgstr "Torpedo Launcher"
 
 msgid "Launches high damage unguided torpedoes"
-msgstr ""
+msgstr "Launches high damage unguided torpedoes"
 
 msgid "Extremely high damage but very short range beam weapon"
-msgstr ""
+msgstr "Extremely high damage but very short range beam weapon"
 
 msgid "Blast Pulser"
-msgstr ""
+msgstr "Blast Pulser"
 
 msgid "Plasma Mortar"
-msgstr ""
+msgstr "Plasma Mortar"
 
 msgid "Mine Layer"
-msgstr ""
+msgstr "Mine Layer"
 
 msgid "Very long range, high damage spinal mounted death machine"
-msgstr ""
+msgstr "Very long range, high damage spinal mounted death machine"
 
 msgid "Teleporter"
-msgstr ""
+msgstr "Teleporter"
 
 msgid "Station Shield Projector"
-msgstr ""
+msgstr "Station Shield Projector"
 
 msgid "Mount"
-msgstr ""
+msgstr "Mount"
 
 msgid "Crystallite"
-msgstr ""
+msgstr "Crystallite"
 
 msgid "Booster"
-msgstr ""
+msgstr "Booster"
 
 msgid "Plasma Diffractor"
-msgstr ""
+msgstr "Plasma Diffractor"
 
 msgid "Heavy Bodywork"
-msgstr ""
+msgstr "Heavy Bodywork"
 
 msgid "Maneuver Thruster"
-msgstr ""
+msgstr "Maneuver Thruster"
 
 msgid "Tractor Beam"
-msgstr ""
+msgstr "Tractor Beam"
 
 msgid "Rapid-fire guided missile launcher"
-msgstr ""
+msgstr "Rapid-fire guided missile launcher"
 
 msgid "Annihilator"
-msgstr ""
+msgstr "Annihilator"
 
 msgid "Depot"
-msgstr ""
+msgstr "Depot"
 
 msgid "Armor Spike"
-msgstr ""
+msgstr "Armor Spike"
 
 msgid "Left Bumper"
-msgstr ""
+msgstr "Left Bumper"
 
 msgid "Left Trigger"
-msgstr ""
+msgstr "Left Trigger"
 
 msgid "ENTER/Click"
-msgstr ""
+msgstr "ENTER/Click"
 
 msgid "Control"
-msgstr ""
+msgstr "Control"
 
 msgid "End"
-msgstr ""
+msgstr "End"
 
 msgid "DPad Left"
-msgstr ""
+msgstr "DPad Left"
 
 msgid "Right Axis X"
-msgstr ""
+msgstr "Right Axis X"
 
 msgid "Right Axis Y"
-msgstr ""
+msgstr "Right Axis Y"
 
 msgid "Play Next"
-msgstr ""
+msgstr "Play Next"
 
 msgid "Gamepad A"
-msgstr ""
+msgstr "Gamepad A"
 
 msgid "Gamepad B"
-msgstr ""
+msgstr "Gamepad B"
 
 msgid "Gamepad X"
-msgstr ""
+msgstr "Gamepad X"
 
 msgid "Shft-"
-msgstr ""
+msgstr "Shft-"
 
 msgid "Full"
-msgstr ""
+msgstr "Full"
 
 msgid ""
 "Drop here to remove\n"
 "Click to cancel edit"
-msgstr ""
+msgstr "Drop here to remove\nClick to cancel edit"
 
 msgid "Confirm Exit"
-msgstr ""
+msgstr "Confirm Exit"
 
 msgid "View Instructions ('h' or '?')"
-msgstr ""
+msgstr "View Instructions ('h' or '?')"
 
 msgid "Change editor controls"
-msgstr ""
+msgstr "Change editor controls"
 
 msgid "Test"
-msgstr ""
+msgstr "Test"
 
 msgid "Current Design"
-msgstr ""
+msgstr "Current Design"
 
 msgid "Ally Fleet Control"
-msgstr ""
+msgstr "Ally Fleet Control"
 
 msgid "Player Fleet Control"
-msgstr ""
+msgstr "Player Fleet Control"
 
 #, c-format
 msgid "WARNING Need %dR for metamorphosis"
-msgstr ""
+msgstr "WARNING Need %dR for metamorphosis"
 
 msgid "Drop to copy"
-msgstr ""
+msgstr "Drop to copy"
 
 msgid "Drop to place"
-msgstr ""
+msgstr "Drop to place"
 
 msgid "Damaged Station"
-msgstr ""
+msgstr "Damaged Station"
 
 msgid "Wormhole"
-msgstr ""
+msgstr "Wormhole"
 
 msgid "Agent"
-msgstr ""
+msgstr "Agent"
 
 #, c-format
 msgid "Controlled by %s"
-msgstr ""
+msgstr "Controlled by %s"
 
 msgid "Resources"
-msgstr ""
+msgstr "Resources"
 
 msgid "You"
-msgstr ""
+msgstr "You"
 
 msgid "Friendly"
-msgstr ""
+msgstr "Friendly"
 
 msgid "Defending"
-msgstr ""
+msgstr "Defending"
 
 msgid "TARGET LOCKED"
-msgstr ""
+msgstr "TARGET LOCKED"
 
 msgid "COMMAND MODE"
-msgstr ""
+msgstr "COMMAND MODE"
 
 msgid "Export Failed"
-msgstr ""
+msgstr "Export Failed"
 
 msgid "Importing..."
-msgstr ""
+msgstr "Importing..."
 
 msgid "Respawning..."
-msgstr ""
+msgstr "Respawning..."
 
 msgid "Loading"
-msgstr ""
+msgstr "Loading"
 
 msgid "Starting"
-msgstr ""
+msgstr "Starting"
 
 msgid "What is your name?"
-msgstr ""
+msgstr "What is your name?"
 
 msgid "What is your favorite color?"
-msgstr ""
+msgstr "What is your favorite color?"
 
 msgid "LOCKED"
-msgstr ""
+msgstr "LOCKED"
 
 msgid "Regenerate World"
-msgstr ""
+msgstr "Regenerate World"
 
 msgid "Select Save Slot"
-msgstr ""
+msgstr "Select Save Slot"
 
 msgid "Using System save path"
-msgstr ""
+msgstr "Using System save path"
 
 #, c-format
 msgid ""
 "\n"
 "See %s for modding documentation"
-msgstr ""
+msgstr "\nSee %s for modding documentation"
 
 msgid "Steam Cloud storage is nearly full! Clear save slots to create space"
-msgstr ""
+msgstr "Steam Cloud storage is nearly full! Clear save slots to create space"
 
 msgid "Connecting..."
-msgstr ""
+msgstr "Connecting..."
 
 msgid "Sandbox"
-msgstr ""
+msgstr "Sandbox"
 
 msgid "Stay Here"
-msgstr ""
+msgstr "Stay Here"
 
 msgid "Follow Wormhole"
-msgstr ""
+msgstr "Follow Wormhole"
 
 msgid "Enter username and password"
-msgstr ""
+msgstr "Enter username and password"
 
 msgid "Username (Anisoptera Forums)"
-msgstr ""
+msgstr "Username (Anisoptera Forums)"
 
 msgid "Music Volume"
-msgstr ""
+msgstr "Music Volume"
 
 msgid "Fullscreen Window"
-msgstr ""
+msgstr "Fullscreen Window"
 
 msgid "True Fullscreen"
-msgstr ""
+msgstr "True Fullscreen"
 
 msgid "Frame Rate"
-msgstr ""
+msgstr "Frame Rate"
 
 msgid "VSync"
-msgstr ""
+msgstr "VSync"
 
 msgid "Game simulation step rate"
-msgstr ""
+msgstr "Game simulation step rate"
 
 msgid "Particle Effects"
-msgstr ""
+msgstr "Particle Effects"
 
 msgid "Disabled"
-msgstr ""
+msgstr "Disabled"
 
 msgid "Just Stars"
-msgstr ""
+msgstr "Just Stars"
 
 msgid "HDR Effects"
-msgstr ""
+msgstr "HDR Effects"
 
 msgid "Dithered HDR Effects"
-msgstr ""
+msgstr "Dithered HDR Effects"
 
 msgid "Menus"
-msgstr ""
+msgstr "Menus"
 
 msgid "Bloom"
-msgstr ""
+msgstr "Bloom"
 
 msgid "Line Quality"
-msgstr ""
+msgstr "Line Quality"
 
 msgid "Fastest Smoothed"
-msgstr ""
+msgstr "Fastest Smoothed"
 
 msgid "Reset Defaults"
-msgstr ""
+msgstr "Reset Defaults"
 
 msgid "Point Defense Group - autofire at nearby targets, including missiles"
-msgstr ""
+msgstr "Point Defense Group - autofire at nearby targets, including missiles"
 
 msgid "Blocks"
-msgstr ""
+msgstr "Blocks"
 
 msgid "Spaceships"
-msgstr ""
+msgstr "Spaceships"
 
 msgid "Publish"
-msgstr ""
+msgstr "Publish"
 
 msgid "Creating Workshop Item..."
-msgstr ""
+msgstr "Creating Workshop Item..."
 
 msgid "Gamepad Activated"
-msgstr ""
+msgstr "Gamepad Activated"
 
 msgid "Disabled Auto Aim"
-msgstr ""
+msgstr "Disabled Auto Aim"
 
 msgid "Default HUD"
-msgstr ""
+msgstr "Default HUD"
 
 msgid "Disabled HUD"
-msgstr ""
+msgstr "Disabled HUD"
 
 #, c-format
 msgid "Need %d additional C to recruit"
-msgstr ""
+msgstr "Need %d additional C to recruit"
 
 msgid "No Teleporter on Ship"
-msgstr ""
+msgstr "No Teleporter on Ship"
 
 #, c-format
 msgid "Reactivated %s"
-msgstr ""
+msgstr "Reactivated %s"
 
 msgid "Transfer Resources"
-msgstr ""
+msgstr "Transfer Resources"
 
 msgid "Current blueprint uses encrypted blocks"
-msgstr ""
+msgstr "Current blueprint uses encrypted blocks"
 
 #, c-format
 msgid "No current blueprint - use '%s'"
-msgstr ""
+msgstr "No current blueprint - use '%s'"
 
 msgid "Metamorphosizing ship"
-msgstr ""
+msgstr "Metamorphosizing ship"
 
 msgid "Mine"
-msgstr ""
+msgstr "Mine"
 
 msgid "Command Module\n"
-msgstr ""
+msgstr "Command Module\n"
 
 #, c-format
 msgid "R Collection Range: %.f\n"
-msgstr ""
+msgstr "R Collection Range: %.f\n"
 
 #, c-format
 msgid "Teleporter Energy: %.f Energy/Mass\n"
-msgstr ""
+msgstr "Teleporter Energy: %.f Energy/Mass\n"
 
 #, c-format
 msgid "R Capacity: %.f\n"
-msgstr ""
+msgstr "R Capacity: %.f\n"
 
 msgid "Auto-firing"
-msgstr ""
+msgstr "Auto-firing"
 
 #, c-format
 msgid "  Energy: %.f/shot\n"
-msgstr "  "
+msgstr "  Energy: %.f/shot\n"
 
 #, fuzzy, c-format
 msgid "  Charge time: %.1f secs\n"
-msgstr "  "
+msgstr "  Charge time: %.1f secs\n"
 
 msgid "Rate"
-msgstr ""
+msgstr "Rate"
 
 msgid "Velocity"
-msgstr ""
+msgstr "Velocity"
 
 msgid "/shot"
-msgstr ""
+msgstr "/shot"
 
 #, c-format
 msgid "Turret Speed: %.f degrees/sec\n"
-msgstr ""
+msgstr "Turret Speed: %.f degrees/sec\n"
 
 #, c-format
 msgid "Torque: %.fK\n"
-msgstr ""
+msgstr "Torque: %.fK\n"
 
 #, c-format
 msgid "Shield Health: %.f\n"
-msgstr ""
+msgstr "Shield Health: %.f\n"
 
 #, c-format
 msgid "Shield Regen Delay: %.f secs\n"
-msgstr ""
+msgstr "Shield Regen Delay: %.f secs\n"
 
 #, c-format
 msgid "Mass: %.f\n"
-msgstr ""
+msgstr "Mass: %.f\n"
 
 #, c-format
 msgid "Regrowth: %.1f secs\n"
-msgstr ""
+msgstr "Regrowth: %.1f secs\n"
 
 msgid "Tutorial"
-msgstr ""
+msgstr "Tutorial"
 
 msgid "^6R^7 Capacity Full"
-msgstr ""
+msgstr "^6R^7 Capacity Full"
 
 msgid "Press '$transferRes' to trade ^6R^7 for ^3C^7"
-msgstr ""
+msgstr "Press '$transferRes' to trade ^6R^7 for ^3C^7"
 
 msgid "Activating..."
-msgstr ""
+msgstr "Activating..."
 
 msgid "Block already in palette"
-msgstr ""
+msgstr "Block already in palette"
 
 msgid "Databank"
-msgstr ""
+msgstr "Databank"
 
 msgid ""
 "\n"
 "Drag to rearrange"
-msgstr ""
+msgstr "\nDrag to rearrange"
 
 msgid ""
 "Empty palette slot\n"
 "Drag from databank to fill"
-msgstr ""
+msgstr "Empty palette slot\nDrag from databank to fill"
 
 msgid "Profile"
-msgstr ""
+msgstr "Profile"
 
 msgid "PAUSED"
-msgstr ""
+msgstr "PAUSED"
 
 #, c-format
 msgid "%s Wins Round %d!"
-msgstr ""
+msgstr "%s Wins Round %d!"
 
 msgid "No comparable ships"
-msgstr ""
+msgstr "No comparable ships"
 
 msgid "Fire all weapons in group simultaneously"
-msgstr ""
+msgstr "Fire all weapons in group simultaneously"
 
 #, c-format
 msgid "Double click to select all %ss"
-msgstr ""
+msgstr "Double click to select all %ss"
 
 msgid "Right"
-msgstr ""
+msgstr "Right"
 
 msgid "Fire Primary"
-msgstr ""
+msgstr "Fire Primary"
 
 msgid "Strafe Right"
-msgstr ""
+msgstr "Strafe Right"
 
 msgid "View Map"
-msgstr ""
+msgstr "View Map"
 
 msgid "Toggle auto-aim"
-msgstr ""
+msgstr "Toggle auto-aim"
 
 msgid "Cycle Fleet AI"
-msgstr ""
+msgstr "Cycle Fleet AI"
 
 msgid "Zoom in"
-msgstr ""
+msgstr "Zoom in"
 
 msgid "View Ships"
-msgstr ""
+msgstr "View Ships"
 
 msgid "Edit Child Ship"
-msgstr ""
+msgstr "Edit Child Ship"
 
 msgid "Rotate Camera Counterclockwise"
-msgstr ""
+msgstr "Rotate Camera Counterclockwise"
 
 msgid "Console"
-msgstr ""
+msgstr "Console"
 
 msgid "Faster"
-msgstr ""
+msgstr "Faster"
 
 msgid "Slower"
-msgstr ""
+msgstr "Slower"
 
 msgid "Undo"
-msgstr ""
+msgstr "Undo"
 
 msgid "Redo"
-msgstr ""
+msgstr "Redo"
 
 msgid "Copy"
-msgstr ""
+msgstr "Copy"
 
 msgid "Select All"
-msgstr ""
+msgstr "Select All"
 
 msgid "Pool"
-msgstr ""
+msgstr "Pool"
 
 msgid "Clear"
-msgstr ""
+msgstr "Clear"
 
 msgid "Imported Ships"
-msgstr ""
+msgstr "Imported Ships"
 
 msgid "1 ship"
-msgstr ""
+msgstr "1 ship"
 
 msgid "Team"
-msgstr ""
+msgstr "Team"
 
 msgid "Steam Friends Unavailable: "
-msgstr " "
+msgstr "Steam Friends Unavailable: "
 
 msgid "Logging in..."
-msgstr ""
+msgstr "Logging in..."
 
 msgid "Error: "
-msgstr " "
+msgstr "Error: "
 
 msgid "Resource Containment Unit"
-msgstr ""
+msgstr "Resource Containment Unit"
 
 msgid "Resource storage unit"
-msgstr ""
+msgstr "Resource storage unit"
 
 msgid "Provides a medium amount of thrust"
-msgstr ""
+msgstr "Provides a medium amount of thrust"
 
 msgid "Generator"
-msgstr ""
+msgstr "Generator"
 
 msgid "A basic building block"
-msgstr ""
+msgstr "A basic building block"
 
 msgid "Extra durable"
-msgstr ""
+msgstr "Extra durable"
 
 msgid "units"
-msgstr ""
+msgstr "units"
 
 msgid "Hull"
-msgstr ""
+msgstr "Hull"
 
 msgid "Fires numerous but slow explosive rounds, akin to a grenade launcher"
-msgstr ""
+msgstr "Fires numerous but slow explosive rounds, akin to a grenade launcher"
 
 msgid "Minigun"
-msgstr ""
+msgstr "Minigun"
 
 msgid "Unmatched in range, this sniper rifle will always give you the first shot"
-msgstr ""
+msgstr "Unmatched in range, this sniper rifle will always give you the first shot"
 
 msgid "Phalanx"
-msgstr ""
+msgstr "Phalanx"
 
 msgid "MLS Avenger"
-msgstr ""
+msgstr "MLS Avenger"
 
 msgid "Longbow"
-msgstr ""
+msgstr "Longbow"
 
 msgid "ZLM Sparrow"
-msgstr ""
+msgstr "ZLM Sparrow"
 
 msgid "Who doesn't like showering a target in missiles?"
-msgstr ""
+msgstr "Who doesn't like showering a target in missiles?"
 
 msgid "This small laser cannon is capable of taking out small targets in seconds"
-msgstr ""
+msgstr "This small laser cannon is capable of taking out small targets in seconds"
 
 msgid "When you've got a lot of hardware to protect, look no further"
-msgstr ""
+msgstr "When you've got a lot of hardware to protect, look no further"
 
 msgid "Factory"
-msgstr ""
+msgstr "Factory"
 
 msgid "Small size"
-msgstr ""
+msgstr "Small size"
 
 msgid "RangeAmplifier"
-msgstr ""
+msgstr "RangeAmplifier"
 
 msgid "Increases range and projectile speed of attached weapon"
-msgstr ""
+msgstr "Increases range and projectile speed of attached weapon"
 
 msgid "Increases rate of fire of attached weapon"
-msgstr ""
+msgstr "Increases rate of fire of attached weapon"
 
 msgid "Solar Array"
-msgstr ""
+msgstr "Solar Array"
 
 msgid "Crop Stem"
-msgstr ""
+msgstr "Crop Stem"
 
 msgid "Root"
-msgstr ""
+msgstr "Root"
 
 msgid "Power your weapons"
-msgstr ""
+msgstr "Power your weapons"
 
 msgid "Transformer"
-msgstr ""
+msgstr "Transformer"
 
 msgid "Proton Beam"
-msgstr ""
+msgstr "Proton Beam"
 
 msgid "Proton Sword"
-msgstr ""
+msgstr "Proton Sword"
 
 msgid "Unidirectional projectile emitter"
-msgstr ""
+msgstr "Unidirectional projectile emitter"
 
 msgid "Burst Laser"
-msgstr ""
+msgstr "Burst Laser"
 
 msgid "High damage, large splash radius dumb mines"
-msgstr ""
+msgstr "High damage, large splash radius dumb mines"
 
 msgid "Shield Projector"
-msgstr ""
+msgstr "Shield Projector"
 
 msgid "Wall"
-msgstr ""
+msgstr "Wall"
 
 msgid "Corner"
-msgstr ""
+msgstr "Corner"
 
 msgid "Plasma Condenser"
-msgstr ""
+msgstr "Plasma Condenser"
 
 msgid "Antimatter Missle Launcher"
-msgstr ""
+msgstr "Antimatter Missle Launcher"
 
 msgid "Impulse Thruster"
-msgstr ""
+msgstr "Impulse Thruster"
 
 msgid "High impulse thruster"
-msgstr ""
+msgstr "High impulse thruster"
 
 msgid "Shard Launcher"
-msgstr ""
+msgstr "Shard Launcher"
 
 msgid "PD Subsystem"
-msgstr ""
+msgstr "PD Subsystem"
 
 msgid "Quantum Doom Beam"
-msgstr ""
+msgstr "Quantum Doom Beam"
 
 msgid "Generator/Storage"
-msgstr ""
+msgstr "Generator/Storage"
 
 msgid "Polyp"
-msgstr ""
+msgstr "Polyp"
 
 msgid "Light Spine"
-msgstr ""
+msgstr "Light Spine"
 
 msgid "Devastating pulse weapon"
-msgstr ""
+msgstr "Devastating pulse weapon"
 
 msgid "Obliterator"
-msgstr ""
+msgstr "Obliterator"
 
 msgid "Heavily armored death launcher"
-msgstr ""
+msgstr "Heavily armored death launcher"
 
 msgid "Right Bumper"
-msgstr ""
+msgstr "Right Bumper"
 
 msgid "ENTER"
-msgstr ""
+msgstr "ENTER"
 
 msgid "Middle Mouse"
-msgstr ""
+msgstr "Middle Mouse"
 
 msgid "Space"
-msgstr ""
+msgstr "Space"
 
 msgid "Backspace"
-msgstr ""
+msgstr "Backspace"
 
 msgid "Escape"
-msgstr ""
+msgstr "Escape"
 
 msgid "DPad Up"
-msgstr ""
+msgstr "DPad Up"
 
 msgid "DPad Down"
-msgstr ""
+msgstr "DPad Down"
 
 msgid "Left Axis X"
-msgstr ""
+msgstr "Left Axis X"
 
 msgid "Left Stick Left"
-msgstr ""
+msgstr "Left Stick Left"
 
 msgid "Left Stick Right"
-msgstr ""
+msgstr "Left Stick Right"
 
 msgid "Right Stick Down"
-msgstr ""
+msgstr "Right Stick Down"
 
 msgid "Keypad 9"
-msgstr ""
+msgstr "Keypad 9"
 
 msgid "Menu"
-msgstr ""
+msgstr "Menu"
 
 msgid "Play Prev"
-msgstr ""
+msgstr "Play Prev"
 
 msgid "Play"
-msgstr ""
+msgstr "Play"
 
 msgid "Mute"
-msgstr ""
+msgstr "Mute"
 
 msgid "Alt-"
-msgstr ""
+msgstr "Alt-"
 
 msgid "Low"
-msgstr ""
+msgstr "Low"
 
 msgid "Confirm"
-msgstr ""
+msgstr "Confirm"
 
 msgid "Terran"
-msgstr ""
+msgstr "Terran"
 
 msgid "Borg"
-msgstr ""
+msgstr "Borg"
 
 msgid "Spikey Plant"
-msgstr ""
+msgstr "Spikey Plant"
 
 msgid "Sniping"
-msgstr ""
+msgstr "Sniping"
 
 msgid "Upgrade"
-msgstr ""
+msgstr "Upgrade"
 
 msgid "Confirm Save"
-msgstr ""
+msgstr "Confirm Save"
 
 msgid "Controls"
-msgstr ""
+msgstr "Controls"
 
 msgid "Import design from a file"
-msgstr ""
+msgstr "Import design from a file"
 
 msgid "Automatically test ship against similar ships"
-msgstr ""
+msgstr "Automatically test ship against similar ships"
 
 msgid "No Factory Attached"
-msgstr ""
+msgstr "No Factory Attached"
 
 msgid "Uses encrypted blocks"
-msgstr ""
+msgstr "Uses encrypted blocks"
 
 msgid "Unsafe Spawner"
-msgstr ""
+msgstr "Unsafe Spawner"
 
 msgid "Activated Spawner"
-msgstr ""
+msgstr "Activated Spawner"
 
 #, c-format
 msgid "By %s"
-msgstr ""
+msgstr "By %s"
 
 msgid "Unexplored"
-msgstr ""
+msgstr "Unexplored"
 
 msgid "Following"
-msgstr ""
+msgstr "Following"
 
 msgid "Attacking"
-msgstr ""
+msgstr "Attacking"
 
 #, c-format
 msgid "%d ships, "
-msgstr " "
+msgstr "%d ships, "
 
 msgid "Select fleet"
-msgstr ""
+msgstr "Select fleet"
 
 #, c-format
 msgid "Exported to '%s': %s"
-msgstr ""
+msgstr "Exported to '%s': %s"
 
 msgid "New wormhole detected"
-msgstr ""
+msgstr "New wormhole detected"
 
 msgid "Left Stick"
-msgstr ""
+msgstr "Left Stick"
 
 msgid "Mouse / WASD"
-msgstr ""
+msgstr "Mouse / WASD"
 
 msgid "Loading regions"
-msgstr ""
+msgstr "Loading regions"
 
 msgid "Finishing"
-msgstr ""
+msgstr "Finishing"
 
 msgid "Downloading"
-msgstr ""
+msgstr "Downloading"
 
 msgid "Quit"
-msgstr ""
+msgstr "Quit"
 
 msgid "Paused"
-msgstr ""
+msgstr "Paused"
 
 msgid "Saving..."
-msgstr ""
+msgstr "Saving..."
 
 msgid "Launch"
-msgstr ""
+msgstr "Launch"
 
 msgid "Warning: Hard mode"
-msgstr ""
+msgstr "Warning: Hard mode"
 
 msgid " fleet only"
-msgstr " "
+msgstr " fleet only"
 
 msgid "Right click slot for options"
-msgstr ""
+msgstr "Right click slot for options"
 
 msgid "Using Steam Cloud saves"
-msgstr ""
+msgstr "Using Steam Cloud saves"
 
 msgid ""
 "\n"
 "Edit blocks.lua in that directory to change block properties"
-msgstr ""
+msgstr "\nEdit blocks.lua in that directory to change block properties"
 
 msgid "Register"
-msgstr ""
+msgstr "Register"
 
 msgid "Clearing..."
-msgstr ""
+msgstr "Clearing..."
 
 msgid "Compacting Saves..."
-msgstr ""
+msgstr "Compacting Saves..."
 
 msgid "Start"
-msgstr ""
+msgstr "Start"
 
 msgid "Demo"
-msgstr ""
+msgstr "Demo"
 
 msgid "Error: No unique blueprints in fleet"
-msgstr ""
+msgstr "Error: No unique blueprints in fleet"
 
 msgid "Uploading..."
-msgstr ""
+msgstr "Uploading..."
 
 msgid "Password"
-msgstr ""
+msgstr "Password"
 
 msgid "Toggle fullscreen"
-msgstr ""
+msgstr "Toggle fullscreen"
 
 msgid "Physics Updates Per Second"
-msgstr ""
+msgstr "Physics Updates Per Second"
 
 msgid "Background Graphics"
-msgstr ""
+msgstr "Background Graphics"
 
 msgid "Aliased"
-msgstr ""
+msgstr "Aliased"
 
 msgid "Additional Ship Design"
-msgstr ""
+msgstr "Additional Ship Design"
 
 msgid "Alpha Testers"
-msgstr ""
+msgstr "Alpha Testers"
 
 msgid "QA"
-msgstr ""
+msgstr "QA"
 
 msgid "Special Thanks"
-msgstr ""
+msgstr "Special Thanks"
 
 msgid "Software and Assets"
-msgstr ""
+msgstr "Software and Assets"
 
 msgid "ESC"
-msgstr ""
+msgstr "ESC"
 
 msgid "Press any other key to bind"
-msgstr ""
+msgstr "Press any other key to bind"
 
 msgid "Menu Mouse Style"
-msgstr ""
+msgstr "Menu Mouse Style"
 
 msgid "Gamepad Type"
-msgstr ""
+msgstr "Gamepad Type"
 
 msgid "Gamepad"
-msgstr ""
+msgstr "Gamepad"
 
 #, c-format
 msgid "%s to continue"
-msgstr ""
+msgstr "%s to continue"
 
 msgid "Editor"
-msgstr ""
+msgstr "Editor"
 
 msgid "<Unbound>"
-msgstr ""
+msgstr "<Unbound>"
 
 msgid "Primary Group"
-msgstr ""
+msgstr "Primary Group"
 
 msgid "Point Defense"
-msgstr ""
+msgstr "Point Defense"
 
 msgid "More Spaceships"
-msgstr ""
+msgstr "More Spaceships"
 
 msgid "LOADING"
-msgstr ""
+msgstr "LOADING"
 
 msgid "Restart game to apply mod changes"
-msgstr ""
+msgstr "Restart game to apply mod changes"
 
 #, c-format
 msgid "Released %s"
-msgstr ""
+msgstr "Released %s"
 
 msgid "Enabled Auto Aim"
-msgstr ""
+msgstr "Enabled Auto Aim"
 
 msgid "Cursor Rotates Ship"
-msgstr ""
+msgstr "Cursor Rotates Ship"
 
 msgid "Absolute Controls, Cursor Rotates"
-msgstr ""
+msgstr "Absolute Controls, Cursor Rotates"
 
 msgid "Keyboard Rotates Ship"
-msgstr ""
+msgstr "Keyboard Rotates Ship"
 
 msgid "Ship Follows Cursor"
-msgstr ""
+msgstr "Ship Follows Cursor"
 
 #, c-format
 msgid "Recruited %s"
-msgstr ""
+msgstr "Recruited %s"
 
 msgid "Not Enough Power"
-msgstr ""
+msgstr "Not Enough Power"
 
 msgid "Current blueprint is locked"
-msgstr ""
+msgstr "Current blueprint is locked"
 
 msgid "No space around factory block to spawn"
-msgstr ""
+msgstr "No space around factory block to spawn"
 
 msgid "Explored new sectors"
-msgstr ""
+msgstr "Explored new sectors"
 
 msgid "Missile"
-msgstr ""
+msgstr "Missile"
 
 msgid "Torpedo"
-msgstr ""
+msgstr "Torpedo"
 
 #, c-format
 msgid "Scale %d\n"
-msgstr ""
+msgstr "Scale %d\n"
 
 msgid "Resource Storage Unit\n"
-msgstr ""
+msgstr "Resource Storage Unit\n"
 
 msgid "Supports vegetation\n"
-msgstr ""
+msgstr "Supports vegetation\n"
 
 msgid "Seed\n"
-msgstr ""
+msgstr "Seed\n"
 
 #, c-format
 msgid "R Generation: %.1f/sec\n"
-msgstr ""
+msgstr "R Generation: %.1f/sec\n"
 
 #, c-format
 msgid "Melee Damage Multiplier: %.f%%\n"
-msgstr ""
+msgstr "Melee Damage Multiplier: %.f%%\n"
 
 #, c-format
 msgid "Explode Damage: %.f\n"
-msgstr ""
+msgstr "Explode Damage: %.f\n"
 
 msgid "Projectile Weapon:\n"
-msgstr ""
+msgstr "Projectile Weapon:\n"
 
 #, c-format
 msgid "  Range: %.f\n"
-msgstr "  "
+msgstr "  Range: %.f\n"
 
 #, c-format
 msgid "  Spread: +-%.2f degrees\n"
-msgstr "  "
+msgstr "  Spread: +-%.2f degrees\n"
 
 msgid "Weapon Booster:\n"
-msgstr ""
+msgstr "Weapon Booster:\n"
 
 msgid "Range"
-msgstr ""
+msgstr "Range"
 
 msgid "Explode Radius"
-msgstr ""
+msgstr "Explode Radius"
 
 #, c-format
 msgid "Regen Rate: %.1f %s/sec\n"
-msgstr ""
+msgstr "Regen Rate: %.1f %s/sec\n"
 
 #, c-format
 msgid "Regen Energy: %.f/%s\n"
-msgstr ""
+msgstr "Regen Energy: %.f/%s\n"
 
 msgid " Stats:\n"
-msgstr " "
+msgstr " Stats:\n"
 
 #, c-format
 msgid "Thrust: %.fK\n"
-msgstr ""
+msgstr "Thrust: %.fK\n"
 
 #, c-format
 msgid "Shield Radius: %.f\n"
-msgstr ""
+msgstr "Shield Radius: %.f\n"
 
 #, c-format
 msgid "Energy Stored: %.f\n"
-msgstr ""
+msgstr "Energy Stored: %.f\n"
 
 #, c-format
 msgid "Health: %.f\n"
-msgstr ""
+msgstr "Health: %.f\n"
 
 msgid "Not enough C to decrypt"
-msgstr ""
+msgstr "Not enough C to decrypt"
 
 msgid ""
 "Palette Block\n"
 "Drag to rearrange"
-msgstr ""
+msgstr "Palette Block\nDrag to rearrange"
 
 msgid "Maximum P reached"
-msgstr ""
+msgstr "Maximum P reached"
 
 msgid "Permanently increase P"
-msgstr ""
+msgstr "Permanently increase P"
 
 msgid "Map"
-msgstr ""
+msgstr "Map"
 
 #, c-format
 msgid "%d/%d ships"
-msgstr ""
+msgstr "%d/%d ships"
 
 msgid "Ripple Fire"
-msgstr ""
+msgstr "Ripple Fire"
 
 msgid "Fire All"
-msgstr ""
+msgstr "Fire All"
 
 msgid "Backwards"
-msgstr ""
+msgstr "Backwards"
 
 msgid "Left"
-msgstr ""
+msgstr "Left"
 
 msgid "Fire Tertiary"
-msgstr ""
+msgstr "Fire Tertiary"
 
 msgid "Strafe Left"
-msgstr ""
+msgstr "Strafe Left"
 
 msgid "Lock Target"
-msgstr ""
+msgstr "Lock Target"
 
 msgid "Spawn Child"
-msgstr ""
+msgstr "Spawn Child"
 
 msgid "Cycle controls"
-msgstr ""
+msgstr "Cycle controls"
 
 msgid "Toggle minimal HUD"
-msgstr ""
+msgstr "Toggle minimal HUD"
 
 msgid "Cut"
-msgstr ""
+msgstr "Cut"
 
 msgid "Scale Down"
-msgstr ""
+msgstr "Scale Down"
 
 #, c-format
 msgid "Imported Fleet %s"
-msgstr ""
+msgstr "Imported Fleet %s"
 
 msgid "Contestants"
-msgstr ""
+msgstr "Contestants"
 
 msgid "Anti-ship shotgun"
-msgstr ""
+msgstr "Anti-ship shotgun"
 
 msgid "EXR-1 Railgun"
-msgstr ""
+msgstr "EXR-1 Railgun"
 
 msgid "MLS Anti-Missile"
-msgstr ""
+msgstr "MLS Anti-Missile"
 
 msgid "Close in weapon system"
-msgstr ""
+msgstr "Close in weapon system"
 
 msgid "Low strength and limited area is balanced by a fast recharge time"
-msgstr ""
+msgstr "Low strength and limited area is balanced by a fast recharge time"
 
 msgid "MM1"
-msgstr ""
+msgstr "MM1"
 
 msgid "Arkas PRP-1"
-msgstr ""
+msgstr "Arkas PRP-1"
 
 msgid "Need to burn through a battleship without breaking a sweat? Try this"
-msgstr ""
+msgstr "Need to burn through a battleship without breaking a sweat? Try this"
 
 msgid "This mid-size generator is versatile and effective"
-msgstr ""
+msgstr "This mid-size generator is versatile and effective"
 
 msgid "Power Distributor"
-msgstr ""
+msgstr "Power Distributor"
 
 msgid "Nexus"
-msgstr ""
+msgstr "Nexus"
 
 msgid "Penrose Zero"
-msgstr ""
+msgstr "Penrose Zero"
 
 msgid "Blaster"
-msgstr ""
+msgstr "Blaster"
 
 msgid "CommandControl"
-msgstr ""
+msgstr "CommandControl"
 
 msgid "Modular plasma cannon"
-msgstr ""
+msgstr "Modular plasma cannon"
 
 msgid "DamageAmplifier"
-msgstr ""
+msgstr "DamageAmplifier"
 
 msgid "Increases damage of attached weapon"
-msgstr ""
+msgstr "Increases damage of attached weapon"
 
 msgid "Significantly increases damage of attached weapon"
-msgstr ""
+msgstr "Significantly increases damage of attached weapon"
 
 msgid "VelocityAmplifier"
-msgstr ""
+msgstr "VelocityAmplifier"
 
 msgid "Significantly increases projectile speed of attached weapon"
-msgstr ""
+msgstr "Significantly increases projectile speed of attached weapon"
 
 msgid "Rocket Drone Launcher"
-msgstr ""
+msgstr "Rocket Drone Launcher"
 
 msgid "Crop Seed"
-msgstr ""
+msgstr "Crop Seed"
 
 msgid "Command"
-msgstr ""
+msgstr "Command"
 
 msgid "Subcommand"
-msgstr ""
+msgstr "Subcommand"
 
 msgid "Station Command"
-msgstr ""
+msgstr "Station Command"
 
 msgid "Power your weapons (more)"
-msgstr ""
+msgstr "Power your weapons (more)"
 
 msgid "Inexpensive short range laser, deadly in quantity"
-msgstr ""
+msgstr "Inexpensive short range laser, deadly in quantity"
 
 msgid "Plasma Cannon"
-msgstr ""
+msgstr "Plasma Cannon"
 
 msgid "Rapid-fire directional plasma weapon"
-msgstr ""
+msgstr "Rapid-fire directional plasma weapon"
 
 msgid "Railgun"
-msgstr ""
+msgstr "Railgun"
 
 msgid "Very long range turreted sniper weapon"
-msgstr ""
+msgstr "Very long range turreted sniper weapon"
 
 msgid "Very high rate of fire short range plasma weapon"
-msgstr ""
+msgstr "Very high rate of fire short range plasma weapon"
 
 msgid "Compact charging beam weapon"
-msgstr ""
+msgstr "Compact charging beam weapon"
 
 msgid "Powerful charging splash damage weapon"
-msgstr ""
+msgstr "Powerful charging splash damage weapon"
 
 msgid "Absorbs damage - essential for capital ships"
-msgstr ""
+msgstr "Absorbs damage - essential for capital ships"
 
 msgid "Rocket Launcher"
-msgstr ""
+msgstr "Rocket Launcher"
 
 msgid "Unobtanium Strut"
-msgstr ""
+msgstr "Unobtanium Strut"
 
 msgid "Extender"
-msgstr ""
+msgstr "Extender"
 
 msgid "Massive"
-msgstr ""
+msgstr "Massive"
 
 msgid "Defense Pulser"
-msgstr ""
+msgstr "Defense Pulser"
 
 msgid "Power Conduit"
-msgstr ""
+msgstr "Power Conduit"
 
 msgid "Light Bodywork"
-msgstr ""
+msgstr "Light Bodywork"
 
 msgid "Launches explosive spinners"
-msgstr ""
+msgstr "Launches explosive spinners"
 
 msgid "Pod Command"
-msgstr ""
+msgstr "Pod Command"
 
 msgid "Thistle"
-msgstr ""
+msgstr "Thistle"
 
 msgid "Gauss Beam"
-msgstr ""
+msgstr "Gauss Beam"
 
 msgid "Plasma Bolt"
-msgstr ""
+msgstr "Plasma Bolt"
 
 msgid "Slow but powerful gun turret"
-msgstr ""
+msgstr "Slow but powerful gun turret"
 
 msgid "Obscenely powerful death laser"
-msgstr ""
+msgstr "Obscenely powerful death laser"
 
 msgid "Reactor"
-msgstr ""
+msgstr "Reactor"
 
 msgid "Armor Plate"
-msgstr ""
+msgstr "Armor Plate"
 
 msgid "Auxiliary hull"
-msgstr ""
+msgstr "Auxiliary hull"
 
 msgid "Right Trigger"
-msgstr ""
+msgstr "Right Trigger"
 
 msgid "Share"
-msgstr ""
+msgstr "Share"
 
 msgid "Mouse4"
-msgstr ""
+msgstr "Mouse4"
 
 msgid "Mouse5"
-msgstr ""
+msgstr "Mouse5"
 
 msgid "Mouse6"
-msgstr ""
+msgstr "Mouse6"
 
 msgid "Up"
-msgstr ""
+msgstr "Up"
 
 msgid "Down"
-msgstr ""
+msgstr "Down"
 
 msgid "Shift"
-msgstr ""
+msgstr "Shift"
 
 msgid "Enter"
-msgstr ""
+msgstr "Enter"
 
 msgid "Gamepad Start"
-msgstr ""
+msgstr "Gamepad Start"
 
 msgid "Right Stick"
-msgstr ""
+msgstr "Right Stick"
 
 msgid "Left Axis Y"
-msgstr ""
+msgstr "Left Axis Y"
 
 msgid "Left Stick Down"
-msgstr ""
+msgstr "Left Stick Down"
 
 msgid "Right Stick Left"
-msgstr ""
+msgstr "Right Stick Left"
 
 msgid "Right Stick Right"
-msgstr ""
+msgstr "Right Stick Right"
 
 msgid "Keypad 0"
-msgstr ""
+msgstr "Keypad 0"
 
 msgid "Keypad 1"
-msgstr ""
+msgstr "Keypad 1"
 
 msgid "Keypad 2"
-msgstr ""
+msgstr "Keypad 2"
 
 msgid "Keypad 3"
-msgstr ""
+msgstr "Keypad 3"
 
 msgid "Keypad 4"
-msgstr ""
+msgstr "Keypad 4"
 
 msgid "Keypad 5"
-msgstr ""
+msgstr "Keypad 5"
 
 msgid "Keypad 6"
-msgstr ""
+msgstr "Keypad 6"
 
 msgid "Keypad 7"
-msgstr ""
+msgstr "Keypad 7"
 
 msgid "Keypad 8"
-msgstr ""
+msgstr "Keypad 8"
 
 msgid "Volume Up"
-msgstr ""
+msgstr "Volume Up"
 
 msgid "Gamepad Y"
-msgstr ""
+msgstr "Gamepad Y"
 
 msgid "Off"
-msgstr ""
+msgstr "Off"
 
 msgid "On"
-msgstr ""
+msgstr "On"
 
 msgid "Message"
-msgstr ""
+msgstr "Message"
 
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 msgid "Tinkrell"
-msgstr ""
+msgstr "Tinkrell"
 
 msgid "Bee"
-msgstr ""
+msgstr "Bee"
 
 msgid "Sentinel"
-msgstr ""
+msgstr "Sentinel"
 
 msgid "Import Failed: wrong command block"
-msgstr ""
+msgstr "Import Failed: wrong command block"
 
 msgid "Fire Secondary"
-msgstr ""
+msgstr "Fire Secondary"
 
 msgid "Dodging"
-msgstr ""
+msgstr "Dodging"
 
 msgid "Orders"
-msgstr ""
+msgstr "Orders"
 
 msgid "ERROR"
-msgstr ""
+msgstr "ERROR"
 
 msgid "missiles"
-msgstr ""
+msgstr "missiles"
 
 msgid "torpedoes"
-msgstr ""
+msgstr "torpedoes"
 
 msgid "mines"
-msgstr ""
+msgstr "mines"
 
 msgid "seeds"
-msgstr ""
+msgstr "seeds"
 
 msgid "drones"
-msgstr ""
+msgstr "drones"
 
 msgid "Sort"
-msgstr ""
+msgstr "Sort"
 
 msgid "P Ascending"
-msgstr ""
+msgstr "P Ascending"
 
 msgid "P Descending"
-msgstr ""
+msgstr "P Descending"
 
 msgid "Name"
-msgstr ""
+msgstr "Name"
 
 msgid "Mass Ascending"
-msgstr ""
+msgstr "Mass Ascending"
 
 msgid "Mass Descending"
-msgstr ""
+msgstr "Mass Descending"
 
 msgid "Developer, (c) 2013-2016"
-msgstr ""
+msgstr "Developer, (c) 2013-2016"
 
 #, c-format
 msgid "  Healing: %.f/discharge\n"
-msgstr "  "
+msgstr "  Healing: %.f/discharge\n"
 
 #, c-format
 msgid "  Tractor Force: %.f/discharge\n"
-msgstr "  "
+msgstr "  Tractor Force: %.f/discharge\n"
 
 #, c-format
 msgid "  Healing: %.f/sec\n"
-msgstr "  "
+msgstr "  Healing: %.f/sec\n"
 
 #, c-format
 msgid "  Tractor Force: %.f/sec\n"
-msgstr "  "
+msgstr "  Tractor Force: %.f/sec\n"
 
 msgid "Arena Border"
-msgstr ""
+msgstr "Arena Border"
 
 msgid "Arena Size"
-msgstr ""
+msgstr "Arena Size"
 
 msgid "Asteroid Fill"
-msgstr ""
+msgstr "Asteroid Fill"
 
 msgid "Asteroid Size (blocks)"
-msgstr ""
+msgstr "Asteroid Size (blocks)"
 
 msgid "Plants"
-msgstr ""
+msgstr "Plants"
 
 msgid "Green"
-msgstr ""
+msgstr "Green"
 
 msgid "Blue"
-msgstr ""
+msgstr "Blue"
 
 msgid "Pink"
-msgstr ""
+msgstr "Pink"
 
 msgid "Spikey"
-msgstr ""
+msgstr "Spikey"
 
 msgid "Time Limit"
-msgstr ""
+msgstr "Time Limit"
 
 msgid "Rounds"
-msgstr ""
+msgstr "Rounds"
 
 msgid "Single Elimination"
-msgstr ""
+msgstr "Single Elimination"
 
 msgid "Double Elimination"
-msgstr ""
+msgstr "Double Elimination"
 
 msgid "Countdown"
-msgstr ""
+msgstr "Countdown"
 
 #, c-format
 msgid "%d Points"
-msgstr ""
+msgstr "%d Points"
 
 msgid "Wins!"
-msgstr ""
+msgstr "Wins!"
 
 #, c-format
 msgid "Wins Round %d!"
-msgstr ""
+msgstr "Wins Round %d!"
 
 msgid "AI Behavior"
-msgstr ""
+msgstr "AI Behavior"
 
 msgid "Dynamic"
-msgstr ""
+msgstr "Dynamic"
 
 msgid "Rush"
-msgstr ""
+msgstr "Rush"
 
 msgid "Maneuver"
-msgstr ""
+msgstr "Maneuver"
 
 msgid "Kite"
-msgstr ""
+msgstr "Kite"
 
 msgid "MED Beam"
-msgstr ""
+msgstr "MED Beam"
 
 msgid "Nanoassembler Beam"
-msgstr ""
+msgstr "Nanoassembler Beam"
 
 msgid "Nanoassembler Drone Launcher"
-msgstr ""
+msgstr "Nanoassembler Drone Launcher"
 
 msgid "Immobilizer"
-msgstr ""
+msgstr "Immobilizer"
 
 msgid "Manipulator"
-msgstr ""
+msgstr "Manipulator"
 
 msgid "Grabber beam"
-msgstr ""
+msgstr "Grabber beam"
 
 msgid "Shard"
-msgstr ""
+msgstr "Shard"
 
 msgid "Anchor Launcher"
-msgstr ""
+msgstr "Anchor Launcher"
 
 msgid "Anchor Drone"
-msgstr ""
+msgstr "Anchor Drone"
 
 #, c-format
 msgid "%d seconds"
-msgstr ""
+msgstr "%d seconds"
 
 #, c-format
 msgid "%d minutes, %d seconds"
-msgstr ""
+msgstr "%d minutes, %d seconds"
 
 #, c-format
 msgid "%d hours, %d minutes, %d seconds"
-msgstr ""
+msgstr "%d hours, %d minutes, %d seconds"
 
 msgid "Projectile Weapon Cluster:\n"
-msgstr ""
+msgstr "Projectile Weapon Cluster:\n"
