@@ -1,0 +1,2770 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-09 03:27+0000\n"
+"PO-Revision-Date: 2016-06-08 20:34-0400\n"
+"Last-Translator: Admin <admin@videogametranslations.org>\n"
+"Language-Team: LANGUAGE\n"
+"Language: ru\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Loco-Source-Locale: uk_UA\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-POOTLE-MTIME: 1439090824.000000\n"
+"X-Loco-Parser: loco_parse_po\n"
+
+msgid "Arena Border"
+msgstr "Граница арены"
+
+msgid "Arena Size"
+msgstr "Размер арены"
+
+msgid "Asteroid Fill"
+msgstr "Состав астероида"
+
+msgid "Asteroid Size (blocks)"
+msgstr "Размер астероида (блоки)"
+
+msgid "Plants"
+msgstr "Растения"
+
+msgid "Green"
+msgstr "Зеленые"
+
+msgid "Blue"
+msgstr "Синие"
+
+msgid "Pink"
+msgstr "Розовые"
+
+msgid "Spikey"
+msgstr "Шипастые"
+
+msgid "Time Limit"
+msgstr "Время"
+
+msgid "Rounds"
+msgstr "Раунды"
+
+msgid "Countdown"
+msgstr "Обратный отсчет"
+
+#, c-format
+msgid "%d seconds"
+msgstr "%d сек."
+
+#, c-format
+msgid "%d minutes, %d seconds"
+msgstr "%d мин., %d сек."
+
+#, c-format
+msgid "%d hours, %d minutes, %d seconds"
+msgstr "%d ч, %d мин., %d сек."
+
+msgid "Sort"
+msgstr "Сортировка"
+
+msgid "P Ascending"
+msgstr "В порядке возрастания P"
+
+msgid "P Descending"
+msgstr "В порядке убывания P"
+
+msgid "Name"
+msgstr "Название"
+
+msgid "Mass Ascending"
+msgstr "От самого тяжелого"
+
+msgid "Mass Descending"
+msgstr "От самого легкого"
+
+msgid "Developer, (c) 2013-2016"
+msgstr "Разработчик, (c) 2013-2016"
+
+#, c-format
+msgid ""
+"  Healing: %.f/discharge\n"
+msgstr "  Восстановление: %.f/разряд\n"
+
+#, c-format
+msgid ""
+"  Tractor Force: %.f/discharge\n"
+msgstr "  Сила тяги: %.f/разряд\n"
+
+#, c-format
+msgid ""
+"  Healing: %.f/sec\n"
+msgstr "  Восстановление: %.f/с\n"
+
+#, c-format
+msgid ""
+"  Tractor Force: %.f/sec\n"
+msgstr "  Сила тяги: %.f/с\n"
+
+msgid "Single Elimination"
+msgstr "Единичное уничтожение"
+
+msgid "Double Elimination"
+msgstr "Двойное уничтожение"
+
+msgid "AI Behavior"
+msgstr "Поведение ИИ"
+
+msgid "Dynamic"
+msgstr "Динамическое"
+
+msgid "Rush"
+msgstr "Движение"
+
+msgid "Maneuver"
+msgstr "Маневрирование"
+
+msgid "Kite"
+msgstr "Уклонение"
+
+msgid "MED Beam"
+msgstr "Средний луч"
+
+msgid "Nanoassembler Beam"
+msgstr "Луч наноассемблера"
+
+msgid "Nanoassembler Drone Launcher"
+msgstr "Модуль запуска дронов наноассемблера"
+
+msgid "Immobilizer"
+msgstr "Парализатор"
+
+msgid "Manipulator"
+msgstr "Манипулятор"
+
+msgid "Grabber beam"
+msgstr "Луч захвата"
+
+msgid "Shard"
+msgstr "Осколок"
+
+msgid "Anchor Launcher"
+msgstr "Модуль запуска захватчика"
+
+msgid "Anchor Drone"
+msgstr "Дрон-захватчик"
+
+msgid ""
+"Projectile Weapon Cluster:\n"
+msgstr "Комплекс артиллерийских орудий:\n"
+
+msgid "Rushing"
+msgstr "Движение"
+
+msgid "Maneuvering"
+msgstr "Маневрирование"
+
+msgid "Edit palette"
+msgstr "Редактировать палитру"
+
+msgid "Exit"
+msgstr "Выход"
+
+msgid "Export ship as a file on your Desktop"
+msgstr "Экспортировать корабль в качестве файла на Рабочий стол"
+
+msgid "Import"
+msgstr "Импорт"
+
+msgid "Warning: exceeded max P"
+msgstr "Внимание! Превышено максимальное количество P"
+
+msgid "Unnamed Spaceship"
+msgstr "Корабль без имени"
+
+#, c-format
+msgid "Test Error: %s"
+msgstr "Ошибка испытания: %s"
+
+msgid "Child Spawn Order"
+msgstr "Порядок строительства дочерних кораблей"
+
+msgid "Design Storage"
+msgstr "Хранилище конструкций"
+
+msgid "Drop to swap"
+msgstr "Перетащите сюда, чтобы поменять местами"
+
+msgid "Press DELETE again to confirm"
+msgstr "Нажмите DELETE еще раз, чтобы подтвердить"
+
+msgid "DELETE to delete"
+msgstr "Нажмите DELETE, чтобы удалить"
+
+msgid "No controlling faction"
+msgstr "Не контролирует ни одна фракция"
+
+msgid "Inactive Station"
+msgstr "Нерабочая станция"
+
+#, c-format
+msgid " Range %d"
+msgstr " Диапазон %d"
+
+msgid "Neutral"
+msgstr "Нейтральный"
+
+msgid "Fleet: "
+msgstr "Флот: "
+
+msgid "Back"
+msgstr "Назад"
+
+msgid "Select fleet or ship"
+msgstr "Выберите флот или корабль"
+
+msgid "Select ship"
+msgstr "Выберите корабль"
+
+#, c-format
+msgid "Agent '%s' destroyed %s of your stations"
+msgstr "Агент «%s» уничтожил ваши станции (%s)"
+
+msgid "Generating"
+msgstr "Генерация"
+
+msgid "Return To Game"
+msgstr "Вернуться в игру"
+
+msgid "Save & Quit"
+msgstr "Сохранить и выйти"
+
+msgid "Select Faction"
+msgstr "Выбор фракции"
+
+#, c-format
+msgid "Slot %d:"
+msgstr "Слот %d:"
+
+msgid "OLD SAVE: regenerate"
+msgstr "СТАРОЕ СОХРАНЕНИЕ: регенерация"
+
+msgid "ERROR: CORRUPTED"
+msgstr "ОШИБКА: ПОВРЕЖДЕНО"
+
+msgid "Clear Slot"
+msgstr "Очистить слот"
+
+msgid "Import Fleet"
+msgstr "Импорт флота"
+
+msgid "Export as Fleet"
+msgstr "Экспорт в виде флота"
+
+msgid "WARNING: Not connected to Steam"
+msgstr "ВНИМАНИЕ! Подключение к Steam отсутствует"
+
+msgid "Using ^1DEVELOPER^7 save path"
+msgstr "Используется путь сохранения ^1РАЗРАБОТЧИКА^7"
+
+msgid "Warning: Steam Cloud did not finish syncing (restart game)"
+msgstr "Внимание! Синхронизация с облаком Steam не завершена (перезапуск игры)"
+
+#, c-format
+msgid "%s/%s available"
+msgstr "%s/%s доступно"
+
+#, c-format
+msgid "%d/%d files available"
+msgstr "%d/%d доступно"
+
+msgid "Really clear save slot?"
+msgstr "Действительно очистить слот для сохранения?"
+
+msgid "Mod Export Failed (see log for details)"
+msgstr "Ошибка экспорта модификации (подробности приведены в журнале)"
+
+#, c-format
+msgid ""
+"Exported slot %d to %s\n"
+msgstr "Экспортирован слот %d в %s\n"
+
+msgid "Log Out"
+msgstr "Выйти из системы"
+
+msgid "Not logged in"
+msgstr "Вход в систему не выполнен"
+
+msgid "Standalone Ship Builder"
+msgstr "Отдельный конструктор кораблей"
+
+#, c-format
+msgid "Slot %d/%d"
+msgstr "Слот %d/%d"
+
+msgid "Abort"
+msgstr "Отмена"
+
+msgid "Fleet uses modded blocks, upload disabled"
+msgstr "Во флоте используются модифицированные блоки, передача отключена"
+
+#, c-format
+msgid "Wormhole Connection Error: %s"
+msgstr "Ошибка соединения червоточины: %s"
+
+msgid "OK!"
+msgstr "ОК!"
+
+msgid "Adjust background music volume"
+msgstr "Регулировка громкости фоновой музыки"
+
+msgid "Sfx Volume"
+msgstr "Громкость эффектов"
+
+msgid "Adjust sound effects volume"
+msgstr "Регулировка громкости звуковых эффектов"
+
+msgid "Windowed"
+msgstr "Оконный"
+
+msgid "Post Processing"
+msgstr "Пост-обработка"
+
+msgid "Nicest Smoothed"
+msgstr "Тщательное сглаживание"
+
+msgid "Composer/Sfx"
+msgstr "Композитор/звук"
+
+msgid "Marketing Materials"
+msgstr "Рекламные материалы"
+
+msgid "Select"
+msgstr "Выбрать"
+
+msgid "Adjust stick sensitivity"
+msgstr "Регулировка чувствительности джойстика"
+
+msgid "Cursor Damping"
+msgstr "Сглаживание курсора"
+
+msgid "Adjust cursor movement smoothing"
+msgstr "Регулировка сглаживания перемещения курсора"
+
+msgid "Absolute"
+msgstr "Абсолютн."
+
+#, c-format
+msgid "%s for next tip"
+msgstr "«%s» – следующая подсказка"
+
+msgid "Basic"
+msgstr "Основные"
+
+msgid "Secondary Group"
+msgstr "Вторая группа"
+
+msgid "Tertiary Group"
+msgstr "Третья группа"
+
+msgid "Auxiliary Group - automatically fire at selected target"
+msgstr "Вспомогательная группа – автоматическая стрельба по выбранной цели"
+
+msgid "Autofire"
+msgstr "Автоматическая стрельба"
+
+msgid "Mouse Wheel"
+msgstr "Колесико мыши"
+
+msgid "Needs Update"
+msgstr "Требуется обновление"
+
+msgid "Uploading"
+msgstr "Загрузка"
+
+msgid "Mod Load Log"
+msgstr "Журнал загрузки модификаций"
+
+msgid "Top mods take precedence (drag to change order)"
+msgstr "Сначала лучшие модификации (перетащите, чтобы изменить порядок)"
+
+msgid "Enabled Auto Zoom"
+msgstr "Автомасштабирование включено"
+
+msgid "Enabled Auto Target"
+msgstr "Автоматический захват цели включен"
+
+msgid "Minimal HUD"
+msgstr "Минимальный HUD"
+
+msgid "Entered Command Mode"
+msgstr "Включен режим командира"
+
+msgid "Can't recruit stations"
+msgstr "Не удается завербовать станции"
+
+msgid "Entered Wormhole"
+msgstr "Достигнута червоточина"
+
+#, c-format
+msgid "Liberated %s"
+msgstr "Освобождение: %s"
+
+#, c-format
+msgid "%s was destroyed by %s"
+msgstr "%s уничтожен (%s)"
+
+#, c-format
+msgid "%s was destroyed"
+msgstr "%s уничтожен"
+
+#, c-format
+msgid "Faction %d unlocked"
+msgstr "Открыта фракция: %d"
+
+msgid "Unlocked Faction"
+msgstr "Открыта фракция"
+
+msgid "Safe Journey"
+msgstr "Счастливого пути!"
+
+#, c-format
+msgid "Need %d additional R to spawn"
+msgstr "Нужно на %d больше R для строительства"
+
+#, c-format
+msgid "Need %d additional P to metamorphosize ship"
+msgstr "Нужно на %d больше P для преобразования корабля"
+
+msgid "Seed"
+msgstr "Зерно"
+
+msgid ""
+"Hull Section\n"
+msgstr "Часть корпуса\n"
+
+msgid ""
+"R Collection Range Booster\n"
+msgstr "Увеличитель радиуса сбора R\n"
+
+#, c-format
+msgid ""
+"  Damage: %.f/round\n"
+msgstr "  Урон: %.f/выстрел\n"
+
+#, c-format
+msgid ""
+"  Rate: %g rounds/sec\n"
+msgstr "  Скорострельность: %g выстрел/сек\n"
+
+#, c-format
+msgid ""
+"  Velocity: %.f\n"
+msgstr "  Скорость: %.f\n"
+
+msgid "Energy"
+msgstr "Энергия"
+
+msgid "Damage"
+msgstr "Урон"
+
+msgid ""
+"Beam Weapon:\n"
+msgstr "Лучевое оружие:\n"
+
+#, c-format
+msgid ""
+"  Damage: %.f/discharge\n"
+msgstr "  Урон: %.f/разряд\n"
+
+#, c-format
+msgid ""
+"  Damage: %.f/sec\n"
+msgstr "  Урон: %.f/сек\n"
+
+#, c-format
+msgid ""
+"  Energy: %.f/sec\n"
+msgstr "  Энергия: %.f/сек\n"
+
+#, c-format
+msgid ""
+"Shield Regen Energy: %.f/sec\n"
+msgstr "Энергия на восст-е щита: %.f/сек\n"
+
+#, c-format
+msgid ""
+"Energy Generated: %.f/sec\n"
+msgstr "Генерируется энергии: %.f/сек\n"
+
+msgid "Block Limit Reached"
+msgstr "Достигнуто максимальное количество блоков"
+
+#, c-format
+msgid "Finished %s Tutorial"
+msgstr "Пройдено обучение: %s"
+
+#, c-format
+msgid "Energy: %.f/%.f"
+msgstr "Энергия: %.f/%.f"
+
+msgid "^6Transferring^7"
+msgstr "^6Передача^7"
+
+msgid "Maximum reached"
+msgstr "Достигнуто максимальное значение"
+
+msgid "Palette"
+msgstr "Палитра"
+
+msgid ""
+"Permanently increase P\n"
+"Not enough C to increase"
+msgstr "Увеличить P навсегда\nНедостаточно C для увеличения"
+
+msgid "Resource Description"
+msgstr "Описание ресурса"
+
+msgid "Tutorials"
+msgstr "Обучение"
+
+msgid "Binding"
+msgstr "Привязка"
+
+msgid "Fleet"
+msgstr "Флот"
+
+#, c-format
+msgid "%d wins, %d losses"
+msgstr "Побед: %d, проигрышей: %d"
+
+#, c-format
+msgid "%2d wins: %s"
+msgstr "%2d побед: %s"
+
+#, c-format
+msgid "%d wins"
+msgstr "Побед: %d"
+
+msgid "Tournament Brackets"
+msgstr "Турнирная таблица"
+
+msgid "Weapon Bindings"
+msgstr "Привязки оружия"
+
+msgid "Left"
+msgstr "Влево"
+
+msgid "Teleport"
+msgstr "Телепортация"
+
+msgid "Toggle Command mode"
+msgstr "Командный режим вкл./выкл."
+
+msgid "Left Click"
+msgstr "Щелчок левой кнопкой"
+
+msgid "Unknown"
+msgstr "Неизвестно"
+
+msgid "Bracket"
+msgstr "Олимпийская"
+
+msgid "Really Clear?"
+msgstr "Действительно очистить?"
+
+msgid "Steam Friends"
+msgstr "Друзья в Steam"
+
+msgid "Available"
+msgstr "Доступные"
+
+#, c-format
+msgid "Downloading Steam Friend Ships: %.f%%"
+msgstr "Загрузка кораблей друзей в Steam: %.f%%"
+
+msgid "Command Module"
+msgstr "Командный модуль"
+
+msgid "The core of every ship"
+msgstr "Сердце любого корабля"
+
+msgid "Produces a small amount of thrust"
+msgstr "Создает небольшое количество тяги"
+
+msgid "Solar Panel"
+msgstr "Солнечная панель"
+
+msgid "RK-12 Standard"
+msgstr "RK-12 «Стандарт»"
+
+msgid ""
+"Basic light cannon. Its consistent rate of fire and low energy use make it a "
+"reliable weapon"
+msgstr "Базовая малокалиберная пушка. Благодаря стабильной скорострельности и низкому потреблению энергии является надежным оружием"
+
+msgid "MGVD-4 Bolshevik"
+msgstr "MGVD-4 «Большевик»"
+
+msgid "AF-75 Spitter"
+msgstr "AF-75 «Плевальщик»"
+
+msgid "A powerful burst-fire turret that excels at medium range"
+msgstr "Мощная пушка, стреляющая очередями. Отлично зарекомендовала себя на средней дистанции"
+
+msgid "SG-9 Scattergun"
+msgstr "SG-9 «Дробовик»"
+
+msgid "HC3"
+msgstr "HC3"
+
+msgid "Heavy Turret"
+msgstr "Тяжелая пушка"
+
+msgid "Station Defense Laser"
+msgstr "Защитный лазер станции"
+
+msgid "Tractor"
+msgstr "Буксир"
+
+msgid "Blaster"
+msgstr "Бластер"
+
+msgid "Mini size"
+msgstr "Крошечный размер"
+
+msgid "Phaser"
+msgstr "Фазер"
+
+msgid "Laser"
+msgstr "Лазер"
+
+msgid "Drone Launcher"
+msgstr "Модуль запуска дронов"
+
+msgid "Strut"
+msgstr "Каркас"
+
+msgid "RBank"
+msgstr "РБанк"
+
+msgid "Stem"
+msgstr "Стебель"
+
+msgid "Joint"
+msgstr "Соединитель"
+
+msgid "Leaf"
+msgstr "Лист"
+
+msgid "Laser Drone Launcher"
+msgstr "Модуль запуска лазерных дронов"
+
+msgid "Propulsor"
+msgstr "Движитель"
+
+msgid "Armored building block"
+msgstr "Бронированный элемент конструкции"
+
+msgid "Resource storage"
+msgstr "Хранилище ресурсов"
+
+msgid "Basic turreted damage dealer"
+msgstr "Базовая пушка для нанесения урона"
+
+msgid "Increase mobility - mega size"
+msgstr "Увеличение мобильности – огромный размер"
+
+msgid "Missile Launcher"
+msgstr "Ракетная пусковая установка"
+
+msgid "Launches homing missiles"
+msgstr "Запускает самонаводящиеся ракеты"
+
+msgid "Long range high damage spinal beam weapon"
+msgstr "Лучевое оружие дальнего действия с большим уроном, устанавливаемое на главной оси корабля"
+
+msgid "Defense Cannon"
+msgstr "Защитная пушка"
+
+msgid "Plasma Projector"
+msgstr "Плазменный излучатель"
+
+msgid "Autocannon"
+msgstr "Автопушка"
+
+msgid "Create more spaceships"
+msgstr "Позволяет строить больше кораблей"
+
+msgid "Flak Cannon"
+msgstr "Зенитная пушка"
+
+msgid "Antimatter Cannon"
+msgstr "Пушка с зарядом из антивещества"
+
+msgid "Launches flurries of unguided rockets"
+msgstr "Запускает шквал неуправляемых ракет"
+
+msgid "Hex Wall"
+msgstr "Шестигранная стенка"
+
+msgid "Wedge"
+msgstr "Клин"
+
+msgid "Micro"
+msgstr "Микро"
+
+msgid "Medium"
+msgstr "Средн."
+
+msgid "Macro"
+msgstr "Макро"
+
+msgid "Mighty"
+msgstr "Мощный"
+
+msgid "Highly responsive low impulse thruster"
+msgstr "Импульсный ускоритель с очень быстрой реакцией"
+
+msgid "Slow, high damage defense turret"
+msgstr "Медленная защитная пушка с большим уроном"
+
+msgid "Flurry Missiles"
+msgstr "Установка «Метель»"
+
+msgid "Nuclear Option"
+msgstr "«Уничтожитель»"
+
+msgid "Segment"
+msgstr "Сегмент"
+
+msgid "Core hull"
+msgstr "Основной корпус"
+
+msgid "Thrust vector unit"
+msgstr "Устройство изменения вектора тяги"
+
+msgid "Left Mouse"
+msgstr "Левая кнопка мыши"
+
+msgid "Right Mouse"
+msgstr "Правая кнопка мыши"
+
+msgid "Alt"
+msgstr "Alt"
+
+msgid "Tab"
+msgstr "Tab"
+
+msgid "Page Up"
+msgstr "Page Up"
+
+msgid "Page Down"
+msgstr "Page Down"
+
+msgid "Home"
+msgstr "Home"
+
+msgid "Gamepad Guide"
+msgstr "Кнопка «Guide»"
+
+msgid "DPad Right"
+msgstr "Крестовина вправо"
+
+msgid "Left Trigger Axis"
+msgstr "Ось левого триггера"
+
+msgid "Right Trigger Axis"
+msgstr "Ось правого триггера"
+
+msgid "Left Stick Up"
+msgstr "Левый мини-джойстик вверх"
+
+msgid "Volume Down"
+msgstr "Уменьшить громкость"
+
+msgid "Ctrl-"
+msgstr "Ctrl-"
+
+msgid "Farmer"
+msgstr "Фермер"
+
+msgid "Red"
+msgstr "Красный"
+
+msgid "Crystalline"
+msgstr "Кристаллит"
+
+msgid "Contestant"
+msgstr "Соперник"
+
+msgid "Drop here to remove"
+msgstr "Перетащите сюда, чтобы удалить"
+
+msgid "Save"
+msgstr "Сохранить"
+
+msgid "Discard"
+msgstr "Отменить"
+
+msgid "Cancel"
+msgstr "Отмена"
+
+msgid "Warning: Not enough P to build this ship"
+msgstr "Внимание! Недостаточно P для постройки этого корабля"
+
+msgid "Help"
+msgstr "Справка"
+
+msgid "Instructions"
+msgstr "Инструкции"
+
+msgid "Export"
+msgstr "Экспорт"
+
+msgid " WARNING: Acquire additional P"
+msgstr " ВНИМАНИЕ! Получите больше P"
+
+msgid "Drop to place"
+msgstr "Перетащите, чтобы разместить здесь"
+
+msgid "Alt-drag to clone"
+msgstr "Перетащите с зажатой кнопкой Alt, чтобы клонировать"
+
+msgid "Click to select waypoint"
+msgstr "Нажмите, чтобы выбрать точку маршрута"
+
+msgid "ships"
+msgstr "корабл."
+
+#, c-format
+msgid "Sector %dx%d"
+msgstr "Сектор %dx%d"
+
+msgid "Map Overview"
+msgstr "Обзор карты"
+
+msgid "by "
+msgstr "– "
+
+#, c-format
+msgid "%d drones, "
+msgstr "дронов: %d, "
+
+msgid "<"
+msgstr "<"
+
+#, c-format
+msgid "%s exported to '%s'"
+msgstr "%s экспортировано в «%s»"
+
+msgid "Destroyed"
+msgstr "Уничтожен"
+
+msgid "FAILED!!!!"
+msgstr "НЕУДАЧА!!!"
+
+msgid "Welcome"
+msgstr "Добро пожаловать"
+
+msgid "Generating Map"
+msgstr "Генерация карты"
+
+msgid "Saving Game"
+msgstr "Сохранение игры"
+
+msgid "Saving Blueprints"
+msgstr "Сохранение чертежей"
+
+msgid "Options"
+msgstr "Настройки"
+
+msgid "Identify Yourself"
+msgstr "Подтвердите свою личность"
+
+#, c-format
+msgid "Slot %d"
+msgstr "Слот %d"
+
+msgid "Destroy a capital ship from each faction to unlock"
+msgstr "Уничтожьте флагман фракции, чтобы открыть"
+
+msgid "Loading..."
+msgstr "Загрузка..."
+
+msgid "Export as Mod"
+msgstr "Экспорт в виде модификации"
+
+msgid "Export as Mod (create blocks.lua)"
+msgstr "Экспорт в виде модификации (создать blocks.lua)"
+
+msgid "Really regenerate world for save slot?"
+msgstr "Действительно регенерировать мир для слота сохранения?"
+
+msgid "Submit"
+msgstr "Отправить"
+
+msgid "Log In"
+msgstr "Вход в систему"
+
+#, c-format
+msgid "Logged in as '%s'"
+msgstr "Вход в систему выполнен («%s»)"
+
+msgid "Tournament"
+msgstr "Турнир"
+
+msgid "Mods"
+msgstr "Модификации"
+
+msgid "Credits"
+msgstr "Авторы"
+
+msgid "Login Failed"
+msgstr "Ошибка входа в систему"
+
+msgid "Connecting... "
+msgstr "Установка подключения... "
+
+msgid "Login"
+msgstr "Вход в систему"
+
+msgid "Fullscreen"
+msgstr "Режим"
+
+msgid "60 FPS cap"
+msgstr "Ограничение 60 кадров/с"
+
+msgid "No limiter"
+msgstr "Без ограничения"
+
+msgid "Adaptive Vsync"
+msgstr "Адаптивная верт. синхронизация"
+
+msgid "Particle effects"
+msgstr "Эффекты частиц"
+
+msgid "Stars and Halos"
+msgstr "Звезды и гало"
+
+msgid "Blur Effect"
+msgstr "Эффект размытия"
+
+msgid "Developer"
+msgstr "Разработчик"
+
+msgid "Production, Marketing"
+msgstr "Продакшн, маркетинг"
+
+msgid "Localization"
+msgstr "Локализация"
+
+#, c-format
+msgid ""
+"Kickstarter\n"
+"Backers (%.1f%%):"
+msgstr "Спонсоры\nKickstarter (%.1f%%):"
+
+msgid "DELETE"
+msgstr "DELETE"
+
+msgid "Rebinding"
+msgstr "Изменение привязки"
+
+#, c-format
+msgid "Press %s to clear"
+msgstr "Нажмите «%s», чтобы очистить"
+
+#, c-format
+msgid "Press %s to cancel"
+msgstr "Нажмите «%s», чтобы отменить"
+
+msgid "Enabled"
+msgstr "Вкл."
+
+msgid "Deadzone Size"
+msgstr "Величина «мертвой зоны»"
+
+msgid "Relative"
+msgstr "Относительн."
+
+msgid "Gamepad Type"
+msgstr "Тип геймпада"
+
+msgid "No Gamepad Detected"
+msgstr "Геймпад не обнаружен"
+
+msgid "Flying"
+msgstr "Полет"
+
+msgid "<Not Bound>"
+msgstr "<Не привязано>"
+
+msgid "Space Sounds"
+msgstr "Звуки космоса"
+
+msgid "View Workshop"
+msgstr "Просмотр Мастерской"
+
+#, c-format
+msgid "View %d Errors"
+msgstr "Просмотреть ошибки: %d"
+
+#, c-format
+msgid "by %s"
+msgstr "от %s"
+
+msgid "Workshop"
+msgstr "Мастерская"
+
+msgid "Docs"
+msgstr "Документация"
+
+#, c-format
+msgid "%d Mods Loaded"
+msgstr "Загружено модификаций: %d"
+
+msgid "Steam Workshop unavailable"
+msgstr "Мастерская Steam недоступна"
+
+msgid "Gamepad Deactivated"
+msgstr "Геймпад выключен"
+
+msgid "Disabled Auto Zoom"
+msgstr "Автомасштабирование выключено"
+
+msgid "Disabled Auto Target"
+msgstr "Автоматический захват цели выключен"
+
+msgid "Entered Pilot Mode"
+msgstr "Включен режим пилота"
+
+#, c-format
+msgid "Destroyed %s's fleet"
+msgstr "Уничтожен флот: %s"
+
+#, c-format
+msgid "Destroyed %s"
+msgstr "Уничтожен: %s"
+
+msgid "Welcome back"
+msgstr "С возвращением!"
+
+msgid "Child blueprint not defined"
+msgstr "Дочерний чертеж не задан"
+
+msgid "Drone"
+msgstr "Дрон"
+
+msgid ""
+"Ship Production Unit\n"
+msgstr "Блок производства кораблей\n"
+
+#, c-format
+msgid ""
+"R Capacity: %.f\n"
+msgstr "Емкость R: %.f\n"
+
+#, c-format
+msgid ""
+"Explode Radius: %.f\n"
+msgstr "Радиус взрыва: %.f\n"
+
+msgid "Charging"
+msgstr "Заряжающееся"
+
+#, c-format
+msgid ""
+"  Splash Radius: %.f\n"
+msgstr "  Радиус урона при разрыве: %.f\n"
+
+#, c-format
+msgid ""
+"  Burst Size: %d rounds\n"
+msgstr "  Размер очереди: %d выстрелов\n"
+
+#, c-format
+msgid ""
+"  Energy: %.f/shot\n"
+msgstr "  Энергия: %.f/выстрел\n"
+
+#, c-format
+msgid ""
+"  Min discharge: %.1f secs\n"
+msgstr "  Мин. разряд: %.1f сек\n"
+
+#, c-format
+msgid ""
+"  Energy: %.f/discharge\n"
+msgstr "  Энергия: %.f/разряд\n"
+
+#, c-format
+msgid ""
+"Acceleration: %.f\n"
+msgstr "Ускорение: %.f\n"
+
+#, c-format
+msgid ""
+"Shield Regen Rate: %.f health/sec\n"
+msgstr "Скорость восст-я щита: %.f ед./сек\n"
+
+#, c-format
+msgid "%3d Blocks Selected. Mass: %3.f, Health: %4.f, %4dP"
+msgstr "Выбрано блоков: %3d. Масса: %3.f, здоровье: %4.f, %4dP"
+
+msgid "MAX"
+msgstr "МАКС"
+
+msgid "Not enough C to increase P"
+msgstr "Недостаточно C для увеличения P"
+
+msgid "Click to add to palette"
+msgstr "Нажмите, чтобы добавить в палитру"
+
+msgid "Click to decrypt"
+msgstr "Нажмите, чтобы расшифровать"
+
+#, c-format
+msgid "%.f Points"
+msgstr "%.f очк."
+
+#, c-format
+msgid "%d ships"
+msgstr "Кораблей: %d"
+
+#, c-format
+msgid "Round %d of %d"
+msgstr "Раунд %d из %d"
+
+#, c-format
+msgid "Wins!"
+msgstr "побеждает!"
+
+msgid "Ripple Fire alternates weapons to maximize rate of fire"
+msgstr "При стрельбе залпами оружие чередуется, чтобы обеспечить максимальную скорострельность"
+
+msgid "Forwards"
+msgstr "Вперед"
+
+msgid "Stop"
+msgstr "Остановка"
+
+msgid "View Weapon Bindings"
+msgstr "Просмотр привязки оружия"
+
+msgid "View Upgrades"
+msgstr "Просмотр улучшений"
+
+msgid "Toggle auto-zoom"
+msgstr "Автомасштабирование вкл./выкл."
+
+msgid "Zoom Out"
+msgstr "Отдалить камеру"
+
+msgid "Edit Current Ship"
+msgstr "Редактировать текущий корабль"
+
+msgid "Rotate Camera Clockwise"
+msgstr "Повернуть камеру по часовой стрелке"
+
+msgid "Next"
+msgstr "След."
+
+msgid "Pause"
+msgstr "Пауза"
+
+msgid "Right Click"
+msgstr "Щелчок правой кнопкой"
+
+msgid "Mirror"
+msgstr "Зеркальное отражение"
+
+msgid "Paste"
+msgstr "Вставить"
+
+msgid "Scale Up"
+msgstr "Увеличить масштаб"
+
+msgid "Rotate Counterclockwise"
+msgstr "Повернуть против часовой стрелки"
+
+msgid "Rotate Clockwise"
+msgstr "Повернуть по часовой стрелке"
+
+msgid "Delete"
+msgstr "Удалить"
+
+msgid "Steam Profile is Private"
+msgstr "Профиль Steam приватный"
+
+msgid "Mode"
+msgstr "Система"
+
+msgid "Thruster"
+msgstr "Ускоритель"
+
+msgid "Provides a large amount of thrust"
+msgstr "Создает большое количество тяги"
+
+msgid "Produces energy to power a ship's weapons. More generators, more energy"
+msgstr "Создает энергию для питания оружия кораблей. Чем больше генераторов – тем больше энергии"
+
+msgid "Adapter"
+msgstr "Переходник"
+
+msgid "A basic building block"
+msgstr "Базовый элемент конструкции"
+
+msgid "Armor"
+msgstr "Броня"
+
+msgid "Swatter"
+msgstr "«Мухобойка»"
+
+msgid "HC2"
+msgstr "HC2"
+
+msgid "MC3"
+msgstr "MC3"
+
+msgid "Very high rate of fire, medium range"
+msgstr "Очень высокая скорострельность, средняя дальность"
+
+msgid "Shield"
+msgstr "Щит"
+
+msgid "HM1"
+msgstr "HM1"
+
+msgid "Arkas PRP-2"
+msgstr "Аркас PRP-2"
+
+msgid "Arkas PRP-3"
+msgstr "Аркас PRP-3"
+
+msgid "Need to burn through a battleship without breaking a sweat? Try this"
+msgstr "Нужно прожечь дыру в боевом корабле без особых усилий? Попробуйте это оружие"
+
+msgid "Station Battery"
+msgstr "Батарея станции"
+
+msgid "Penrose One"
+msgstr "Пенроуз Один"
+
+msgid "Medium size"
+msgstr "Средний размер"
+
+msgid "Large size"
+msgstr "Большой размер"
+
+msgid "Tempest"
+msgstr "«Буря»"
+
+msgid "Anti-Missile Laser"
+msgstr "Противоракетный лазер"
+
+msgid "Storage Pod"
+msgstr "Хранилище"
+
+msgid "CannonBase"
+msgstr "Основа под пушку"
+
+msgid "RateAmplifier"
+msgstr "УсилительСкорострельности"
+
+msgid "Protector"
+msgstr "Защитник"
+
+msgid "Defense Laser"
+msgstr "Защитный лазер"
+
+msgid "Seed Planter"
+msgstr "Сеяльщик"
+
+#, c-format
+msgid "Laser %d:%d"
+msgstr "Лазер %d:%d"
+
+msgid "Sensoria"
+msgstr "Сенсориум"
+
+msgid "Chitin"
+msgstr "Хитин"
+
+msgid "Sting"
+msgstr "Жало"
+
+msgid "Harvester"
+msgstr "Сборщик"
+
+msgid "Increase resource pickup range"
+msgstr "Увеличение радиуса сбора ресурсов"
+
+msgid "Inexpensive short range laser, deadly in quantity"
+msgstr "Недорогой лазер ближнего действия, смертельный в большом количестве"
+
+msgid "Container"
+msgstr "Контейнер"
+
+msgid "Increase mobility - mini size"
+msgstr "Увеличение маневренности – крошечный размер"
+
+msgid "Increase mobility - medium size"
+msgstr "Увеличение маневренности – средний размер"
+
+msgid "Increase mobility - asteroid relocation size"
+msgstr "Увеличение мобильности – размер перемещения астероидов"
+
+msgid "Launches intelligent drones armed with plasma cannons"
+msgstr "Запускает интеллектуальные дроны с плазменными пушками"
+
+msgid "Rapid-fire directional plasma weapon"
+msgstr "Скорострельное плазменное оружие узконаправленного действия"
+
+msgid "Torpedo Launcher"
+msgstr "Торпедный аппарат"
+
+msgid "Launches high damage unguided torpedoes"
+msgstr "Запускает неуправляемый торпеды, которые наносят большой урон"
+
+msgid "Extremely high damage but very short range beam weapon"
+msgstr "Лучевое оружие с очень большим уроном, но очень малой дальностью"
+
+msgid "Blast Pulser"
+msgstr "Импульсник"
+
+msgid "Unidirectional projectile emitter"
+msgstr "Однонаправленный излучатель снарядов"
+
+msgid "Plasma Mortar"
+msgstr "Плазменная мортара"
+
+msgid "Mine Layer"
+msgstr "Минный раскладчик"
+
+msgid "Very long range, high damage spinal mounted death machine"
+msgstr "Машина смерти, устанавливаемая на главную ось корабля. Очень большая дальность, большой урон"
+
+msgid "Teleporter"
+msgstr "Телепортатор"
+
+msgid "Crystallite"
+msgstr "Кристаллит"
+
+msgid "Booster"
+msgstr "Бустер"
+
+msgid "Plasma Diffractor"
+msgstr "Плазменный дифрактор"
+
+msgid "Heavy Bodywork"
+msgstr "Тяжелый корпус"
+
+msgid "Maneuver Thruster"
+msgstr "Маневренный ускоритель"
+
+msgid "Tractor Beam"
+msgstr "Захватный луч"
+
+msgid "Rapid-fire guided missile launcher"
+msgstr "Скорострельная пусковая установка для управляемых ракет"
+
+msgid "Annihilator"
+msgstr "Аннигилятор"
+
+msgid "Obliterator"
+msgstr "Уничтожитель"
+
+msgid "Depot"
+msgstr "Депо"
+
+msgid "Armor Spike"
+msgstr "Броневой шип"
+
+msgid "Left Bumper"
+msgstr "Левый курок"
+
+msgid "Left Trigger"
+msgstr "Левая кнопка-триггер"
+
+msgid "ENTER/Click"
+msgstr "ВВОД/Щелчок мыши"
+
+msgid "Control"
+msgstr "Control"
+
+msgid "End"
+msgstr "End"
+
+msgid "DPad Left"
+msgstr "Крестовина влево"
+
+msgid "Right Axis X"
+msgstr "Правая ось X"
+
+msgid "Right Axis Y"
+msgstr "Правая ось Y"
+
+msgid "Play Next"
+msgstr "Воспроизвести след."
+
+msgid "Gamepad A"
+msgstr "Кнопка А (геймпад)"
+
+msgid "Gamepad B"
+msgstr "Кнопка B (геймпад)"
+
+msgid "Gamepad X"
+msgstr "Кнопка Х (геймпад)"
+
+msgid "Shft-"
+msgstr "Shft-"
+
+msgid "Off"
+msgstr "Выкл."
+
+msgid "Full"
+msgstr "Полн."
+
+msgid "Flies"
+msgstr "Мухи"
+
+msgid ""
+"Drop here to remove\n"
+"Click to cancel edit"
+msgstr "Перетащите сюда, чтобы удалить\nНажмите, чтобы отменить редактирование"
+
+msgid "Confirm Exit"
+msgstr "Подтвердите выход"
+
+msgid "View Instructions ('h' or '?')"
+msgstr "Просмотреть инструкции («h» или «?»)"
+
+msgid "Change editor controls"
+msgstr "Изменить управление в редакторе"
+
+msgid "Test"
+msgstr "Испытание"
+
+msgid "Current Design"
+msgstr "Текущая конструкция"
+
+msgid "Ally Fleet Control"
+msgstr "Управление флотом союзника"
+
+msgid "Player Fleet Control"
+msgstr "Управление флотом игрока"
+
+#, c-format
+msgid "WARNING Need %dR for metamorphosis"
+msgstr "ВНИМАНИЕ! Нужно %dR для изменения конструкции"
+
+msgid "Drop to copy"
+msgstr "Перетащите сюда, чтобы скопировать"
+
+msgid "Damaged Station"
+msgstr "Поврежденная станция"
+
+msgid "Wormhole"
+msgstr "Червоточина"
+
+msgid "Agent"
+msgstr "Агент"
+
+#, c-format
+msgid "Controlled by %s"
+msgstr "Под контролем: %s"
+
+msgid "Spawner"
+msgstr "Корабль-строитель"
+
+msgid "Resources"
+msgstr "Ресурсы"
+
+msgid "You"
+msgstr "Вы"
+
+msgid "Friendly"
+msgstr "Дружественный"
+
+msgid "Defending"
+msgstr "Защищает"
+
+msgid "TARGET LOCKED"
+msgstr "ЦЕЛЬ ЗАХВАЧЕНА"
+
+msgid "COMMAND MODE"
+msgstr "РЕЖИМ КОМАНДИРА"
+
+msgid "Export Failed"
+msgstr "Ошибка экспорта"
+
+msgid "Importing..."
+msgstr "Импортирование..."
+
+msgid "Respawning..."
+msgstr "Восстановление..."
+
+msgid "Loading"
+msgstr "Загрузка"
+
+msgid "Starting"
+msgstr "Запуск"
+
+msgid "What is your name?"
+msgstr "Как вас зовут?"
+
+msgid "What is your favorite color?"
+msgstr "Ваш любимый цвет?"
+
+msgid "LOCKED"
+msgstr "ЗАБЛОКИРОВАНО"
+
+msgid " fleet only"
+msgstr " (только флот)"
+
+msgid "Regenerate World"
+msgstr "Регенерировать мир"
+
+msgid "Select Save Slot"
+msgstr "Выберите слот для сохранения"
+
+msgid "Using System save path"
+msgstr "Используется системный путь сохранения"
+
+#, c-format
+msgid ""
+"\n"
+"See %s for modding documentation"
+msgstr "\nДокументация по модификациям – см. %s"
+
+msgid "Connecting..."
+msgstr "Установка подключения..."
+
+msgid "Clearing..."
+msgstr "Идет очистка..."
+
+msgid "Sandbox"
+msgstr "Песочница"
+
+msgid "Stay Here"
+msgstr "Остаться"
+
+msgid "Follow Wormhole"
+msgstr "Лететь в червоточину"
+
+msgid "Enter username and password"
+msgstr "Введите имя пользователя и пароль"
+
+msgid "Username (Anisoptera Forums)"
+msgstr "Имя пользователя (форумы Anisoptera)"
+
+msgid "Music Volume"
+msgstr "Громкость музыки"
+
+msgid "Fullscreen Window"
+msgstr "Полноэкранное окно"
+
+msgid "True Fullscreen"
+msgstr "Полноэкранный"
+
+msgid "Frame Rate"
+msgstr "Частота кадров"
+
+msgid "VSync"
+msgstr "Верт. синхронизация"
+
+msgid "Game simulation step rate"
+msgstr "Шаг моделирования в игре"
+
+msgid "Particle Effects"
+msgstr "Эффекты частиц"
+
+msgid "Disabled"
+msgstr "Выкл."
+
+msgid "Just Stars"
+msgstr "Только звезды"
+
+msgid "HDR Effects"
+msgstr "Эффекты HDR"
+
+msgid "Dithered HDR Effects"
+msgstr "Эффекты HDR со сглаживанием"
+
+msgid "Menus"
+msgstr "Меню"
+
+msgid "Bloom"
+msgstr "Свечение"
+
+msgid "Line Quality"
+msgstr "Качество линий"
+
+msgid "Fastest Smoothed"
+msgstr "Быстрое сглаживание"
+
+msgid "Additional Ship Design"
+msgstr "Доп. дизайн кораблей"
+
+msgid "Reset Defaults"
+msgstr "По умолчанию"
+
+msgid "Point Defense Group - autofire at nearby targets, including missiles"
+msgstr "Группа обороны – автоматическая стрельба по ближайшим целям, включая ракеты"
+
+msgid "Blocks"
+msgstr "Блоки"
+
+msgid "Spaceships"
+msgstr "Корабли"
+
+msgid "Publish"
+msgstr "Публикация"
+
+msgid "Creating Workshop Item..."
+msgstr "Создание предмета Мастерской..."
+
+msgid "Gamepad Activated"
+msgstr "Геймпад включен"
+
+msgid "Disabled Auto Aim"
+msgstr "Автоприцеливание выключено"
+
+msgid "Absolute Controls, Cursor Rotates"
+msgstr "Абсолютное управление, курсор для поворота"
+
+msgid "Default HUD"
+msgstr "HUD по умолчанию"
+
+msgid "Disabled HUD"
+msgstr "HUD выключен"
+
+#, c-format
+msgid "Need %d additional C to recruit"
+msgstr "Нужно на %d больше C, чтобы завербовать"
+
+msgid "No Teleporter on Ship"
+msgstr "На корабле нет телепортатора"
+
+#, c-format
+msgid "Reactivated %s"
+msgstr "Выполнена активация: %s"
+
+msgid "Ship does not contain factory"
+msgstr "На корабле нет завода"
+
+msgid "Current blueprint uses encrypted blocks"
+msgstr "В текущем чертеже используются зашифрованные блоки"
+
+#, c-format
+msgid "No current blueprint - use '%s'"
+msgstr "Текущий чертеж отсутствует – используйте «%s»"
+
+msgid "Metamorphosizing ship"
+msgstr "Преобразование корабля"
+
+msgid "Mine"
+msgstr "Мина"
+
+msgid ""
+"Command Module\n"
+msgstr "Командный модуль\n"
+
+#, c-format
+msgid ""
+"R Collection Range: %.f\n"
+msgstr "Диапазон сбора R: %.f\n"
+
+#, c-format
+msgid ""
+"Teleporter Energy: %.f Energy/Mass\n"
+msgstr "Энергия телепортатора: %.f эн./масса\n"
+
+msgid "Auto-firing"
+msgstr "Автоматическое"
+
+#, c-format
+msgid ""
+"  Charge time: %.1f secs\n"
+msgstr "  Время зарядки: %.1f сек\n"
+
+msgid "Velocity"
+msgstr "Скорость"
+
+msgid "/shot"
+msgstr "/выстрел"
+
+#, c-format
+msgid ""
+"Turret Speed: %.f degrees/sec\n"
+msgstr "Скорость башни: %.f град./сек\n"
+
+#, c-format
+msgid ""
+"Torque: %.fK\n"
+msgstr "Крутящий момент: %.fK\n"
+
+#, c-format
+msgid ""
+"Shield Health: %.f\n"
+msgstr "Здоровье щита: %.f\n"
+
+#, c-format
+msgid ""
+"Shield Regen Delay: %.f secs\n"
+msgstr "Задержка восст-я щита: %.f сек\n"
+
+#, c-format
+msgid ""
+"Mass: %.f\n"
+msgstr "Масса: %.f\n"
+
+#, c-format
+msgid ""
+"Regrowth: %.1f secs\n"
+msgstr "Восст-е конструкции: %.1f сек\n"
+
+msgid "Tutorial"
+msgstr "Обучение"
+
+msgid "^6R^7 Capacity Full"
+msgstr "Достигнута максимальная емкость ^6R^7"
+
+msgid "Press '$transferRes' to trade ^6R^7 for ^3C^7"
+msgstr "Нажмите «$transferRes», чтобы обменять ^6R^7 на ^3C^7"
+
+msgid "Activating..."
+msgstr "Активация..."
+
+msgid "Block already in palette"
+msgstr "Блок уже в палитре"
+
+msgid "Not enough C to decrypt"
+msgstr "Недостаточно С для расшифровки"
+
+msgid "Databank"
+msgstr "Банк данных"
+
+msgid ""
+"\n"
+"Drag to rearrange"
+msgstr "\nПеретащите, чтобы изменить расположение"
+
+msgid ""
+"Empty palette slot\n"
+"Drag from databank to fill"
+msgstr "Пустая ячейка палитры\nПеретащите из базы данных, чтобы заполнить"
+
+msgid "Profile"
+msgstr "Профиль"
+
+msgid "PAUSED"
+msgstr "ПАУЗА"
+
+#, c-format
+msgid "Wins Round %d!"
+msgstr "побеждает в раунде %d!"
+
+msgid "No comparable ships"
+msgstr "Нет сравнимых кораблей"
+
+msgid "Fire all weapons in group simultaneously"
+msgstr "Стрельба из всего оружия в группе одновременно"
+
+#, c-format
+msgid "Double click to select all %ss"
+msgstr "Щелкните дважды, чтобы выбрать все: %s"
+
+msgid "Right"
+msgstr "Вправо"
+
+msgid "Fire Primary"
+msgstr "Стрельба из оружия первой группы"
+
+msgid "Strafe Right"
+msgstr "Стрейф вправо"
+
+msgid "View Map"
+msgstr "Просмотр карты"
+
+msgid "Toggle auto-aim"
+msgstr "Автоприцеливание вкл./выкл."
+
+msgid "Zoom in"
+msgstr "Приблизить камеру"
+
+msgid "View Ships"
+msgstr "Просмотр кораблей"
+
+msgid "Edit Child Ship"
+msgstr "Редактировать дочерний корабль"
+
+msgid "Rotate Camera Counterclockwise"
+msgstr "Повернуть камеру против часовой стрелки"
+
+msgid "Console"
+msgstr "Консоль"
+
+msgid "Faster"
+msgstr "Быстрее"
+
+msgid "Slower"
+msgstr "Медленнее"
+
+msgid "Undo"
+msgstr "Отменить"
+
+msgid "Redo"
+msgstr "Вернуть"
+
+msgid "Copy"
+msgstr "Копировать"
+
+msgid "Select All"
+msgstr "Выбрать все"
+
+msgid "Pool"
+msgstr "Круговая"
+
+msgid "Clear"
+msgstr "Очистить"
+
+msgid "Imported Ships"
+msgstr "Импортированные корабли"
+
+msgid "1 ship"
+msgstr "1 корабль"
+
+msgid "Team"
+msgstr "Команда"
+
+msgid "Steam Friends Unavailable: "
+msgstr "Друзья в Steam недоступны: "
+
+msgid "Logging in..."
+msgstr "Выполняется вход в систему..."
+
+msgid "Error: "
+msgstr "Ошибка: "
+
+msgid "Resource Containment Unit"
+msgstr "Хранилище ресурсов"
+
+msgid "Resource storage unit"
+msgstr "Модуль для хранения ресурсов"
+
+msgid "Provides a medium amount of thrust"
+msgstr "Создает среднее количество тяги"
+
+msgid "Generator"
+msgstr "Генератор"
+
+msgid "Hull"
+msgstr "Корпус"
+
+msgid "Fires numerous but slow explosive rounds, akin to a grenade launcher"
+msgstr "Выпускает большое количество медленных взрывчатых снарядов подобно гранатомету"
+
+msgid "Minigun"
+msgstr "Мини-пушка"
+
+msgid ""
+"Unmatched in range, this sniper rifle will always give you the first shot"
+msgstr "Благодаря этой снайперской пушке с непревзойденной дальностью вы всегда выстрелите первым"
+
+msgid "Phalanx"
+msgstr "«Фаланга»"
+
+msgid "MLS Avenger"
+msgstr "MLS «Мститель»"
+
+msgid "Longbow"
+msgstr "«Боевой лук»"
+
+msgid "ZLM Sparrow"
+msgstr "ZLM «Воробей»"
+
+msgid "Who doesn't like showering a target in missiles?"
+msgstr "Кто откажется накрыть цель градом ракет?"
+
+msgid ""
+"This small laser cannon is capable of taking out small targets in seconds"
+msgstr "Эта маленькая лазерная пушка может в считанные секунды расправиться с небольшими целями"
+
+msgid ""
+"The instantaneous nature of lasers mean that damage is delivered before all "
+"else"
+msgstr "Благодаря тому, что при выстреле лазер мгновенно достигает цели, он позволяет нанести урон первым"
+
+msgid "When you've got a lot of hardware to protect, look no further"
+msgstr "Выберите это, если вам нужно защитить много оборудования"
+
+msgid "Factory"
+msgstr "Завод"
+
+msgid "Small size"
+msgstr "Небольшой размер"
+
+msgid "RangeAmplifier"
+msgstr "УсилительДальности"
+
+msgid "Increases range and projectile speed of attached weapon"
+msgstr "Увеличивает дальность и скорость снаряда прикрепленного оружия"
+
+msgid "Increases rate of fire of attached weapon"
+msgstr "Увеличивает скорострельность прикрепленного оружия"
+
+msgid "Solar Array"
+msgstr "Солнечная батарея"
+
+msgid "Crop Stem"
+msgstr "Плодоносный стебель"
+
+msgid "Root"
+msgstr "Корень"
+
+msgid "Power your weapons"
+msgstr "Усиление оружия"
+
+msgid "Transformer"
+msgstr "Преобразователь"
+
+msgid "Proton Beam"
+msgstr "Протонный луч"
+
+msgid "Proton Sword"
+msgstr "Протонный меч"
+
+msgid "Burst Laser"
+msgstr "Импульсный лазер"
+
+msgid "High damage, large splash radius dumb mines"
+msgstr "Мины с большим уроном и большим радиусом поражения"
+
+msgid "Shield Projector"
+msgstr "Излучатель щита"
+
+msgid "Explosive point defense cannon"
+msgstr "Пушка со взрывающимися снарядами для точечной обороны"
+
+msgid "Wall"
+msgstr "Стенка"
+
+msgid "Corner"
+msgstr "Уголок"
+
+msgid "Defense Pulser"
+msgstr "Защитный импульсник"
+
+#, c-format
+msgid "%s Pulser"
+msgstr "%s импульсник"
+
+msgid "Plasma Condenser"
+msgstr "Конденсатор плазмы"
+
+msgid "Antimatter Missle Launcher"
+msgstr "Пусковая установка для ракет с зарядом из антивещества"
+
+msgid "Impulse Thruster"
+msgstr "Импульсный ускоритель"
+
+msgid "High impulse thruster"
+msgstr "Усиленный импульсный ускоритель"
+
+msgid "Shard Launcher"
+msgstr "Модуль запуска волчков"
+
+msgid "PD Subsystem"
+msgstr "Подсистема точечной обороны"
+
+msgid "Quantum Doom Beam"
+msgstr "Квантовый луч смерти"
+
+msgid "Generator/Storage"
+msgstr "Генератор/Хранилище"
+
+msgid "Polyp"
+msgstr "Полип"
+
+msgid "Light Spine"
+msgstr "Легкий игловик"
+
+msgid "Devastating pulse weapon"
+msgstr "Разрушительное импульсное оружие"
+
+msgid "Heavily armored death launcher"
+msgstr "Смертельное оружие с мощной броней"
+
+msgid "Right Bumper"
+msgstr "Правый курок"
+
+msgid "ENTER"
+msgstr "ВВОД"
+
+msgid "Middle Mouse"
+msgstr "Средняя кнопка мыши"
+
+msgid "Space"
+msgstr "Пробел"
+
+msgid "Backspace"
+msgstr "Backspace"
+
+msgid "Escape"
+msgstr "Escape"
+
+msgid "DPad Up"
+msgstr "Крестовина вверх"
+
+msgid "DPad Down"
+msgstr "Крестовина вниз"
+
+msgid "Left Axis X"
+msgstr "Левая ось Х"
+
+msgid "Left Stick Left"
+msgstr "Левый мини-джойстик влево"
+
+msgid "Left Stick Right"
+msgstr "Левый мини-джойстик вправо"
+
+msgid "Right Stick Down"
+msgstr "Правый мини-джойстик вниз"
+
+msgid "Keypad 9"
+msgstr "9 (дополнительная клавиатура)"
+
+msgid "Menu"
+msgstr "Меню"
+
+msgid "Play Prev"
+msgstr "Воспроизвести пред."
+
+msgid "Play"
+msgstr "Воспроизвести"
+
+msgid "Mute"
+msgstr "Отключить звук"
+
+msgid "Alt-"
+msgstr "Alt-"
+
+msgid "Low"
+msgstr "Низк."
+
+msgid "Terran"
+msgstr "Землянин"
+
+msgid "Spikey Plant"
+msgstr "Колючее растение"
+
+msgid "Sniping"
+msgstr "Прицеливание"
+
+msgid "Upgrade"
+msgstr "Улучшения"
+
+msgid "Confirm Save"
+msgstr "Подтвердите сохранение"
+
+msgid "Controls"
+msgstr "Управление"
+
+msgid "Import design from a file"
+msgstr "Импортировать конструкцию из файла"
+
+msgid "Automatically test ship against similar ships"
+msgstr "Автоматически проверить корабль в бою против аналогичных кораблей"
+
+msgid "Import Failed: wrong command block"
+msgstr "Ошибка импортирования: неправильный командный блок"
+
+msgid "No Factory Attached"
+msgstr "В состав корабля не входит завод"
+
+msgid "Uses encrypted blocks"
+msgstr "Использует зашифрованные блоки"
+
+msgid "Unsafe Spawner"
+msgstr "Небезопасный корабль-строитель"
+
+msgid "Activated Spawner"
+msgstr "Активированный корабль-строитель"
+
+#, c-format
+msgid "By %s"
+msgstr "%s"
+
+msgid "Unexplored"
+msgstr "Не исследован"
+
+msgid "Following"
+msgstr "Сопровождение"
+
+msgid "Attacking"
+msgstr "Атака"
+
+#, c-format
+msgid "%d ships, "
+msgstr "кораблей: %d, "
+
+msgid "Select fleet"
+msgstr "Выберите флот"
+
+#, c-format
+msgid "Exported to '%s': %s"
+msgstr "Экспортировано в «%s»: %s"
+
+msgid "New wormhole detected"
+msgstr "Обнаружена новая червоточина"
+
+msgid "Left Stick"
+msgstr "Левый мини-джойстик"
+
+msgid "Mouse / WASD"
+msgstr "Мышь / WASD"
+
+msgid "Loading regions"
+msgstr "Загрузка регионов"
+
+msgid "Finishing"
+msgstr "Завершение"
+
+msgid "Downloading"
+msgstr "Загрузка"
+
+msgid "Quit"
+msgstr "Выход"
+
+msgid "Paused"
+msgstr "Пауза"
+
+msgid "Saving..."
+msgstr "Сохранение..."
+
+msgid "Launch"
+msgstr "Пуск"
+
+msgid "Warning: Hard mode"
+msgstr "Внимание! Тяжелый уровень сложности"
+
+msgid "Right click slot for options"
+msgstr "Нажмите правой кнопкой мыши, чтобы открыть настройки"
+
+msgid "Using Steam Cloud saves"
+msgstr "Используются сохранения в Steam Cloud"
+
+msgid ""
+"\n"
+"Edit blocks.lua in that directory to change block properties"
+msgstr "\nОтредактируйте blocks.lua в этом каталоге, чтобы изменить свойства блока"
+
+msgid "Register"
+msgstr "Регистрация"
+
+msgid "Compacting Saves..."
+msgstr "Сжатие сохранений..."
+
+msgid "Start"
+msgstr "Начать игру"
+
+msgid "Demo"
+msgstr "Демо"
+
+msgid "Error: No unique blueprints in fleet"
+msgstr "Ошибка: Во флоте нет уникальных чертежей"
+
+msgid "Uploading..."
+msgstr "Выполняется загрузка..."
+
+msgid "Password"
+msgstr "Пароль"
+
+msgid "Toggle fullscreen"
+msgstr "Переключение режима отображения"
+
+msgid "Physics Updates Per Second"
+msgstr "Обновлений физики в секунду"
+
+msgid "Background Graphics"
+msgstr "Фоновая графика"
+
+msgid "Aliased"
+msgstr "Сглаживание"
+
+msgid "Alpha Testers"
+msgstr "Альфа-тестеры"
+
+msgid "QA"
+msgstr "Обеспечение качества"
+
+msgid "Special Thanks"
+msgstr "Особая благодарность"
+
+msgid "Software and Assets"
+msgstr "ПО и ресурсы"
+
+msgid "ESC"
+msgstr "ESC"
+
+msgid "Press any other key to bind"
+msgstr "Нажмите любую другую кнопку, чтобы выполнить привязку"
+
+msgid "Menu Mouse Style"
+msgstr "Стиль мыши в меню"
+
+msgid "Gamepad"
+msgstr "Геймпад"
+
+msgid "Editor"
+msgstr "Редактор"
+
+msgid "<Unbound>"
+msgstr "<Не привязано>"
+
+msgid "Primary Group"
+msgstr "Первая группа"
+
+msgid "Point Defense"
+msgstr "Оборона"
+
+msgid "More Spaceships"
+msgstr "Другие корабли"
+
+msgid "LOADING"
+msgstr "ЗАГРУЗКА"
+
+msgid "Restart game to apply mod changes"
+msgstr "Перезапустите игру, чтобы применить изменения модификаций"
+
+#, c-format
+msgid "Released %s"
+msgstr "Дата выпуска: %s"
+
+msgid "Enabled Auto Aim"
+msgstr "Автоприцеливание включено"
+
+msgid "Cursor Rotates Ship"
+msgstr "Курсор используется для поворота корабля"
+
+msgid "Keyboard Rotates Ship"
+msgstr "Для поворота корабля используется клавиатура"
+
+msgid "Ship Follows Cursor"
+msgstr "Корабль следует за курсором"
+
+#, c-format
+msgid "Recruited %s"
+msgstr "Успешная вербовка: %s"
+
+msgid "Not Enough Power"
+msgstr "Недостаточно мощности"
+
+msgid "Current blueprint is locked"
+msgstr "Текущий чертеж заблокирован"
+
+msgid "Transfer Resources"
+msgstr "Передача ресурсов"
+
+msgid "No space around factory block to spawn"
+msgstr "Возле блока завода недостаточно пространства для строительства"
+
+msgid "Explored new sectors"
+msgstr "Исследованы новые секторы"
+
+msgid "Missile"
+msgstr "Ракета"
+
+msgid "Torpedo"
+msgstr "Торпеда"
+
+#, c-format
+msgid ""
+"Scale %d\n"
+msgstr "Масштаб %d\n"
+
+msgid ""
+"Resource Storage Unit\n"
+msgstr "Хранилище ресурсов\n"
+
+msgid ""
+"Supports vegetation\n"
+msgstr "Поддерживает растительность\n"
+
+msgid ""
+"Seed\n"
+msgstr "Зерно\n"
+
+#, c-format
+msgid ""
+"R Generation: %.1f/sec\n"
+msgstr "Производство Р: %.1f/сек\n"
+
+#, c-format
+msgid ""
+"Melee Damage Multiplier: %.f%%\n"
+msgstr "Множитель повреждения ближнего боя: %.f%%\n"
+
+#, c-format
+msgid ""
+"Explode Damage: %.f\n"
+msgstr "Урон от взрыва: %.f\n"
+
+msgid ""
+"Projectile Weapon:\n"
+msgstr "Кинетическое оружие:\n"
+
+#, c-format
+msgid ""
+"  Range: %.f\n"
+msgstr "  Дальность: %.f\n"
+
+#, c-format
+msgid ""
+"  Spread: +-%.2f degrees\n"
+msgstr "  Разброс: +-%.2f град.\n"
+
+msgid ""
+"Weapon Booster:\n"
+msgstr "Бустер оружия:\n"
+
+msgid "Rate"
+msgstr "Скорострельность"
+
+msgid "Range"
+msgstr "Дальность"
+
+msgid "Explode Radius"
+msgstr "Радиус взрыва"
+
+#, c-format
+msgid ""
+"Regen Rate: %.1f %s/sec\n"
+msgstr "Скорость восст-я: %.1f %s/сек\n"
+
+#, c-format
+msgid ""
+"Regen Energy: %.f/%s\n"
+msgstr "Энергия на восст-е: %.f/%s\n"
+
+msgid ""
+" Stats:\n"
+msgstr " – параметры:\n"
+
+#, c-format
+msgid ""
+"Thrust: %.fK\n"
+msgstr "Тяга: %.fK\n"
+
+#, c-format
+msgid ""
+"Shield Radius: %.f\n"
+msgstr "Радиус щита: %.f\n"
+
+#, c-format
+msgid ""
+"Energy Stored: %.f\n"
+msgstr "Хранится энергии: %.f\n"
+
+#, c-format
+msgid ""
+"Health: %.f\n"
+msgstr "Здоровье: %.f\n"
+
+msgid ""
+"Palette Block\n"
+"Drag to rearrange"
+msgstr "Блок палитры\nПеретащите, чтобы изменить расположение"
+
+msgid "Maximum P reached"
+msgstr "Достигнуто максимальное количество P"
+
+msgid "Permanently increase P"
+msgstr "Увеличить P навсегда"
+
+msgid "Map"
+msgstr "Карта"
+
+msgid "Ripple Fire"
+msgstr "Стрельба залпами"
+
+msgid "Fire All"
+msgstr "Стрельба из всего оружия"
+
+msgid "Backwards"
+msgstr "Назад"
+
+msgid "Fire Secondary"
+msgstr "Стрельба из оружия второй группы"
+
+msgid "Fire Tertiary"
+msgstr "Стрельба из оружия третьей группы"
+
+msgid "Strafe Left"
+msgstr "Стрейф влево"
+
+msgid "Lock Target"
+msgstr "Захват цели"
+
+msgid "Spawn Child"
+msgstr "Построить дочерний корабль"
+
+msgid "Cycle controls"
+msgstr "Переключение управления"
+
+msgid "Toggle minimal HUD"
+msgstr "Минимальный HUD вкл./выкл."
+
+msgid "Cut"
+msgstr "Обрезать"
+
+msgid "Scale Down"
+msgstr "Уменьшить масштаб"
+
+#, c-format
+msgid "Imported Fleet %s"
+msgstr "Импортирован флот «%s»"
+
+msgid "Contestants"
+msgstr "Соперники"
+
+msgid "Anti-ship shotgun"
+msgstr "Дробовик, который применяется против кораблей"
+
+msgid "EXR-1 Railgun"
+msgstr "EXR-1 «Рельсовая пушка»"
+
+msgid "MLS Anti-Missile"
+msgstr "MLS «Противоракетный»"
+
+msgid "Close in weapon system"
+msgstr "Комплекс оружия ближнего боя"
+
+msgid "Low strength and limited area is balanced by a fast recharge time"
+msgstr "Низкая мощность и ограниченная площадь компенсируются быстрой скоростью перезарядки"
+
+msgid "MM1"
+msgstr "MM1"
+
+msgid "Arkas PRP-1"
+msgstr "Аркас PRP-1"
+
+msgid "This mid-size generator is versatile and effective"
+msgstr "Это универсальный и эффективный генератор среднего размера"
+
+msgid "Power Distributor"
+msgstr "Распределитель мощности"
+
+msgid "Nexus"
+msgstr "Нексус"
+
+msgid "Penrose Zero"
+msgstr "Пенроуз Ноль"
+
+msgid "CommandControl"
+msgstr "МодульУправления"
+
+msgid "Modular plasma cannon"
+msgstr "Модульная плазменная пушка"
+
+msgid "DamageAmplifier"
+msgstr "УсилительУрона"
+
+msgid "Increases damage of attached weapon"
+msgstr "Увеличивает урон прикрепленного оружия"
+
+msgid "Significantly increases damage of attached weapon"
+msgstr "Значительно увеличивает урон прикрепленного оружия"
+
+msgid "VelocityAmplifier"
+msgstr "УсилительСкорости"
+
+msgid "Significantly increases projectile speed of attached weapon"
+msgstr "Значительно увеличивает скорость снаряда прикрепленного оружия"
+
+msgid "Rocket Drone Launcher"
+msgstr "Ракетный модуль запуска дронов"
+
+msgid "Crop Seed"
+msgstr "Плодоносное зерно"
+
+msgid "Command"
+msgstr "Команда"
+
+msgid "Subcommand"
+msgstr "Подкоманда"
+
+msgid "Station Command"
+msgstr "Управление станцией"
+
+msgid "Power your weapons (more)"
+msgstr "Усиление оружия (большее)"
+
+msgid "Plasma Cannon"
+msgstr "Плазменная пушка"
+
+msgid "Short range rapid-fire point defense"
+msgstr "Скорострельное средство точечной обороны с малой дальностью"
+
+msgid "Railgun"
+msgstr "Рельсовая пушка"
+
+msgid "Very long range turreted sniper weapon"
+msgstr "Очень дальнобойное снайперское оружие"
+
+msgid "Very high rate of fire short range plasma weapon"
+msgstr "Плазменное оружие малой дальности с очень высокой скорострельностью"
+
+msgid "Compact charging beam weapon"
+msgstr "Компактное лучевое оружие, требующее зарядки"
+
+msgid "Powerful charging splash damage weapon"
+msgstr "Мощное оружие с уроном в радиусе взрыва, требующее зарядки"
+
+msgid "Absorbs damage - essential for capital ships"
+msgstr "Поглощает урон – необходим для крупных кораблей"
+
+msgid "Rocket Launcher"
+msgstr "Ракетная пусковая установка"
+
+msgid "Station Shield Projector"
+msgstr "Станционный излучатель щита"
+
+msgid "Unobtanium Strut"
+msgstr "Каркас из унобтания"
+
+msgid "Extender"
+msgstr "Расширитель"
+
+msgid "Mount"
+msgstr "Кронштейн"
+
+msgid "Massive"
+msgstr "Массивный"
+
+msgid "Power Conduit"
+msgstr "Проводник"
+
+msgid "Light Bodywork"
+msgstr "Легкий корпус"
+
+msgid "Launches explosive spinners"
+msgstr "Запускает взрывающиеся волчки"
+
+msgid "Pod Command"
+msgstr "Командный отсек"
+
+msgid "Thistle"
+msgstr "Чертополох"
+
+msgid "Gauss Beam"
+msgstr "Гауссова пушка"
+
+msgid "Plasma Bolt"
+msgstr "Плазменный болтер"
+
+msgid "Slow but powerful gun turret"
+msgstr "Медленная, но мощная пушечная турель"
+
+msgid "Obscenely powerful death laser"
+msgstr "Невероятно мощный лазер смерти"
+
+msgid "Reactor"
+msgstr "Реактор"
+
+msgid "Armor Plate"
+msgstr "Броневая плита"
+
+msgid "Auxiliary hull"
+msgstr "Вспомогательный корпус"
+
+msgid "Right Trigger"
+msgstr "Правая кнопка-триггер"
+
+msgid "Share"
+msgstr "Поделиться"
+
+msgid "Mouse4"
+msgstr "Кнопка мыши 4"
+
+msgid "Mouse5"
+msgstr "Кнопка мыши 5"
+
+msgid "Mouse6"
+msgstr "Кнопка мыши 6"
+
+msgid "Up"
+msgstr "Вверх"
+
+msgid "Down"
+msgstr "Вниз"
+
+msgid "Shift"
+msgstr "Shift"
+
+msgid "Enter"
+msgstr "Ввод"
+
+msgid "Gamepad Start"
+msgstr "Кнопка «Пуск»"
+
+msgid "Right Stick"
+msgstr "Правый мини-джойстик"
+
+msgid "Left Axis Y"
+msgstr "Левая ось Y"
+
+msgid "Left Stick Down"
+msgstr "Левый мини-джойстик вниз"
+
+msgid "Right Stick Up"
+msgstr "Правый мини-джойстик вверх"
+
+msgid "Right Stick Left"
+msgstr "Правый мини-джойстик влево"
+
+msgid "Right Stick Right"
+msgstr "Правый мини-джойстик вправо"
+
+msgid "Keypad 0"
+msgstr "0 (дополнительная клавиатура)"
+
+msgid "Keypad 1"
+msgstr "1 (дополнительная клавиатура)"
+
+msgid "Keypad 2"
+msgstr "2 (дополнительная клавиатура)"
+
+msgid "Keypad 3"
+msgstr "3 (дополнительная клавиатура)"
+
+msgid "Keypad 4"
+msgstr "4 (дополнительная клавиатура)"
+
+msgid "Keypad 5"
+msgstr "5 (дополнительная клавиатура)"
+
+msgid "Keypad 6"
+msgstr "6 (дополнительная клавиатура)"
+
+msgid "Keypad 7"
+msgstr "7 (дополнительная клавиатура)"
+
+msgid "Keypad 8"
+msgstr "8 (дополнительная клавиатура)"
+
+msgid "Volume Up"
+msgstr "Увеличить громкость"
+
+msgid "Gamepad Y"
+msgstr "Кнопка Y (геймпад)"
+
+msgid "On"
+msgstr "Вкл."
+
+msgid "Message"
+msgstr "Сообщение"
+
+msgid "Confirm"
+msgstr "Подтвердить"
+
+msgid "OK"
+msgstr "ОК"
+
+msgid "Tinkrell"
+msgstr "Тинкрелл"
+
+msgid "Borg"
+msgstr "Борг"
+
+msgid "Bee"
+msgstr "Пчела"
+
+msgid "Sentinel"
+msgstr "Страж"
+
+msgid "Bindings"
+msgstr "Привязки"
+
+msgid "Steam Cloud storage is nearly full! Clear save slots to create space"
+msgstr "Хранилище Steam Cloud почти заполнено! Очистите слоты для сохранений, чтобы освободить место"
+
+msgid "Log in to enable upload through wormhole"
+msgstr "Войдите в систему, чтобы включить загрузку через червоточину"
+
+msgid "Language"
+msgstr "Язык"
+
+#, c-format
+msgid "%s to continue"
+msgstr "«%s» – продолжить"
+
+msgid "Engage My Target"
+msgstr "Атаковать мою цель"
+
+msgid "Fire at Will"
+msgstr "Огонь по готовности"
+
+msgid "Disengage"
+msgstr "Отступить"
+
+msgid "Fleet Orders: "
+msgstr "Команды флоту: "
+
+msgid "Station"
+msgstr "Станция"
+
+#, c-format
+msgid "%d/%d ships"
+msgstr "Кораблей: %d/%d"
+
+msgid "Cycle Fleet AI"
+msgstr "Переключить ИИ флота"
+
+msgid "Skip"
+msgstr "Пропустить"
+
+msgid "Extra durable"
+msgstr "Сверхпрочная броня"
+
+msgid "units"
+msgstr "ед."
+
+msgid "Armor block"
+msgstr "Блок брони"
+
+msgid "Pulser"
+msgstr "Импульсник"
+
+msgid "Laser Drone"
+msgstr "Лазерный дрон"
+
+msgid "Dodging"
+msgstr "Уклонение"
+
+msgid "Orders"
+msgstr "Приказ"
+
+msgid "ERROR"
+msgstr "ОШИБКА"
+
+msgid "missiles"
+msgstr "ракет"
+
+msgid "torpedoes"
+msgstr "торпед"
+
+msgid "mines"
+msgstr "мин"
+
+msgid "seeds"
+msgstr "зерен"
+
+msgid "drones"
+msgstr "дронов"
+
+#, c-format
+msgid "%d Points"
+msgstr "%d очк."

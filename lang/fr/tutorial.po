@@ -1,0 +1,126 @@
+# 
+# Reassembly data/tutorial.lua localization file
+# 
+# Copyright (C) 2015-2016 Arthur Danskin
+# Content-Type: text/plain; charset=utf-8
+# 
+msgid ""
+msgstr ""
+
+msgid "Basics"
+msgstr "Les bases"
+
+msgid "Enter the world"
+msgstr "Entrez dans le monde"
+
+msgid "Use '$fireMain' to fire primary weapons"
+msgstr "Utilisez « $fireMain » pour utiliser les armes principales"
+
+msgid "Use '$fireAlt' to launch secondary weapons"
+msgstr "Utilisez « $fireAlt » pour utiliser les armes secondaires"
+
+msgid "Use '$viewConstructor' to modify ship"
+msgstr "Utilisez « $viewConstructor » pour modifier votre vaisseau"
+
+msgid "Resources"
+msgstr "Ressources"
+
+msgid "Pick up an ^6R packet^7"
+msgstr "Ramassez un ^6paquet de R^7"
+
+msgid "Fly near a ^2spawner^7 to trade ^6R^7 for ^3C^7"
+msgstr "Volez à proximité d'un ^2créateur^7 pour échanger des ^6R^7 contre des ^3C^7"
+
+msgid "Trade ^6100R^7 to a ^2spawner^7 for ^3C^7"
+msgstr "Offrez ^6100 R^7 à un ^2créateur^7 contre des ^3C^7"
+
+msgid "Earn ^3C^7 by exploring"
+msgstr "Gagnez des ^3C^7 en explorant"
+
+msgid "Earn ^3C^7 and ^6R^7 by destroying enemy ships"
+msgstr "Gagnez des ^3C^7 et des ^6R^7 en détruisant les vaisseaux ennemis"
+
+msgid "Press '$viewUpgrades' and upgrade something"
+msgstr "Appuyez sur « $viewUpgrades » et améliorez quelque chose"
+
+msgid "Weapon Binding"
+msgstr "Montage d'arme"
+
+msgid "Use '$viewBindings' to modify weapon groups"
+msgstr "Utilisez « $viewBindings » pour modifier les groupes d'armes"
+
+msgid "Objective"
+msgstr "Objectif"
+
+msgid "Use '$viewMap' to view full map"
+msgstr "Utilisez « $viewMap » pour voir la carte entière"
+
+msgid "Fly near a ^4damaged station^7 to reactivate"
+msgstr "Volez à proximité d'une ^4station endommagée^7 pour la réactiver"
+
+msgid "Factory"
+msgstr "Usine"
+
+msgid "Unlock the factory block using '$viewUpgrades'"
+msgstr "Déverrouillez le bloc d'usine en utilisant « $viewUpgrades »"
+
+msgid "Attach a factory to your ship"
+msgstr "Fixez une usine à votre vaisseau"
+
+msgid "Use '$viewSelector' to place a ship design in the alternate slot"
+msgstr "Utilisez « $viewSelector » pour placer une conception de vaisseau sur l'emplacement alternatif"
+
+msgid "Use '$activate' to spawn a ship"
+msgstr "Utilisez « $activate » pour créer un vaisseau"
+
+msgid "Spawn a ship with its own factory to complete the cycle"
+msgstr "Créez un vaisseau avec sa propre usine pour compléter le cycle"
+
+msgid "Fleets"
+msgstr "Flottes"
+
+msgid "Use '$toggleTractor' to engage command mode"
+msgstr "Utilisez « $toggleTractor » pour activer le mode de commande"
+
+msgid "Use '$fireMain' in command mode to recruit an ally"
+msgstr "Utilisez « $fireMain » dans le mode de commande pour recruter un allié"
+
+msgid "Use '$fireMain' again to release the ally (and gain ^3C^7)"
+msgstr "Utilisez « $fireMain » encore une fois pour relâcher l'allié (et recevoir des ^3C^7)"
+
+msgid "Use '$viewSelector' to edit targeted ally's ship and build order"
+msgstr "Utilisez « $viewSelector » pour modifier le vaisseau allié ciblé et l'ordre de construction"
+
+msgid "Generator"
+msgstr "Générateur"
+
+msgid "Attach a generator to your ship to boost power"
+msgstr "Fixez un générateur à votre vaisseau pour augmenter sa puissance"
+
+msgid "Targets"
+msgstr "Cibles"
+
+msgid "Use the map to locate and destroy an ^1agent^7"
+msgstr "Utilisez la carte pour localiser et détruire un ^1agent^7"
+
+msgid ""
+"Unlock a playable faction by destroying a ^51000P+^7 ship from that faction"
+msgstr "Déverrouillez une faction jouable en détruisant un vaisseau de ^5plus de 1 000 P^7 appartenant à cette faction"
+
+msgid "Wormhole"
+msgstr "Trou de ver"
+
+msgid "Use a wormhole to upload your fleet without changing worlds"
+msgstr "Utilisez un trou de ver pour envoyer votre flotte sans changer de monde"
+
+msgid "Travel through a wormhole into a new world"
+msgstr "Traversez un trou de ver pour atteindre un nouveau monde"
+
+#~ msgid "Group Name"
+#~ msgstr "Nom du groupe"
+
+#~ msgid "Objective 1 Text"
+#~ msgstr "Texte objectif 1"
+
+#~ msgid "Objective 2 Text"
+#~ msgstr "Texte objectif 2"

@@ -1,0 +1,202 @@
+# 
+# Reassembly data/achievements localization file
+# 
+# Copyright (C) 2015 Arthur Danskin
+# Content-Type: text/plain; charset=utf-8
+# 
+msgid ""
+msgstr ""
+
+# NEW_ACHIEVEMENT_6_19_NAME
+msgid "Combat Rating: Dangerous"
+msgstr "コンバットレーティング: 危険"
+
+# NEW_ACHIEVEMENT_6_0_NAME
+msgid "Beginning Archaeologist"
+msgstr "新米考古学者"
+
+# NEW_ACHIEVEMENT_6_9_DESC
+msgid "Build a ship with exactly 8000P"
+msgstr "8000Pちょうどで戦艦をビルドする"
+
+# NEW_ACHIEVEMENT_6_16_NAME
+msgid "Frequent Wormholer"
+msgstr "フリークエント・ワームホーラー"
+
+# NEW_ACHIEVEMENT_6_3_DESC
+msgid "Destroy the largest crystalite ship"
+msgstr "最も大きなクリスタライト艦を破壊する"
+
+# NEW_ACHIEVEMENT_6_3_NAME
+msgid "Skull Slayer"
+msgstr "スカル・スレイヤー"
+
+# NEW_ACHIEVEMENT_6_1_NAME
+msgid "Persistent Archaeologist"
+msgstr "頑固な考古学者"
+
+# NEW_ACHIEVEMENT_6_4_NAME
+msgid "Crescent Slayer"
+msgstr "クレセント・スレイヤー"
+
+# NEW_ACHIEVEMENT_6_19_DESC
+msgid "Destroy 30,000P of ships"
+msgstr "30,000Pの戦艦を破壊する"
+
+# NEW_ACHIEVEMENT_6_20_NAME
+msgid "Combat Rating: Deadly"
+msgstr "コンバットレーティング: 致死的"
+
+# NEW_ACHIEVEMENT_6_6_NAME
+msgid "Explorer"
+msgstr "探検家"
+
+# NEW_ACHIEVEMENT_6_22_NAME
+msgid "Six Figures"
+msgstr "シックス・フィギュアー"
+
+# NEW_ACHIEVEMENT_6_0_DESC
+msgid "Activated 10 Stations"
+msgstr "ステーションを10か所始動させる"
+
+# NEW_ACHIEVEMENT_6_9_NAME
+msgid "MinMaximizer"
+msgstr "ミニマクシマイザー"
+
+# NEW_ACHIEVEMENT_6_14_NAME
+msgid "Agent Obliterator"
+msgstr "エージェント・オブリテレーター"
+
+# NEW_ACHIEVEMENT_6_14_DESC
+msgid "Destroy 50 Agents"
+msgstr "50艦のエージェントを破壊する"
+
+# NEW_ACHIEVEMENT_6_18_NAME
+msgid "Combat Rating: Worthy of Note"
+msgstr "コンバットレーティング: 注目に値する"
+
+# NEW_ACHIEVEMENT_6_23_DESC
+msgid "Die 100 times"
+msgstr "100回撃墜される"
+
+# NEW_ACHIEVEMENT_6_17_DESC
+msgid "Acquire 10,000 C"
+msgstr "10,000Cを獲得する"
+
+# NEW_ACHIEVEMENT_6_10_DESC
+msgid "Spawn 100 ships"
+msgstr "100艦スポーンさせる"
+
+# NEW_ACHIEVEMENT_6_8_NAME
+msgid "Thorough Explorer"
+msgstr "完璧な探検家"
+
+# NEW_ACHIEVEMENT_6_11_DESC
+msgid "Transfer 10,000 R to allies"
+msgstr "10,000Rを仲間に転送"
+
+# NEW_ACHIEVEMENT_6_15_DESC
+msgid "Travel through 1 wormhole"
+msgstr "ワームホールを1つ移動する"
+
+# NEW_ACHIEVEMENT_6_5_DESC
+msgid "Conquer all sectors in a galaxy"
+msgstr "銀河内のすべてのセクターを制圧する"
+
+# NEW_ACHIEVEMENT_6_4_DESC
+msgid "Destroy the crescent ship"
+msgstr "クレセントシップを破壊する"
+
+# NEW_ACHIEVEMENT_6_23_NAME
+msgid "Consolation Prize"
+msgstr "コンソレーションプライズ"
+
+# NEW_ACHIEVEMENT_6_11_NAME
+msgid "Resupplier"
+msgstr "リサプリライヤー"
+
+# NEW_ACHIEVEMENT_6_2_DESC
+msgid "Unlock all 7 factions"
+msgstr "全7ファクションをアンロックする"
+
+# NEW_ACHIEVEMENT_6_6_DESC
+msgid "Explore 1000 Sectors"
+msgstr "1,000セクターを探索する"
+
+# NEW_ACHIEVEMENT_6_2_NAME
+msgid "Diverse Destroyer"
+msgstr "ディバース・デストロイヤー"
+
+# NEW_ACHIEVEMENT_6_13_NAME
+msgid "Agent Conquerer"
+msgstr "エージェント・コンカー"
+
+# NEW_ACHIEVEMENT_6_15_NAME
+msgid "Wormhole Explorer"
+msgstr "ワームホール探検家"
+
+# NEW_ACHIEVEMENT_6_7_NAME
+msgid "Super Explorer"
+msgstr "超探検家"
+
+# NEW_ACHIEVEMENT_6_10_NAME
+msgid "Fleet Mother"
+msgstr "フリート・マザー"
+
+# NEW_ACHIEVEMENT_6_12_NAME
+msgid "Agent Destroyer"
+msgstr "エージェント・デストロイヤー"
+
+# NEW_ACHIEVEMENT_6_12_DESC
+msgid "Destroy an agent"
+msgstr "エージェントを破壊する"
+
+# NEW_ACHIEVEMENT_6_17_NAME
+msgid "Hoarder"
+msgstr "ホーダー"
+
+# NEW_ACHIEVEMENT_6_21_NAME
+msgid "Combat Rating: Frightening"
+msgstr "コンバットレーティング: 脅威的"
+
+# NEW_ACHIEVEMENT_6_13_DESC
+msgid "Destroy 10 agents"
+msgstr "10艦のエージェントを破壊する"
+
+# NEW_ACHIEVEMENT_6_21_DESC
+msgid "Destroy 70,000P of ships"
+msgstr "70,000Pの戦艦を破壊する"
+
+# NEW_ACHIEVEMENT_6_1_DESC
+msgid "Activate all stations in a galaxy"
+msgstr "銀河内のすべてのセクターをアクティベートする"
+
+# NEW_ACHIEVEMENT_6_18_DESC
+msgid "Destroy 10,000P of ships"
+msgstr "10,000Pの戦艦を破壊する"
+
+# NEW_ACHIEVEMENT_6_16_DESC
+msgid "Travel through 10 wormholes"
+msgstr "10個のワームホールを移動する"
+
+# NEW_ACHIEVEMENT_6_22_DESC
+msgid "Acquire 100,000C"
+msgstr "100,000Cを入手する"
+
+# NEW_ACHIEVEMENT_6_8_DESC
+msgid "Explore all sectors in a galaxy"
+msgstr "銀河内のすべてのセクターを探索する"
+
+# NEW_ACHIEVEMENT_6_5_NAME
+msgid "Completionist"
+msgstr "コンプリショニスト"
+
+# NEW_ACHIEVEMENT_6_7_DESC
+msgid "Explore 10,000 Sectors"
+msgstr "10,000セクターを探索する"
+
+# NEW_ACHIEVEMENT_6_20_DESC
+msgid "Destroy 50,000P of ships"
+msgstr "50,000Pの戦艦を破壊する"
+
+

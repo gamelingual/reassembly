@@ -1,0 +1,63 @@
+# 
+# Reassembly data/popups.lua localization file
+# 
+# Copyright (C) 2015-2016 Arthur Danskin
+# Content-Type: text/plain; charset=utf-8
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-08-18 21:45-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.8.4\n"
+
+msgid "Similarly colored ships are allies, everyone else is hostile."
+msgstr ""
+"As naves de cores semelhantes são aliadas, todas as outras são inimigas."
+
+msgid "'$viewMap' to expand minimap."
+msgstr "'$viewMap' para ampliar o minimapa."
+
+msgid "$zoom to zoom camera."
+msgstr "$zoom para aproximar/afastar a câmera."
+
+msgid "Follow tutorial objectives to advance."
+msgstr "Cumpra os objetivos do tutorial para progredir."
+
+msgid "'$escape' to save / quit."
+msgstr "'$escape' para salvar / sair."
+
+msgid "'$viewSelector' to edit ships."
+msgstr "'$viewSelector' para alterar naves."
+
+msgid ""
+"Ship ^6R^7 capacity filled. Increase capacity by adding containers or fly "
+"near a station to trade ^6R^7 for ^3C^7"
+msgstr ""
+"A capacidade máxima de ^6R^7 da nave foi atingida. Aumente-a colocando "
+"contêineres ou se aproxime de uma estação para trocar ^6R^7 por ^3C^7"
+
+msgid "Drag new blocks from palette"
+msgstr "Arraste os blocos novos na paleta"
+
+msgid "'^5P^7' value limits ship features"
+msgstr "O valor '^5P^7' limita os equipamentos da nave"
+
+msgid "View Keyboard commands in Help menu"
+msgstr "Visualize os comandos do Teclado no menu de Ajuda"
+
+msgid "Exit when finished"
+msgstr "Saia quando terminar"
+
+msgid "Increase ^5P^7 to build larger ships"
+msgstr "Aumente a ^5P^7 para construir naves maiores."
+
+#~ msgid "text to show to user"
+#~ msgstr "texto para mostrar ao usuário"

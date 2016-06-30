@@ -1,0 +1,39 @@
+#
+# Reassembly steam store localization file
+#
+# Copyright (C) 2015 Arthur Danskin
+# Content-Type: text/plain; charset=utf-8
+#
+msgid ""
+msgstr ""
+
+# Short Description
+msgid "A spaceship building and universe-exploration game. Collect resources, expand and grow your fleet, and conquer your personal galaxy. Stellar ambience by Peaks."
+msgstr "Un jeu de construction de vaisseau spatial et d'exploration de l'univers. Collectez des ressources, développez et faites agrandir votre flotte, et partez à la conquête de votre galaxie personnelle. Une ambiance stellaire par Peaks."
+
+# About This Game
+msgid ""
+"And through the Kickstarter gauntlet we have arrived. Yes, we have a procedurally-generated universe to explore. Yes, we have eye-gogglingly gorgeous vector-based gameplay coupled with particle effects so effortlessly effervescent that you won't have time to wonder if \"effortlessly effervescent\" means anything coherent. And yes, we have noises and musical moods that take a warm soapy sponge to your brain and massage it into cerebral splendor. \n"
+"\n"
+"BUT YOU DON'T HAVE TIME FOR THAT!!!\n"
+"\n"
+"You're too busy crafting the perfect vessel, a spaceship pristine and precise and, perhaps, powerful, agile, and envy-inducing. Your shapes and colors will induce both fear and wonder into the electronic hearts of whatever insectoid, angley, squarish, plantlike race of alien ships that you come across in your digital safari. \n"
+"\n"
+"And then you grow. And it changes everything. Now your left wing must become your right wing in a lopsided arrangement of fancy new weaponry and mega-buffed shields. You recall thinking when you last were destroyed (and you will be destroyed), that you really needed to buff up that armor. Right? Definitely.\n"
+"\n"
+"And then you grow again. And again. And now you're a battleship capable of producing your own fleet, and each member of your fleet can spawn it's own fleet, and you need it. Your enemies are constantly changing shapes, sizes, and intensities as ships created and honed through the experience of a thousand battles find their way from their creator's computer to yours, leaping into your universe with all the mercy in the world of NONE AT ALL.\n"
+"\n"
+"It's time to visit the electronic tide pool. \n"
+"\n"
+"[h2]Reassembly[/h2]\n"
+"[list]\n"
+"[*] Gorgeous Vector-Based Graphics\n"
+"[*] Procedurally Generated Universes\n"
+"[*] Ridiculously User-Friendly Spaceship Designer\n"
+"[*] A Beautiful and Haunting Soundtrack by Peter Brown (Peaks)\n"
+"[*] More Particle Effects Than You can Shake a Stick At\n"
+"[*] Very Smart and Reactive AI\n"
+"[*] Physics that Give Weight to Your Creations\n"
+"[*] Asynchronous Multiplayer: Universes Populated by Fellow Players\n"
+"[/list]\n"
+msgstr "Nous avons relevé le défi de Kickstarter. Oui, nous avons un univers à génération procédurale à explorer. Oui, nous avons un superbe jeu vectoriel à couper le souffle associé à des effets de particules si naturellement effervescents que vous n'aurez pas le temps de vous demander si « naturellement effervescents » veut dire quelque chose. Eh oui, nous avons des effets sonores et des ambiances musicales qui prennent une éponge savonneuse sur votre cerveau pour le masser dans sa splendeur cérébrale. \n\nMAIS VOUS N'AUREZ PAS LE TEMPS DE VOUS DÉTENDRE !\n\nVous serez trop occupé à créer le vaisseau parfait, un vaisseau spatial immaculé et précis et, peut-être, puissant, agile et qui donne envie. Vos formes et vos couleurs inspireront la crainte et l'émerveillement dans les cœurs électroniques des types insectoïdes, anguleux, carrés ou végétaux de vaisseaux spatiaux extraterrestres que vous rencontrez dans votre safari numérique. \n\nPuis vous grandirez, et tout changera. Votre aile gauche deviendra votre aile droite dans un arrangement déséquilibré de nouvelles armes fantastiques et de boucliers surchargés. Vous vous souvenez avoir pensé que vous aviez vraiment besoin d'améliorer votre blindage la dernière fois que votre vaisseau a été détruit (et il le sera souvent). Pas vrai ? Sans aucun doute.\n\nPuis vous grandirez encore. Et encore. Et vous êtes maintenant un cuirassé capable de produire sa propre flotte, et chaque membre de votre flotte peut créer ses propres vaisseaux, et vous en avez besoin. La forme, la taille et l'intensité des forces ennemies évoluent en permanence, tandis que les vaisseaux créés et perfectionnés à travers l'expérience de mille batailles trouvent leur voie de l'ordinateur de leur créateur jusqu'au vôtre, plongeant dans votre univers sans aucune pitié.\n\nIl est temps de visiter la mare résiduelle électronique.\n\n[h2]Reassembly[/h2]\n[list]\n[*] De magnifiques graphismes vectoriels\n[*] Des univers à génération procédurale\n[*] Un système de conception de vaisseau spatial ridiculement convivial\n[*] Une bande-son magnifique et envoutante par Peter Brown (Peaks)\n[*] Plus d'effets de particule que vous ne pourrez en compter\n[*] Une IA intelligente et réactive\n[*] Des effets physiques qui donnent du corps à vos créations\n[*] Jeu multijoueur asynchrone : des univers peuplés par d'autres joueurs\n[/list]\n"

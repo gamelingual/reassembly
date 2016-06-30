@@ -1,0 +1,49 @@
+# 
+# Reassembly data/popups.lua localization file
+# 
+# Copyright (C) 2015-2016 Arthur Danskin
+# Content-Type: text/plain; charset=utf-8
+# 
+msgid ""
+msgstr ""
+
+msgid "Similarly colored ships are allies, everyone else is hostile."
+msgstr "Корабли одного с вами цвета – союзники, все остальные – враги."
+
+msgid "'$viewMap' to expand minimap."
+msgstr "«$viewMap» – развернуть мини-карту."
+
+msgid "$zoom to zoom camera."
+msgstr "$zoom – масштабирование камеры."
+
+msgid "Follow tutorial objectives to advance."
+msgstr "Выполните цели обучения, чтобы продолжить."
+
+msgid "'$escape' to save / quit."
+msgstr "«$escape» – сохранить / выйти."
+
+msgid "'$viewSelector' to edit ships."
+msgstr "«$viewSelector» – редактировать корабли."
+
+msgid ""
+"Ship ^6R^7 capacity filled. Increase capacity by adding containers or fly "
+"near a station to trade ^6R^7 for ^3C^7"
+msgstr "Корабль заполнен ресурсами (^6R^7). Увеличьте емкость за счет новых контейнеров или пролетите возле станции, чтобы обменять ^6R^7 на ^3C^7"
+
+msgid "Drag new blocks from palette"
+msgstr "Перетащите новые блоки из палитры"
+
+msgid "'^5P^7' value limits ship features"
+msgstr "Значение «^5P^7» ограничивает конструкцию корабля"
+
+msgid "View Keyboard commands in Help menu"
+msgstr "Просмотрите команды клавиатуры в меню «Справка»"
+
+msgid "Exit when finished"
+msgstr "Выйдите, когда закончите"
+
+msgid "Increase ^5P^7 to build larger ships"
+msgstr "Увеличьте значение «^5P^7», чтобы строить более крупные корабли"
+
+#~ msgid "text to show to user"
+#~ msgstr "текст, отображаемый пользователю"

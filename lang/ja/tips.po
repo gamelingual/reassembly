@@ -1,0 +1,64 @@
+# 
+# Reassembly data/tips.lua localization file
+# 
+# Copyright (C) 2015-2016 Arthur Danskin
+# Content-Type: text/plain; charset=utf-8
+# 
+msgid ""
+msgstr ""
+
+msgid "Press '$mouseRotToggle' to cycle ship control schemes."
+msgstr "'$mouseRotToggle'を押すと、戦艦のコントロールシステムを切り替えられます。"
+
+msgid ""
+"Press '$autoZoomToggle' to completely disable automatic zooming, or zoom "
+"with '$zoom' to temporarily disable."
+msgstr "'$autoZoomToggle'を押すと、オートズームを完全に無効化でき、または'$zoom'でズームして、一時的に無効化できます。"
+
+msgid ""
+"Press '$toggleHUD' to cycle HUD visibility. This can be used to hide "
+"tutorial objectives."
+msgstr "'$toggleHUD'を押すと、HUDの可視性を切り替えられます。これは、チュートリアルのオブジェクトを隠すために使用できます。"
+
+msgid ""
+"Build new stations by spawning a design with a factory but no thrusters. "
+"Newly discovered deactivated stations will spawn with stations in your fleet"
+" screen if available."
+msgstr ""
+"ファクトリーを搭載し、ロケットエンジンなしで設計した戦艦をスポーンすることで、新しいステーションを構築できます。新しく発見した、停止しているステーションは、利用可能であればプレイヤーの艦隊画面で、ステーションと共にスポーンします。"
+
+msgid ""
+"Allied stations and Factory ships will spawn ship designs from your Fleet "
+"screen."
+msgstr "仲間のステーションやファクトリー艦は、プレイヤーの艦隊画面から戦艦をスポーンします。"
+
+msgid ""
+"Increase your ^5P^7 limit and unlock new blocks via the Upgrade screen "
+"('$viewUpgrades') to get more powerful."
+msgstr "^5P^7を増大させ、('$viewUpgrades') から新しいブロックをアンロックすることで、さらに強化することができます。"
+
+msgid ""
+"Generator blocks boost weapon power but explode dramatically when destroyed "
+"- make sure to protect them."
+msgstr "ジェネレーターブロックは兵器の力をブーストさせますが、破壊さえれると激しく爆発します。これらブロックの防御をしっかりと固めてください。"
+
+msgid ""
+"Keybindings can be changed within the Controls section of the main menu."
+msgstr "キーバインドは、メインメニューのコントローラーセクション内で変更できます。"
+
+msgid ""
+"Press '$viewSelector' when targetting an allied ship in COMMAND mode to edit"
+" its design or child build order."
+msgstr "コマンドモードで仲間の戦艦を指定しているとき'$viewSelector'を押すと、その設計またはその子艦のビルド順を編集できます。"
+
+msgid ""
+"Ships equipped with Factory blocks do not automatically trade ^6R^7 to "
+"Stations. Use '$transferRes' to initiate a trade."
+msgstr "ファクトリーブロックを装備した戦艦は、ステーションに対して^6R^7を自動的にトレードしません。トレードを開始するには'$transferRes'を使用します。"
+
+#~ msgid ""
+#~ "Ships equipped with Factory blocks do not trade ^6R^7 to Stations. To get "
+#~ "^3C^7 with a factory equipped, either remove the Factory or spawn ships and "
+#~ "use COMMAND mode to release them."
+#~ msgstr ""
+#~ "ファクトリーブロックを搭載した戦艦は、ステーションに対して^6R^7を交換できません。ファクトリーを搭載して^3C^7を得るには、ファクトリを取り除くか、戦艦をスポーンし、コマンドモードを使って、これらをリリースしてください。"

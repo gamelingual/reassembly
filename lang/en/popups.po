@@ -1,0 +1,49 @@
+# 
+# Reassembly data/popups.lua localization file
+# 
+# Copyright (C) 2015-2016 Arthur Danskin
+# Content-Type: text/plain; charset=utf-8
+# 
+msgid ""
+msgstr ""
+
+msgid "Similarly colored ships are allies, everyone else is hostile."
+msgstr "Similarly colored ships are allies, everyone else is hostile."
+
+msgid "'$viewMap' to expand minimap."
+msgstr "'$viewMap' to expand minimap."
+
+msgid "$zoom to zoom camera."
+msgstr "$zoom to zoom camera."
+
+msgid "Follow tutorial objectives to advance."
+msgstr "Follow tutorial objectives to advance."
+
+msgid "'$escape' to save / quit."
+msgstr "'$escape' to save / quit."
+
+msgid "'$viewSelector' to edit ships."
+msgstr "'$viewSelector' to edit ships."
+
+msgid ""
+"Ship ^6R^7 capacity filled. Increase capacity by adding containers or fly "
+"near a station to trade ^6R^7 for ^3C^7"
+msgstr "Ship ^6R^7 capacity filled. Increase capacity by adding containers or fly near a station to trade ^6R^7 for ^3C^7"
+
+msgid "Drag new blocks from palette"
+msgstr "Drag new blocks from palette"
+
+msgid "'^5P^7' value limits ship features"
+msgstr "'^5P^7' value limits ship features"
+
+msgid "View Keyboard commands in Help menu"
+msgstr "View Keyboard commands in Help menu"
+
+msgid "Exit when finished"
+msgstr "Exit when finished"
+
+msgid "Increase ^5P^7 to build larger ships"
+msgstr "Increase ^5P^7 to build larger ships"
+
+#~ msgid "text to show to user"
+#~ msgstr "texto para mostrar al usuario"

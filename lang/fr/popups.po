@@ -1,0 +1,49 @@
+# 
+# Reassembly data/popups.lua localization file
+# 
+# Copyright (C) 2015-2016 Arthur Danskin
+# Content-Type: text/plain; charset=utf-8
+# 
+msgid ""
+msgstr ""
+
+msgid "Similarly colored ships are allies, everyone else is hostile."
+msgstr "Les vaisseaux de même couleur sont des alliés, tous les autres sont hostiles."
+
+msgid "'$viewMap' to expand minimap."
+msgstr "« $viewMap » pour agrandir la minicarte."
+
+msgid "$zoom to zoom camera."
+msgstr "« $zoom » pour zoomer."
+
+msgid "Follow tutorial objectives to advance."
+msgstr "Suivez les objectifs du tutoriel pour avancer."
+
+msgid "'$escape' to save / quit."
+msgstr "« $escape » pour enregistrer/quitter."
+
+msgid "'$viewSelector' to edit ships."
+msgstr "« $viewSelector » pour modifier les vaisseaux."
+
+msgid ""
+"Ship ^6R^7 capacity filled. Increase capacity by adding containers or fly "
+"near a station to trade ^6R^7 for ^3C^7"
+msgstr "Capacité de ^6R^7 du vaisseau remplie. Augmentez la capacité en ajoutant des conteneurs à votre vaisseau ou en volant à proximité d'une station pour échanger des ^6R^7 contre des ^3C^7"
+
+msgid "Drag new blocks from palette"
+msgstr "Faites glisser de nouveaux blocs à partir de la palette"
+
+msgid "'^5P^7' value limits ship features"
+msgstr "« ^5P^7 » limite le nombre de caractéristiques du vaisseau"
+
+msgid "View Keyboard commands in Help menu"
+msgstr "Vérifiez les commandes du clavier dans le menu Aide"
+
+msgid "Exit when finished"
+msgstr "Quittez lorsque vous aurez terminé"
+
+msgid "Increase ^5P^7 to build larger ships"
+msgstr "Augmentez votre ^5P^7 pour construire de plus grands vaisseaux"
+
+#~ msgid "text to show to user"
+#~ msgstr "texte à afficher à l'utilisateur"

@@ -1,0 +1,495 @@
+#
+# Reassembly data/shipnames.lua localization file
+#
+# Copyright (C) 2015-2016 Arthur Danskin
+# Content-Type: text/plain; charset=utf-8
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: pt_BR\n"
+
+# this is the name of a ship
+msgid "Angel"
+msgstr "Anjo"
+
+# this is the name of a ship
+msgid "Arbalest"
+msgstr "Arbalesta"
+
+# this is the name of a ship
+msgid "Archangel"
+msgstr "Arcanjo"
+
+# this is the name of a ship
+msgid "Archer"
+msgstr "Arqueiro"
+
+# this is the name of a ship
+msgid "Assault"
+msgstr "Assalto"
+
+# this is the name of a ship
+msgid "Asteroid Home"
+msgstr "Lar Asteroide"
+
+# this is the name of a ship
+msgid "Bachelaskultz"
+msgstr "Bachelaskultz"
+
+# this is the name of a ship
+msgid "Ballista"
+msgstr "Balestra"
+
+# this is the name of a ship
+msgid "Barge"
+msgstr "Barcaça"
+
+# this is the name of a ship
+msgid "Barium"
+msgstr "Bário"
+
+# this is the name of a ship
+msgid "Bastion"
+msgstr "Bastição"
+
+# this is the name of a ship
+msgid "Battle Nurse"
+msgstr "Enfermeira de Guerra"
+
+# this is the name of a ship
+msgid "Battleship"
+msgstr "Nave de Guerra"
+
+# this is the name of a ship
+msgid "Beryllium"
+msgstr "Berílio"
+
+# this is the name of a ship
+msgid "Bombard"
+msgstr "Bombardeiro"
+
+# this is the name of a ship
+msgid "Bramble"
+msgstr "Espinheiro"
+
+# this is the name of a ship
+msgid "Brawler"
+msgstr "Brigador"
+
+# this is the name of a ship
+msgid "Cactus"
+msgstr "Cacto"
+
+# this is the name of a ship
+msgid "Caesium"
+msgstr "Césio"
+
+# this is the name of a ship
+msgid "Claw"
+msgstr "Garra"
+
+# this is the name of a ship
+msgid "Colony"
+msgstr "Colônia"
+
+# this is the name of a ship
+msgid "Column"
+msgstr "Coluna"
+
+# this is the name of a ship
+msgid "Combat Engineer"
+msgstr "Engenheiro de Combate"
+
+# this is the name of a ship
+msgid "Crescent"
+msgstr "Crescente"
+
+# this is the name of a ship
+msgid "Cruiser"
+msgstr "Cruzador"
+
+# this is the name of a ship
+msgid "Destroyer"
+msgstr "Contratorpedeiro"
+
+# this is the name of a ship
+msgid "Dragonfly"
+msgstr "Libélula"
+
+# this is the name of a ship
+msgid "Eagle"
+msgstr "Águia"
+
+# this is the name of a ship
+msgid "Energy Barge"
+msgstr "Barcaça de Energia"
+
+# this is the name of a ship
+msgid "Fighter"
+msgstr "Caça"
+
+# this is the name of a ship
+msgid "Fly"
+msgstr "Mosca"
+
+# this is the name of a ship
+msgid "Forklift"
+msgstr "Empilhadeira"
+
+# this is the name of a ship
+msgid "Fractal City"
+msgstr "Cidade Fractal"
+
+# this is the name of a ship
+msgid "Frigate"
+msgstr "Fragata"
+
+# this is the name of a ship
+msgid "Gallium"
+msgstr "Gálio"
+
+# this is the name of a ship
+msgid "Germanium"
+msgstr "Germânio"
+
+# this is the name of a ship
+msgid "Gnat"
+msgstr "Pernilongo"
+
+# this is the name of a ship
+msgid "Guardian"
+msgstr "GuardiÃ£o"
+
+# this is the name of a ship
+msgid "Harbinger"
+msgstr "Arauto"
+
+# this is the name of a ship
+msgid "Heavy Barge"
+msgstr "Barcaça Pesada"
+
+# this is the name of a ship
+msgid "Heavy Depot"
+msgstr "Depósito Pesado"
+
+# this is the name of a ship
+msgid "Heavy Minelayer"
+msgstr "Lança-minas Pesado"
+
+# this is the name of a ship
+msgid "Hiveblock"
+msgstr "Blocolmeia"
+
+# this is the name of a ship
+msgid "Indium"
+msgstr "Índio"
+
+# this is the name of a ship
+msgid "Interceptor"
+msgstr "Interceptador"
+
+# this is the name of a ship
+msgid "Lithium"
+msgstr "Lítio"
+
+# this is the name of a ship
+msgid "Magnesium"
+msgstr "Magnésio"
+
+# this is the name of a ship
+msgid "Metacolumn"
+msgstr "Metacoluna"
+
+# this is the name of a ship
+msgid "Minelayer"
+msgstr "Lança-minas"
+
+# this is the name of a ship
+msgid "Minifreight"
+msgstr "Minicargueiro"
+
+# this is the name of a ship
+msgid "Mosquito"
+msgstr "Mosquito"
+
+# this is the name of a ship
+msgid "Mothership"
+msgstr "Nave-mãe"
+
+# this is the name of a ship
+msgid "Mouse"
+msgstr "Ratinho"
+
+# this is the name of a ship
+msgid "Nami"
+msgstr "Nami"
+
+# this is the name of a ship
+msgid "Necropolis"
+msgstr "Necrópole"
+
+# this is the name of a ship
+msgid "Nurse"
+msgstr "Enfermeira"
+
+# this is the name of a ship
+msgid "Obelisk"
+msgstr "Obelisco"
+
+# this is the name of a ship
+msgid "Owl"
+msgstr "Coruja"
+
+# this is the name of a ship
+msgid "Pewpew"
+msgstr "Poupou"
+
+# this is the name of a ship
+msgid "Pineapple"
+msgstr "Abacaxi"
+
+# this is the name of a ship
+msgid "Pinnacle"
+msgstr "Pináculo"
+
+# this is the name of a ship
+msgid "Plutonium"
+msgstr "Plutônio"
+
+# this is the name of a ship
+msgid "Probe"
+msgstr "Sonda"
+
+# this is the name of a ship
+msgid "Probe0"
+msgstr "Sonda0"
+
+# this is the name of a ship
+msgid "Promethium"
+msgstr "Promécio"
+
+# this is the name of a ship
+msgid "Radium"
+msgstr "Rádio"
+
+# this is the name of a ship
+msgid "Raptor"
+msgstr "Raptor"
+
+# this is the name of a ship
+msgid "Reaper"
+msgstr "Ceifador"
+
+# this is the name of a ship
+msgid "Recon"
+msgstr "Investigador"
+
+# this is the name of a ship
+msgid "Resurrection"
+msgstr "Ressurreição"
+
+# this is the name of a ship
+msgid "Rubidium"
+msgstr "Rubídio"
+
+# this is the name of a ship
+msgid "Saber"
+msgstr "Sabre"
+
+# this is the name of a ship
+msgid "Scarab"
+msgstr "Escaravelho"
+
+# this is the name of a ship
+msgid "Science Vessel"
+msgstr "Nau Científica"
+
+# this is the name of a ship
+msgid "Scout"
+msgstr "Batedor"
+
+# this is the name of a ship
+msgid "Scythe"
+msgstr "Foice"
+
+# this is the name of a ship
+msgid "Seraphim"
+msgstr "Serafim"
+
+# this is the name of a ship
+msgid "Shield Barge"
+msgstr "Barcaça Escudo"
+
+# this is the name of a ship
+msgid "Shriek"
+msgstr "Grito"
+
+# this is the name of a ship
+msgid "Shroud"
+msgstr "Mortalha"
+
+# this is the name of a ship
+msgid "Shrub"
+msgstr "Arbusto"
+
+# this is the name of a ship
+msgid "Shuriken"
+msgstr "Shuriken"
+
+# this is the name of a ship
+msgid "Skirmisher"
+msgstr "EscaramuÃ§ador"
+
+# this is the name of a ship
+msgid "Sniper"
+msgstr "Franco-atirador"
+
+# this is the name of a ship
+msgid "Soldier"
+msgstr "Soldado"
+
+# this is the name of a ship
+msgid "Soraka"
+msgstr "Soraka"
+
+# this is the name of a ship
+msgid "Sparrow"
+msgstr "Pardal"
+
+# this is the name of a ship
+msgid "Spider"
+msgstr "Aranha"
+
+# this is the name of a ship
+msgid "Spike"
+msgstr "Espeto"
+
+# this is the name of a ship
+msgid "Spinner"
+msgstr "Girador"
+
+# this is the name of a ship
+msgid "Spire"
+msgstr "Aguilhão"
+
+# this is the name of a ship
+msgid "Sprite"
+msgstr "Fada"
+
+# this is the name of a ship
+msgid "Squirt"
+msgstr "Esguicho"
+
+# this is the name of a ship
+msgid "Stamens"
+msgstr "Estame"
+
+# this is the name of a ship
+msgid "Star Home"
+msgstr "Casa Estelar"
+
+# this is the name of a ship
+msgid "Storm"
+msgstr "Tormenta"
+
+# this is the name of a ship
+msgid "Strike"
+msgstr "Ataque"
+
+# this is the name of a ship
+msgid "Stronium"
+msgstr "Estrôncio"
+
+# this is the name of a ship
+msgid "Sunflower"
+msgstr "Girassol"
+
+# this is the name of a ship
+msgid "T2 Interceptor"
+msgstr "Interceptador N2"
+
+# this is the name of a ship
+msgid "T2 Viking"
+msgstr "Viking N2"
+
+# this is the name of a ship
+msgid "T3 Valkyrie"
+msgstr "Valquíria N3"
+
+# this is the name of a ship
+msgid "Talon"
+msgstr "Talon"
+
+# this is the name of a ship
+msgid "Technician"
+msgstr "Técnico"
+
+# this is the name of a ship
+msgid "Tellurium"
+msgstr "Telúrio"
+
+# this is the name of a ship
+msgid "Thistle"
+msgstr "Capim"
+
+# this is the name of a ship
+msgid "Thistle Thorn"
+msgstr "Capim Espinhoso"
+
+# this is the name of a ship
+msgid "Thorn"
+msgstr "Espinho"
+
+# this is the name of a ship
+msgid "Tomb"
+msgstr "Tumba"
+
+# this is the name of a ship
+msgid "Tsunami"
+msgstr "Tsunami"
+
+# this is the name of a ship
+msgid "Tubule"
+msgstr "Tubo"
+
+# this is the name of a ship
+msgid "Twerp"
+msgstr "Bobão"
+
+# this is the name of a ship
+msgid "TwerpX2"
+msgstr "Bobãox2"
+
+# this is the name of a ship
+msgid "Uranium"
+msgstr "Urânio"
+
+# this is the name of a ship
+msgid "Vault"
+msgstr "Cofre"
+
+# this is the name of a ship
+msgid "Whirl Base"
+msgstr "Redemoinho"
+
+# this is the name of a ship
+msgid "Worker"
+msgstr "Trabalhador"
+
+# this is the name of a ship
+msgid "Yggdrasil"
+msgstr "Yggdrasil"
+
+# this is the name of a ship
+msgid "Ziggurat"
+msgstr "Zigurate"

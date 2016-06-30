@@ -1,0 +1,142 @@
+# 
+# Reassembly data/tutorial.lua localization file
+# 
+# Copyright (C) 2015-2016 Arthur Danskin
+# Content-Type: text/plain; charset=utf-8
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-08-18 21:45-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.8.4\n"
+
+msgid "Basics"
+msgstr "Básico"
+
+msgid "Enter the world"
+msgstr "Entrar no mundo"
+
+msgid "Use '$fireMain' to fire primary weapons"
+msgstr "Use '$fireMain' para disparar as armas principais"
+
+msgid "Use '$fireAlt' to launch secondary weapons"
+msgstr "Use '$fireAlt' para lançar as armas secundárias"
+
+msgid "Use '$viewConstructor' to modify ship"
+msgstr "Use '$viewConstructor' para modificar a nave"
+
+msgid "Resources"
+msgstr "\"Recursos\""
+
+msgid "Pick up an ^6R packet^7"
+msgstr "Apanhe uma ^6caixa de R^7"
+
+msgid "Fly near a ^2spawner^7 to trade ^6R^7 for ^3C^7"
+msgstr "Aproxime-se de um ^2produtor^7 para vender ^6R^7 por ^3C^7"
+
+msgid "Trade ^6100R^7 to a ^2spawner^7 for ^3C^7"
+msgstr "Venda ^6100R^7 para um ^2produtor^7 em troca de ^3C^7"
+
+msgid "Earn ^3C^7 by exploring"
+msgstr "Ganhe ^3C^7 explorando"
+
+msgid "Earn ^3C^7 and ^6R^7 by destroying enemy ships"
+msgstr "Ganhe ^3C^7 e ^6R^7 destruindo naves inimigas"
+
+msgid "Press '$viewUpgrades' and upgrade something"
+msgstr "Pressione '$viewUpgrades' para fazer upgrades"
+
+msgid "Weapon Binding"
+msgstr "\"Atalhos de Armas\""
+
+msgid "Use '$viewBindings' to modify weapon groups"
+msgstr "Use '$viewBindings' para modificar os grupos de armas"
+
+msgid "Objective"
+msgstr "\"Objetivos\""
+
+msgid "Use '$viewMap' to view full map"
+msgstr "Use '$viewMap' para visualizar o mapa completo"
+
+msgid "Fly near a ^4damaged station^7 to reactivate"
+msgstr "Aproxime-se de uma ^4estação danificada^7 para reativá-la"
+
+msgid "Factory"
+msgstr "\"Fábricas\""
+
+msgid "Unlock the factory block using '$viewUpgrades'"
+msgstr "Libere o bloco de fábrica usando '$viewUpgrades'"
+
+msgid "Attach a factory to your ship"
+msgstr "Conecte uma fábrica à sua nave"
+
+msgid "Use '$viewSelector' to place a ship design in the alternate slot"
+msgstr ""
+"Use '$viewSelector' para colocar um projeto de nave em um espaço alternativo"
+
+msgid "Use '$activate' to spawn a ship"
+msgstr "Use '$activate' para produzir uma nave"
+
+msgid "Spawn a ship with its own factory to complete the cycle"
+msgstr "Produza uma nave que tenha sua própria fábrica para fechar o ciclo"
+
+msgid "Fleets"
+msgstr "\"Frotas\""
+
+msgid "Use '$toggleTractor' to engage command mode"
+msgstr "Use '$toggleTractor' para ativar o modo de comando"
+
+msgid "Use '$fireMain' in command mode to recruit an ally"
+msgstr "Use '$fireMain' durante o modo de comando para recrutar um aliado"
+
+msgid "Use '$fireMain' again to release the ally (and gain ^3C^7)"
+msgstr "Use '$fireMain' novamente para liberar o aliado (e ganhar ^3C^7)"
+
+msgid "Use '$viewSelector' to edit targeted ally's ship and build order"
+msgstr ""
+"Use '$viewSelector' mirando seu aliado para modificar a nave e ordem de "
+"produção dele"
+
+msgid "Generator"
+msgstr "\"Geradores\""
+
+msgid "Attach a generator to your ship to boost power"
+msgstr "Conecte um Gerador à sua nave para ampliar sua energia"
+
+msgid "Targets"
+msgstr "\"Alvos\""
+
+msgid "Use the map to locate and destroy an ^1agent^7"
+msgstr "Utilize o mapa para localizar e destruir um ^1agente^7"
+
+msgid ""
+"Unlock a playable faction by destroying a ^51000P+^7 ship from that faction"
+msgstr ""
+"Desbloqueie uma facção jogável destruindo uma nave dela com mais de "
+"^51000P^7"
+
+msgid "Wormhole"
+msgstr "\"Buracos de Minhoca\""
+
+msgid "Use a wormhole to upload your fleet without changing worlds"
+msgstr "Use um buraco de minhoca para enviar sua frota sem trocar de mundo"
+
+msgid "Travel through a wormhole into a new world"
+msgstr "Atravesse um buraco de minhoca para ir a um mundo novo"
+
+#~ msgid "Group Name"
+#~ msgstr "Nome do Grupo"
+
+#~ msgid "Objective 1 Text"
+#~ msgstr "Texto do Objetivo 1"
+
+#~ msgid "Objective 2 Text"
+#~ msgstr "Texto do Objetivo 2"

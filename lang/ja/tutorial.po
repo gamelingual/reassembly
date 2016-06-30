@@ -1,0 +1,126 @@
+# 
+# Reassembly data/tutorial.lua localization file
+# 
+# Copyright (C) 2015-2016 Arthur Danskin
+# Content-Type: text/plain; charset=utf-8
+# 
+msgid ""
+msgstr ""
+
+msgid "Basics"
+msgstr "基本"
+
+msgid "Enter the world"
+msgstr "世界に移動する"
+
+msgid "Use '$fireMain' to fire primary weapons"
+msgstr "'$fireMain'を押すと、プライマリ兵器で攻撃します"
+
+msgid "Use '$fireAlt' to launch secondary weapons"
+msgstr "'$fireAlt'を押すと、セカンダリ兵器で攻撃します"
+
+msgid "Use '$viewConstructor' to modify ship"
+msgstr "'$viewConstructor'を押して、戦艦を改造します"
+
+msgid "Resources"
+msgstr "資源"
+
+msgid "Pick up an ^6R packet^7"
+msgstr "^6Rパケット^7を拾います"
+
+msgid "Fly near a ^2spawner^7 to trade ^6R^7 for ^3C^7"
+msgstr "^2スポーナー^7の近くを飛行し、 ^6R^7を^3C^7と交換します"
+
+msgid "Trade ^6100R^7 to a ^2spawner^7 for ^3C^7"
+msgstr "^2スポーナー^7に対して、^6100R^7を^3C^7と交換します"
+
+msgid "Earn ^3C^7 by exploring"
+msgstr "探索して^3C^7を稼ぎます"
+
+msgid "Earn ^3C^7 and ^6R^7 by destroying enemy ships"
+msgstr "敵艦を破壊して^3C^7と^6R^7を稼ぎます"
+
+msgid "Press '$viewUpgrades' and upgrade something"
+msgstr "'$viewUpgrades'を押して、何かをアップグレードします"
+
+msgid "Weapon Binding"
+msgstr "兵器のバインド"
+
+msgid "Use '$viewBindings' to modify weapon groups"
+msgstr "'$viewBindings'を使用して、武器のグループを改造します"
+
+msgid "Objective"
+msgstr "目標"
+
+msgid "Use '$viewMap' to view full map"
+msgstr "'$viewMap'を使用して、マップ全体を表示します"
+
+msgid "Fly near a ^4damaged station^7 to reactivate"
+msgstr "^4ダメージを負ったステーション^7の近くを飛行し、再始動させます"
+
+msgid "Factory"
+msgstr "ファクトリー"
+
+msgid "Unlock the factory block using '$viewUpgrades'"
+msgstr "'$viewUpgrades'を使用してファクトリーブロックをアンロックします"
+
+msgid "Attach a factory to your ship"
+msgstr "自分の戦艦にファクトリーを搭載します"
+
+msgid "Use '$viewSelector' to place a ship design in the alternate slot"
+msgstr "'$viewSelector'を使用して、同一スロットに戦艦デザインを配置します"
+
+msgid "Use '$activate' to spawn a ship"
+msgstr "'$activate'を使用して、戦艦をスポーンします"
+
+msgid "Spawn a ship with its own factory to complete the cycle"
+msgstr "独自のファクトリーを搭載した戦艦をスポーンし、サイクルを完了させます"
+
+msgid "Fleets"
+msgstr "艦隊"
+
+msgid "Use '$toggleTractor' to engage command mode"
+msgstr "'$toggleTractor'を使用して、コマンドモードに入ります"
+
+msgid "Use '$fireMain' in command mode to recruit an ally"
+msgstr "コマンドモードで'$fireMain'を使用して仲間を集めます"
+
+msgid "Use '$fireMain' again to release the ally (and gain ^3C^7)"
+msgstr "'$fireMain'を再度使用すると、仲間をリリースします (^3C^7を入手)"
+
+msgid "Use '$viewSelector' to edit targeted ally's ship and build order"
+msgstr "'$viewSelector'を使用して、選択した仲間の戦艦と構築順を編集します"
+
+msgid "Generator"
+msgstr "ジェネレーター"
+
+msgid "Attach a generator to your ship to boost power"
+msgstr "戦艦にジェネレーターを取り付け、パワーをブーストさせます"
+
+msgid "Targets"
+msgstr "ターゲット"
+
+msgid "Use the map to locate and destroy an ^1agent^7"
+msgstr "マップを使用して、^1agent^7を発見して破壊します。"
+
+msgid ""
+"Unlock a playable faction by destroying a ^51000P+^7 ship from that faction"
+msgstr "ファクションから^51000P+^7の戦艦を破壊して、プレイ可能なファクションをアンロックします"
+
+msgid "Wormhole"
+msgstr "ワームホール"
+
+msgid "Use a wormhole to upload your fleet without changing worlds"
+msgstr "ワームホールを使用し、世界を変えることなく艦隊をアップロードします"
+
+msgid "Travel through a wormhole into a new world"
+msgstr "ワームホールからは、新たな世界へと旅立つことができます"
+
+#~ msgid "Group Name"
+#~ msgstr "グループ名"
+
+#~ msgid "Objective 1 Text"
+#~ msgstr "Objective 1 Text"
+
+#~ msgid "Objective 2 Text"
+#~ msgstr "Objective 2 Text"

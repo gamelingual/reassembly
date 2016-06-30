@@ -1,0 +1,65 @@
+# 
+# Reassembly data/tips.lua localization file
+# 
+# Copyright (C) 2015-2016 Arthur Danskin
+# Content-Type: text/plain; charset=utf-8
+# 
+msgid ""
+msgstr ""
+
+msgid "Press '$mouseRotToggle' to cycle ship control schemes."
+msgstr "Naciśnij '$mouseRotToggle', aby zmienić schemat sterowania."
+
+msgid ""
+"Press '$autoZoomToggle' to completely disable automatic zooming, or zoom "
+"with '$zoom' to temporarily disable."
+msgstr "Naciśnij '$autoZoomToggle', aby wyłączyć całkowicie automatyczne powiększenie, lub stosuj przybliżenie za pomocą '$zoom', aby wyłączyć je tymczasowo."
+
+msgid ""
+"Press '$toggleHUD' to cycle HUD visibility. This can be used to hide "
+"tutorial objectives."
+msgstr "Naciśnij '$toggleHUD', aby włączać/wyłączać HUD. Może w ten sposób ukryć cele samouczka."
+
+msgid ""
+"Build new stations by spawning a design with a factory but no thrusters. "
+"Newly discovered deactivated stations will spawn with stations in your fleet"
+" screen if available."
+msgstr "Buduj nowe stacje tworząc projekty statków bez dysz. Nowo odkryte nieaktywne stacje będą wytwarzane według projektów stacji zawartych w twoim ekranie floty, o ile są one dostępne."
+
+msgid ""
+"Allied stations and Factory ships will spawn ship designs from your Fleet "
+"screen."
+msgstr "Sojusznicze stacje i stocznie będą wytwarzać statki według projektów zawartych w twoim ekranie floty."
+
+msgid ""
+"Increase your ^5P^7 limit and unlock new blocks via the Upgrade screen "
+"('$viewUpgrades') to get more powerful."
+msgstr "Zwiększaj limit ^5P^7 i wykupuj nowe elementy na ekranie ulepszeń ('$viewUpgrades'), aby rosnąć w siłę."
+
+msgid ""
+"Generator blocks boost weapon power but explode dramatically when destroyed "
+"- make sure to protect them."
+msgstr "Generatory podnoszą siłę rażenia twoich broni, ale ich uszkodzenie powoduje olbrzymi wybuch, dlatego upewnij się, że są dobrze chronione."
+
+msgid ""
+"Keybindings can be changed within the Controls section of the main menu."
+msgstr "Przypisanie klawiszy można skonfigurować w sekcji Sterowanie, przechodząc do głównego menu."
+
+msgid ""
+"Press '$viewSelector' when targetting an allied ship in COMMAND mode to edit"
+" its design or child build order."
+msgstr "Naciśnij '$viewSelector' wskazując na statek sojuszniczy w trybie DOWODZENIA, aby edytować jego projekt lub kolejność wytwarzania."
+
+msgid ""
+"Ships equipped with Factory blocks do not automatically trade ^6R^7 to "
+"Stations. Use '$transferRes' to initiate a trade."
+msgstr "Statki wyposażone w element stoczni nie handlują ^6R^7 ze stacjami. Użyj '$transferRes', aby rozpocząć wymianę."
+
+#~ msgid ""
+#~ "Ships equipped with Factory blocks do not trade ^6R^7 to Stations. To get "
+#~ "^3C^7 with a factory equipped, either remove the Factory or spawn ships and "
+#~ "use COMMAND mode to release them."
+#~ msgstr ""
+#~ "Statki wyposażone w element stoczni nie handlują ^6R^7 ze stacjami. Aby "
+#~ "otrzymać ^3R^7, mając na wyposażeniu stocznię, usuń ją lub wytwórz statki, a"
+#~ " następnie wykorzystaj tryb DOWODZENIA, aby je zwolnić."

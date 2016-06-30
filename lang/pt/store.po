@@ -1,0 +1,51 @@
+#
+# Reassembly steam store localization file
+#
+# Copyright (C) 2015 Arthur Danskin
+# Content-Type: text/plain; charset=utf-8
+#
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-08-18 21:45-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt_BR\n"
+"X-Generator: Poedit 1.8.4\n"
+
+# Short Description
+msgid "A spaceship building and universe-exploration game. Collect resources, expand and grow your fleet, and conquer your personal galaxy. Stellar ambience by Peaks."
+msgstr "Um jogo de construir naves e explorar universos. Acumule riquezas, amplie sua frota, e parta para a conquista de sua própria galáxia. Estrelando toda a atmosfera de Peaks."
+
+# Being a marketing-related text, I followed a transcreational approach for this translation, trying to replicate the instigation the source material provokes, particularly in the first paragraph. Below there is a more conservative, literal translation.
+# "E pelo corredor polonês do Kickstarter nós passamos. Sim, temos todo um universo gerado processualmente para se explorar. Sim, temos uma jogabilidade vetorial de dar água nos olhos combinada com efeitos de partículas tão descomplicadamente efervescentes que você sequer terá tempo para pensar se "descomplicadamente efervescente" faz algum sentido. E, sim, temos efeitos e ambientações sonoras que massageiam seu cérebro com uma esponja bem macia até que ele brilhe em todo seu esplendor."
+msgid ""
+"And through the Kickstarter gauntlet we have arrived. Yes, we have a procedurally-generated universe to explore. Yes, we have eye-gogglingly gorgeous vector-based gameplay coupled with particle effects so effortlessly effervescent that you won't have time to wonder if \"effortlessly effervescent\" means anything coherent. And yes, we have noises and musical moods that take a warm soapy sponge to your brain and massage it into cerebral splendor. \n"
+"\n"
+"BUT YOU DON'T HAVE TIME FOR THAT!!!\n"
+"\n"
+"You're too busy crafting the perfect vessel, a spaceship pristine and precise and, perhaps, powerful, agile, and envy-inducing. Your shapes and colors will induce both fear and wonder into the electronic hearts of whatever insectoid, angley, squarish, plantlike race of alien ships that you come across in your digital safari. \n"
+"\n"
+"And then you grow. And it changes everything. Now your left wing must become your right wing in a lopsided arrangement of fancy new weaponry and mega-buffed shields. You recall thinking when you last were destroyed (and you will be destroyed), that you really needed to buff up that armor. Right? Definitely.\n"
+"\n"
+"And then you grow again. And again. And now you're a battleship capable of producing your own fleet, and each member of your fleet can spawn it's own fleet, and you need it. Your enemies are constantly changing shapes, sizes, and intensities as ships created and honed through the experience of a thousand battles find their way from their creator's computer to yours, leaping into your universe with all the mercy in the world of NONE AT ALL.\n"
+"\n"
+"It's time to visit the electronic tide pool. \n"
+"\n"
+"[h2]Reassembly[/h2]\n"
+"[list]\n"
+"[*] Gorgeous Vector-Based Graphics\n"
+"[*] Procedurally Generated Universes\n"
+"[*] Ridiculously User-Friendly Spaceship Designer\n"
+"[*] A Beautiful and Haunting Soundtrack by Peter Brown (Peaks)\n"
+"[*] More Particle Effects Than You can Shake a Stick At\n"
+"[*] Very Smart and Reactive AI\n"
+"[*] Physics that Give Weight to Your Creations\n"
+"[*] Asynchronous Multiplayer: Universes Populated by Fellow Players\n"
+"[/list]\n"
+msgstr "E ao mata-mata do Kickstarter sobrevivemos. Sim, temos universos gerados processualmente para serem explorados. Sim, temos uma jogabilidade vetorial de brilhar os olhos combinada com efeitos de partículas tão bucolicamente ebulitivos que você sequer terá tempo para pensar se \"bucolicamente ebulitivo\" faz algum sentido. E, sim, temos efeitos e ambientações sonoras capazes de massagear a sua mente até ela chegar ao Nirvana.\n\nMAS VOCÊ NÃO TEM TEMPO PARA ISSO!!!\n\nEstá ocupado demais elaborando a nave perfeita, uma espaçonave reluzente e precisa e, quem sabe, poderosa, ágil e invejável. Os formatos e cores dela causarão medo e admiração nos corações eletrônicos de qualquer raça insectoide, plantoide, angular ou anzolar que você possa encontrar em seu safari virtual.\n\nE aí você cresce. E crescer muda tudo. Agora seu flanco esquerdo tem que funcionar como flanco direito porque você fez um arranjo bizarro com as novas armas e escudos megafortificados. Você lembra que precisava fortificar a blindagem na última vez que te destruíram (e você vai ser destruído). Né? Com certeza.\n\nE aí você cresce de novo. E de novo. E agora você virou uma nave de guerra que pode produzir sua própria frota, e cada nave dela pode produzir uma frota também, e é disso que você precisa. Seus inimigos estão sempre mudando de forma, tamanho e força enquanto naves criadas e aperfeiçoadas com a experiência de mil batalhas acham um jeito de sair do computador de seus criadores e entrarem no seu, chegando ao universo com a misericórdia que se espera numa TERRA DE NINGUÉM.\n\nÉ hora de brincar na piscininha eletrônica.\n\n[h2]Reassembly[/h2]\n[list]\n[*] Gráficos Vetoriais Deslumbrantes\n[*] Universos Gerados Processualmente\n[*] Interface de Elaboração de Naves Ridiculamente Simples\n[*] Trilha Sonora Bela e Sombria por Peter Brown (Peaks)\n[*] Efeitos de Partículas a Dar com o Pau\n[*] IA Muito Astuta e Reativa\n[*] Física que Dá Peso a Suas Criações\n[*] Multiplayer Assíncrono: Universos Povoados por Outros Jogadores\n[/list]\n"

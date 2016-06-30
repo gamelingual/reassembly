@@ -1,0 +1,38 @@
+# 
+# Reassembly steam store localization file
+# 
+# Copyright (C) 2015 Arthur Danskin
+# Content-Type: text/plain; charset=utf-8
+# 
+msgid ""
+msgstr ""
+
+# Short Description
+msgid "A spaceship building and universe-exploration game. Collect resources, expand and grow your fleet, and conquer your personal galaxy. Stellar ambience by Peaks."
+msgstr "Игра, в которой вы строите космический корабль и исследуете Вселенную. Собирайте ресурсы, расширяйте и улучшайте свой флот и захватите галактику для личного пользования. Звездная музыка от группы Peaks."
+
+# About This Game
+msgid "And through the Kickstarter gauntlet we have arrived. Yes, we have a procedurally-generated universe to explore. Yes, we have eye-gogglingly gorgeous vector-based gameplay coupled with particle effects so effortlessly effervescent that you won't have time to wonder if \"effortlessly effervescent\" means anything coherent. And yes, we have noises and musical moods that take a warm soapy sponge to your brain and massage it into cerebral splendor. \n"
+"\n"
+"BUT YOU DON'T HAVE TIME FOR THAT!!!\n"
+"\n"
+"You're too busy crafting the perfect vessel, a spaceship pristine and precise and, perhaps, powerful, agile, and envy-inducing. Your shapes and colors will induce both fear and wonder into the electronic hearts of whatever insectoid, angley, squarish, plantlike race of alien ships that you come across in your digital safari. \n"
+"\n"
+"And then you grow. And it changes everything. Now your left wing must become your right wing in a lopsided arrangement of fancy new weaponry and mega-buffed shields. You recall thinking when you last were destroyed (and you will be destroyed), that you really needed to buff up that armor. Right? Definitely.\n"
+"\n"
+"And then you grow again. And again. And now you're a battleship capable of producing your own fleet, and each member of your fleet can spawn it's own fleet, and you need it. Your enemies are constantly changing shapes, sizes, and intensities as ships created and honed through the experience of a thousand battles find their way from their creator's computer to yours, leaping into your universe with all the mercy in the world of NONE AT ALL.\n"
+"\n"
+"It's time to visit the electronic tide pool. \n"
+"\n"
+"[h2]Reassembly[/h2]\n"
+"[list]\n"
+"[*] Gorgeous Vector-Based Graphics\n"
+"[*] Procedurally Generated Universes\n"
+"[*] Ridiculously User-Friendly Spaceship Designer\n"
+"[*] A Beautiful and Haunting Soundtrack by Peter Brown (Peaks)\n"
+"[*] More Particle Effects Than You can Shake a Stick At\n"
+"[*] Very Smart and Reactive AI\n"
+"[*] Physics that Give Weight to Your Creations\n"
+"[*] Asynchronous Multiplayer: Universes Populated by Fellow Players\n"
+"[/list]\n"
+msgstr "Итак, мы прошли строгую критику пользователей Kickstarter и получили их поддержку. Да, у нас процедурно-генерируемая Вселенная. Да, у нас умопомрачительно роскошный векторный геймплей, а эффекты частиц настолько непринужденно искрометные, что у вас не будет времени подумать, есть ли у выражения \"непринужденно искрометные\" какой-то смысл. И да, у нас есть звуки и музыкальная атмосфера, которые нежной пенистой губкой коснутся вашего мозга и отполируют каждую его извилину до восхитительного блеска. \n\nНО У ВАС НА ВСЕ ЭТО НЕТ ВРЕМЕНИ!!!\n\nВы слишком заняты созданием идеального космического корабля, безупречного и продуманного, а еще, если повезет, мощного, маневренного и вызывающего зависть окружающих. Очертания и цвета ваших творений будут внушать страх и трепет в электронные сердца тех насекомообразных, угловатых, квадратных или растениеподобных инопланетян, которые вам встретятся в ходе цифрового сафари. \n\nА потом вы вырастете. И это все изменит. Теперь ваше левое крыло обязательно должно стать правым крылом в несимметричной компоновке с новым модным оружием и мега-непробиваемыми щитами. Вы вспоминаете тот раз, когда вас в последний раз уничтожили (а вас будут уничтожать), – вы подумали, что обязательно нужно усилить эту броню. Так ведь? Стопроцентно.\n\nА потом вы вырастете еще раз. И еще раз. И теперь у вас огромный боевой корабль, который может построить собственный флот, и каждый корабль в этом флоте может построить собственный флот. И вам это жизненно необходимо. Ваши враги постоянно изменяют формы, размеры и мощность – корабли, созданные и закаленные опытом тысяч сражений попадают из компьютера создателя на ваш, впрыгивая в вашу Вселенную со всем милосердием в мире, или, иными словами, СОВЕРШЕННО БЕЗ НЕГО.\n\nПора погрузиться в электронный котел эволюции. \n\n[h2]Reassembly[/h2]\n[list]\n[*] Роскошная векторная графика\n[*] Процедурно-генерируемые Вселенные\n[*] До смешного удобное средство проектирования кораблей\n[*] Красивый и запоминающийся саундтрек от Питера Брауна (Peaks)\n[*] Столько эффектов частиц, что им конца и края не видно\n[*] Очень умный и активный ИИ\n[*] Физика, которая придает вес вашим творениям\n[*] Асинхронный мультиплеер: Вселенные населены другими игроками\n[/list]\n"

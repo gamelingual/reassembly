@@ -1,0 +1,211 @@
+#
+# Reassembly data/achievements localization file
+#
+# Copyright (C) 2015 Arthur Danskin
+# Content-Type: text/plain; charset=utf-8
+#
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-08-18 21:45-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt_BR\n"
+"X-Generator: Poedit 1.8.4\n"
+
+# NEW_ACHIEVEMENT_6_19_NAME
+msgid "Combat Rating: Dangerous"
+msgstr "Perícia de Combate: Periculosa"
+
+# NEW_ACHIEVEMENT_6_0_NAME
+msgid "Beginning Archaeologist"
+msgstr "Arqueólogo Iniciante"
+
+# NEW_ACHIEVEMENT_6_9_DESC
+msgid "Build a ship with exactly 8000P"
+msgstr "Construa uma nave com exatamente 8.000P"
+
+# NEW_ACHIEVEMENT_6_16_NAME
+msgid "Frequent Wormholer"
+msgstr "Assíduo Esburacador de Minhocas"
+
+# NEW_ACHIEVEMENT_6_3_DESC
+msgid "Destroy the largest crystalite ship"
+msgstr "Destrua a maior das naves de cristalita"
+
+# NEW_ACHIEVEMENT_6_3_NAME
+msgid "Skull Slayer"
+msgstr "Caça-Crânios"
+
+# NEW_ACHIEVEMENT_6_1_NAME
+msgid "Persistent Archaeologist"
+msgstr "Arqueólogo Perseverante"
+
+# NEW_ACHIEVEMENT_6_4_NAME
+msgid "Crescent Slayer"
+msgstr "Caça-Lúnulas"
+
+# NEW_ACHIEVEMENT_6_19_DESC
+msgid "Destroy 30,000P of ships"
+msgstr "Destrua naves em um valor de 30.000P"
+
+# NEW_ACHIEVEMENT_6_20_NAME
+msgid "Combat Rating: Deadly"
+msgstr "Perícia de Combate: Mortífera"
+
+# NEW_ACHIEVEMENT_6_6_NAME
+msgid "Explorer"
+msgstr "Explorador"
+
+# NEW_ACHIEVEMENT_6_22_NAME
+msgid "Six Figures"
+msgstr "Seis Dígitos"
+
+# NEW_ACHIEVEMENT_6_0_DESC
+msgid "Activated 10 Stations"
+msgstr "10 Estações Ativadas"
+
+# NEW_ACHIEVEMENT_6_9_NAME
+msgid "MinMaximizer"
+msgstr "MiniMaximizador"
+
+# NEW_ACHIEVEMENT_6_14_NAME
+msgid "Agent Obliterator"
+msgstr "Exterminador de Agentes"
+
+# NEW_ACHIEVEMENT_6_14_DESC
+msgid "Destroy 50 Agents"
+msgstr "Destrua 50 Agentes"
+
+# NEW_ACHIEVEMENT_6_18_NAME
+msgid "Combat Rating: Worthy of Note"
+msgstr "Perícia de Combate: Digna de Nota"
+
+# NEW_ACHIEVEMENT_6_23_DESC
+msgid "Die 100 times"
+msgstr "Morra 100 vezes"
+
+# NEW_ACHIEVEMENT_6_17_DESC
+msgid "Acquire 10,000 C"
+msgstr "Obtenha 10.000 C"
+
+# NEW_ACHIEVEMENT_6_10_DESC
+msgid "Spawn 100 ships"
+msgstr "Produza 100 naves"
+
+# NEW_ACHIEVEMENT_6_8_NAME
+msgid "Thorough Explorer"
+msgstr "Explorador Minucioso"
+
+# NEW_ACHIEVEMENT_6_11_DESC
+msgid "Transfer 10,000 R to allies"
+msgstr "Transfira 10.000 R para aliados"
+
+# NEW_ACHIEVEMENT_6_15_DESC
+msgid "Travel through 1 wormhole"
+msgstr "Atravesse 1 buraco de minhoca"
+
+# NEW_ACHIEVEMENT_6_5_DESC
+msgid "Conquer all sectors in a galaxy"
+msgstr "Conquiste todos os setores da galáxia"
+
+# NEW_ACHIEVEMENT_6_4_DESC
+msgid "Destroy the crescent ship"
+msgstr "Destrua a nave lúnula"
+
+# NEW_ACHIEVEMENT_6_23_NAME
+msgid "Consolation Prize"
+msgstr "Prêmio de Consolação"
+
+# NEW_ACHIEVEMENT_6_11_NAME
+msgid "Resupplier"
+msgstr "Reabastecedor"
+
+# NEW_ACHIEVEMENT_6_2_DESC
+msgid "Unlock all 7 factions"
+msgstr "Libere todas as 7 facções"
+
+# NEW_ACHIEVEMENT_6_6_DESC
+msgid "Explore 1000 Sectors"
+msgstr "Explore 1.000 Setores"
+
+# NEW_ACHIEVEMENT_6_2_NAME
+msgid "Diverse Destroyer"
+msgstr "Destruidor Versátil"
+
+# NEW_ACHIEVEMENT_6_13_NAME
+msgid "Agent Conquerer"
+msgstr "Dominador de Agentes"
+
+# NEW_ACHIEVEMENT_6_15_NAME
+msgid "Wormhole Explorer"
+msgstr "Explorador de Buracos de Minhoca"
+
+# NEW_ACHIEVEMENT_6_7_NAME
+msgid "Super Explorer"
+msgstr "Superexplorador"
+
+# NEW_ACHIEVEMENT_6_10_NAME
+msgid "Fleet Mother"
+msgstr "Mãe da Frota"
+
+# NEW_ACHIEVEMENT_6_12_NAME
+msgid "Agent Destroyer"
+msgstr "Destruidor de Agente"
+
+# NEW_ACHIEVEMENT_6_12_DESC
+msgid "Destroy an agent"
+msgstr "Destrua um agente"
+
+# NEW_ACHIEVEMENT_6_17_NAME
+msgid "Hoarder"
+msgstr "Acumulador"
+
+# NEW_ACHIEVEMENT_6_21_NAME
+msgid "Combat Rating: Frightening"
+msgstr "Perícia de Combate: Assustadora"
+
+# NEW_ACHIEVEMENT_6_13_DESC
+msgid "Destroy 10 agents"
+msgstr "Destrua 10 agentes"
+
+# NEW_ACHIEVEMENT_6_21_DESC
+msgid "Destroy 70,000P of ships"
+msgstr "Destrua naves em um valor de 70.000P"
+
+# NEW_ACHIEVEMENT_6_1_DESC
+msgid "Activate all stations in a galaxy"
+msgstr "Ative todas as estações da galáxia"
+
+# NEW_ACHIEVEMENT_6_18_DESC
+msgid "Destroy 10,000P of ships"
+msgstr "Destrua naves em um valor de 10.000P"
+
+# NEW_ACHIEVEMENT_6_16_DESC
+msgid "Travel through 10 wormholes"
+msgstr "Atravesse 10 buracos de minhoca"
+
+# NEW_ACHIEVEMENT_6_22_DESC
+msgid "Acquire 100,000C"
+msgstr "Obtenha 100.000C"
+
+# NEW_ACHIEVEMENT_6_8_DESC
+msgid "Explore all sectors in a galaxy"
+msgstr "Explore todos os setores da galáxia"
+
+# NEW_ACHIEVEMENT_6_5_NAME
+msgid "Completionist"
+msgstr "Perfeccionista"
+
+# NEW_ACHIEVEMENT_6_7_DESC
+msgid "Explore 10,000 Sectors"
+msgstr "Explore 10.000 Setores"
+
+# NEW_ACHIEVEMENT_6_20_DESC
+msgid "Destroy 50,000P of ships"
+msgstr "Destrua naves em um valor de 50.000P"

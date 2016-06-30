@@ -1,0 +1,135 @@
+# 
+# Reassembly data/tutorial.lua localization file
+# 
+# Copyright (C) 2015-2016 Arthur Danskin
+# Content-Type: text/plain; charset=utf-8
+# 
+msgid ""
+msgstr ""
+
+msgid "Basics"
+msgstr "Основы"
+
+msgid "Enter the world"
+msgstr "Войдите в мир"
+
+msgid "Use '$fireMain' to fire primary weapons"
+msgstr "Нажмите «$fireMain», чтобы стрелять из основного оружия"
+
+msgid "Use '$fireAlt' to launch secondary weapons"
+msgstr "Нажмите «$fireAlt», чтобы применить дополнительное оружие"
+
+msgid "Use '$viewConstructor' to modify ship"
+msgstr "Нажмите «$viewConstructor», чтобы изменить конструкцию корабля"
+
+msgid "Resources"
+msgstr "Ресурсы"
+
+msgid "Pick up an ^6R packet^7"
+msgstr "Соберите ^6пакет ресурсов (Р)^7"
+
+msgid "Fly near a ^2spawner^7 to trade ^6R^7 for ^3C^7"
+msgstr "Пролетите мимо ^2строителя^7, чтобы обменять ^6Р^7 на ^3К^7"
+
+msgid "Trade ^6100R^7 to a ^2spawner^7 for ^3C^7"
+msgstr "Обменяйте ^6100Р^7 у ^2строителя^7 на ^3К^7"
+
+msgid "Earn ^3C^7 by exploring"
+msgstr "Заработайте ^3К^7 за исследование космоса"
+
+msgid "Earn ^3C^7 and ^6R^7 by destroying enemy ships"
+msgstr "Заработайте ^3К^7 и ^6Р^7 за уничтожение вражеских кораблей"
+
+msgid "Press '$viewUpgrades' and upgrade something"
+msgstr "Нажмите «$viewUpgrades» и выполните любое улучшение"
+
+msgid "Weapon Binding"
+msgstr "Привязки оружия"
+
+msgid "Use '$viewBindings' to modify weapon groups"
+msgstr "Нажмие «$viewBindings», чтобы изменить группы оружия"
+
+msgid "Objective"
+msgstr "Цель"
+
+msgid "Use '$viewMap' to view full map"
+msgstr "Нажмите «$viewMap», чтобы просмотреть всю карту"
+
+msgid "Fly near a ^4damaged station^7 to reactivate"
+msgstr "Пролетите возле ^4поврежденной станции^7, чтобы активировать ее"
+
+msgid "Factory"
+msgstr "Завод"
+
+msgid "Unlock the factory block using '$viewUpgrades'"
+msgstr "Откройте блок «Завод» с помощью «$viewUpgrades»"
+
+msgid "Attach a factory to your ship"
+msgstr "Установите завод на свой корабль"
+
+msgid "Use '$viewSelector' to place a ship design in the alternate slot"
+msgstr "Нажмите «$viewSelector», чтобы разместить схему корабля в другом слоте"
+
+msgid "Use '$activate' to spawn a ship"
+msgstr "Нажмите «$activate», чтобы построить корабль"
+
+msgid "Spawn a ship with its own factory to complete the cycle"
+msgstr "Постройте корабль с собственным заводом, чтобы завершить цикл"
+
+msgid "Fleets"
+msgstr "Флоты"
+
+msgid "Use '$toggleTractor' to engage command mode"
+msgstr "Нажмите «$toggleTractor», чтобы перейти в режим командира"
+
+msgid "Use '$fireMain' in command mode to recruit an ally"
+msgstr "Нажмите «$fireMain» в режиме командира, чтобы призвать союзника"
+
+msgid "Use '$fireMain' again to release the ally (and gain ^3C^7)"
+msgstr "Нажмите «$fireMain» еще раз, чтобы отпустить союзника (и получить ^3К^7)"
+
+msgid "Use '$viewSelector' to edit targeted ally's ship and build order"
+msgstr "Используйте «$viewSelector», чтобы редактировать корабль и изменить порядок строительства у выбранного союзника"
+
+msgid "Generator"
+msgstr "Генератор"
+
+msgid "Attach a generator to your ship to boost power"
+msgstr "Установите на свой корабль генератор, чтобы увеличить мощность"
+
+msgid "Targets"
+msgstr "Цели"
+
+msgid "Use the map to locate and destroy an ^1agent^7"
+msgstr "Используйте карту, чтобы найти и уничтожить ^1агента^7"
+
+msgid ""
+"Unlock a playable faction by destroying a ^51000P+^7 ship from that faction"
+msgstr "Откройте игровую фракцию, уничтожив корабль уровня ^51000О+^7 из этой фракции"
+
+msgid "Wormhole"
+msgstr "Червоточина"
+
+msgid "Use a wormhole to upload your fleet without changing worlds"
+msgstr "Используйте червоточину, чтобы передать копию своего флота, не переходя в другой мир"
+
+msgid "Travel through a wormhole into a new world"
+msgstr "Перейдите через червоточину в другой мир"
+
+#~ msgid "Group Name"
+#~ msgstr "Имя группы"
+
+#~ msgid "Objective 1 Text"
+#~ msgstr "Текст цели 1"
+
+#~ msgid "Objective 2 Text"
+#~ msgstr "Текст цели 2"
+
+#~ msgid "Console Text"
+#~ msgstr "Текст консоли"
+
+#~ msgid "Resource packet acquired"
+#~ msgstr "Получен пакет ресурсов"
+
+#~ msgid "Resources transferred"
+#~ msgstr "Ресурсы переданы"

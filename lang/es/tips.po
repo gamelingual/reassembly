@@ -1,0 +1,65 @@
+# 
+# Reassembly data/tips.lua localization file
+# 
+# Copyright (C) 2015-2016 Arthur Danskin
+# Content-Type: text/plain; charset=utf-8
+# 
+msgid ""
+msgstr ""
+
+msgid "Press '$mouseRotToggle' to cycle ship control schemes."
+msgstr "Presiona \"$mouseRotToggle\" para alternar los controles de la nave."
+
+msgid ""
+"Press '$autoZoomToggle' to completely disable automatic zooming, or zoom "
+"with '$zoom' to temporarily disable."
+msgstr "Presiona \"$autoZoomToggle\" para deshabilitar completamente el zoom automático, o haz zoom con \"$zoom\" para deshabilitarlo de manera temporal."
+
+msgid ""
+"Press '$toggleHUD' to cycle HUD visibility. This can be used to hide "
+"tutorial objectives."
+msgstr "Presiona \"$toggleHUD\" para cambiar la visibilidad de la pantalla HUD. Esto se puede usar para ocultar los objetivos del tutorial."
+
+msgid ""
+"Build new stations by spawning a design with a factory but no thrusters. "
+"Newly discovered deactivated stations will spawn with stations in your fleet"
+" screen if available."
+msgstr "Construye nuevas estaciones generando un diseño con una fábrica sin propulsores. Las estaciones descubiertas recientemente y que estén desactivadas serán generadas con estaciones en la pantalla de tu flota, si están disponibles."
+
+msgid ""
+"Allied stations and Factory ships will spawn ship designs from your Fleet "
+"screen."
+msgstr "Las estaciones aliadas y las naves Fábrica generan diseños de naves de la pantalla de tu Flota."
+
+msgid ""
+"Increase your ^5P^7 limit and unlock new blocks via the Upgrade screen "
+"('$viewUpgrades') to get more powerful."
+msgstr "Aumenta tu límite de ^5P^7 y desbloquea nuevos bloques desde la pantalla Mejoras (\"$viewUpgrades\") para que tu nave sea más poderosa."
+
+msgid ""
+"Generator blocks boost weapon power but explode dramatically when destroyed "
+"- make sure to protect them."
+msgstr "Los bloques de generación mejoran la potencia de las armas, pero causan una gran explosión al ser destruidos; asegúrate de protegerlos."
+
+msgid ""
+"Keybindings can be changed within the Controls section of the main menu."
+msgstr "Puedes cambiar los controles en la sección Controles del menú principal."
+
+msgid ""
+"Press '$viewSelector' when targetting an allied ship in COMMAND mode to edit"
+" its design or child build order."
+msgstr "Presiona \"$viewSelector\" cuando apuntes a una nave aliada en el modo COMANDO para editar su diseño o el orden de construcción secundaria."
+
+msgid ""
+"Ships equipped with Factory blocks do not automatically trade ^6R^7 to "
+"Stations. Use '$transferRes' to initiate a trade."
+msgstr "Las Naves equipadas con Bloques de fábrica no cambian ^6R^7 a Estaciones de manera automática. Presiona \"$transferRes\" para iniciar el cambio."
+
+#~ msgid ""
+#~ "Ships equipped with Factory blocks do not trade ^6R^7 to Stations. To get "
+#~ "^3C^7 with a factory equipped, either remove the Factory or spawn ships and "
+#~ "use COMMAND mode to release them."
+#~ msgstr ""
+#~ "La naves equipadas con bloques de Fábrica no cambian ^6R^7 a Estaciones. "
+#~ "Para obtener ^3C^7 con una fábrica equipada, retira la Fábrica o genera "
+#~ "naves y utiliza el modo COMANDO para liberarlas."

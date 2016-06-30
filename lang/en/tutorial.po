@@ -1,0 +1,126 @@
+# 
+# Reassembly data/tutorial.lua localization file
+# 
+# Copyright (C) 2015-2016 Arthur Danskin
+# Content-Type: text/plain; charset=utf-8
+# 
+msgid ""
+msgstr ""
+
+msgid "Basics"
+msgstr "Basics"
+
+msgid "Enter the world"
+msgstr "Enter the world"
+
+msgid "Use '$fireMain' to fire primary weapons"
+msgstr "Use '$fireMain' to fire primary weapons"
+
+msgid "Use '$fireAlt' to launch secondary weapons"
+msgstr "Use '$fireAlt' to launch secondary weapons"
+
+msgid "Use '$viewConstructor' to modify ship"
+msgstr "Use '$viewConstructor' to modify ship"
+
+msgid "Resources"
+msgstr "Resources"
+
+msgid "Pick up an ^6R packet^7"
+msgstr "Pick up an ^6R packet^7"
+
+msgid "Fly near a ^2spawner^7 to trade ^6R^7 for ^3C^7"
+msgstr "Fly near a ^2spawner^7 to trade ^6R^7 for ^3C^7"
+
+msgid "Trade ^6100R^7 to a ^2spawner^7 for ^3C^7"
+msgstr "Trade ^6100R^7 to a ^2spawner^7 for ^3C^7"
+
+msgid "Earn ^3C^7 by exploring"
+msgstr "Earn ^3C^7 by exploring"
+
+msgid "Earn ^3C^7 and ^6R^7 by destroying enemy ships"
+msgstr "Earn ^3C^7 and ^6R^7 by destroying enemy ships"
+
+msgid "Press '$viewUpgrades' and upgrade something"
+msgstr "Press '$viewUpgrades' and upgrade something"
+
+msgid "Weapon Binding"
+msgstr "Weapon Binding"
+
+msgid "Use '$viewBindings' to modify weapon groups"
+msgstr "Use '$viewBindings' to modify weapon groups"
+
+msgid "Objective"
+msgstr "Objective"
+
+msgid "Use '$viewMap' to view full map"
+msgstr "Use '$viewMap' to view full map"
+
+msgid "Fly near a ^4damaged station^7 to reactivate"
+msgstr "Fly near a ^4damaged station^7 to reactivate"
+
+msgid "Factory"
+msgstr "Factory"
+
+msgid "Unlock the factory block using '$viewUpgrades'"
+msgstr "Unlock the factory block using '$viewUpgrades'"
+
+msgid "Attach a factory to your ship"
+msgstr "Attach a factory to your ship"
+
+msgid "Use '$viewSelector' to place a ship design in the alternate slot"
+msgstr "Use '$viewSelector' to place a ship design in the alternate slot"
+
+msgid "Use '$activate' to spawn a ship"
+msgstr "Use '$activate' to spawn a ship"
+
+msgid "Spawn a ship with its own factory to complete the cycle"
+msgstr "Spawn a ship with its own factory to complete the cycle"
+
+msgid "Fleets"
+msgstr "Fleets"
+
+msgid "Use '$toggleTractor' to engage command mode"
+msgstr "Use '$toggleTractor' to engage command mode"
+
+msgid "Use '$fireMain' in command mode to recruit an ally"
+msgstr "Use '$fireMain' in command mode to recruit an ally"
+
+msgid "Use '$fireMain' again to release the ally (and gain ^3C^7)"
+msgstr "Use '$fireMain' again to release the ally (and gain ^3C^7)"
+
+msgid "Use '$viewSelector' to edit targeted ally's ship and build order"
+msgstr "Use '$viewSelector' to edit targeted ally's ship and build order"
+
+msgid "Generator"
+msgstr "Generator"
+
+msgid "Attach a generator to your ship to boost power"
+msgstr "Attach a generator to your ship to boost power"
+
+msgid "Targets"
+msgstr "Targets"
+
+msgid "Use the map to locate and destroy an ^1agent^7"
+msgstr "Use the map to locate and destroy an ^1agent^7"
+
+msgid ""
+"Unlock a playable faction by destroying a ^51000P+^7 ship from that faction"
+msgstr "Unlock a playable faction by destroying a ^51000P+^7 ship from that faction"
+
+msgid "Wormhole"
+msgstr "Wormhole"
+
+msgid "Use a wormhole to upload your fleet without changing worlds"
+msgstr "Use a wormhole to upload your fleet without changing worlds"
+
+msgid "Travel through a wormhole into a new world"
+msgstr "Travel through a wormhole into a new world"
+
+#~ msgid "Group Name"
+#~ msgstr "Nombre de grupo"
+
+#~ msgid "Objective 1 Text"
+#~ msgstr "Texto del Objetivo 1"
+
+#~ msgid "Objective 2 Text"
+#~ msgstr "Texto del Objetivo 2"

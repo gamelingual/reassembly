@@ -1,0 +1,62 @@
+# 
+# Reassembly steam store localization file
+# 
+# Copyright (C) 2015 Arthur Danskin
+# Content-Type: text/plain; charset=utf-8
+# 
+msgid ""
+msgstr ""
+
+# Short Description
+msgid "A spaceship building and universe-exploration game. Collect resources, expand and grow your fleet, and conquer your personal galaxy. Stellar ambience by Peaks."
+msgstr "宇宙船構築と宇宙探査ゲーム。資源を集め、艦隊を拡大し、自分だけの銀河を制圧しましょう。Peaks が惑星の雰囲気を表現。"
+
+# About This Game
+msgid "And through the Kickstarter gauntlet we have arrived. Yes, we have a procedurally-generated universe to explore. Yes, we have eye-gogglingly gorgeous vector-based gameplay coupled with particle effects so effortlessly effervescent that you won't have time to wonder if \"effortlessly effervescent\" means anything coherent. And yes, we have noises and musical moods that take a warm soapy sponge to your brain and massage it into cerebral splendor. \n"
+"\n"
+"BUT YOU DON'T HAVE TIME FOR THAT!!!\n"
+"\n"
+"You're too busy crafting the perfect vessel, a spaceship pristine and precise and, perhaps, powerful, agile, and envy-inducing. Your shapes and colors will induce both fear and wonder into the electronic hearts of whatever insectoid, angley, squarish, plantlike race of alien ships that you come across in your digital safari. \n"
+"\n"
+"And then you grow. And it changes everything. Now your left wing must become your right wing in a lopsided arrangement of fancy new weaponry and mega-buffed shields. You recall thinking when you last were destroyed (and you will be destroyed), that you really needed to buff up that armor. Right? Definitely.\n"
+"\n"
+"And then you grow again. And again. And now you're a battleship capable of producing your own fleet, and each member of your fleet can spawn it's own fleet, and you need it. Your enemies are constantly changing shapes, sizes, and intensities as ships created and honed through the experience of a thousand battles find their way from their creator's computer to yours, leaping into your universe with all the mercy in the world of NONE AT ALL.\n"
+"\n"
+"It's time to visit the electronic tide pool. \n"
+"\n"
+"[h2]Reassembly[/h2]\n"
+"[list]\n"
+"[*] Gorgeous Vector-Based Graphics\n"
+"[*] Procedurally Generated Universes\n"
+"[*] Ridiculously User-Friendly Spaceship Designer\n"
+"[*] A Beautiful and Haunting Soundtrack by Peter Brown (Peaks)\n"
+"[*] More Particle Effects Than You can Shake a Stick At\n"
+"[*] Very Smart and Reactive AI\n"
+"[*] Physics that Give Weight to Your Creations\n"
+"[*] Asynchronous Multiplayer: Universes Populated by Fellow Players\n"
+"[/list]\n"
+msgstr "Kickstarterでの挑戦からスタートしました。プロシージャル技術を使って作成した宇宙を探検できます。粒状効果を組み合わせ、驚くほど美しいベクターベースのゲームプレイを用意しました。そのため、「知らない間に熱狂する」という言葉が最も適しているかを考える時間さえないほど、ゲームにのめり込むことができます。また、泡が溢れる暖かいスポンジを脳に近づけるような効果音や音楽的ムードが導入されており、これを脳の輝きに送り込んでいます。\n"
+"\n"
+"ですが、こんなことで浮かれている時間はありません！！！\n"
+"\n"
+"原始的かつ正確、そして強力かつアジャイルで誰もが羨ましがる完璧な宇宙戦艦の構築に追われているでしょうから。プレイヤーが生み出す形や色は、デジタルサファリで出くわすエイリアンシップの虫系、角系、植物系種族のエレクトリックハートに恐怖と戸惑いを導くのです。\n"
+"\n"
+"そして、強化していきます。すると、すべてが変わります。これで左翼が、高価な新しい兵器と超強化シールドのバランスの取れていない配置で右翼となります。最後に撃墜された時のこと、装甲を強化する必要があったことを思い出します (するとまた撃墜されます)。違いますか？もちろんそうでしょう。\n"
+"\n"
+"そしてまた強化し続けます。すると、この時点では、自身の艦隊を生み出すことのできる戦艦となっていることでしょう。そして、艦隊の各メンバーはそれぞれの艦隊をスポーンできるのです。これは、必要になりますよ。敵は形、サイズ、強さを増し続けます。戦艦がつくられ、数千という戦闘の経験によって磨かれたとき、クリエーターのコンピューターからプレイヤーへ向かう方法を見つけだし、慈悲などまったくない世界へと飛び込むのです。\n"
+"\n"
+"さあ、今こそ、電子タイドプールへと赴くときです。\n"
+"\n"
+"[h2]Reassembly[/h2]\n"
+"[list]\n"
+"[*] ゴージャスなベクターベースのグラフィック\n"
+"[*] プロシージャル技術で作成した世界\n"
+"[*] サルでもわかるユーザーフレンドリーな宇宙船デザイナー\n"
+"[*] ピーター・ブラウン (Peaks) による、美しく、いつまでも心に残るサウンドトラック\n"
+"[*] スティックでは振り切れないほどの粒子効果\n"
+"[*] 非常に賢く、反応性の高いAI\n"
+"[*] プレイヤーのクリエーションの可能性を高める物理\n"
+"[*] 非同期 マルチプレイヤー: 仲間のプレイヤーのいる世界\n"
+"[/list]\n"
+
+

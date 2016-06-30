@@ -1,0 +1,2718 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-09 03:27+0000\n"
+"PO-Revision-Date: 2015-08-11 22:56+0300\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Rushing"
+msgstr "ラッシング"
+
+msgid "Sniping"
+msgstr "スナイピング"
+
+msgid "Maneuvering"
+msgstr "操縦"
+
+msgid "Edit palette"
+msgstr "パレットを編集"
+
+msgid ""
+"Drop here to remove\n"
+"Click to cancel edit"
+msgstr ""
+"ここにドロップして削除\n"
+"クリックして編集をキャンセル"
+
+msgid "Drop here to remove"
+msgstr "ここにドロップして削除"
+
+msgid "Upgrade"
+msgstr "アップグレード"
+
+msgid "Save"
+msgstr "セーブ"
+
+msgid "Discard"
+msgstr "破棄"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "Confirm Save"
+msgstr "セーブを確認"
+
+msgid "Confirm Exit"
+msgstr "終了を確認"
+
+msgid "Warning: Not enough P to build this ship"
+msgstr "警告: この戦艦をつくるのに十分なPがありません"
+
+msgid "Exit"
+msgstr "終了"
+
+msgid "Help"
+msgstr "ヘルプ"
+
+msgid "View Instructions ('h' or '?')"
+msgstr "説明を表示 ('h'または'?')"
+
+msgid "Controls"
+msgstr "コントローラー"
+
+msgid "Change editor controls"
+msgstr "エディターのコントローラーを変更"
+
+msgid "Instructions"
+msgstr "説明"
+
+msgid "Export"
+msgstr "エクスポート"
+
+msgid "Export ship as a file on your Desktop"
+msgstr "デスクトップにファイルとして戦艦をエクスポート"
+
+msgid "Import"
+msgstr "インポート"
+
+msgid "Import design from a file"
+msgstr "ファイルからデザインをインポート"
+
+msgid "Test"
+msgstr "テスト"
+
+msgid "Automatically test ship against similar ships"
+msgstr "同等の戦艦に対して自動的にテストを行います"
+
+msgid " WARNING: Acquire additional P"
+msgstr " 警告: さらにPを取得してください"
+
+msgid "Warning: exceeded max P"
+msgstr "警告: 最大Pを超えています"
+
+msgid "Import Failed: wrong command block"
+msgstr "インポート失敗: 間違ったコマンドブロックです"
+
+msgid "Unnamed Spaceship"
+msgstr "無名の宇宙船"
+
+#, c-format
+msgid "Test Error: %s"
+msgstr "テストエラー: %s"
+
+msgid "Current Design"
+msgstr "現在のデザイン"
+
+msgid "Child Spawn Order"
+msgstr "子艦スポーン順"
+
+msgid "Design Storage"
+msgstr "デザイン格納庫"
+
+msgid "Ally Fleet Control"
+msgstr "仲間の艦隊コントロール"
+
+msgid "Player Fleet Control"
+msgstr "プレイヤーの艦隊コントロール"
+
+#, c-format
+msgid "WARNING Need %dR for metamorphosis"
+msgstr "警告 変形には、%dRが必要です"
+
+msgid "No Factory Attached"
+msgstr "ファクトリーが搭載されていません。"
+
+msgid "Drop to copy"
+msgstr "ドロップしてコピー"
+
+msgid "Drop to swap"
+msgstr "ドロップしてスワップ"
+
+msgid "Drop to place"
+msgstr "ドロップして配置"
+
+msgid "Press DELETE again to confirm"
+msgstr "削除を再度押して確定"
+
+msgid "DELETE to delete"
+msgstr "削除を押して削除"
+
+msgid "Alt-drag to clone"
+msgstr "Altでドラッグしてコピー"
+
+msgid "Uses encrypted blocks"
+msgstr "暗号化されたブロックを使用"
+
+msgid "Click to select waypoint"
+msgstr "クリックしてウェイポイントを選択"
+
+msgid "Unsafe Spawner"
+msgstr "危険なスポーナー"
+
+msgid "Activated Spawner"
+msgstr "アクティブ化されたスポーナー"
+
+msgid "Damaged Station"
+msgstr "ダメージを負ったスポーナー"
+
+msgid "Wormhole"
+msgstr "ワームホール"
+
+msgid "Agent"
+msgstr "エージェント"
+
+#, c-format
+msgid "By %s"
+msgstr "プレイヤー: %s"
+
+msgid "ships"
+msgstr "戦艦"
+
+#, c-format
+msgid "Sector %dx%d"
+msgstr "セクター %dx%d"
+
+#, c-format
+msgid "Controlled by %s"
+msgstr "コントロールしているプレイヤー:%s"
+
+msgid "No controlling faction"
+msgstr "コントロールファクションなし"
+
+msgid "Unexplored"
+msgstr "未開拓"
+
+msgid "Map Overview"
+msgstr "マップの概要"
+
+msgid "Inactive Station"
+msgstr "停止しているステーション"
+
+msgid "Spawner"
+msgstr "スポーナー"
+
+msgid "Resources"
+msgstr "資源"
+
+msgid "You"
+msgstr "プレイヤー"
+
+msgid "by "
+msgstr "プレイヤー: "
+
+#, c-format
+msgid " Range %d"
+msgstr " 射程距離 %d"
+
+msgid "Following"
+msgstr "フォロー"
+
+msgid "Friendly"
+msgstr "仲間"
+
+msgid "Neutral"
+msgstr "ニュートラル"
+
+msgid "Attacking"
+msgstr "攻撃中"
+
+msgid "Defending"
+msgstr "防御中"
+
+msgid "TARGET LOCKED"
+msgstr "ターゲットロック完了"
+
+msgid "Fleet: "
+msgstr "艦隊: "
+
+#, c-format
+msgid "%d ships, "
+msgstr "%d機の戦艦 "
+
+#, c-format
+msgid "%d drones, "
+msgstr "%d機のドローン, "
+
+msgid "COMMAND MODE"
+msgstr "コマンドモード"
+
+msgid "Back"
+msgstr "戻る"
+
+msgid "<"
+msgstr "<"
+
+msgid "Select fleet or ship"
+msgstr "艦隊または戦艦を選択"
+
+msgid "Select fleet"
+msgstr "艦隊を選択"
+
+msgid "Select ship"
+msgstr "戦艦を選択"
+
+#, c-format
+msgid "Exported to '%s': %s"
+msgstr "'%s': %s にエクスポートしました"
+
+#, c-format
+msgid "%s exported to '%s'"
+msgstr "%s は、'%s' にエクスポートされました"
+
+msgid "Export Failed"
+msgstr "エクスポートに失敗しました"
+
+msgid "Importing..."
+msgstr "インポート中..."
+
+msgid "New wormhole detected"
+msgstr "新たなワームホールが発見されました"
+
+#, c-format
+msgid "Agent '%s' destroyed %s of your stations"
+msgstr "エージェント '%s' は、プレイヤーのステーションの %s を破壊しました"
+
+msgid "Respawning..."
+msgstr "再スポーンしています..."
+
+msgid "Destroyed"
+msgstr "破壊されました"
+
+msgid "FAILED!!!!"
+msgstr "失敗！！！！"
+
+msgid "Loading"
+msgstr "読み込み中"
+
+msgid "Welcome"
+msgstr "ようこそ"
+
+msgid "Left Stick"
+msgstr "左スティック"
+
+msgid "Mouse / WASD"
+msgstr "マウス/WASD"
+
+msgid "Starting"
+msgstr "開始しています"
+
+msgid "Loading regions"
+msgstr "リージョンを読み込み中"
+
+msgid "Generating Map"
+msgstr "マップを作成中"
+
+msgid "Saving Game"
+msgstr "ゲームをセーブしています"
+
+msgid "Saving Blueprints"
+msgstr "設計図を保存しています"
+
+msgid "Finishing"
+msgstr "終了しています"
+
+msgid "Generating"
+msgstr "作成しています"
+
+msgid "Downloading"
+msgstr "ダウンロード中"
+
+msgid "Return To Game"
+msgstr "ゲームに戻る"
+
+msgid "Options"
+msgstr "オプション"
+
+msgid "Quit"
+msgstr "やめる"
+
+msgid "Save & Quit"
+msgstr "セーブして終了する"
+
+msgid "Paused"
+msgstr "一時停止中"
+
+msgid "Saving..."
+msgstr "セーブしています..."
+
+msgid "Identify Yourself"
+msgstr "名を名乗ってください"
+
+msgid "What is your name?"
+msgstr "名前は何ですか？"
+
+msgid "What is your favorite color?"
+msgstr "お気に入りの色は何ですか？"
+
+msgid "Launch"
+msgstr "開始する"
+
+#, c-format
+msgid "Slot %d"
+msgstr "スロット%d"
+
+msgid "LOCKED"
+msgstr "ロックされています"
+
+msgid "Select Faction"
+msgstr "ファクションを選択"
+
+msgid "Destroy a capital ship from each faction to unlock"
+msgstr "各ファクションからの主力艦を破壊して、アンロックします"
+
+msgid "Warning: Hard mode"
+msgstr "警告: ハードモード"
+
+msgid "Loading..."
+msgstr "読み込み中..."
+
+#, c-format
+msgid "Slot %d:"
+msgstr "スロット%d:"
+
+msgid " fleet only"
+msgstr " 艦隊のみ"
+
+msgid "OLD SAVE: regenerate"
+msgstr "古いセーブデータ: 再作成"
+
+msgid "ERROR: CORRUPTED"
+msgstr "エラー: 壊れています"
+
+msgid "Regenerate World"
+msgstr "世界を再作成"
+
+msgid "Clear Slot"
+msgstr "スロットをクリア"
+
+msgid "Import Fleet"
+msgstr "艦隊をインポート"
+
+msgid "Export as Fleet"
+msgstr "艦隊としてエクスポート"
+
+msgid "Export as Mod"
+msgstr "Modとしてエクスポート"
+
+msgid "Export as Mod (create blocks.lua)"
+msgstr "Modとしてエクスポート (blocks.lua を作成する)"
+
+msgid "Select Save Slot"
+msgstr "セーブスロットを選択"
+
+msgid "Right click slot for options"
+msgstr "オプションを開くにはスロットを右クリックします"
+
+msgid "WARNING: Not connected to Steam"
+msgstr "警告: Steamに接続されていません"
+
+msgid "Using ^1DEVELOPER^7 save path"
+msgstr "^1開発者^7保存パスを使用"
+
+msgid "Using System save path"
+msgstr "System保存パスを使用"
+
+msgid "Warning: Steam Cloud did not finish syncing (restart game)"
+msgstr "警告: Steam Cloudは、同期を終了しませんでした (ゲームを再起動)"
+
+msgid "Using Steam Cloud saves"
+msgstr "Steam Cloudセーブデータを使用しています"
+
+#, c-format
+msgid "%s/%s available"
+msgstr "利用可能 %s/%s"
+
+#, c-format
+msgid "%d/%d files available"
+msgstr "%d/%d のファイルを使用できます"
+
+msgid "Really regenerate world for save slot?"
+msgstr "本当に、セーブスロットに世界を再作成しますか？"
+
+msgid "Really clear save slot?"
+msgstr "本当にセーブスロットを消去しますか？"
+
+msgid "Mod Export Failed (see log for details)"
+msgstr "Modのエクスポートに失敗しました (詳細はログを参照)"
+
+#, c-format
+msgid "Exported slot %d to %s\n"
+msgstr "スロット%dを%sにすくポートしました\n"
+
+msgid ""
+"\n"
+"Edit blocks.lua in that directory to change block properties"
+msgstr ""
+"\n"
+"そのディレクトリでblocks.luaを編集して、ブロックのプロパティを変更します"
+
+#, c-format
+msgid ""
+"\n"
+"See %s for modding documentation"
+msgstr ""
+"\n"
+"改造のドキュメンテーションは、%sを参照してください"
+
+msgid "Submit"
+msgstr "送信"
+
+msgid "Register"
+msgstr "登録"
+
+msgid "Log Out"
+msgstr "ログアウト"
+
+msgid "Log In"
+msgstr "ログイン"
+
+#, c-format
+msgid "Logged in as '%s'"
+msgstr "'%s'としてログイン中"
+
+msgid "Connecting..."
+msgstr "接続中...."
+
+msgid "Not logged in"
+msgstr "ログインしていません"
+
+msgid "Standalone Ship Builder"
+msgstr "スタンドアロン型戦艦ビルダー"
+
+msgid "Clearing..."
+msgstr "消去中..."
+
+msgid "Compacting Saves..."
+msgstr "セーブデータを圧縮しています...."
+
+#, c-format
+msgid "Slot %d/%d"
+msgstr "スロット%d/%d"
+
+msgid "Start"
+msgstr "開始"
+
+msgid "Tournament"
+msgstr "トーナメント"
+
+msgid "Sandbox"
+msgstr "サンドボックス"
+
+msgid "Demo"
+msgstr "デモ"
+
+msgid "Mods"
+msgstr "Mod"
+
+msgid "Credits"
+msgstr "クレジット"
+
+msgid "Stay Here"
+msgstr "待機せよ"
+
+msgid "Follow Wormhole"
+msgstr "ワームホールを進め"
+
+msgid "Abort"
+msgstr "中止"
+
+msgid "Error: No unique blueprints in fleet"
+msgstr "エラー: 艦隊には、特別な設計図がありません"
+
+msgid "Fleet uses modded blocks, upload disabled"
+msgstr "艦隊は改造したブロックを使用しています。アップロードが無効化されています"
+
+#, c-format
+msgid "Wormhole Connection Error: %s"
+msgstr "ワームホール接続エラー: %s"
+
+msgid "Log in to unable upload through wormhole"
+msgstr "ログインして、ワームホールからのアップロードを可能にします"
+
+msgid "Uploading..."
+msgstr "アップロード中..."
+
+msgid "OK!"
+msgstr "OK！"
+
+msgid "Login Failed"
+msgstr "ログイン失敗"
+
+msgid "Enter username and password"
+msgstr "ユーザー名とパスワードを入力してください"
+
+msgid "Login"
+msgstr "ログイン"
+
+msgid "Username (Anisoptera Forums)"
+msgstr "ユーザー名 (Anisoptera フォーラム)"
+
+msgid "Password"
+msgstr "パスワード"
+
+msgid "Music Volume"
+msgstr "音楽の音量"
+
+msgid "Adjust background music volume"
+msgstr "BGM の音量を調整する"
+
+msgid "Sfx Volume"
+msgstr "SFX の音量"
+
+msgid "Adjust sound effects volume"
+msgstr "サウンドエフェクトの音量を調整する"
+
+msgid "Fullscreen"
+msgstr "全画面表示"
+
+msgid "Windowed"
+msgstr "ウィンドウ表示"
+
+msgid "Fullscreen Window"
+msgstr "全画面ウィンドウ"
+
+msgid "True Fullscreen"
+msgstr "完全な全画面表示"
+
+msgid "Toggle fullscreen"
+msgstr "全画面表示の切り替え"
+
+msgid "Frame Rate"
+msgstr "フレームレート"
+
+msgid "60 FPS cap"
+msgstr "60 FPS cap"
+
+msgid "No limiter"
+msgstr "リミッターなし"
+
+msgid "VSync"
+msgstr "垂直同期"
+
+msgid "Adaptive Vsync"
+msgstr "適応垂直同期"
+
+msgid "Physics Updates Per Second"
+msgstr "毎秒の物理更新"
+
+msgid "Game simulation step rate"
+msgstr "ゲームシミュレーションステップ速度"
+
+msgid "Particle Effects"
+msgstr "粒子効果"
+
+msgid "Particle effects"
+msgstr "粒子効果"
+
+msgid "Background Graphics"
+msgstr "バックグラウンドグラフィックス"
+
+msgid "Disabled"
+msgstr "無効"
+
+msgid "Just Stars"
+msgstr "星のみ"
+
+msgid "Stars and Halos"
+msgstr "星とハロー"
+
+msgid "Post Processing"
+msgstr "後処理"
+
+msgid "HDR Effects"
+msgstr "HDR効果"
+
+msgid "Dithered HDR Effects"
+msgstr "ディザー処理されたHDR効果"
+
+msgid "Blur Effect"
+msgstr "ブラーエフェクト"
+
+msgid "Menus"
+msgstr "メニュー"
+
+msgid "Bloom"
+msgstr "ブルーム"
+
+msgid "Line Quality"
+msgstr "曲線描写の質"
+
+msgid "Aliased"
+msgstr "エイリアス"
+
+msgid "Fastest Smoothed"
+msgstr "速度重視によるスムーズ化"
+
+msgid "Nicest Smoothed"
+msgstr "質重視によるスムーズ化"
+
+msgid "Developer"
+msgstr "開発者"
+
+msgid "Composer/Sfx"
+msgstr "作曲者/SFX"
+
+msgid "Production, Marketing"
+msgstr "プロダクション、マーケティング"
+
+msgid "Additional Ship Design"
+msgstr "その他戦艦デザイン"
+
+msgid "Alpha Testers"
+msgstr "アルファテスター"
+
+msgid "Marketing Materials"
+msgstr "マーケティング素材"
+
+msgid "QA"
+msgstr "QA"
+
+msgid "Localization"
+msgstr "ローカリゼーション"
+
+msgid "Special Thanks"
+msgstr "スペシャルサンクス"
+
+msgid "Software and Assets"
+msgstr "ソフトウェアおよびアセット"
+
+#, c-format
+msgid ""
+"Kickstarter\n"
+"Backers (%.1f%%):"
+msgstr ""
+"Kickstarter\n"
+"個人ユーザー (%.1f%%):"
+
+msgid "Reset Defaults"
+msgstr "デフォルトにリセットする"
+
+msgid "DELETE"
+msgstr "削除"
+
+msgid "Select"
+msgstr "選択"
+
+msgid "ESC"
+msgstr "ESC"
+
+msgid "Rebinding"
+msgstr "再バインド"
+
+#, c-format
+msgid "Press %s to clear"
+msgstr "%sを押して消去"
+
+#, c-format
+msgid "Press %s to cancel"
+msgstr "%s押してキャンセル"
+
+msgid "Press any other key to bind"
+msgstr "バインドするには、ほかのキーを押してください"
+
+msgid "Enabled"
+msgstr "有効"
+
+msgid "Deadzone Size"
+msgstr "デッドゾーンサイズ"
+
+msgid "Adjust stick sensitivity"
+msgstr "スティックの感度を調節する"
+
+msgid "Cursor Damping"
+msgstr "カーソルダンピング"
+
+msgid "Adjust cursor movement smoothing"
+msgstr "カーソル移動のスムージングを調節する"
+
+msgid "Menu Mouse Style"
+msgstr "メニューマウススタイル"
+
+msgid "Relative"
+msgstr "相対"
+
+msgid "Absolute"
+msgstr "絶対"
+
+msgid "Gamepad Type"
+msgstr "ゲームパッドの種類"
+
+msgid "No Gamepad Detected"
+msgstr "ゲームパッドが検出されていません"
+
+msgid "Gamepad"
+msgstr "ゲームパッド"
+
+#, c-format
+msgid "%s for next tip"
+msgstr "次のヒントを得るには、%s"
+
+msgid "Basic"
+msgstr "基本"
+
+msgid "Flying"
+msgstr "飛行"
+
+msgid "Editor"
+msgstr "エディター"
+
+msgid "<Unbound>"
+msgstr "<Unbound>"
+
+msgid "Primary Group"
+msgstr "プライマリグループ"
+
+msgid "Secondary Group"
+msgstr "セカンダリグループ"
+
+msgid "Tertiary Group"
+msgstr "ターナリグループ"
+
+msgid "Auxiliary Group - automatically fire at selected target"
+msgstr "予備グループ - 選択したターゲットに自動的に攻撃"
+
+msgid "Point Defense Group - autofire at nearby targets, including missiles"
+msgstr "地点防空グループ - 近くの目標に自動的に攻撃、ミサイルを含む"
+
+msgid "Autofire"
+msgstr "オート"
+
+msgid "Point Defense"
+msgstr "ポイントディフェンス"
+
+msgid "Mouse Wheel"
+msgstr "マウスホイール"
+
+msgid "<Not Bound>"
+msgstr "<Not Bound>"
+
+msgid "Blocks"
+msgstr "ブロック"
+
+msgid "Spaceships"
+msgstr "宇宙船"
+
+msgid "More Spaceships"
+msgstr "より多くの宇宙船"
+
+msgid "Space Sounds"
+msgstr "宇宙の音"
+
+msgid "LOADING"
+msgstr "読み込み中"
+
+msgid "View Workshop"
+msgstr "ワークショップを表示"
+
+msgid "Publish"
+msgstr "公開"
+
+#, c-format
+msgid "View %d Errors"
+msgstr "%dエラーを表示"
+
+msgid "Needs Update"
+msgstr "更新が必要です"
+
+#, c-format
+msgid "by %s"
+msgstr "プレイヤー: %s"
+
+msgid "Uploading"
+msgstr "アップロード中"
+
+msgid "Creating Workshop Item..."
+msgstr "ワークショップアイテムを作成中..."
+
+msgid "Workshop"
+msgstr "ワークショップ"
+
+msgid "Docs"
+msgstr "ドキュメント"
+
+msgid "Mod Load Log"
+msgstr "Mod読み込みログ"
+
+#, c-format
+msgid "%d Mods Loaded"
+msgstr "%dのModが読み込まれました"
+
+msgid "Top mods take precedence (drag to change order)"
+msgstr "トップのModが優先されます (ドラッグして順番を変更)"
+
+msgid "Restart game to apply mod changes"
+msgstr "ゲームを再起動し、modの変更を適用します"
+
+msgid "Steam Workshop unavailable"
+msgstr "Steamワークショップを利用できません"
+
+#, c-format
+msgid "Released %s"
+msgstr "%sをリリースしました"
+
+msgid "Gamepad Activated"
+msgstr "ゲームパッドを有効にしました"
+
+msgid "Gamepad Deactivated"
+msgstr "ゲームパッドを無効にしました"
+
+msgid "Enabled Auto Zoom"
+msgstr "オートズームを有効にしました"
+
+msgid "Disabled Auto Zoom"
+msgstr "オートズームを無効にしました"
+
+msgid "Enabled Auto Aim"
+msgstr "オートエイムを有効にしました"
+
+msgid "Disabled Auto Aim"
+msgstr "オートエイムを無効にしました"
+
+msgid "Enabled Auto Target"
+msgstr "オートターゲットを有効にしました"
+
+msgid "Disabled Auto Target"
+msgstr "オートターゲットを無効にしました"
+
+msgid "Cursor Rotates Ship"
+msgstr "カーソルで戦艦を回転させます"
+
+msgid "Absolute Controls, Cursor Rotates"
+msgstr "絶対制御、カーソルで回転"
+
+msgid "Keyboard Rotates Ship"
+msgstr "キーボードで戦艦を回転させます"
+
+msgid "Ship Follows Cursor"
+msgstr "戦艦はカーソルを追います"
+
+msgid "Default HUD"
+msgstr "デフォルトのHUD"
+
+msgid "Minimal HUD"
+msgstr "最小のHUD"
+
+msgid "Disabled HUD"
+msgstr "無効化されたHUD"
+
+msgid "Entered Command Mode"
+msgstr "コマンドモードに入りました"
+
+msgid "Entered Pilot Mode"
+msgstr "パイロットモードに入りました"
+
+msgid "Can't recruit stations"
+msgstr "ステーションをリクルートできません"
+
+#, c-format
+msgid "Need %d additional C to recruit"
+msgstr "リクルートするには、さらに%dのCが必要です。"
+
+#, c-format
+msgid "Recruited %s"
+msgstr "%sをリクルートしました"
+
+msgid "Not Enough Power"
+msgstr "パワーが不十分です"
+
+msgid "No Teleporter on Ship"
+msgstr "戦艦には、テレポーターが搭載されていません"
+
+msgid "Current blueprint is locked"
+msgstr "最新の設計図はロックされています。"
+
+msgid "Entered Wormhole"
+msgstr "ワームホールに入りました"
+
+#, c-format
+msgid "Destroyed %s's fleet"
+msgstr "%sの艦隊を破壊しました"
+
+#, c-format
+msgid "Liberated %s"
+msgstr "%sを解放しました"
+
+#, c-format
+msgid "Reactivated %s"
+msgstr "%s再始動しました"
+
+msgid "Transfer Resources"
+msgstr "資源の転送"
+
+#, c-format
+msgid "%s was destroyed by %s"
+msgstr "%sは、%sによって破壊されました"
+
+#, c-format
+msgid "%s was destroyed"
+msgstr "%sは、破壊されました"
+
+#, c-format
+msgid "Destroyed %s"
+msgstr "%sを破壊しました"
+
+#, c-format
+msgid "Faction %d unlocked"
+msgstr "ファクション%dがアンロックされました"
+
+msgid "Unlocked Faction"
+msgstr "ファクションをアンロックしました"
+
+msgid "Welcome back"
+msgstr "おかえりなさい"
+
+msgid "Safe Journey"
+msgstr "おきをつけて"
+
+msgid "Ship does not contain factory"
+msgstr "戦艦にはファクトリーがありません"
+
+msgid "Child blueprint not defined"
+msgstr "子艦の設計図が定義されていません"
+
+#, c-format
+msgid "Need %d additional R to spawn"
+msgstr "スポーンするには、さらにRが%d必要です"
+
+msgid "No space around factory block to spawn"
+msgstr "スポーンするための、ファクトリブロックの周りにスペースがありません"
+
+msgid "Explored new sectors"
+msgstr "新しいセクターを探索しました"
+
+msgid "Current blueprint uses encrypted blocks"
+msgstr "最新の設計図は、暗号化されたブロックを使用しています"
+
+#, c-format
+msgid "Need %d additional P to metamorphosize ship"
+msgstr "戦艦を変形させるには、さらにPが%d必要です"
+
+#, c-format
+msgid "No current blueprint - use '%s'"
+msgstr "最新の設計図がありません - '%s'を使用"
+
+msgid "Metamorphosizing ship"
+msgstr "戦艦を変形させています"
+
+msgid "Missile"
+msgstr "ミサイル"
+
+msgid "Torpedo"
+msgstr "魚雷"
+
+msgid "Mine"
+msgstr "機雷"
+
+msgid "Seed"
+msgstr "シード"
+
+msgid "Drone"
+msgstr "ドローン"
+
+#, c-format
+msgid "Scale %d\n"
+msgstr "%dを拡大・縮小\n"
+
+msgid "Resource Storage Unit\n"
+msgstr "資源保管ユニット\n"
+
+msgid "Hull Section\n"
+msgstr "船体セクション\n"
+
+msgid "Command Module\n"
+msgstr "コマンドモジュール\n"
+
+msgid "R Collection Range Booster\n"
+msgstr "R収集範囲ブースター\n"
+
+msgid "Ship Production Unit\n"
+msgstr "戦艦生産ユニット\n"
+
+msgid "Supports vegetation\n"
+msgstr "植物をサポート\n"
+
+msgid "Seed\n"
+msgstr "シード\n"
+
+#, c-format
+msgid "R Collection Range: %.f\n"
+msgstr "R収集範囲: %.f\n"
+
+#, c-format
+msgid "R Generation: %.1f/sec\n"
+msgstr "R生成率: %.1f/秒\n"
+
+#, c-format
+msgid "Teleporter Energy: %.f Energy/Mass\n"
+msgstr "テレポーターエネルギー: %.f エネルギー/質量\n"
+
+#, c-format
+msgid "R Capacity: %.f\n"
+msgstr "Rの容量: %.f\n"
+
+#, c-format
+msgid "Melee Damage Multiplier: %.f%%\n"
+msgstr "近接ダメージ乗数: %.f%%\n"
+
+#, c-format
+msgid "Explode Radius: %.f\n"
+msgstr "爆発範囲: %.f\n"
+
+#, c-format
+msgid "Explode Damage: %.f\n"
+msgstr "爆発ダメージ: %.f\n"
+
+msgid "Auto-firing"
+msgstr "自動攻撃"
+
+msgid "Charging"
+msgstr "チャージング"
+
+msgid "Projectile Weapon:\n"
+msgstr "投射兵器:\n"
+
+#, c-format
+msgid "  Damage: %.f/round\n"
+msgstr "  ダメージ: %.f/発\n"
+
+#, c-format
+msgid "  Splash Radius: %.f\n"
+msgstr "  拡散範囲: %.f\n"
+
+#, c-format
+msgid "  Rate: %g rounds/sec\n"
+msgstr "  発射速度: %g 発/秒\n"
+
+#, c-format
+msgid "  Burst Size: %d rounds\n"
+msgstr "  バーストサイズ: %d 発\n"
+
+#, c-format
+msgid "  Range: %.f\n"
+msgstr "  範囲: %.f\n"
+
+#, c-format
+msgid "  Velocity: %.f\n"
+msgstr "  速度: %.f\n"
+
+#, c-format
+msgid "  Spread: +-%.2f degrees\n"
+msgstr "  拡散: +-%.2f 度\n"
+
+#, c-format
+msgid "  Energy: %.f/shot\n"
+msgstr "  エネルギー: %.f/発\n"
+
+#, c-format
+msgid "  Charge time: %.1f secs\n"
+msgstr "  チャージ時間: %.1f 秒\n"
+
+#, c-format
+msgid "  Min discharge: %.1f secs\n"
+msgstr "  最小流量: %.1f 秒\n"
+
+msgid "Weapon Booster:\n"
+msgstr "兵器ブースター:\n"
+
+msgid "Rate"
+msgstr "レート"
+
+msgid "Velocity"
+msgstr "速度"
+
+msgid "Energy"
+msgstr "エネルギー"
+
+msgid "/shot"
+msgstr "/ショット"
+
+msgid "Damage"
+msgstr "ダメージ"
+
+msgid "Range"
+msgstr "範囲"
+
+msgid "Explode Radius"
+msgstr "爆発範囲"
+
+msgid "Beam Weapon:\n"
+msgstr "ビーム兵器:\n"
+
+#, c-format
+msgid "  Damage: %.f/discharge\n"
+msgstr "  ダメージ: %.f/発射\n"
+
+#, c-format
+msgid "  Energy: %.f/discharge\n"
+msgstr "  エネルギー: %.f/発射\n"
+
+#, c-format
+msgid "  Damage: %.f/sec\n"
+msgstr "  ダメージ: %.f/秒\n"
+
+#, c-format
+msgid "  Energy: %.f/sec\n"
+msgstr "  エネルギー: %.f/秒\n"
+
+#, c-format
+msgid "Turret Speed: %.f degrees/sec\n"
+msgstr "砲塔回転速度: %.f 度/秒\n"
+
+#, c-format
+msgid "Regen Rate: %.1f %s/sec\n"
+msgstr "再生速度: %.1f %s/秒\n"
+
+#, c-format
+msgid "Regen Energy: %.f/%s\n"
+msgstr "再生エネルギー: %.f/%s\n"
+
+msgid " Stats:\n"
+msgstr " 統計:\n"
+
+#, c-format
+msgid "Acceleration: %.f\n"
+msgstr "加速: %.f\n"
+
+#, c-format
+msgid "Thrust: %.fK\n"
+msgstr "スラスト: %.fK\n"
+
+#, c-format
+msgid "Torque: %.fK\n"
+msgstr "トルク: %.fK\n"
+
+#, c-format
+msgid "Shield Health: %.f\n"
+msgstr "シールドヘルス: %.f\n"
+
+#, c-format
+msgid "Shield Radius: %.f\n"
+msgstr "シールド範囲: %.f\n"
+
+#, c-format
+msgid "Shield Regen Delay: %.f secs\n"
+msgstr "シールド再生遅延: %.f 秒\n"
+
+#, c-format
+msgid "Shield Regen Rate: %.f health/sec\n"
+msgstr "シールド再生速度: %.f 秒\n"
+
+#, c-format
+msgid "Shield Regen Energy: %.f/sec\n"
+msgstr "シールド再生エネルギー: %.f 秒\n"
+
+#, c-format
+msgid "Energy Generated: %.f/sec\n"
+msgstr "生成エネルギー: %.f/秒\n"
+
+#, c-format
+msgid "Energy Stored: %.f\n"
+msgstr "貯蓄エネルギー: %.f\n"
+
+#, c-format
+msgid "Health: %.f\n"
+msgstr "ヘルス: %.f\n"
+
+#, c-format
+msgid "Mass: %.f\n"
+msgstr "質量: %.f\n"
+
+#, c-format
+msgid "Regrowth: %.1f secs\n"
+msgstr "ブロック再生速度: %.1f 秒\n"
+
+msgid "Block Limit Reached"
+msgstr "ブロックが限界に達しました"
+
+#, c-format
+msgid "%3d Blocks Selected. Mass: %3.f, Health: %4.f, %4dP"
+msgstr "%3d のブロックが選択されています。質量: %3.f、ヘルス: %4.f, %4dP"
+
+msgid "Tutorial"
+msgstr "チュートリアル"
+
+#, c-format
+msgid "Finished %s Tutorial"
+msgstr "チュートリアル終了数: %s"
+
+#, c-format
+msgid "Energy: %.f/%.f"
+msgstr "エネルギー: %.f/%.f"
+
+msgid "^6R^7 Capacity Full"
+msgstr "^6R^7容量がいっぱいです"
+
+msgid "^6Transferring^7"
+msgstr "^6転送^7"
+
+msgid "Press '$transferRes' to trade ^6R^7 for ^3C^7"
+msgstr "'$transferRes'を押して、^6R^7を^3C^7と交換します"
+
+msgid "Activating..."
+msgstr "始動させています..."
+
+msgid "MAX"
+msgstr "最大"
+
+msgid "Block already in palette"
+msgstr "パレットにすでにブロックがあります"
+
+msgid "Not enough C to decrypt"
+msgstr "解読するのに十分なCがありません"
+
+msgid "Not enough C to increase P"
+msgstr "Pを増大させるのに十分なCがありません"
+
+msgid "Maximum reached"
+msgstr "最大に達しました"
+
+msgid "Palette"
+msgstr "パレット"
+
+msgid "Databank"
+msgstr "データバンク"
+
+msgid "Click to add to palette"
+msgstr "クリックしてパレットを追加"
+
+msgid "Click to decrypt"
+msgstr "クリックして解読"
+
+msgid ""
+"\n"
+"Drag to rearrange"
+msgstr ""
+"\n"
+"ドラッグして再配置"
+
+msgid ""
+"Palette Block\n"
+"Drag to rearrange"
+msgstr ""
+"パレットブロック\n"
+"ドラッグして再配置"
+
+msgid ""
+"Empty palette slot\n"
+"Drag from databank to fill"
+msgstr ""
+"空のパレットスロット\n"
+"データバンクからドラッグして埋める"
+
+msgid "Maximum P reached"
+msgstr "Pが最大に達しました"
+
+msgid "Permanently increase P"
+msgstr "不変にPを増大"
+
+msgid ""
+"Permanently increase P\n"
+"Not enough C to increase"
+msgstr ""
+"不変にPを増大\n"
+"増大させるのに十分なCがありません"
+
+msgid "Resource Description"
+msgstr "資源の説明"
+
+msgid "Map"
+msgstr "マップ"
+
+msgid "Profile"
+msgstr "プロファイル"
+
+msgid "Tutorials"
+msgstr "チュートリアル"
+
+msgid "Binding"
+msgstr "バインド"
+
+msgid "Fleet"
+msgstr "艦隊"
+
+#, c-format
+msgid "%d wins, %d losses"
+msgstr "%d勝、%d敗"
+
+#, c-format
+msgid "%2d wins: %s"
+msgstr "%2d勝: %s"
+
+#, c-format
+msgid "%d wins"
+msgstr "%d勝"
+
+#, c-format
+msgid "%.f Points"
+msgstr "%.f ポイント"
+
+#, c-format
+msgid "%d ships"
+msgstr "%d機の戦艦"
+
+#, c-format
+msgid "Round %d of %d"
+msgstr "%dの%dラウンド"
+
+msgid "PAUSED"
+msgstr "中断"
+
+#, c-format
+msgid "Wins!"
+msgstr "勝利！"
+
+#, c-format
+msgid "Wins Round %d!"
+msgstr "ラウンド%dで勝利！"
+
+msgid "No comparable ships"
+msgstr "相当する戦艦がありません"
+
+msgid "Tournament Brackets"
+msgstr "トーナメントブラケット"
+
+msgid "Ripple Fire alternates weapons to maximize rate of fire"
+msgstr "リップル射撃は、兵器を交互に使用して射撃速度を最大化します。"
+
+msgid "Fire all weapons in group simultaneously"
+msgstr "グループ内の兵器をすべて同時に発射"
+
+#, c-format
+msgid "Double click to select all %ss"
+msgstr "ダブルクリックして%ssをすべて選択"
+
+msgid "Ripple Fire"
+msgstr "リップル射撃"
+
+msgid "Fire All"
+msgstr "すべて射撃"
+
+msgid "Weapon Bindings"
+msgstr "兵器のバインド"
+
+msgid "Forwards"
+msgstr "前進"
+
+msgid "Backwards"
+msgstr "後退"
+
+msgid "Left"
+msgstr "左"
+
+msgid "Right"
+msgstr "右"
+
+msgid "Fire Primary"
+msgstr "プライマリ兵器で攻撃"
+
+msgid "Fire Secondary"
+msgstr "セカンダリ兵器で攻撃"
+
+msgid "Fire Tertiary"
+msgstr "ターナリ兵器で攻撃"
+
+msgid "Stop"
+msgstr "停止"
+
+msgid "Strafe Left"
+msgstr "左を機銃掃射"
+
+msgid "Strafe Right"
+msgstr "右を機銃掃射"
+
+msgid "Lock Target"
+msgstr "ターゲットをロック"
+
+msgid "Spawn Child"
+msgstr "子艦をスポーン"
+
+msgid "Teleport"
+msgstr "テレポート"
+
+msgid "Toggle Command mode"
+msgstr "コマンドモードを切り替える"
+
+msgid "View Map"
+msgstr "マップを表示"
+
+msgid "View Weapon Bindings"
+msgstr "兵器のバインドを表示"
+
+msgid "View Upgrades"
+msgstr "アップグレードを表示"
+
+msgid "Cycle controls"
+msgstr "サイクルの制御"
+
+msgid "Toggle auto-zoom"
+msgstr "オートズームを切り替える"
+
+msgid "Toggle auto-aim"
+msgstr "オートエイムを切り替える"
+
+msgid "Toggle minimal HUD"
+msgstr "最小HUDを切り替える"
+
+msgid "Zoom Out"
+msgstr "縮小"
+
+msgid "Zoom in"
+msgstr "拡大"
+
+msgid "View Ships"
+msgstr "艦を表示"
+
+msgid "Edit Current Ship"
+msgstr "現在の艦を編集"
+
+msgid "Edit Child Ship"
+msgstr "子艦を編集"
+
+msgid "Rotate Camera Counterclockwise"
+msgstr "カメラを反時計回りに回転"
+
+msgid "Rotate Camera Clockwise"
+msgstr "カメラを時計回りに回転"
+
+msgid "Next"
+msgstr "次へ"
+
+msgid "Console"
+msgstr "コンソール"
+
+msgid "Faster"
+msgstr "速"
+
+msgid "Slower"
+msgstr "遅"
+
+msgid "Pause"
+msgstr "一時停止中"
+
+msgid "Left Click"
+msgstr "左クリック"
+
+msgid "Right Click"
+msgstr "右クリック"
+
+msgid "Undo"
+msgstr "取り消し"
+
+msgid "Redo"
+msgstr "やり直し"
+
+msgid "Mirror"
+msgstr "ミラー"
+
+msgid "Copy"
+msgstr "コピー"
+
+msgid "Cut"
+msgstr "切り取り"
+
+msgid "Paste"
+msgstr "貼り付け"
+
+msgid "Scale Up"
+msgstr "拡大"
+
+msgid "Scale Down"
+msgstr "縮小"
+
+msgid "Select All"
+msgstr "すべて選択"
+
+msgid "Rotate Counterclockwise"
+msgstr "反時計回りに回転"
+
+msgid "Rotate Clockwise"
+msgstr "時計回りに回転"
+
+msgid "Delete"
+msgstr "削除"
+
+msgid "Unknown"
+msgstr "不明"
+
+msgid "Steam Profile is Private"
+msgstr "Steamプロファイルがプライベートになっています"
+
+msgid "Mode"
+msgstr "モード"
+
+msgid "Pool"
+msgstr "プール"
+
+msgid "Bracket"
+msgstr "ブラケット"
+
+msgid "Clear"
+msgstr "消去"
+
+msgid "Really Clear?"
+msgstr "本当に消去しますか？"
+
+msgid "Steam Friends"
+msgstr "Steamフレンド"
+
+#, c-format
+msgid "Imported Fleet %s"
+msgstr "艦隊%sをインポートしました"
+
+msgid "Imported Ships"
+msgstr "戦艦をインポートしました"
+
+msgid "1 ship"
+msgstr "1機の戦艦"
+
+msgid "Available"
+msgstr "利用可能"
+
+msgid "Team"
+msgstr "チーム"
+
+msgid "Contestants"
+msgstr "対戦相手"
+
+msgid "Steam Friends Unavailable: "
+msgstr "Steamフレンドが利用できません: "
+
+msgid "Logging in..."
+msgstr "ログインしています..."
+
+#, c-format
+msgid "Downloading Steam Friend Ships: %.f%%"
+msgstr "Steamフレンドの戦艦を弾ロード中: %.f%%"
+
+msgid "Error: "
+msgstr "エラー: "
+
+msgid "Command Module"
+msgstr "コマンドモジュール"
+
+msgid "The core of every ship"
+msgstr "全艦のコア"
+
+msgid "Resource Containment Unit"
+msgstr "資源格納ユニット"
+
+msgid "Resource storage unit"
+msgstr "資源保管ユニット"
+
+msgid "Thruster"
+msgstr "スラスター"
+
+msgid "Produces a small amount of thrust"
+msgstr "少量の推力を生成"
+
+msgid "Provides a medium amount of thrust"
+msgstr "中量の推力を生成"
+
+msgid "Provides a large amount of thrust"
+msgstr "大量の推力を生成"
+
+msgid "Generator"
+msgstr "ジェネレーター"
+
+msgid "Produces energy to power a ship's weapons. More generators, more energy"
+msgstr "エネルギーを生成して戦艦の兵器に動力を与えます。ジェネレーターが多いほど、エネルギーも強くなります"
+
+msgid "Solar Panel"
+msgstr "ソーラーパネル"
+
+msgid "Adapter"
+msgstr "アダプター"
+
+msgid "A basic building block"
+msgstr "基本バインドブロック"
+
+msgid "Armor"
+msgstr "走行"
+
+msgid "RK-12 Standard"
+msgstr "RK-12 スタンダード"
+
+msgid "Basic light cannon. Its consistent rate of fire and low energy use make it a reliable weapon"
+msgstr "基本的な軽キャノン。一貫した発射速度と低エネルギーにより、頼れる兵器"
+
+msgid "Hull"
+msgstr "船殻"
+
+msgid "MGVD-4 Bolshevik"
+msgstr "MGVD-4 ボルシェビキ"
+
+msgid "Fires numerous but slow explosive rounds, akin to a grenade launcher"
+msgstr "大量かつ低速の爆弾を発射。これはグレネードランチャーと同種のもの"
+
+msgid "AF-75 Spitter"
+msgstr "AF-75 スプリッター"
+
+msgid "A powerful burst-fire turret that excels at medium range"
+msgstr "中距離攻撃に優れた強力なバースト射撃砲塔"
+
+msgid "Minigun"
+msgstr "ミニガン"
+
+msgid "Swatter"
+msgstr "スワッター"
+
+msgid "SG-9 Scattergun"
+msgstr "SG-9散弾砲"
+
+msgid "Anti-ship shotgun"
+msgstr "対戦艦ショットガン"
+
+msgid "HC2"
+msgstr "HC2"
+
+msgid "EXR-1 Railgun"
+msgstr "EXR-1レールガン"
+
+msgid "Unmatched in range, this sniper rifle will always give you the first shot"
+msgstr "射程範囲に最も優れた兵器。このスナイパーライフルでは常に先制攻撃が可能"
+
+msgid "Phalanx"
+msgstr "ファランクス"
+
+msgid "MC3"
+msgstr "MC3"
+
+msgid "HC3"
+msgstr "HC3"
+
+msgid "MLS Avenger"
+msgstr "MLSアベンジャー"
+
+msgid "Very high rate of fire, medium range"
+msgstr "超高速射撃が可能な中距離兵器"
+
+msgid "MLS Anti-Missile"
+msgstr "MSL対ミサイル"
+
+msgid "Close in weapon system"
+msgstr "兵器のシステムの範囲網を狭める"
+
+msgid "Longbow"
+msgstr "ロングボウ"
+
+msgid "ZLM Sparrow"
+msgstr "ZLMスパロー"
+
+msgid "Who doesn't like showering a target in missiles?"
+msgstr "ターゲットにミサイルのシャワーをおみまいしたくない人などいるでしょうか"
+
+msgid "Shield"
+msgstr "シールド"
+
+msgid "Low strength and limited area is balanced by a fast recharge time"
+msgstr "低強度。制限されたエリアは、高速な再生時間によりバランスを維持"
+
+msgid "MM1"
+msgstr "MM1"
+
+msgid "HM1"
+msgstr "HM1"
+
+msgid "Arkas PRP-1"
+msgstr "アルカスPRP-1"
+
+msgid "This small laser cannon is capable of taking out small targets in seconds"
+msgstr "この小型レーザー砲は、ものの数秒で小型の目標を一掃可能"
+
+msgid "Arkas PRP-2"
+msgstr "アルカスPRP-2"
+
+msgid "Arkas PRP-3"
+msgstr "アルカスPRP-3"
+
+msgid "Need to burn through a battleship without breaking a sweat? Try this"
+msgstr "戦艦が行動を起こす前に焼き尽くしたくはありませんか？これをお試しください。"
+
+msgid "This mid-size generator is versatile and effective"
+msgstr "この中型のジェネレーターは、万能で効果的です"
+
+msgid "When you've got a lot of hardware to protect, look no further"
+msgstr "防御しなくてはならないハードウェアが多いなら、これ以上のものはありません"
+
+msgid "Heavy Turret"
+msgstr "重砲塔"
+
+msgid "Power Distributor"
+msgstr "パワーディストリビューター"
+
+msgid "Station Battery"
+msgstr "ステーションバッテリー"
+
+msgid "Station Defense Laser"
+msgstr "ステーションディフェンスレーザー"
+
+msgid "Factory"
+msgstr "ファクトリー"
+
+msgid "Tractor"
+msgstr "トラクター"
+
+msgid "Nexus"
+msgstr "ネクサス"
+
+msgid "Penrose Zero"
+msgstr "ペンローズゼロ"
+
+msgid "Penrose One"
+msgstr "ペンローズワン"
+
+msgid "Blaster"
+msgstr "ブラスター"
+
+msgid "Mini size"
+msgstr "ミニサイズ"
+
+msgid "Small size"
+msgstr "小型"
+
+msgid "Medium size"
+msgstr "中型"
+
+msgid "Large size"
+msgstr "大型"
+
+msgid "Phaser"
+msgstr "フェーザー砲"
+
+msgid "Tempest"
+msgstr "テンペスト"
+
+msgid "Laser"
+msgstr "レーザー"
+
+msgid "Drone Launcher"
+msgstr "ドローンランチャー"
+
+msgid "Anti-Missile Laser"
+msgstr "対ミサイルレーザー"
+
+msgid "Storage Pod"
+msgstr "ストレージポッド"
+
+msgid "CommandControl"
+msgstr "コマンドコントロール"
+
+msgid "Strut"
+msgstr "ストラット"
+
+msgid "CannonBase"
+msgstr "キャノンベース"
+
+msgid "Modular plasma cannon"
+msgstr "モジュラープラズマキャノン"
+
+msgid "DamageAmplifier"
+msgstr "ダメージアンプリファイアー"
+
+msgid "Increases damage of attached weapon"
+msgstr "装備している兵器のダメージを増大"
+
+msgid "Significantly increases damage of attached weapon"
+msgstr "装備している兵器のダメージを大幅に増大"
+
+msgid "RangeAmplifier"
+msgstr "レンジアンプリファイアー"
+
+msgid "Increases range and projectile speed of attached weapon"
+msgstr "装備している兵器の射程範囲と投射速度を増大"
+
+msgid "RateAmplifier"
+msgstr "レートアンプリファイアー"
+
+msgid "Increases rate of fire of attached weapon"
+msgstr "装備している兵器の発射速度を増大"
+
+msgid "VelocityAmplifier"
+msgstr "ベロシティアンプリファイアー"
+
+msgid "Significantly increases projectile speed of attached weapon"
+msgstr "装備している兵器の投射速度を大幅に増大"
+
+msgid "Protector"
+msgstr "プロテクター"
+
+msgid "Defense Laser"
+msgstr "ディフェンスレーザー"
+
+msgid "Solar Array"
+msgstr "ソーラーアレイ"
+
+msgid "RBank"
+msgstr "Rバンク"
+
+msgid "Rocket Drone Launcher"
+msgstr "ロケット ドローンランチャー"
+
+msgid "Crop Seed"
+msgstr "作物の種子"
+
+msgid "Stem"
+msgstr "茎"
+
+msgid "Crop Stem"
+msgstr "作物の茎"
+
+msgid "Joint"
+msgstr "節"
+
+msgid "Leaf"
+msgstr "葉"
+
+msgid "Seed Planter"
+msgstr "シード・プランター"
+
+msgid "Command"
+msgstr "コマンド"
+
+msgid "Subcommand"
+msgstr "サブコマンド"
+
+msgid "Root"
+msgstr "ルート"
+
+#, c-format
+msgid "Laser %d:%d"
+msgstr "レーザー %d:%d"
+
+msgid "Laser Drone Launcher"
+msgstr "レーザードローンランチャー"
+
+msgid "Sensoria"
+msgstr "センソリア"
+
+msgid "Chitin"
+msgstr "キチン"
+
+msgid "Propulsor"
+msgstr "プロパルサー"
+
+msgid "Sting"
+msgstr "スティング"
+
+msgid "Station Command"
+msgstr "ステーションコマンド"
+
+msgid "Power your weapons"
+msgstr "兵器に動力を供給"
+
+msgid "Power your weapons (more)"
+msgstr "兵器に動力を供給 (より多く)"
+
+msgid "Transformer"
+msgstr "トランスフォーマー"
+
+msgid "Harvester"
+msgstr "ハーベスター"
+
+msgid "Increase resource pickup range"
+msgstr "資源収集範囲を拡大"
+
+msgid "Inexpensive short range laser, deadly in quantity"
+msgstr "消費の低い短距離型レーザー。大量に射撃することで威力が致死的に"
+
+msgid "Armored building block"
+msgstr "装甲付きビルディングブロック"
+
+msgid "Container"
+msgstr "コンテナ"
+
+msgid "Resource storage"
+msgstr "資源ストレージ"
+
+msgid "Plasma Cannon"
+msgstr "プラズマキャノン"
+
+msgid "Basic turreted damage dealer"
+msgstr "基本的な砲塔を備えたダメージディーラー"
+
+msgid "Increase mobility - mini size"
+msgstr "可動性を上昇 - ミニサイズ"
+
+msgid "Increase mobility - medium size"
+msgstr "可動性を上昇 - ミディアムサイズ"
+
+msgid "Increase mobility - mega size"
+msgstr "可動性を上昇 - メガサイズ"
+
+msgid "Increase mobility - asteroid relocation size"
+msgstr "可動性を上昇 - 明日テロ"
+
+msgid "Missile Launcher"
+msgstr "ミサイルランチャー"
+
+msgid "Launches homing missiles"
+msgstr "誘導ミサイルを発射"
+
+msgid "Launches intelligent drones armed with plasma cannons"
+msgstr "プラズマ砲を装備したインテリジェント ドローンを発射"
+
+msgid "Proton Beam"
+msgstr "プロトンビーム"
+
+msgid "Long range high damage spinal beam weapon"
+msgstr "長距離型の高ダメージビーム兵器"
+
+msgid "Defense Cannon"
+msgstr "ディフェンスキャノン"
+
+msgid "Short range rapid-fire point defense"
+msgstr "短距離型の高速連射型ポイントディフェンス"
+
+msgid "Plasma Projector"
+msgstr "プラズマプロジェクター"
+
+msgid "Rapid-fire directional plasma weapon"
+msgstr "高速連射型の指向性プラズマ兵器"
+
+msgid "Torpedo Launcher"
+msgstr "魚雷ランチャー"
+
+msgid "Launches high damage unguided torpedoes"
+msgstr "高ダメージ性の無誘導魚雷を発射"
+
+msgid "Proton Sword"
+msgstr "プロトンソード"
+
+msgid "Extremely high damage but very short range beam weapon"
+msgstr "非常に高ダメージの超短距離型ビーム兵器"
+
+msgid "Railgun"
+msgstr "レールガン"
+
+msgid "Very long range turreted sniper weapon"
+msgstr "非常に射程距離の高い小塔のある狙撃兵器"
+
+msgid "Autocannon"
+msgstr "オートキャノン"
+
+msgid "Very high rate of fire short range plasma weapon"
+msgstr "超高速射撃が可能な短距離型プラズマ兵器"
+
+msgid "Blast Pulser"
+msgstr "ブラストパルサー"
+
+msgid "Unidirectional projectile emitter"
+msgstr "単一指向性の投射物体エミッター"
+
+msgid "Burst Laser"
+msgstr "バーストレーザー"
+
+msgid "Compact charging beam weapon"
+msgstr "コンパクトチャージングビーム兵器"
+
+msgid "Create more spaceships"
+msgstr "宇宙船をさらにつくる"
+
+msgid "Plasma Mortar"
+msgstr "プラズマ迫撃砲"
+
+msgid "Powerful charging splash damage weapon"
+msgstr "強力なチャージ型拡散ダメージ兵器"
+
+msgid "Mine Layer"
+msgstr "機雷敷設機"
+
+msgid "High damage, large splash radius dumb mines"
+msgstr "高ダメージ、広範囲の拡散範囲の機雷"
+
+msgid "Shield Projector"
+msgstr "シールドプロジェクター"
+
+msgid "Absorbs damage - essential for capital ships"
+msgstr "ダメージを吸収 - 主力艦には不可欠"
+
+msgid "Flak Cannon"
+msgstr "フラックキャノン"
+
+msgid "Explosive point defense cannon"
+msgstr "爆発性ポイントディフェンスキャノン"
+
+msgid "Antimatter Cannon"
+msgstr "反物質キャノン"
+
+msgid "Very long range, high damage spinal mounted death machine"
+msgstr "超長距離型高ダメージ取り付け型デスマシン"
+
+msgid "Teleporter"
+msgstr "テレポーター"
+
+msgid "Rocket Launcher"
+msgstr "ロケットランチャー"
+
+msgid "Launches flurries of unguided rockets"
+msgstr "無誘導ロケットを連続で発射"
+
+msgid "Station Shield Projector"
+msgstr "ステーションシールドプロテクター"
+
+msgid "Unobtanium Strut"
+msgstr "アンオブタニウムストラット"
+
+msgid "Wall"
+msgstr "ウォール"
+
+msgid "Extender"
+msgstr "エクステンダー"
+
+msgid "Mount"
+msgstr "マウント"
+
+msgid "Corner"
+msgstr "コーナー"
+
+msgid "Hex Wall"
+msgstr "6角ウォール"
+
+msgid "Wedge"
+msgstr "ウェッジ"
+
+msgid "Micro"
+msgstr "マイクロ"
+
+msgid "Medium"
+msgstr "ミディアム"
+
+msgid "Macro"
+msgstr "マクロ"
+
+msgid "Mighty"
+msgstr "マイティ"
+
+msgid "Massive"
+msgstr "マッシブ"
+
+msgid "Crystallite"
+msgstr "クリスタライト"
+
+msgid "Booster"
+msgstr "ブースター"
+
+msgid "Defense Pulser"
+msgstr "ディフェンスパルサー"
+
+#, c-format
+msgid "%s Pulser"
+msgstr "%sパルサー"
+
+msgid "Plasma Condenser"
+msgstr "プラズマコンデンサー"
+
+msgid "Antimatter Missle Launcher"
+msgstr "反物質ミサイルランチャー"
+
+msgid "Power Conduit"
+msgstr "パワーコンジット"
+
+msgid "Plasma Diffractor"
+msgstr "プラズマディフラクター"
+
+msgid "Heavy Bodywork"
+msgstr "重構造"
+
+msgid "Light Bodywork"
+msgstr "軽構造"
+
+msgid "Maneuver Thruster"
+msgstr "操作スラスター"
+
+msgid "Highly responsive low impulse thruster"
+msgstr "高反応性低インパルススラスター"
+
+msgid "Impulse Thruster"
+msgstr "インパルススラスター"
+
+msgid "High impulse thruster"
+msgstr "高インパルススラスター"
+
+msgid "Shard Launcher"
+msgstr "シャードランチャー"
+
+msgid "Launches explosive spinners"
+msgstr "爆発性のスピナーを発射"
+
+msgid "PD Subsystem"
+msgstr "PDサブシステム"
+
+msgid "Quantum Doom Beam"
+msgstr "クォンタムドゥームビーム"
+
+msgid "Tractor Beam"
+msgstr "トラクタービーム"
+
+msgid "Generator/Storage"
+msgstr "ジェネレーター/収納庫"
+
+msgid "Pod Command"
+msgstr "ポッドコマンド"
+
+msgid "Polyp"
+msgstr "ポリープ"
+
+msgid "Light Spine"
+msgstr "ライトスパイン"
+
+msgid "Thistle"
+msgstr "アザミ"
+
+msgid "Gauss Beam"
+msgstr "ガウスビーム"
+
+msgid "Devastating pulse weapon"
+msgstr "破壊パルスビーム"
+
+msgid "Plasma Bolt"
+msgstr "プラズマボルト"
+
+msgid "Slow, high damage defense turret"
+msgstr "低速で高ダメージ性の防衛砲塔"
+
+msgid "Flurry Missiles"
+msgstr "連動ミサイル"
+
+msgid "Rapid-fire guided missile launcher"
+msgstr "高速の誘導ミサイルランチャー"
+
+msgid "Annihilator"
+msgstr "アナイアレイター"
+
+msgid "Slow but powerful gun turret"
+msgstr "低速だが強力な砲塔"
+
+msgid "Obliterator"
+msgstr "オブリテレーター"
+
+msgid "Obscenely powerful death laser"
+msgstr "非常に強力なデスレーザー"
+
+msgid "Reactor"
+msgstr "リアクター"
+
+msgid "Depot"
+msgstr "デポ"
+
+msgid "Nuclear Option"
+msgstr "原子力オプション"
+
+msgid "Heavily armored death launcher"
+msgstr "重装備のデスランチャー"
+
+msgid "Armor Plate"
+msgstr "装甲版"
+
+msgid "Armor Spike"
+msgstr "装甲スパイク"
+
+msgid "Segment"
+msgstr "セグメント"
+
+msgid "Core hull"
+msgstr "コア船体"
+
+msgid "Auxiliary hull"
+msgstr "補助船体"
+
+msgid "Thrust vector unit"
+msgstr "スラストベクターユニット"
+
+msgid "Left Bumper"
+msgstr "左バンパー"
+
+msgid "Right Bumper"
+msgstr "右バンパー"
+
+msgid "Left Trigger"
+msgstr "左トリガー"
+
+msgid "Right Trigger"
+msgstr "右トリガー"
+
+msgid "Share"
+msgstr "シェア"
+
+msgid "ENTER/Click"
+msgstr "ENTER/クリック"
+
+msgid "ENTER"
+msgstr "ENTER"
+
+msgid "Left Mouse"
+msgstr "左マウス"
+
+msgid "Right Mouse"
+msgstr "右マウス"
+
+msgid "Middle Mouse"
+msgstr "中央マウス"
+
+msgid "Mouse4"
+msgstr "Mouse4"
+
+msgid "Mouse5"
+msgstr "Mouse5"
+
+msgid "Mouse6"
+msgstr "Mouse6"
+
+msgid "Up"
+msgstr "↑"
+
+msgid "Down"
+msgstr "↓"
+
+msgid "Shift"
+msgstr "Shift"
+
+msgid "Control"
+msgstr "Ctrl"
+
+msgid "Alt"
+msgstr "Alt"
+
+msgid "Tab"
+msgstr "Tab"
+
+msgid "Enter"
+msgstr "Enter"
+
+msgid "Space"
+msgstr "スペース"
+
+msgid "Page Up"
+msgstr "PageUp"
+
+msgid "Page Down"
+msgstr "PageDown"
+
+msgid "Home"
+msgstr "Home"
+
+msgid "End"
+msgstr "End"
+
+msgid "Backspace"
+msgstr "バックスペース"
+
+msgid "Escape"
+msgstr "ESC"
+
+msgid "Gamepad Start"
+msgstr "ゲームパッド スタート"
+
+msgid "Gamepad Guide"
+msgstr "ゲームパッド ガイド"
+
+msgid "Right Stick"
+msgstr "右スティック"
+
+msgid "DPad Up"
+msgstr "十字ボタン↑"
+
+msgid "DPad Down"
+msgstr "十字ボタン↓"
+
+msgid "DPad Left"
+msgstr "十字ボタン←"
+
+msgid "DPad Right"
+msgstr "十字ボタン→"
+
+msgid "Left Axis X"
+msgstr "左スティック左右"
+
+msgid "Left Axis Y"
+msgstr "左スティック上下"
+
+msgid "Right Axis X"
+msgstr "右スティック左右"
+
+msgid "Right Axis Y"
+msgstr "右スティック上下"
+
+msgid "Left Trigger Axis"
+msgstr "左トリガー軸"
+
+msgid "Right Trigger Axis"
+msgstr "右トリガー軸"
+
+msgid "Left Stick Up"
+msgstr "左スティック↑"
+
+msgid "Left Stick Down"
+msgstr "左スティック↓"
+
+msgid "Left Stick Left"
+msgstr "左スティック←"
+
+msgid "Left Stick Right"
+msgstr "左スティック→"
+
+msgid "Right Stick Up"
+msgstr "右スティック↑"
+
+msgid "Right Stick Down"
+msgstr "右スティック↓"
+
+msgid "Right Stick Left"
+msgstr "右スティック←"
+
+msgid "Right Stick Right"
+msgstr "右スティック→"
+
+msgid "Keypad 0"
+msgstr "キーパッド 0"
+
+msgid "Keypad 1"
+msgstr "Keypad 1"
+
+msgid "Keypad 2"
+msgstr "Keypad 2"
+
+msgid "Keypad 3"
+msgstr "Keypad 3"
+
+msgid "Keypad 4"
+msgstr "Keypad 4"
+
+msgid "Keypad 5"
+msgstr "Keypad 5"
+
+msgid "Keypad 6"
+msgstr "Keypad 6"
+
+msgid "Keypad 7"
+msgstr "Keypad 7"
+
+msgid "Keypad 8"
+msgstr "Keypad 8"
+
+msgid "Keypad 9"
+msgstr "Keypad 9"
+
+msgid "Menu"
+msgstr "メニュー"
+
+msgid "Volume Down"
+msgstr "Volume Down"
+
+msgid "Volume Up"
+msgstr "Volume Up"
+
+msgid "Play Next"
+msgstr "Play Next"
+
+msgid "Play Prev"
+msgstr "Play Prev"
+
+msgid "Play"
+msgstr "Play"
+
+msgid "Mute"
+msgstr "Mute"
+
+msgid "Gamepad A"
+msgstr "Gamepad A"
+
+msgid "Gamepad B"
+msgstr "Gamepad B"
+
+msgid "Gamepad X"
+msgstr "Gamepad X"
+
+msgid "Gamepad Y"
+msgstr "Gamepad Y"
+
+msgid "Ctrl-"
+msgstr "Ctrl-"
+
+msgid "Alt-"
+msgstr "Alt-"
+
+msgid "Shft-"
+msgstr "Shft-"
+
+msgid "Off"
+msgstr "Off"
+
+msgid "Low"
+msgstr "Low"
+
+msgid "Full"
+msgstr "Full"
+
+msgid "On"
+msgstr "On"
+
+msgid "Message"
+msgstr "メッセージ"
+
+msgid "Confirm"
+msgstr "確認"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Terran"
+msgstr "テラン"
+
+msgid "Farmer"
+msgstr "ファーマー"
+
+msgid "Red"
+msgstr "レッド"
+
+msgid "Tinkrell"
+msgstr "ティンクレル"
+
+msgid "Borg"
+msgstr "ボーグ"
+
+msgid "Flies"
+msgstr "ファイル"
+
+msgid "Crystalline"
+msgstr "クリスタライン"
+
+msgid "Contestant"
+msgstr "対戦相手"
+
+msgid "Bee"
+msgstr "ビー"
+
+msgid "Spikey Plant"
+msgstr "スパイキープラント"
+
+msgid "Sentinel"
+msgstr "センチネル"
+
+msgid "Bindings"
+msgstr "バインド"
+
+msgid "Steam Cloud storage is nearly full! Clear save slots to create space"
+msgstr "Steamクラウドストレージがもうすぐいっぱいです！セーブスロットをクリアして空きスペースを確保してください"
+
+msgid "Log in to enable upload through wormhole"
+msgstr "ログインして、ワームホールからのアップロードを可能にします"
+
+msgid "Language"
+msgstr "言語"
+
+#, c-format
+msgid "%s to continue"
+msgstr "%sで継続"
+
+msgid "Engage My Target"
+msgstr "ターゲットに攻撃"
+
+msgid "Fire at Will"
+msgstr "気の向くままに攻撃"
+
+msgid "Disengage"
+msgstr "攻撃止め"
+
+msgid "Fleet Orders: "
+msgstr "艦隊の命令: "
+
+msgid "Station"
+msgstr "ステーション"
+
+#, c-format
+msgid "%d/%d ships"
+msgstr "%d/%d戦艦"
+
+msgid "Cycle Fleet AI"
+msgstr "艦隊のAIを切り替える"
+
+msgid "Skip"
+msgstr "スキップ"
+
+msgid "Extra durable"
+msgstr "耐久性追加"
+
+msgid "units"
+msgstr "ユニット"
+
+msgid "The instantaneous nature of lasers mean that damage is delivered before all else"
+msgstr "この瞬間性レーザーは、何よりも先にダメージを与えます"
+
+msgid "Armor block"
+msgstr "装甲ブロック"
+
+msgid "Pulser"
+msgstr "パルサー"
+
+msgid "Laser Drone"
+msgstr "レーザードローン"
+
+msgid "Dodging"
+msgstr "回避"
+
+msgid "Orders"
+msgstr "指令"
+
+msgid "ERROR"
+msgstr "エラー"
+
+msgid "missiles"
+msgstr "ミサイル"
+
+msgid "torpedoes"
+msgstr "魚雷"
+
+msgid "mines"
+msgstr "機雷"
+
+msgid "seeds"
+msgstr "シード"
+
+msgid "drones"
+msgstr "ドローン"
+
+msgid "Arena Border"
+msgstr "アリーナ境界"
+
+msgid "Arena Size"
+msgstr "アリーナサイズ"
+
+msgid "Asteroid Fill"
+msgstr "小惑星の追加"
+
+msgid "Asteroid Size (blocks)"
+msgstr "小惑星のサイズ (ブロック)"
+
+msgid "Plants"
+msgstr "プラント"
+
+msgid "Green"
+msgstr "緑"
+
+msgid "Blue"
+msgstr "青"
+
+msgid "Pink"
+msgstr "ピンク"
+
+msgid "Spikey"
+msgstr "ひっかけ"
+
+msgid "Time Limit"
+msgstr "タイムリミット"
+
+msgid "Rounds"
+msgstr "ラウンド"
+
+msgid "Countdown"
+msgstr "カウントダウン"
+
+#, c-format
+msgid "%d Points"
+msgstr "%d ポイント"
+
+#, c-format
+msgid "%d seconds"
+msgstr "%d 秒"
+
+#, c-format
+msgid "%d minutes, %d seconds"
+msgstr "%d 分、%d 秒"
+
+#, c-format
+msgid "%d hours, %d minutes, %d seconds"
+msgstr "%d 時間、%d 分、%d 秒"
+
+msgid "Sort"
+msgstr "並び替え"
+
+msgid "P Ascending"
+msgstr "P 昇順"
+
+msgid "P Descending"
+msgstr "P 降順"
+
+msgid "Name"
+msgstr "名前"
+
+msgid "Mass Ascending"
+msgstr "大きさの昇順"
+
+msgid "Mass Descending"
+msgstr "大きさの降順"
+
+msgid "Developer, (c) 2013-2016"
+msgstr "開発者、(c) 2013-2016"
+
+#, c-format
+msgid "  Healing: %.f/discharge\n"
+msgstr "  ヒーリング: %.f/放出\n"
+
+#, c-format
+msgid "  Tractor Force: %.f/discharge\n"
+msgstr "  トラクターフォース: %.f/放出\n"
+
+#, c-format
+msgid "  Healing: %.f/sec\n"
+msgstr "  ヒーリング: %.f/秒\n"
+
+#, c-format
+msgid "  Tractor Force: %.f/sec\n"
+msgstr "  トラクターフォース: %.f/秒\n"
+
+msgid "Single Elimination"
+msgstr "シングルエリミネーション"
+
+msgid "Double Elimination"
+msgstr "ダブルエリミネーション"
+
+msgid "AI Behavior"
+msgstr "AI の動作"
+
+msgid "Dynamic"
+msgstr "ダイナミック"
+
+msgid "Rush"
+msgstr "ラッシュ"
+
+msgid "Maneuver"
+msgstr "操作"
+
+msgid "Kite"
+msgstr "kite"
+
+msgid "MED Beam"
+msgstr "MED ビーム"
+
+msgid "Nanoassembler Beam"
+msgstr "ナノアセンブラービーム"
+
+msgid "Nanoassembler Drone Launcher"
+msgstr "ナノアセンブラードローンランチャー"
+
+msgid "Immobilizer"
+msgstr "イモバイライザー"
+
+msgid "Manipulator"
+msgstr "マニピュレータ"
+
+msgid "Grabber beam"
+msgstr "グラバービーム"
+
+msgid "Shard"
+msgstr "シャード"
+
+msgid "Anchor Launcher"
+msgstr "アンカーランチャー"
+
+msgid "Anchor Drone"
+msgstr "アンカードローン"
+
+msgid "Projectile Weapon Cluster:\n"
+msgstr "発射兵器クラスター:\n"

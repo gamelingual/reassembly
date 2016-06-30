@@ -1,0 +1,126 @@
+# 
+# Reassembly data/tutorial.lua localization file
+# 
+# Copyright (C) 2015-2016 Arthur Danskin
+# Content-Type: text/plain; charset=utf-8
+# 
+msgid ""
+msgstr ""
+
+msgid "Basics"
+msgstr "Grundlagen"
+
+msgid "Enter the world"
+msgstr "Betreten Sie die Welt."
+
+msgid "Use '$fireMain' to fire primary weapons"
+msgstr "Verwenden Sie ‚$fireMain' um Ihre Hauptwaffen abzufeuern."
+
+msgid "Use '$fireAlt' to launch secondary weapons"
+msgstr "Verwenden Sie ‚$fireAlt', um Ihre Zweitwaffen abzufeuern."
+
+msgid "Use '$viewConstructor' to modify ship"
+msgstr "Verwenden Sie ‚$viewConstructor', um Ihr Schiff zu verändern."
+
+msgid "Resources"
+msgstr "Ressourcen"
+
+msgid "Pick up an ^6R packet^7"
+msgstr "Nehmen Sie ein ^6R Paket^7 auf."
+
+msgid "Fly near a ^2spawner^7 to trade ^6R^7 for ^3C^7"
+msgstr "Fliegen Sie in die Nähe eines ^2Spawners^7, um ^6R^7 für ^3C^7 zu tauschen."
+
+msgid "Trade ^6100R^7 to a ^2spawner^7 for ^3C^7"
+msgstr "Verkaufen Sie ^6100R^7 an einen ^2Spawner^7 für ^3C^7"
+
+msgid "Earn ^3C^7 by exploring"
+msgstr "Verdienen Sie ^3C^7 durch Erkundungen."
+
+msgid "Earn ^3C^7 and ^6R^7 by destroying enemy ships"
+msgstr "Verdienen Sie beim Zerstören gegnerischer Schiffe ^3C^7 und ^6R^7."
+
+msgid "Press '$viewUpgrades' and upgrade something"
+msgstr "Klicken Sie auf ‚$viewUpgrades' und upgraden Sie etwas"
+
+msgid "Weapon Binding"
+msgstr "Waffen festlegen"
+
+msgid "Use '$viewBindings' to modify weapon groups"
+msgstr "Klicken Sie ‚$viewBindings', um Ihre Waffengruppierungen zu verändern"
+
+msgid "Objective"
+msgstr "Ziel"
+
+msgid "Use '$viewMap' to view full map"
+msgstr "Verwenden Sie ‚$viewMap', um die Karte anzuzeigen"
+
+msgid "Fly near a ^4damaged station^7 to reactivate"
+msgstr "Fliegen Sie in die Nähe einer ^4beschädigten Station^7, um sie zu reaktivieren"
+
+msgid "Factory"
+msgstr "Fabrik"
+
+msgid "Unlock the factory block using '$viewUpgrades'"
+msgstr "Schalten Sie den Fabrikblock im Upgrade-Bildschirm über ‚$viewUpgrades'."
+
+msgid "Attach a factory to your ship"
+msgstr "Fügen Sie Ihrem Schiff eine Fabrik hinzu."
+
+msgid "Use '$viewSelector' to place a ship design in the alternate slot"
+msgstr "Verwenden Sie ‚$viewSelector' um ein Schiffsdesign im alternativen Slot zu platzieren."
+
+msgid "Use '$activate' to spawn a ship"
+msgstr "Verwenden Sie ‚$activate', um ein Schiff zu spawnen"
+
+msgid "Spawn a ship with its own factory to complete the cycle"
+msgstr "Spawnen Sie ein Schiff mit eigener Fabrik um den Zyklus abzuschließen."
+
+msgid "Fleets"
+msgstr "Flotten"
+
+msgid "Use '$toggleTractor' to engage command mode"
+msgstr "Verwenden Sie ‚$toggleTractor', um den Befehlsmodus aufzurufen"
+
+msgid "Use '$fireMain' in command mode to recruit an ally"
+msgstr "Um ein alliiertes Schiff zu rekrutieren, können Sie es mit ‚$fireMain' anklicken"
+
+msgid "Use '$fireMain' again to release the ally (and gain ^3C^7)"
+msgstr "Klicken Sie erneut auf ‚$fireMain', um das Schiff zu entlassen (und dafür ^3C^7 zu erhalten)"
+
+msgid "Use '$viewSelector' to edit targeted ally's ship and build order"
+msgstr "Verwenden Sie ‚$viewSelector' um das Schiff und die Baureihenfolge eines angewählten Alliierten zu verändern"
+
+msgid "Generator"
+msgstr "Generator"
+
+msgid "Attach a generator to your ship to boost power"
+msgstr "Sie können einem Schiff einen Generator hinzufügen, um seine Energie zu erhöhen"
+
+msgid "Targets"
+msgstr "Ziele"
+
+msgid "Use the map to locate and destroy an ^1agent^7"
+msgstr "Verwenden Sie die Karte, um einen ^1Agenten^7 zu finden und zu zerstören"
+
+msgid ""
+"Unlock a playable faction by destroying a ^51000P+^7 ship from that faction"
+msgstr "Schalten Sie eine spielbare Fraktion durch das Zerstören eines ^51000P+^7-Schiffs der jeweiligen Fraktion frei"
+
+msgid "Wormhole"
+msgstr "Wurmloch"
+
+msgid "Use a wormhole to upload your fleet without changing worlds"
+msgstr "Verwenden Sie ein Wurmloch, um Ihre Flotte hochzuladen, ohne die Welt zu verlassen."
+
+msgid "Travel through a wormhole into a new world"
+msgstr "Reisen Sie durch ein Wurmloch, um in eine neue Welt zu gelangen."
+
+#~ msgid "Group Name"
+#~ msgstr "Gruppenname"
+
+#~ msgid "Objective 1 Text"
+#~ msgstr "Ziel 1 Text"
+
+#~ msgid "Objective 2 Text"
+#~ msgstr "Ziel 2 Text"

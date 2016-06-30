@@ -1,0 +1,65 @@
+# 
+# Reassembly data/tips.lua localization file
+# 
+# Copyright (C) 2015-2016 Arthur Danskin
+# Content-Type: text/plain; charset=utf-8
+# 
+msgid ""
+msgstr ""
+
+msgid "Press '$mouseRotToggle' to cycle ship control schemes."
+msgstr "Press '$mouseRotToggle' to cycle ship control schemes."
+
+msgid ""
+"Press '$autoZoomToggle' to completely disable automatic zooming, or zoom "
+"with '$zoom' to temporarily disable."
+msgstr "Press '$autoZoomToggle' to completely disable automatic zooming, or zoom with '$zoom' to temporarily disable."
+
+msgid ""
+"Press '$toggleHUD' to cycle HUD visibility. This can be used to hide "
+"tutorial objectives."
+msgstr "Press '$toggleHUD' to cycle HUD visibility. This can be used to hide tutorial objectives."
+
+msgid ""
+"Build new stations by spawning a design with a factory but no thrusters. "
+"Newly discovered deactivated stations will spawn with stations in your fleet"
+" screen if available."
+msgstr "Build new stations by spawning a design with a factory but no thrusters. Newly discovered deactivated stations will spawn with stations in your fleet screen if available."
+
+msgid ""
+"Allied stations and Factory ships will spawn ship designs from your Fleet "
+"screen."
+msgstr "Allied stations and Factory ships will spawn ship designs from your Fleet screen."
+
+msgid ""
+"Increase your ^5P^7 limit and unlock new blocks via the Upgrade screen "
+"('$viewUpgrades') to get more powerful."
+msgstr "Increase your ^5P^7 limit and unlock new blocks via the Upgrade screen ('$viewUpgrades') to get more powerful."
+
+msgid ""
+"Generator blocks boost weapon power but explode dramatically when destroyed "
+"- make sure to protect them."
+msgstr "Generator blocks boost weapon power but explode dramatically when destroyed - make sure to protect them."
+
+msgid ""
+"Keybindings can be changed within the Controls section of the main menu."
+msgstr "Keybindings can be changed within the Controls section of the main menu."
+
+msgid ""
+"Press '$viewSelector' when targetting an allied ship in COMMAND mode to edit"
+" its design or child build order."
+msgstr "Press '$viewSelector' when targetting an allied ship in COMMAND mode to edit its design or child build order."
+
+msgid ""
+"Ships equipped with Factory blocks do not automatically trade ^6R^7 to "
+"Stations. Use '$transferRes' to initiate a trade."
+msgstr "Ships equipped with Factory blocks do not automatically trade ^6R^7 to Stations. Use '$transferRes' to initiate a trade."
+
+#~ msgid ""
+#~ "Ships equipped with Factory blocks do not trade ^6R^7 to Stations. To get "
+#~ "^3C^7 with a factory equipped, either remove the Factory or spawn ships and "
+#~ "use COMMAND mode to release them."
+#~ msgstr ""
+#~ "La naves equipadas con bloques de Fábrica no cambian ^6R^7 a Estaciones. "
+#~ "Para obtener ^3C^7 con una fábrica equipada, retira la Fábrica o genera "
+#~ "naves y utiliza el modo COMANDO para liberarlas."

@@ -1,0 +1,49 @@
+# 
+# Reassembly data/popups.lua localization file
+# 
+# Copyright (C) 2015-2016 Arthur Danskin
+# Content-Type: text/plain; charset=utf-8
+# 
+msgid ""
+msgstr ""
+
+msgid "Similarly colored ships are allies, everyone else is hostile."
+msgstr "Las naves de colores similares son aliadas y las otras son enemigas."
+
+msgid "'$viewMap' to expand minimap."
+msgstr "\"$viewMap\" para expandir el minimapa."
+
+msgid "$zoom to zoom camera."
+msgstr "$zoom para alejar o acercar la cámara."
+
+msgid "Follow tutorial objectives to advance."
+msgstr "Sigue los objetivos del tutorial para avanzar."
+
+msgid "'$escape' to save / quit."
+msgstr "\"$escape\" para guardar/salir."
+
+msgid "'$viewSelector' to edit ships."
+msgstr "\"$viewSelector\" para editar naves."
+
+msgid ""
+"Ship ^6R^7 capacity filled. Increase capacity by adding containers or fly "
+"near a station to trade ^6R^7 for ^3C^7"
+msgstr "La capacidad ^6R^7 de la nave ha llegado al máximo. Puedes aumentar la capacidad agregando contenedores o volando cerca de una estación para cambiar ^6R^7 por ^3C^7"
+
+msgid "Drag new blocks from palette"
+msgstr "Arrastra nuevos bloques desde la paleta"
+
+msgid "'^5P^7' value limits ship features"
+msgstr "El valor \"^5P^7\" limita las características de la nave"
+
+msgid "View Keyboard commands in Help menu"
+msgstr "Puedes ver los comandos del teclado en el menú de Ayuda"
+
+msgid "Exit when finished"
+msgstr "Puedes salir cuando hayas terminado"
+
+msgid "Increase ^5P^7 to build larger ships"
+msgstr "Aumenta tu ^5P^7 para construir naves más grandes"
+
+#~ msgid "text to show to user"
+#~ msgstr "texto para mostrar al usuario"

@@ -1,0 +1,486 @@
+﻿# 
+# Reassembly data/shipnames.lua localization file
+# 
+# Copyright (C) 2015-2016 Arthur Danskin
+# Content-Type: text/plain; charset=utf-8
+# 
+msgid ""
+msgstr ""
+
+# this is the name of a ship
+msgid "Angel"
+msgstr "Engel"
+
+# this is the name of a ship
+msgid "Arbalest"
+msgstr "Arbalest"
+
+# this is the name of a ship
+msgid "Archangel"
+msgstr "Erzengel"
+
+# this is the name of a ship
+msgid "Archer"
+msgstr "Bogenschütze"
+
+# this is the name of a ship
+msgid "Assault"
+msgstr "Angriff"
+
+# this is the name of a ship
+msgid "Asteroid Home"
+msgstr "Asteroidenheimat"
+
+# this is the name of a ship
+msgid "Bachelaskultz"
+msgstr "Bachelaskultz"
+
+# this is the name of a ship
+msgid "Ballista"
+msgstr "Ballista"
+
+# this is the name of a ship
+msgid "Barge"
+msgstr "Barge"
+
+# this is the name of a ship
+msgid "Barium"
+msgstr "Barium"
+
+# this is the name of a ship
+msgid "Bastion"
+msgstr "Bastion"
+
+# this is the name of a ship
+msgid "Battle Nurse"
+msgstr "Gefechtsamme"
+
+# this is the name of a ship
+msgid "Battleship"
+msgstr "Schlachtschiff"
+
+# this is the name of a ship
+msgid "Beryllium"
+msgstr "Beryllium"
+
+# this is the name of a ship
+msgid "Bombard"
+msgstr "Bombard"
+
+# this is the name of a ship
+msgid "Bramble"
+msgstr "Kratzbeere"
+
+# this is the name of a ship
+msgid "Brawler"
+msgstr "Zänker"
+
+# this is the name of a ship
+msgid "Cactus"
+msgstr "Kaktus"
+
+# this is the name of a ship
+msgid "Caesium"
+msgstr "Caesium"
+
+# this is the name of a ship
+msgid "Claw"
+msgstr "Kralle"
+
+# this is the name of a ship
+msgid "Colony"
+msgstr "Kolonie"
+
+# this is the name of a ship
+msgid "Column"
+msgstr "Säule"
+
+# this is the name of a ship
+msgid "Combat Engineer"
+msgstr "Kampfingenieur"
+
+# this is the name of a ship
+msgid "Crescent"
+msgstr "Sichel"
+
+# this is the name of a ship
+msgid "Cruiser"
+msgstr "Kreuzer"
+
+# this is the name of a ship
+msgid "Destroyer"
+msgstr "Zerstörer"
+
+# this is the name of a ship
+msgid "Dragonfly"
+msgstr "Libelle"
+
+# this is the name of a ship
+msgid "Eagle"
+msgstr "Adler"
+
+# this is the name of a ship
+msgid "Energy Barge"
+msgstr "Energiebarge"
+
+# this is the name of a ship
+msgid "Fighter"
+msgstr "Kämpfer"
+
+# this is the name of a ship
+msgid "Fly"
+msgstr "Fliege"
+
+# this is the name of a ship
+msgid "Forklift"
+msgstr "Gabelstapler"
+
+# this is the name of a ship
+msgid "Fractal City"
+msgstr "Fraktalstadt"
+
+# this is the name of a ship
+msgid "Frigate"
+msgstr "Fregatte"
+
+# this is the name of a ship
+msgid "Gallium"
+msgstr "Gallium"
+
+# this is the name of a ship
+msgid "Germanium"
+msgstr "Germanium"
+
+# this is the name of a ship
+msgid "Gnat"
+msgstr "Gnat"
+
+# this is the name of a ship
+msgid "Guardian"
+msgstr "Wächter"
+
+# this is the name of a ship
+msgid "Harbinger"
+msgstr "Harbinger"
+
+# this is the name of a ship
+msgid "Heavy Barge"
+msgstr "Schwere Barge"
+
+# this is the name of a ship
+msgid "Heavy Depot"
+msgstr "Schweres Depot"
+
+# this is the name of a ship
+msgid "Heavy Minelayer"
+msgstr "Schwerer Minenleger"
+
+# this is the name of a ship
+msgid "Hiveblock"
+msgstr "Bienenstock"
+
+# this is the name of a ship
+msgid "Indium"
+msgstr "Indium"
+
+# this is the name of a ship
+msgid "Interceptor"
+msgstr "Abfangjäger"
+
+# this is the name of a ship
+msgid "Lithium"
+msgstr "Lithium"
+
+# this is the name of a ship
+msgid "Magnesium"
+msgstr "Magnesium"
+
+# this is the name of a ship
+msgid "Metacolumn"
+msgstr "Metasäule"
+
+# this is the name of a ship
+msgid "Minelayer"
+msgstr "Minenleger"
+
+# this is the name of a ship
+msgid "Minifreight"
+msgstr "Minifrachter"
+
+# this is the name of a ship
+msgid "Mosquito"
+msgstr "Moskito"
+
+# this is the name of a ship
+msgid "Mothership"
+msgstr "Mutterschiff"
+
+# this is the name of a ship
+msgid "Mouse"
+msgstr "Maus"
+
+# this is the name of a ship
+msgid "Nami"
+msgstr "Nami"
+
+# this is the name of a ship
+msgid "Necropolis"
+msgstr "Nekropolis"
+
+# this is the name of a ship
+msgid "Nurse"
+msgstr "Amme"
+
+# this is the name of a ship
+msgid "Obelisk"
+msgstr "Obelisk"
+
+# this is the name of a ship
+msgid "Owl"
+msgstr "Eule"
+
+# this is the name of a ship
+msgid "Pewpew"
+msgstr "Pewpew"
+
+# this is the name of a ship
+msgid "Pineapple"
+msgstr "Ananas"
+
+# this is the name of a ship
+msgid "Pinnacle"
+msgstr "Höhepunkt"
+
+# this is the name of a ship
+msgid "Plutonium"
+msgstr "Plutonium"
+
+# this is the name of a ship
+msgid "Probe"
+msgstr "Sonde"
+
+# this is the name of a ship
+msgid "Probe0"
+msgstr "Sonde0"
+
+# this is the name of a ship
+msgid "Promethium"
+msgstr "Promethium"
+
+# this is the name of a ship
+msgid "Radium"
+msgstr "Radium"
+
+# this is the name of a ship
+msgid "Raptor"
+msgstr "Jäger"
+
+# this is the name of a ship
+msgid "Reaper"
+msgstr "Schlitzer"
+
+# this is the name of a ship
+msgid "Recon"
+msgstr "Aufklärung"
+
+# this is the name of a ship
+msgid "Resurrection"
+msgstr "Wiederauferstehung"
+
+# this is the name of a ship
+msgid "Rubidium"
+msgstr "Rubidium"
+
+# this is the name of a ship
+msgid "Saber"
+msgstr "Säbel"
+
+# this is the name of a ship
+msgid "Scarab"
+msgstr "Skarabäus"
+
+# this is the name of a ship
+msgid "Science Vessel"
+msgstr "Wissenschaftsschiff"
+
+# this is the name of a ship
+msgid "Scout"
+msgstr "Späher"
+
+# this is the name of a ship
+msgid "Scythe"
+msgstr "Sense"
+
+# this is the name of a ship
+msgid "Seraphim"
+msgstr "Seraphim"
+
+# this is the name of a ship
+msgid "Shield Barge"
+msgstr "Schildbarge"
+
+# this is the name of a ship
+msgid "Shriek"
+msgstr "Schrei"
+
+# this is the name of a ship
+msgid "Shroud"
+msgstr "Schleier"
+
+# this is the name of a ship
+msgid "Shrub"
+msgstr "Strauch"
+
+# this is the name of a ship
+msgid "Shuriken"
+msgstr "Shuriken"
+
+# this is the name of a ship
+msgid "Skirmisher"
+msgstr "Plänkler"
+
+# this is the name of a ship
+msgid "Sniper"
+msgstr "Scharfschütze"
+
+# this is the name of a ship
+msgid "Soldier"
+msgstr "Soldat"
+
+# this is the name of a ship
+msgid "Soraka"
+msgstr "Soraka"
+
+# this is the name of a ship
+msgid "Sparrow"
+msgstr "Spatz"
+
+# this is the name of a ship
+msgid "Spider"
+msgstr "Spinne"
+
+# this is the name of a ship
+msgid "Spike"
+msgstr "Stachel"
+
+# this is the name of a ship
+msgid "Spinner"
+msgstr "Spinner"
+
+# this is the name of a ship
+msgid "Spire"
+msgstr "Spitzturm"
+
+# this is the name of a ship
+msgid "Sprite"
+msgstr "Gespenst"
+
+# this is the name of a ship
+msgid "Squirt"
+msgstr "Strahl"
+
+# this is the name of a ship
+msgid "Stamens"
+msgstr "Stamina"
+
+# this is the name of a ship
+msgid "Star Home"
+msgstr "Sternenheimat"
+
+# this is the name of a ship
+msgid "Storm"
+msgstr "Sturm"
+
+# this is the name of a ship
+msgid "Strike"
+msgstr "Blitz"
+
+# this is the name of a ship
+msgid "Stronium"
+msgstr "Stronium"
+
+# this is the name of a ship
+msgid "Sunflower"
+msgstr "Sonnenblume"
+
+# this is the name of a ship
+msgid "T2 Interceptor"
+msgstr "T2-Abfangjäger"
+
+# this is the name of a ship
+msgid "T2 Viking"
+msgstr "T2-Wikinger"
+
+# this is the name of a ship
+msgid "T3 Valkyrie"
+msgstr "T3-Walküre"
+
+# this is the name of a ship
+msgid "Talon"
+msgstr "Klaue"
+
+# this is the name of a ship
+msgid "Technician"
+msgstr "Techniker"
+
+# this is the name of a ship
+msgid "Tellurium"
+msgstr "Tellurium"
+
+# this is the name of a ship
+msgid "Thistle"
+msgstr "Distel"
+
+# this is the name of a ship
+msgid "Thistle Thorn"
+msgstr "Disteldorn"
+
+# this is the name of a ship
+msgid "Thorn"
+msgstr "Dorn"
+
+# this is the name of a ship
+msgid "Tomb"
+msgstr "Grabmal"
+
+# this is the name of a ship
+msgid "Tsunami"
+msgstr "Tsunami"
+
+# this is the name of a ship
+msgid "Tubule"
+msgstr "Tubulus"
+
+# this is the name of a ship
+msgid "Twerp"
+msgstr "Blödmann"
+
+# this is the name of a ship
+msgid "TwerpX2"
+msgstr "Blödmannx2"
+
+# this is the name of a ship
+msgid "Uranium"
+msgstr "Uranium"
+
+# this is the name of a ship
+msgid "Vault"
+msgstr "Bunker"
+
+# this is the name of a ship
+msgid "Whirl Base"
+msgstr "Wirbelbasis"
+
+# this is the name of a ship
+msgid "Worker"
+msgstr "Arbeiter"
+
+# this is the name of a ship
+msgid "Yggdrasil"
+msgstr "Yggdrasil"
+
+# this is the name of a ship
+msgid "Ziggurat"
+msgstr "Zikkurat"
+
+

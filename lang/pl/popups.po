@@ -1,0 +1,49 @@
+# 
+# Reassembly data/popups.lua localization file
+# 
+# Copyright (C) 2015-2016 Arthur Danskin
+# Content-Type: text/plain; charset=utf-8
+# 
+msgid ""
+msgstr ""
+
+msgid "Similarly colored ships are allies, everyone else is hostile."
+msgstr "Statki o podobnym schemacie kolorystycznym to sojusznicy. Cała reszta jest wroga."
+
+msgid "'$viewMap' to expand minimap."
+msgstr "'$viewMap' - maksymalizuj minimapę."
+
+msgid "$zoom to zoom camera."
+msgstr "$zoom - przybliżenie kamery."
+
+msgid "Follow tutorial objectives to advance."
+msgstr "Realizuj cele samouczka, aby osiągać postęp w grze."
+
+msgid "'$escape' to save / quit."
+msgstr "'$escape' - zapisz stan gry / wyjdź."
+
+msgid "'$viewSelector' to edit ships."
+msgstr "'$viewSelector' - edytuj statki."
+
+msgid ""
+"Ship ^6R^7 capacity filled. Increase capacity by adding containers or fly "
+"near a station to trade ^6R^7 for ^3C^7"
+msgstr "Osiągnięto limit pojemności magazynowej ^6R^7. Zwiększ pojemność dodając zbiorniki lub udaj się w pobliże stacji, aby dokonać wymiany ^6R^7 na ^3C^7."
+
+msgid "Drag new blocks from palette"
+msgstr "Przeciągnij nowe elementy z palety"
+
+msgid "'^5P^7' value limits ship features"
+msgstr "Wartość '^5P^7' stanowi o limicie ulepszeń statku"
+
+msgid "View Keyboard commands in Help menu"
+msgstr "Wyświetl polecenia klawiaturowe w menu pomocy"
+
+msgid "Exit when finished"
+msgstr "Wyjdź, aby zakończyć"
+
+msgid "Increase ^5P^7 to build larger ships"
+msgstr "Zwiększ ^5P^7, aby budować większe statki"
+
+#~ msgid "text to show to user"
+#~ msgstr "text to show to user"

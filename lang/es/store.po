@@ -1,0 +1,40 @@
+# 
+# Reassembly steam store localization file
+# 
+# Copyright (C) 2015 Arthur Danskin
+# Content-Type: text/plain; charset=utf-8
+# 
+msgid ""
+msgstr ""
+
+# Short Description
+msgid "A spaceship building and universe-exploration game. Collect resources, expand and grow your fleet, and conquer your personal galaxy. Stellar ambience by Peaks."
+msgstr "Un juego donde construirás naves espaciales y explorarás universos. Reúne recursos, expande tu flota y conquista tu propia galaxia. Excelente música de ambiente por Peaks."
+
+# About This Game
+msgid "And through the Kickstarter gauntlet we have arrived. Yes, we have a procedurally-generated universe to explore. Yes, we have eye-gogglingly gorgeous vector-based gameplay coupled with particle effects so effortlessly effervescent that you won't have time to wonder if \"effortlessly effervescent\" means anything coherent. And yes, we have noises and musical moods that take a warm soapy sponge to your brain and massage it into cerebral splendor. \n"
+"\n"
+"BUT YOU DON'T HAVE TIME FOR THAT!!!\n"
+"\n"
+"You're too busy crafting the perfect vessel, a spaceship pristine and precise and, perhaps, powerful, agile, and envy-inducing. Your shapes and colors will induce both fear and wonder into the electronic hearts of whatever insectoid, angley, squarish, plantlike race of alien ships that you come across in your digital safari. \n"
+"\n"
+"And then you grow. And it changes everything. Now your left wing must become your right wing in a lopsided arrangement of fancy new weaponry and mega-buffed shields. You recall thinking when you last were destroyed (and you will be destroyed), that you really needed to buff up that armor. Right? Definitely.\n"
+"\n"
+"And then you grow again. And again. And now you're a battleship capable of producing your own fleet, and each member of your fleet can spawn it's own fleet, and you need it. Your enemies are constantly changing shapes, sizes, and intensities as ships created and honed through the experience of a thousand battles find their way from their creator's computer to yours, leaping into your universe with all the mercy in the world of NONE AT ALL.\n"
+"\n"
+"It's time to visit the electronic tide pool. \n"
+"\n"
+"[h2]Reassembly[/h2]\n"
+"[list]\n"
+"[*] Gorgeous Vector-Based Graphics\n"
+"[*] Procedurally Generated Universes\n"
+"[*] Ridiculously User-Friendly Spaceship Designer\n"
+"[*] A Beautiful and Haunting Soundtrack by Peter Brown (Peaks)\n"
+"[*] More Particle Effects Than You can Shake a Stick At\n"
+"[*] Very Smart and Reactive AI\n"
+"[*] Physics that Give Weight to Your Creations\n"
+"[*] Asynchronous Multiplayer: Universes Populated by Fellow Players\n"
+"[/list]\n"
+msgstr "Y ya llegamos gracias a Kickstarter. Si, tenemos un universo generado proceduralmente para explorar. Si, tenemos una experiencia de juego maravillosa basada en vectores que harán desorbitar tus ojos con efectos de partículas fluidamente efervescentes que no tendrás tiempo para preguntarte si \"fluidamente efervescente\" tiene sentido. Y sí, tenemos sonidos y ambientes musicales magistrales que te relajarán.\n\n¡¡¡PERO NO VAS A TENER TIEMPO PARA ESO!!!\n\nVas a estar muy ocupado creando la nave perfecta, una impecable y precisa nave espacial, que podrás hacer poderosa, ágil y que todos envidiarán. Sus formas y colores producirán tanto miedo y fascinación en los corazones electrónicos de todas las razas insectoides, angulares, cuadradas y plantíferas que atraviesen tu safari digital.\n\nY de ahí, crecerás. Eso cambiará todo. Ahora, tu alerón izquierdo deberá convertirse en tu alerón derecho en una disposición asimétrica de espectaculares armas nuevas y escudos ultra reforzados. Recordarás que la última vez que te destruyeron (y te destruirán) te diste cuenta de que tenías que reforzar esos escudos. ¿No es cierto? Claro que sí.\n\nY de ahí, volverás a crecer. Y otra vez. Y ahora estás es una nave capaz de producir su propia flota; todos los miembros de tu nave pueden generar su propia flota; y esto es algo que necesitas. Tus enemigos cambian de forma, tamaño e intensidad constantemente, ya que las naves creadas y robustecidas con la experiencia de mil batallas encuentran el camino del PC del creador al tuyo, y saltan a tu universo con toda la misericordia en el mundo del NINGUNA.\n\nEs hora de visitar la marisma electrónica. \n\n[h2]Reassembly[/h2]\n[list]\n[*] Magníficos gráficos basados en vectores\n[*] Universos generados proceduralmente\n[*] Diseñador de naves espaciales ridículamente fácil de usar\n[*] Una hermosa y cautivante banda sonora creada por Peter Brown (Peaks)\n[*] Más efectos de partículas de los que puedas imaginar\n[*] Una inteligencia artificial muy inteligente y rápida\n[*] Física que le da peso a tus creaciones\n[*] Multijugador asincrónico: Universos populados por otros jugadores\n[/list]"
+
+

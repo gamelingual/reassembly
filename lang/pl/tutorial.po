@@ -1,0 +1,126 @@
+# 
+# Reassembly data/tutorial.lua localization file
+# 
+# Copyright (C) 2015-2016 Arthur Danskin
+# Content-Type: text/plain; charset=utf-8
+# 
+msgid ""
+msgstr ""
+
+msgid "Basics"
+msgstr "Podstawy"
+
+msgid "Enter the world"
+msgstr "Wejdź do świata"
+
+msgid "Use '$fireMain' to fire primary weapons"
+msgstr "Naciśnij '$fireMain', aby strzelać z broni podstawowej"
+
+msgid "Use '$fireAlt' to launch secondary weapons"
+msgstr "Naciśnij '$fireAlt', aby strzelać z broni drugorzędnej"
+
+msgid "Use '$viewConstructor' to modify ship"
+msgstr "Naciśnij '$viewConstructor', aby dokonać modyfikacji statku"
+
+msgid "Resources"
+msgstr "Zasoby"
+
+msgid "Pick up an ^6R packet^7"
+msgstr "Zbierz ^6złoże R^7"
+
+msgid "Fly near a ^2spawner^7 to trade ^6R^7 for ^3C^7"
+msgstr "Przeleć w pobliżu ^2wytwórcy^7, aby dokonać wymiany ^6R^7 na ^3C^7"
+
+msgid "Trade ^6100R^7 to a ^2spawner^7 for ^3C^7"
+msgstr "Wymień u ^2wytwórcy^7 ^6100 R^7 na ^3C^7"
+
+msgid "Earn ^3C^7 by exploring"
+msgstr "Zyskaj ^3C^7 eksplorując"
+
+msgid "Earn ^3C^7 and ^6R^7 by destroying enemy ships"
+msgstr "Zyskaj ^3C^7 i ^6R^7 niszcząc wrogie statki"
+
+msgid "Press '$viewUpgrades' and upgrade something"
+msgstr "Naciśnij '$viewUpgrades' i dokonaj ulepszenia"
+
+msgid "Weapon Binding"
+msgstr "Przypisanie uzbrojenia"
+
+msgid "Use '$viewBindings' to modify weapon groups"
+msgstr "Naciśnij '$viewBindings', aby modyfikować grupy uzbrojenia"
+
+msgid "Objective"
+msgstr "Cel"
+
+msgid "Use '$viewMap' to view full map"
+msgstr "Naciśnij '$viewMap', aby wyświetlić pełną mapę"
+
+msgid "Fly near a ^4damaged station^7 to reactivate"
+msgstr "Przeleć w pobliżu ^4uszkodzonej stacji^7, aby ją aktywować"
+
+msgid "Factory"
+msgstr "Stocznia"
+
+msgid "Unlock the factory block using '$viewUpgrades'"
+msgstr "Odblokuj element stoczni naciskając '$viewUpgrades'"
+
+msgid "Attach a factory to your ship"
+msgstr "Dodaj do swojego statku stocznię"
+
+msgid "Use '$viewSelector' to place a ship design in the alternate slot"
+msgstr "Naciśnij '$viewSelector', aby umieścić projekt statku w alternatywnym oknie"
+
+msgid "Use '$activate' to spawn a ship"
+msgstr "Naciśnij '$activate', aby wytworzyć statek"
+
+msgid "Spawn a ship with its own factory to complete the cycle"
+msgstr "Wytwórz statek z elementem stoczni, aby zamknąć cykl produkcyjny"
+
+msgid "Fleets"
+msgstr "Floty"
+
+msgid "Use '$toggleTractor' to engage command mode"
+msgstr "Naciśnij '$toggleTractor', aby wejść w tryb dowodzenia"
+
+msgid "Use '$fireMain' in command mode to recruit an ally"
+msgstr "Naciśnij '$fireMain', aby zrekrutować sojusznika w trybie dowodzenia"
+
+msgid "Use '$fireMain' again to release the ally (and gain ^3C^7)"
+msgstr "Użyj '$fireMain' ponownie, aby zwolnić sojusznika (i zyskać ^3C^7)"
+
+msgid "Use '$viewSelector' to edit targeted ally's ship and build order"
+msgstr "Naciśnij '$viewSelector', aby modyfikować statek sojusznika oraz kolejność wytwarzania"
+
+msgid "Generator"
+msgstr "Generator"
+
+msgid "Attach a generator to your ship to boost power"
+msgstr "Dodaj do swojego statku generator, aby podnieść jego moc"
+
+msgid "Targets"
+msgstr "Cele"
+
+msgid "Use the map to locate and destroy an ^1agent^7"
+msgstr "Użyj mapy, aby zlokalizować i zniszczyć ^1agenta^7"
+
+msgid ""
+"Unlock a playable faction by destroying a ^51000P+^7 ship from that faction"
+msgstr "Odblokuj grywalną frakcję niszcząc jej jednostkę o wartości ^51000 P^7 lub większej"
+
+msgid "Wormhole"
+msgstr "Tunel czasoprzestrzenny"
+
+msgid "Use a wormhole to upload your fleet without changing worlds"
+msgstr "Użyj tunelu czasoprzestrzennego, aby przekazać swoją flotę nie zmieniając świata"
+
+msgid "Travel through a wormhole into a new world"
+msgstr "Przedostań się przez tunel czasoprzestrzenny do nowego świata"
+
+#~ msgid "Group Name"
+#~ msgstr "Group Name"
+
+#~ msgid "Objective 1 Text"
+#~ msgstr "Objective 1 Text"
+
+#~ msgid "Objective 2 Text"
+#~ msgstr "Objective 2 Text"

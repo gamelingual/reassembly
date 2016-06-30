@@ -1,0 +1,2714 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-09 03:27+0000\n"
+"PO-Revision-Date: 2016-06-05 19:34-0400\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.8.4\n"
+
+msgid "Rushing"
+msgstr "Fonce"
+
+msgid "Sniping"
+msgstr "Snipe"
+
+msgid "Maneuvering"
+msgstr "Manœuvre"
+
+msgid "Edit palette"
+msgstr "Modifier la palette"
+
+msgid ""
+"Drop here to remove\n"
+"Click to cancel edit"
+msgstr "Déposer ici pour supprimer\nCliquer ici pour annuler la modification"
+
+msgid "Drop here to remove"
+msgstr "Déposer ici pour supprimer"
+
+msgid "Upgrade"
+msgstr "Améliorer"
+
+msgid "Save"
+msgstr "Sauvegarder"
+
+msgid "Discard"
+msgstr "Abandonner"
+
+msgid "Cancel"
+msgstr "Annuler"
+
+msgid "Confirm Save"
+msgstr "Confirmer la sauvegarde"
+
+msgid "Confirm Exit"
+msgstr "Confirmer avant de quitter"
+
+msgid "Warning: Not enough P to build this ship"
+msgstr "Attention : pas suffisamment de P pour construire ce vaisseau"
+
+msgid "Exit"
+msgstr "Quitter"
+
+msgid "Help"
+msgstr "Aide"
+
+msgid "View Instructions ('h' or '?')"
+msgstr "Voir instructions (« h » or « ? »)"
+
+msgid "Controls"
+msgstr "Commandes"
+
+msgid "Change editor controls"
+msgstr "Changer les commandes de l'éditeur"
+
+msgid "Instructions"
+msgstr "Instructions"
+
+msgid "Export"
+msgstr "Exporter"
+
+msgid "Export ship as a file on your Desktop"
+msgstr "Exporter le vaisseau sous forme de fichier sur votre bureau"
+
+msgid "Import"
+msgstr "Importer"
+
+msgid "Import design from a file"
+msgstr "Importer une conception depuis un fichier"
+
+msgid "Test"
+msgstr "Test"
+
+msgid "Automatically test ship against similar ships"
+msgstr "Tester automatiquement le vaisseau contre des vaisseaux similaires"
+
+msgid "WARNING: Acquire additional P"
+msgstr "ATTENTION : acquérir des P supplémentaires"
+
+msgid "Warning: exceeded max P"
+msgstr "Attention : P maximale dépassée"
+
+msgid "Import Failed: wrong command block"
+msgstr "Échec d'importation : mauvais bloc de commande"
+
+msgid "Unnamed Spaceship"
+msgstr "Vaisseau spatial sans nom"
+
+#, c-format
+msgid "Test Error: %s"
+msgstr "Test d'erreur : %s"
+
+msgid "Current Design"
+msgstr "Conception actuelle"
+
+msgid "Child Spawn Order"
+msgstr "Ordre de création d'enfant"
+
+msgid "Design Storage"
+msgstr "Stockage de conception"
+
+msgid "Ally Fleet Control"
+msgstr "Contrôle de flotte alliée"
+
+msgid "Player Fleet Control"
+msgstr "Contrôle de flotte du joueur"
+
+#, c-format
+msgid "WARNING Need %dR for metamorphosis"
+msgstr "ATTENTION : besoin de %dR pour métamorphose"
+
+msgid "No Factory Attached"
+msgstr "Aucune usine installée"
+
+msgid "Drop to copy"
+msgstr "Déposer pour copier"
+
+msgid "Drop to swap"
+msgstr "Déposer pour échanger"
+
+msgid "Drop to place"
+msgstr "Déposer pour placer"
+
+msgid "Press DELETE again to confirm"
+msgstr "Appuyez sur SUPPRIMER encore une fois pour confirmer"
+
+msgid "DELETE to delete"
+msgstr "SUPPRIMER pour supprimer"
+
+msgid "Alt-drag to clone"
+msgstr "Alt-glisser pour cloner"
+
+msgid "Uses encrypted blocks"
+msgstr "Utilise les blocs cryptés"
+
+msgid "Click to select waypoint"
+msgstr "Cliquer pour sélectionner un point de cheminement"
+
+msgid "Unsafe Spawner"
+msgstr "Créateur non sécurisé"
+
+msgid "Activated Spawner"
+msgstr "Créateur activé"
+
+msgid "Damaged Station"
+msgstr "Station endommagée"
+
+msgid "Wormhole"
+msgstr "Trou de ver"
+
+msgid "Agent"
+msgstr "Agent"
+
+msgid "ships"
+msgstr "vaisseaux"
+
+#, c-format
+msgid "Sector %dx%d"
+msgstr "Secteur %dx%d"
+
+#, c-format
+msgid "Controlled by %s"
+msgstr "Contrôlé par %s"
+
+msgid "No controlling faction"
+msgstr "Aucune faction majoritaire"
+
+msgid "Unexplored"
+msgstr "Inexploré"
+
+msgid "Map Overview"
+msgstr "Vue d'ensemble de la carte"
+
+msgid "Inactive Station"
+msgstr "Station inactive"
+
+msgid "Spawner"
+msgstr "Créateur"
+
+msgid "Resources"
+msgstr "Ressources"
+
+msgid "You"
+msgstr "Vous"
+
+#, c-format
+msgid " Range %d"
+msgstr " Portée %d"
+
+msgid "Following"
+msgstr "Suit"
+
+msgid "Friendly"
+msgstr "Amical"
+
+msgid "Neutral"
+msgstr "Neutre"
+
+msgid "Attacking"
+msgstr "Attaque"
+
+msgid "Defending"
+msgstr "Défend"
+
+msgid "TARGET LOCKED"
+msgstr "CIBLE VERROUILLÉE"
+
+msgid "Fleet: "
+msgstr "Flotte : "
+
+#, c-format
+msgid "%d ships, "
+msgstr "%d vaisseaux, "
+
+#, c-format
+msgid "%d drones, "
+msgstr "%d drones, "
+
+msgid "COMMAND MODE"
+msgstr "MODE DE COMMANDE"
+
+msgid "Back"
+msgstr "Retour"
+
+msgid "<"
+msgstr "<"
+
+msgid "Select fleet or ship"
+msgstr "Sélectionner la flotte ou un vaisseau"
+
+msgid "Select fleet"
+msgstr "Sélectionner la flotte"
+
+msgid "Select ship"
+msgstr "Sélectionner un vaisseau"
+
+#, c-format
+msgid "Exported to '%s': %s"
+msgstr "Exporté vers « %s » : %s"
+
+#, c-format
+msgid "%s exported to '%s'"
+msgstr "%s exporté vers « %s »"
+
+msgid "Export Failed"
+msgstr "Échec de l'exportation"
+
+msgid "Importing..."
+msgstr "Importation en cours…"
+
+msgid "New wormhole detected"
+msgstr "Nouveau trou de ver détecté"
+
+#, c-format
+msgid "Agent '%s' destroyed %s of your stations"
+msgstr "L'agent « %s » a détruit %s de vos stations"
+
+msgid "Respawning..."
+msgstr "Recréation en cours…"
+
+msgid "Destroyed"
+msgstr "Détruit"
+
+msgid "FAILED!!!!"
+msgstr "ÉCHEC !"
+
+msgid "Loading"
+msgstr "Chargement"
+
+msgid "Welcome"
+msgstr "Bienvenue"
+
+msgid "Left Stick"
+msgstr "Joystick gauche"
+
+msgid "Mouse / WASD"
+msgstr "Souris / ZQSD"
+
+msgid "Starting"
+msgstr "Lancement"
+
+msgid "Loading regions"
+msgstr "Chargement des régions"
+
+msgid "Generating Map"
+msgstr "Génération de la carte"
+
+msgid "Saving Game"
+msgstr "Sauvegarde de la partie"
+
+msgid "Saving Blueprints"
+msgstr "Sauvegarde du plan"
+
+msgid "Finishing"
+msgstr "Finalisation"
+
+msgid "Generating"
+msgstr "Génération"
+
+msgid "Downloading"
+msgstr "Téléchargement"
+
+msgid "Return To Game"
+msgstr "Retourner au jeu"
+
+msgid "Options"
+msgstr "Options"
+
+msgid "Quit"
+msgstr "Quitter"
+
+msgid "Save & Quit"
+msgstr "Sauvegarder et quitter"
+
+msgid "Paused"
+msgstr "Pause"
+
+msgid "Saving..."
+msgstr "Sauvegarde…"
+
+msgid "Identify Yourself"
+msgstr "Identifiez-vous"
+
+msgid "What is your name?"
+msgstr "Quel est votre nom ?"
+
+msgid "What is your favorite color?"
+msgstr "Quelle est votre couleur préférée ?"
+
+msgid "Launch"
+msgstr "Lancer"
+
+#, c-format
+msgid "Slot %d"
+msgstr "Emplacement %d"
+
+msgid "LOCKED"
+msgstr "VERROUILLÉ"
+
+msgid "Select Faction"
+msgstr "Sélectionner une faction"
+
+msgid "Destroy a capital ship from each faction to unlock"
+msgstr "Détruisez un vaisseau capital de chaque faction pour déverrouiller"
+
+msgid "Warning: Hard mode"
+msgstr "Attention : mode difficile"
+
+msgid "Loading..."
+msgstr "Chargement..."
+
+#, c-format
+msgid "Slot %d:"
+msgstr "Emplacement %d :"
+
+msgid " fleet only"
+msgstr " flotte seulement"
+
+msgid "OLD SAVE: regenerate"
+msgstr "ANCIENNE SAUVEGARDE : régénérer"
+
+msgid "ERROR: CORRUPTED"
+msgstr "ERREUR : CORROMPU"
+
+msgid "Regenerate World"
+msgstr "Régénérer le monde"
+
+msgid "Clear Slot"
+msgstr "Libérer l'emplacement"
+
+msgid "Import Fleet"
+msgstr "Importer la flotte"
+
+msgid "Export as Fleet"
+msgstr "Exporter en tant que flotte"
+
+msgid "Export as Mod"
+msgstr "Exporter en tant que mod"
+
+msgid "Export as Mod (create blocks.lua)"
+msgstr "Exporter en tant que mod (créer blocks.lua)"
+
+msgid "Select Save Slot"
+msgstr "Sélectionner la sauvegarde"
+
+msgid "Right click slot for options"
+msgstr "Clic droit sur l'emplacement pour voir les options"
+
+msgid "WARNING: Not connected to Steam"
+msgstr "ATTENTION : non connecté à Steam"
+
+msgid "Using ^1DEVELOPER^7 save path"
+msgstr "Utilise le chemin de sauvegarde de ^1DÉVELOPPEUR^7"
+
+msgid "Using System save path"
+msgstr "Utilise le chemin de sauvegarde du système"
+
+msgid "Warning: Steam Cloud did not finish syncing (restart game)"
+msgstr "Attention : Steam Cloud n'a pas terminé la synchronisation (redémarrez le jeu)"
+
+msgid "Using Steam Cloud saves"
+msgstr "Utilise les sauvegardes Steam Cloud"
+
+#, c-format
+msgid "%s/%s available"
+msgstr "%s/%s disponibles"
+
+#, c-format
+msgid "%d/%d files available"
+msgstr "%d/%d fichiers disponibles"
+
+msgid "Really regenerate world for save slot?"
+msgstr "Voulez-vous vraiment régénérer le monde pour cette sauvegarde ?"
+
+msgid "Really clear save slot?"
+msgstr "Voulez-vous vraiment supprimer la sauvegarde ?"
+
+msgid "Mod Export Failed (see log for details)"
+msgstr "Échec de l'exportation du mod (voir le journal pour plus de détails)"
+
+#, c-format
+msgid "Exported slot %d to %s\n"
+msgstr "Emplacement %d exporté vers %s\n"
+
+msgid ""
+"\n"
+"Edit blocks.lua in that directory to change block properties"
+msgstr "\nModifiez blocks.lua dans ce dossier pour modifier les propriétés des blocs"
+
+#, c-format
+msgid ""
+"\n"
+"See %s for modding documentation"
+msgstr "\nVoir %s pour la documentation concernant le modding"
+
+msgid "Submit"
+msgstr "Envoyer"
+
+msgid "Register"
+msgstr "S'inscrire"
+
+msgid "Log Out"
+msgstr "Déconnexion"
+
+msgid "Log In"
+msgstr "Se connecter"
+
+#, c-format
+msgid "Logged in as '%s'"
+msgstr "Connecté en tant que « %s »"
+
+msgid "Connecting..."
+msgstr "Connexion en cours…"
+
+msgid "Not logged in"
+msgstr "Non connecté"
+
+msgid "Standalone Ship Builder"
+msgstr "Constructeur de vaisseaux indépendant"
+
+msgid "Clearing..."
+msgstr "Suppression…"
+
+msgid "Compacting Saves..."
+msgstr "Compression des sauvegardes…"
+
+#, c-format
+msgid "Slot %d/%d"
+msgstr "Emplacement %d/%d"
+
+msgid "Start"
+msgstr "Commencer"
+
+msgid "Tournament"
+msgstr "Tournoi"
+
+msgid "Sandbox"
+msgstr "Bac à sable"
+
+msgid "Demo"
+msgstr "Démo"
+
+msgid "Mods"
+msgstr "Mods"
+
+msgid "Credits"
+msgstr "Crédits"
+
+msgid "Stay Here"
+msgstr "Rester ici"
+
+msgid "Follow Wormhole"
+msgstr "Suivre le trou de ver"
+
+msgid "Abort"
+msgstr "Abandonner"
+
+msgid "Error: No unique blueprints in fleet"
+msgstr "Erreur : pas de plans uniques dans la flotte"
+
+msgid "Fleet uses modded blocks, upload disabled"
+msgstr "La flotte utilise des blocs modifiés, envoi impossible"
+
+#, c-format
+msgid "Wormhole Connection Error: %s"
+msgstr "Erreur de connexion au trou de ver : %s"
+
+msgid "Uploading..."
+msgstr "Envoi…"
+
+msgid "OK!"
+msgstr "OK !"
+
+msgid "Login Failed"
+msgstr "Échec de la connexion"
+
+msgid "Enter username and password"
+msgstr "Entrez le nom d'utilisateur et le mot de passe"
+
+msgid "Login"
+msgstr "Connexion"
+
+msgid "Username (Anisoptera Forums)"
+msgstr "Nom d'utilisateur (forum Anisoptera)"
+
+msgid "Password"
+msgstr "Mot de passe"
+
+msgid "Music Volume"
+msgstr "Volume de la musique"
+
+msgid "Adjust background music volume"
+msgstr "Régler le volume de la musique de fond"
+
+msgid "Sfx Volume"
+msgstr "Volume des effets sonores"
+
+msgid "Adjust sound effects volume"
+msgstr "Régler le volume des effets sonores"
+
+msgid "Fullscreen"
+msgstr "Plein écran"
+
+msgid "Windowed"
+msgstr "Fenêtré"
+
+msgid "Fullscreen Window"
+msgstr "Fenêtre plein écran"
+
+msgid "True Fullscreen"
+msgstr "Vrai plein écran"
+
+msgid "Toggle fullscreen"
+msgstr "Passer en plein écran"
+
+msgid "Frame Rate"
+msgstr "Images par seconde"
+
+msgid "60 FPS cap"
+msgstr "Limite 60 images par seconde"
+
+msgid "No limiter"
+msgstr "Sans limite"
+
+msgid "VSync"
+msgstr "Vsync"
+
+msgid "Adaptive Vsync"
+msgstr "Vsync évolutif"
+
+msgid "Physics Updates Per Second"
+msgstr "Mises à jour physiques par seconde"
+
+msgid "Game simulation step rate"
+msgstr "Fréquence d'échelonnement de simulation du jeu"
+
+msgid "Particle Effects"
+msgstr "Effets de particules"
+
+msgid "Particle effects"
+msgstr "Effets de particules"
+
+msgid "Background Graphics"
+msgstr "Images d'arrière-plan"
+
+msgid "Disabled"
+msgstr "Désactivé"
+
+msgid "Just Stars"
+msgstr "Étoiles seulement"
+
+msgid "Stars and Halos"
+msgstr "Étoiles et halos"
+
+msgid "Post Processing"
+msgstr "Post-traitement"
+
+msgid "HDR Effects"
+msgstr "Effets HDR"
+
+msgid "Dithered HDR Effects"
+msgstr "Effets HDR tramés"
+
+msgid "Blur Effect"
+msgstr "Effet de flou"
+
+msgid "Menus"
+msgstr "Menus"
+
+msgid "Bloom"
+msgstr "Bloom"
+
+msgid "Line Quality"
+msgstr "Qualité de ligne"
+
+msgid "Aliased"
+msgstr "Aliasé"
+
+msgid "Fastest Smoothed"
+msgstr "Lissée plus rapidement"
+
+msgid "Nicest Smoothed"
+msgstr "Lissée plus précisément"
+
+msgid "Developer"
+msgstr "Développeur"
+
+msgid "Composer/Sfx"
+msgstr "Compositeur/Effets spéciaux"
+
+msgid "Production, Marketing"
+msgstr "Production, marketing"
+
+msgid "Additional Ship Design"
+msgstr "Conception de vaisseau supplémentaire"
+
+msgid "Alpha Testers"
+msgstr "Testeurs alpha"
+
+msgid "Marketing Materials"
+msgstr "Matériel de marketing"
+
+msgid "QA"
+msgstr "AQ"
+
+msgid "Localization"
+msgstr "Localisation"
+
+msgid "Special Thanks"
+msgstr "Remerciements particuliers"
+
+msgid "Software and Assets"
+msgstr "Logiciels et actifs"
+
+#, c-format
+msgid ""
+"Kickstarter\n"
+"Backers (%.1f%%):"
+msgstr "Contributeurs\nKickstarter (%.1f %%) :"
+
+msgid "Reset Defaults"
+msgstr "Réinitialiser par défaut"
+
+msgid "DELETE"
+msgstr "SUPPRIMER"
+
+msgid "Select"
+msgstr "Sélectionner"
+
+msgid "ESC"
+msgstr "ÉCHAP"
+
+msgid "Rebinding"
+msgstr "Reconfiguration"
+
+#, c-format
+msgid "Press %s to clear"
+msgstr "Appuyez sur %s pour effacer"
+
+#, c-format
+msgid "Press %s to cancel"
+msgstr "Appuyez sur %s pour annuler"
+
+msgid "Press any other key to bind"
+msgstr "Appuyez sur n'importe quelle autre touche pour reconfigurer"
+
+msgid "Enabled"
+msgstr "Activé"
+
+msgid "Deadzone Size"
+msgstr "Taille de la zone morte"
+
+msgid "Adjust stick sensitivity"
+msgstr "Régler la sensibilité du joystick"
+
+msgid "Cursor Damping"
+msgstr "Amortissement du curseur"
+
+msgid "Adjust cursor movement smoothing"
+msgstr "Réglez le lissage de mouvement du curseur"
+
+msgid "Menu Mouse Style"
+msgstr "Style de souris du menu"
+
+msgid "Relative"
+msgstr "Relative"
+
+msgid "Absolute"
+msgstr "Absolue"
+
+msgid "Gamepad Type"
+msgstr "Type de manette de jeu"
+
+msgid "No Gamepad Detected"
+msgstr "Aucune manette détectée"
+
+msgid "Gamepad"
+msgstr "Manette"
+
+#, c-format
+msgid "%s for next tip"
+msgstr "%s pour le conseil suivant"
+
+msgid "Basic"
+msgstr "Basique"
+
+msgid "Flying"
+msgstr "Vol"
+
+msgid "Editor"
+msgstr "Éditeur"
+
+msgid "<Unbound>"
+msgstr "<supprimé>"
+
+msgid "Primary Group"
+msgstr "Groupe principal"
+
+msgid "Secondary Group"
+msgstr "Groupe secondaire"
+
+msgid "Tertiary Group"
+msgstr "Groupe tertiaire"
+
+msgid "Auxiliary Group - automatically fire at selected target"
+msgstr "Groupe auxiliaire : tire automatiquement sur la cible sélectionnée"
+
+msgid "Point Defense Group - autofire at nearby targets, including missiles"
+msgstr "Groupe de défense de point : tire automatiquement sur les cibles à proximité, incluant les missiles"
+
+msgid "Autofire"
+msgstr "Tir automatique"
+
+msgid "Point Defense"
+msgstr "Défense de point"
+
+msgid "Mouse Wheel"
+msgstr "Molette de la souris"
+
+msgid "<Not Bound>"
+msgstr "<non configuré>"
+
+msgid "Blocks"
+msgstr "Blocs"
+
+msgid "Spaceships"
+msgstr "Vaisseaux spatiaux"
+
+msgid "More Spaceships"
+msgstr "Plus de vaisseaux spatiaux"
+
+msgid "Space Sounds"
+msgstr "Sons spatiaux"
+
+msgid "LOADING"
+msgstr "CHARGEMENT"
+
+msgid "View Workshop"
+msgstr "Voir Workshop"
+
+msgid "Publish"
+msgstr "Publier"
+
+#, c-format
+msgid "View %d Errors"
+msgstr "Voir les erreurs %d"
+
+msgid "Needs Update"
+msgstr "Mise à jour requise"
+
+#, c-format
+msgid "by %s"
+msgstr "par %s"
+
+msgid "Uploading"
+msgstr "Envoi"
+
+msgid "Creating Workshop Item..."
+msgstr "Création de l'objet du Workshop…"
+
+msgid "Workshop"
+msgstr "Workshop"
+
+msgid "Docs"
+msgstr "Documents"
+
+msgid "Mod Load Log"
+msgstr "Journal de chargement de mod"
+
+#, c-format
+msgid "%d Mods Loaded"
+msgstr "%d mods chargés"
+
+msgid "Top mods take precedence (drag to change order)"
+msgstr "Les mods principaux ont la priorité (faire glisser pour changer l'ordre)"
+
+msgid "Restart game to apply mod changes"
+msgstr "Redémarrez le jeu pour appliquer les changements de mods"
+
+msgid "Steam Workshop unavailable"
+msgstr "Steam Workshop non disponible"
+
+#, c-format
+msgid "Released %s"
+msgstr "Vous avez lancé %s"
+
+msgid "Gamepad Activated"
+msgstr "Manette activée"
+
+msgid "Gamepad Deactivated"
+msgstr "Manette désactivée"
+
+msgid "Enabled Auto Zoom"
+msgstr "Zoom automatique activé"
+
+msgid "Disabled Auto Zoom"
+msgstr "Zoom automatique désactivé"
+
+msgid "Enabled Auto Aim"
+msgstr "Visée automatique activée"
+
+msgid "Disabled Auto Aim"
+msgstr "Visée automatique désactivée"
+
+msgid "Enabled Auto Target"
+msgstr "Ciblage automatique activé"
+
+msgid "Disabled Auto Target"
+msgstr "Ciblage automatique désactivé"
+
+msgid "Cursor Rotates Ship"
+msgstr "Le curseur fait pivoter le vaisseau"
+
+msgid "Absolute Controls, Cursor Rotates"
+msgstr "Contrôles absolus, le curseur pivote"
+
+msgid "Keyboard Rotates Ship"
+msgstr "Le clavier fait pivoter le vaisseau"
+
+msgid "Ship Follows Cursor"
+msgstr "Le vaisseau suit le curseur"
+
+msgid "Default HUD"
+msgstr "Interface par défaut"
+
+msgid "Minimal HUD"
+msgstr "Interface minimale"
+
+msgid "Disabled HUD"
+msgstr "Interface désactivée"
+
+msgid "Entered Command Mode"
+msgstr "Mode de commande activé"
+
+msgid "Entered Pilot Mode"
+msgstr "Mode pilote activé"
+
+msgid "Can't recruit stations"
+msgstr "Impossible de recruter des stations"
+
+#, c-format
+msgid "Need %d additional C to recruit"
+msgstr "Vous avez besoin de %d C supplémentaires pour recruter"
+
+#, c-format
+msgid "Recruited %s"
+msgstr "Vous avez recruté %s"
+
+msgid "Not Enough Power"
+msgstr "Puissance insuffisante"
+
+msgid "No Teleporter on Ship"
+msgstr "Pas de téléporteur sur le vaisseau"
+
+msgid "Current blueprint is locked"
+msgstr "Le plan actuel est verrouillé"
+
+msgid "Entered Wormhole"
+msgstr "Vous êtes entré dans le trou de ver"
+
+#, c-format
+msgid "Destroyed %s's fleet"
+msgstr "Vous avez détruit la flotte de %s"
+
+#, c-format
+msgid "Liberated %s"
+msgstr "Vous avez libéré %s"
+
+#, c-format
+msgid "Reactivated %s"
+msgstr "Vous avez réactivé %s"
+
+msgid "Transfer Resources"
+msgstr "Transfert de ressources"
+
+#, c-format
+msgid "%s was destroyed by %s"
+msgstr "%s a été détruit par %s"
+
+#, c-format
+msgid "%s was destroyed"
+msgstr "%s a été détruit"
+
+#, c-format
+msgid "Destroyed %s"
+msgstr "Vous avez détruit %s"
+
+#, c-format
+msgid "Faction %d unlocked"
+msgstr "Vous avez déverrouillé la faction %d"
+
+msgid "Unlocked Faction"
+msgstr "Faction déverrouillée"
+
+msgid "Welcome back"
+msgstr "Heureux de vous revoir"
+
+msgid "Safe Journey"
+msgstr "Bon voyage"
+
+msgid "Ship does not contain factory"
+msgstr "Le vaisseau ne contient pas d'usine"
+
+msgid "Child blueprint not defined"
+msgstr "Plan d'enfant non défini"
+
+#, c-format
+msgid "Need %d additional R to spawn"
+msgstr "Vous avez besoin de %d R supplémentaires pour créer un vaisseau"
+
+msgid "No space around factory block to spawn"
+msgstr "Espace insuffisant autour de bloc d'usine pour créer un vaisseau"
+
+msgid "Explored new sectors"
+msgstr "Nouveaux secteurs explorés"
+
+msgid "Current blueprint uses encrypted blocks"
+msgstr "Le plan actuel utilise des blocs cryptés"
+
+#, c-format
+msgid "Need %d additional P to metamorphosize ship"
+msgstr "Vous avez besoin de %d P supplémentaires pour métamorphoser le vaisseau"
+
+#, c-format
+msgid "No current blueprint - use '%s'"
+msgstr "Aucun plan actuel : utilisez « %s »"
+
+msgid "Metamorphosizing ship"
+msgstr "Vaisseau métamorphosé"
+
+msgid "Missile"
+msgstr "Missile"
+
+msgid "Torpedo"
+msgstr "Torpille"
+
+msgid "Mine"
+msgstr "Mine"
+
+msgid "Seed"
+msgstr "Graine"
+
+msgid "Drone"
+msgstr "Drone"
+
+#, c-format
+msgid "Scale %d\n"
+msgstr "Échelle %d\n"
+
+msgid "Resource Storage Unit\n"
+msgstr "Unité de stockage de ressources\n"
+
+msgid "Hull Section\n"
+msgstr "Section de la coque\n"
+
+msgid "Command Module\n"
+msgstr "Module de commande\n"
+
+msgid "R Collection Range Booster\n"
+msgstr "Booster de portée de ramassage de R\n"
+
+msgid "Ship Production Unit\n"
+msgstr "Unité de production du vaisseau\n"
+
+msgid "Supports vegetation\n"
+msgstr "Supporte la végétation\n"
+
+msgid "Seed\n"
+msgstr "Graine\n"
+
+#, c-format
+msgid "R Collection Range: %.f\n"
+msgstr "Portée de ramassage de R : %.f\n"
+
+#, c-format
+msgid "R Generation: %.1f/sec\n"
+msgstr "Génération de R : %.1f/s\n"
+
+#, c-format
+msgid "Teleporter Energy: %.f Energy/Mass\n"
+msgstr "Énergie de téléporteur : %.f énergie/masse\n"
+
+#, c-format
+msgid "R Capacity: %.f\n"
+msgstr "Capacité de R : %.f\n"
+
+#, c-format
+msgid "Melee Damage Multiplier: %.f%%\n"
+msgstr "Multiplicateur de dégâts de mêlée : %.f %%\n"
+
+#, c-format
+msgid "Explode Radius: %.f\n"
+msgstr "Rayon d'explosion : %.f\n"
+
+#, c-format
+msgid "Explode Damage: %.f\n"
+msgstr "Dégâts d'explosion : %.f\n"
+
+msgid "Auto-firing"
+msgstr "Tir automatique"
+
+msgid "Charging"
+msgstr "Charge"
+
+msgid "Projectile Weapon:\n"
+msgstr "Arme à projectile :\n"
+
+#, c-format
+msgid "  Damage: %.f/round\n"
+msgstr "  Dégâts : %.f/munition\n"
+
+#, c-format
+msgid "  Splash Radius: %.f\n"
+msgstr "  Rayon d'impact : %.f\n"
+
+#, c-format
+msgid "  Rate: %g rounds/sec\n"
+msgstr "  Taux : %g munitions/s\n"
+
+#, c-format
+msgid "  Burst Size: %d rounds\n"
+msgstr "  Taille de rafale : %d munitions\n"
+
+#, c-format
+msgid "  Range: %.f\n"
+msgstr "  Portée : %.f\n"
+
+#, c-format
+msgid "  Velocity: %.f\n"
+msgstr "  Vélocité : %.f\n"
+
+#, c-format
+msgid "  Spread: +-%.2f degrees\n"
+msgstr "  Dispersion : +-%.2f degrés\n"
+
+#, c-format
+msgid "  Energy: %.f/shot\n"
+msgstr "  Énergie : %.f/tir\n"
+
+#, c-format
+msgid "  Charge time: %.1f secs\n"
+msgstr "  Temps de charge : %.1f s\n"
+
+#, c-format
+msgid "  Min discharge: %.1f secs\n"
+msgstr "  Décharge min : %.1f s\n"
+
+msgid "Weapon Booster:\n"
+msgstr "Booster d'arme :\n"
+
+msgid "Rate"
+msgstr "Taux"
+
+msgid "Velocity"
+msgstr "Vélocité"
+
+msgid "Energy"
+msgstr "Énergie"
+
+msgid "/shot"
+msgstr "/tir"
+
+msgid "Damage"
+msgstr "Dégâts"
+
+msgid "Range"
+msgstr "Portée"
+
+msgid "Explode Radius"
+msgstr "Rayon d'explosion"
+
+msgid "Beam Weapon:\n"
+msgstr "Arme à faisceau :\n"
+
+#, c-format
+msgid "  Damage: %.f/discharge\n"
+msgstr "  Dégâts : %.f/décharge\n"
+
+#, c-format
+msgid "  Energy: %.f/discharge\n"
+msgstr "  Énergie : %.f/décharge\n"
+
+#, c-format
+msgid "  Damage: %.f/sec\n"
+msgstr "  Dégâts : %.f/s\n"
+
+#, c-format
+msgid "  Energy: %.f/sec\n"
+msgstr "  Énergie : %.f/s\n"
+
+#, c-format
+msgid "Turret Speed: %.f degrees/sec\n"
+msgstr "Vitesse de la tourelle : %.f degrés/s\n"
+
+#, c-format
+msgid "Regen Rate: %.1f %s/sec\n"
+msgstr "Taux de régénération : %.1f %s/s\n"
+
+#, c-format
+msgid "Regen Energy: %.f/%s\n"
+msgstr "Énergie de régénération :%.f/%s\n"
+
+msgid " Stats:\n"
+msgstr " Statistiques :\n"
+
+#, c-format
+msgid "Acceleration: %.f\n"
+msgstr "Accélération : %.f\n"
+
+#, c-format
+msgid "Thrust: %.fK\n"
+msgstr "Poussée : %.fK\n"
+
+#, c-format
+msgid "Torque: %.fK\n"
+msgstr "Couple : %.fK\n"
+
+#, c-format
+msgid "Shield Health: %.f\n"
+msgstr "Bouclier : %.f\n"
+
+#, c-format
+msgid "Shield Radius: %.f\n"
+msgstr "Rayon du bouclier : %.f\n"
+
+#, c-format
+msgid "Shield Regen Delay: %.f secs\n"
+msgstr "Délai de régénération du bouclier : %.f s\n"
+
+#, c-format
+msgid "Shield Regen Rate: %.f health/sec\n"
+msgstr "Taux de régénération du bouclier : %.f santé/s\n"
+
+#, c-format
+msgid "Shield Regen Energy: %.f/sec\n"
+msgstr "Énergie de régénération du bouclier : %.f/s\n"
+
+#, c-format
+msgid "Energy Generated: %.f/sec\n"
+msgstr "Énergie générée : %.f/s\n"
+
+#, c-format
+msgid "Energy Stored: %.f\n"
+msgstr "Énergie stockée : %.f\n"
+
+#, c-format
+msgid "Health: %.f\n"
+msgstr "Santé : %.f\n"
+
+#, c-format
+msgid "Mass: %.f\n"
+msgstr "Masse : %.f\n"
+
+#, c-format
+msgid "Regrowth: %.1f secs\n"
+msgstr "Recroissance : %.1f s\n"
+
+msgid "Block Limit Reached"
+msgstr "Limite de blocs atteinte"
+
+#, c-format
+msgid "%3d Blocks Selected. Mass: %3.f, Health: %4.f, %4dP"
+msgstr "%3d blocs sélectionnés. Masse : %3.f, Santé : %4.f, %4dP"
+
+msgid "Tutorial"
+msgstr "Tutoriel"
+
+#, c-format
+msgid "Finished %s Tutorial"
+msgstr "Tutoriel %s terminé"
+
+#, c-format
+msgid "Energy: %.f/%.f"
+msgstr "Énergie : %.f/%.f"
+
+msgid "^6R^7 Capacity Full"
+msgstr "Capacité de ^6R^7 remplie"
+
+msgid "^6Transferring^7"
+msgstr "^6Transfert^7"
+
+msgid "Press '$transferRes' to trade ^6R^7 for ^3C^7"
+msgstr "Appuyez sur « $transferRes » pour échanger des ^6R^7 contre des ^3C^7"
+
+msgid "Activating..."
+msgstr "Activation…"
+
+msgid "MAX"
+msgstr "MAX"
+
+msgid "Block already in palette"
+msgstr "Le bloc est déjà dans la palette"
+
+msgid "Not enough C to decrypt"
+msgstr "C insuffisants pour décrypter"
+
+msgid "Not enough C to increase P"
+msgstr "C insuffisants pour augmenter P"
+
+msgid "Maximum reached"
+msgstr "Maximum atteint"
+
+msgid "Palette"
+msgstr "Palette"
+
+msgid "Databank"
+msgstr "Banque de données"
+
+msgid "Click to add to palette"
+msgstr "Cliquez pour ajouter à la palette"
+
+msgid "Click to decrypt"
+msgstr "Cliquez pour décrypter"
+
+msgid ""
+"\n"
+"Drag to rearrange"
+msgstr "\nFaites glisser pour réorganiser"
+
+msgid ""
+"Palette Block\n"
+"Drag to rearrange"
+msgstr "Bloc de palette\nFaites glisser pour réorganiser"
+
+msgid ""
+"Empty palette slot\n"
+"Drag from databank to fill"
+msgstr "Emplacement de palette vide\nFaites glisser à partir de la banque de données pour la remplir"
+
+msgid "Maximum P reached"
+msgstr "P maximale atteinte"
+
+msgid "Permanently increase P"
+msgstr "Augmente P de manière permanente"
+
+msgid ""
+"Permanently increase P\n"
+"Not enough C to increase"
+msgstr "Augmente P de manière permanente\nC insuffisants pour augmenter"
+
+msgid "Resource Description"
+msgstr "Description de la ressource"
+
+msgid "Map"
+msgstr "Carte"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Tutorials"
+msgstr "Tutoriels"
+
+msgid "Binding"
+msgstr "Liaison"
+
+msgid "Fleet"
+msgstr "Flotte"
+
+#, c-format
+msgid "%d wins, %d losses"
+msgstr "%d victoires, %d défaites"
+
+#, c-format
+msgid "%2d wins: %s"
+msgstr "%2d victoires : %s"
+
+#, c-format
+msgid "%d wins"
+msgstr "%d victoires"
+
+#, c-format
+msgid "%.f Points"
+msgstr "%.f points"
+
+#, c-format
+msgid "%d ships"
+msgstr "%d vaisseaux"
+
+#, c-format
+msgid "Round %d of %d"
+msgstr "Manche %d de %d"
+
+msgid "PAUSED"
+msgstr "EN PAUSE"
+
+#, c-format
+msgid "Wins!"
+msgstr "a gagné !"
+
+#, c-format
+msgid "Wins Round %d!"
+msgstr "remporte la manche %d !"
+
+msgid "No comparable ships"
+msgstr "Pas de vaisseau comparable"
+
+msgid "Tournament Brackets"
+msgstr "Tableau de tournoi"
+
+msgid "Ripple Fire alternates weapons to maximize rate of fire"
+msgstr "Le tir par vague alterne les armes pour maximiser la cadence de tir"
+
+msgid "Fire all weapons in group simultaneously"
+msgstr "Tire avec toutes les armes d'un groupe simultanément"
+
+#, c-format
+msgid "Double click to select all %ss"
+msgstr "Double-cliquez pour sélectionner chaque %s"
+
+msgid "Ripple Fire"
+msgstr "Tir par vague"
+
+msgid "Fire All"
+msgstr "Tir groupé"
+
+msgid "Weapon Bindings"
+msgstr "Liaisons des armes"
+
+msgid "Forwards"
+msgstr "En avant"
+
+msgid "Backwards"
+msgstr "En arrière"
+
+msgid "Left"
+msgstr "Gauche"
+
+msgid "Right"
+msgstr "Droite"
+
+msgid "Fire Primary"
+msgstr "Tir principal"
+
+msgid "Fire Secondary"
+msgstr "Tir secondaire"
+
+msgid "Fire Tertiary"
+msgstr "Tir tertiaire"
+
+msgid "Stop"
+msgstr "Stop"
+
+msgid "Strafe Left"
+msgstr "Strafe gauche"
+
+msgid "Strafe Right"
+msgstr "Strafe droit"
+
+msgid "Lock Target"
+msgstr "Verrouiller la cible"
+
+msgid "Spawn Child"
+msgstr "Créer un enfant"
+
+msgid "Teleport"
+msgstr "Téléporter"
+
+msgid "Toggle Command mode"
+msgstr "Basculer en mode de commande"
+
+msgid "View Map"
+msgstr "Voir la carte"
+
+msgid "View Weapon Bindings"
+msgstr "Voir la liaison des armes"
+
+msgid "View Upgrades"
+msgstr "Voir les améliorations"
+
+msgid "Cycle controls"
+msgstr "Voir les contrôles"
+
+msgid "Toggle auto-zoom"
+msgstr "Activer le zoom automatique"
+
+msgid "Toggle auto-aim"
+msgstr "Activer le ciblage automatique"
+
+msgid "Toggle minimal HUD"
+msgstr "Activer l'interface minimale"
+
+msgid "Zoom Out"
+msgstr "Dézoomer"
+
+msgid "Zoom in"
+msgstr "Zoomer"
+
+msgid "View Ships"
+msgstr "Voir les vaisseaux"
+
+msgid "Edit Current Ship"
+msgstr "Modifier le vaisseau actuel"
+
+msgid "Edit Child Ship"
+msgstr "Modifier le vaisseau enfant"
+
+msgid "Rotate Camera Counterclockwise"
+msgstr "Faire tourner la caméra dans le sens antihoraire"
+
+msgid "Rotate Camera Clockwise"
+msgstr "Faire tourner la caméra dans le sens horaire"
+
+msgid "Next"
+msgstr "Suivant"
+
+msgid "Console"
+msgstr "Console"
+
+msgid "Faster"
+msgstr "Plus rapide"
+
+msgid "Slower"
+msgstr "Plus lent"
+
+msgid "Pause"
+msgstr "Pause"
+
+msgid "Left Click"
+msgstr "Clic gauche"
+
+msgid "Right Click"
+msgstr "Clic droit"
+
+msgid "Undo"
+msgstr "Annuler"
+
+msgid "Redo"
+msgstr "Rétablir"
+
+msgid "Mirror"
+msgstr "Miroir"
+
+msgid "Copy"
+msgstr "Copier"
+
+msgid "Cut"
+msgstr "Couper"
+
+msgid "Paste"
+msgstr "Coller"
+
+msgid "Scale Up"
+msgstr "Agrandir"
+
+msgid "Scale Down"
+msgstr "Réduire"
+
+msgid "Select All"
+msgstr "Sélectionner tout"
+
+msgid "Rotate Counterclockwise"
+msgstr "Pivoter dans le sens antihoraire"
+
+msgid "Rotate Clockwise"
+msgstr "Pivoter dans le sens horaire"
+
+msgid "Delete"
+msgstr "Supprimer"
+
+msgid "Unknown"
+msgstr "Inconnu"
+
+msgid "Steam Profile is Private"
+msgstr "Le profil Steam est privé"
+
+msgid "Mode"
+msgstr "Mode"
+
+msgid "Pool"
+msgstr "Groupe"
+
+msgid "Bracket"
+msgstr "Association"
+
+msgid "Clear"
+msgstr "Effacer"
+
+msgid "Really Clear?"
+msgstr "Vraiment effacer ?"
+
+msgid "Steam Friends"
+msgstr "Amis Steam"
+
+#, c-format
+msgid "Imported Fleet %s"
+msgstr "Flotte %s importée"
+
+msgid "Imported Ships"
+msgstr "Vaisseaux importés"
+
+msgid "1 ship"
+msgstr "1 vaisseau"
+
+msgid "Available"
+msgstr "Disponible"
+
+msgid "Team"
+msgstr "Équipe"
+
+msgid "Contestants"
+msgstr "Concurrents"
+
+msgid "Steam Friends Unavailable: "
+msgstr "Amis Steam non disponibles : "
+
+msgid "Logging in..."
+msgstr "Connexion en cours…"
+
+#, c-format
+msgid "Downloading Steam Friend Ships: %.f%%"
+msgstr "Téléchargement des vaisseaux d'amis Steam :%.f %%"
+
+msgid "Error: "
+msgstr "Erreur : "
+
+msgid "Command Module"
+msgstr "Module de commande"
+
+msgid "The core of every ship"
+msgstr "Le cœur de tous les vaisseaux"
+
+msgid "Resource Containment Unit"
+msgstr "Unité de confinement de ressources"
+
+msgid "Resource storage unit"
+msgstr "Unité de stockage de ressources"
+
+msgid "Thruster"
+msgstr "Propulseur"
+
+msgid "Produces a small amount of thrust"
+msgstr "Produit une poussée minime"
+
+msgid "Provides a medium amount of thrust"
+msgstr "Produit une poussée moyenne"
+
+msgid "Provides a large amount of thrust"
+msgstr "Produit une poussée forte"
+
+msgid "Generator"
+msgstr "Générateur"
+
+msgid "Produces energy to power a ship's weapons. More generators, more energy"
+msgstr "Produit de l'énergie pour alimenter les armes d'un vaisseau. Plus il y a de générateurs, plus il y a d'énergie"
+
+msgid "Solar Panel"
+msgstr "Panneau solaire"
+
+msgid "Adapter"
+msgstr "Adaptateur"
+
+msgid "A basic building block"
+msgstr "Un bloc de construction de base"
+
+msgid "Armor"
+msgstr "Blindage"
+
+msgid "RK-12 Standard"
+msgstr "RK-12 standard"
+
+msgid "Basic light cannon. Its consistent rate of fire and low energy use make it a reliable weapon"
+msgstr "Canon léger de base. Sa cadence de tir uniforme et sa faible consommation d'énergie en font une arme fiable"
+
+msgid "Hull"
+msgstr "Coque"
+
+msgid "MGVD-4 Bolshevik"
+msgstr "MGVD-4 Bolchévique"
+
+msgid "Fires numerous but slow explosive rounds, akin to a grenade launcher"
+msgstr "Tire de nombreux obus explosifs lents, à l'instar d'un lanceur de grenade"
+
+msgid "AF-75 Spitter"
+msgstr "AF-75 Cracheur"
+
+msgid "A powerful burst-fire turret that excels at medium range"
+msgstr "Une puissante tourelle par rafales qui excelle à moyenne portée"
+
+msgid "Minigun"
+msgstr "Minigun"
+
+msgid "Swatter"
+msgstr "Balayeur"
+
+msgid "SG-9 Scattergun"
+msgstr "SG-9 Disperseur"
+
+msgid "Anti-ship shotgun"
+msgstr "Fusil antivaisseau"
+
+msgid "HC2"
+msgstr "HC2"
+
+msgid "EXR-1 Railgun"
+msgstr "EXR-1 canon à rail"
+
+msgid "Unmatched in range, this sniper rifle will always give you the first shot"
+msgstr "La portée inégalée de ce fusil de sniper vous permettra de toujours toucher la cible en premier"
+
+msgid "Phalanx"
+msgstr "Phalange"
+
+msgid "MC3"
+msgstr "MC3"
+
+msgid "HC3"
+msgstr "HC3"
+
+msgid "MLS Avenger"
+msgstr "MLS Vengeur"
+
+msgid "Very high rate of fire, medium range"
+msgstr "Cadence de tir très élevée, moyenne portée"
+
+msgid "MLS Anti-Missile"
+msgstr "MLS antimissile"
+
+msgid "Close in weapon system"
+msgstr "Système d'arme rapproché"
+
+msgid "Longbow"
+msgstr "Arc long"
+
+msgid "ZLM Sparrow"
+msgstr "ZLM Sparrow"
+
+msgid "Who doesn't like showering a target in missiles?"
+msgstr "Qui n'aime pas bombarder une cible des missiles?"
+
+msgid "Shield"
+msgstr "Bouclier"
+
+msgid "Low strength and limited area is balanced by a fast recharge time"
+msgstr "Sa puissance et sa zone limitées sont compensées par un temps de recharge rapide"
+
+msgid "MM1"
+msgstr "MM1"
+
+msgid "HM1"
+msgstr "HM1"
+
+msgid "Arkas PRP-1"
+msgstr "Arkas PRP-1"
+
+msgid "This small laser cannon is capable of taking out small targets in seconds"
+msgstr "Ce petit canon laser est capable de détruire les petites cibles en quelques secondes"
+
+msgid "Arkas PRP-2"
+msgstr "Arkas PRP-2"
+
+msgid "The instantaneous nature of lasers mean that damage is delivered before all else"
+msgstr "Le caractère instantané des lasers signifie qu'il inflige des dégâts avant toutes les autres armes"
+
+msgid "Arkas PRP-3"
+msgstr "Arkas PRP-3"
+
+msgid "Need to burn through a battleship without breaking a sweat? Try this"
+msgstr "Vous voulez anéantir un cuirassé sans effort ? Essayez ça"
+
+msgid "This mid-size generator is versatile and effective"
+msgstr "Ce générateur de taille moyenne est polyvalent et efficace"
+
+msgid "When you've got a lot of hardware to protect, look no further"
+msgstr "Si vous avez beaucoup de matériel à protéger, ne cherchez pas plus loin"
+
+msgid "Heavy Turret"
+msgstr "Tourelle lourde"
+
+msgid "Power Distributor"
+msgstr "Distributeur d'énergie"
+
+msgid "Station Battery"
+msgstr "Batterie de station"
+
+msgid "Station Defense Laser"
+msgstr "Laser de défense de station"
+
+msgid "Factory"
+msgstr "Usine"
+
+msgid "Tractor"
+msgstr "Tracteur"
+
+msgid "Nexus"
+msgstr "Nexus"
+
+msgid "Penrose Zero"
+msgstr "Penrose Zero"
+
+msgid "Penrose One"
+msgstr "Penrose One"
+
+msgid "Blaster"
+msgstr "Blaster"
+
+msgid "Mini size"
+msgstr "Mini"
+
+msgid "Small size"
+msgstr "Petit"
+
+msgid "Medium size"
+msgstr "Moyen"
+
+msgid "Large size"
+msgstr "Grand"
+
+msgid "Phaser"
+msgstr "Phaser"
+
+msgid "Tempest"
+msgstr "Tempête"
+
+msgid "Laser"
+msgstr "Laser"
+
+msgid "Drone Launcher"
+msgstr "Lanceur de drone"
+
+msgid "Anti-Missile Laser"
+msgstr "Laser antimissile"
+
+msgid "Storage Pod"
+msgstr "Capsule de stockage"
+
+msgid "CommandControl"
+msgstr "Contrôle de commande"
+
+msgid "Strut"
+msgstr "Support"
+
+msgid "CannonBase"
+msgstr "Base de canon"
+
+msgid "Modular plasma cannon"
+msgstr "Canon à plasma modulaire"
+
+msgid "DamageAmplifier"
+msgstr "Amplificateur de dégâts"
+
+msgid "Increases damage of attached weapon"
+msgstr "Augmente les dégâts de l'arme attachée"
+
+msgid "Significantly increases damage of attached weapon"
+msgstr "Augmente considérablement les dégâts de l'arme attachée"
+
+msgid "RangeAmplifier"
+msgstr "Amplificateur de portée"
+
+msgid "Increases range and projectile speed of attached weapon"
+msgstr "Augmente la portée et la vitesse du projectile de l'arme attachée"
+
+msgid "RateAmplifier"
+msgstr "Amplificateur de cadence"
+
+msgid "Increases rate of fire of attached weapon"
+msgstr "Augmente la cadence de tir de l'arme attachée"
+
+msgid "VelocityAmplifier"
+msgstr "Amplificateur de vélocité"
+
+msgid "Significantly increases projectile speed of attached weapon"
+msgstr "Augmente considérablement la vitesse du projectile de l'arme attachée"
+
+msgid "Protector"
+msgstr "Protecteur"
+
+msgid "Defense Laser"
+msgstr "Laser de défense"
+
+msgid "Solar Array"
+msgstr "Panneau solaire"
+
+msgid "RBank"
+msgstr "Banque de R"
+
+msgid "Rocket Drone Launcher"
+msgstr "Lanceur de drone fusée"
+
+msgid "Crop Seed"
+msgstr "Graine végétale"
+
+msgid "Stem"
+msgstr "Plante"
+
+msgid "Crop Stem"
+msgstr "Culture"
+
+msgid "Joint"
+msgstr "Articulation"
+
+msgid "Leaf"
+msgstr "Feuille"
+
+msgid "Seed Planter"
+msgstr "Plantoir"
+
+msgid "Command"
+msgstr "Commande"
+
+msgid "Subcommand"
+msgstr "Sous-commande"
+
+msgid "Root"
+msgstr "Racine"
+
+#, c-format
+msgid "Laser %d:%d"
+msgstr "Laser %d : %d"
+
+msgid "Laser Drone Launcher"
+msgstr "Lanceur de drone laser"
+
+msgid "Sensoria"
+msgstr "Sensoria"
+
+msgid "Chitin"
+msgstr "Chitine"
+
+msgid "Propulsor"
+msgstr "Propulseur"
+
+msgid "Sting"
+msgstr "Dard"
+
+msgid "Station Command"
+msgstr "Commande de station"
+
+msgid "Power your weapons"
+msgstr "Chargez vos armes"
+
+msgid "Power your weapons (more)"
+msgstr "Chargez vos armes (plus)"
+
+msgid "Transformer"
+msgstr "Transformateur"
+
+msgid "Harvester"
+msgstr "Récolteur"
+
+msgid "Increase resource pickup range"
+msgstr "Augmente la zone de récupération des ressources"
+
+msgid "Inexpensive short range laser, deadly in quantity"
+msgstr "Un laser à courte portée peu coûteux, mortel en grande quantité"
+
+msgid "Armored building block"
+msgstr "Bloc de construction blindé"
+
+msgid "Container"
+msgstr "Conteneur"
+
+msgid "Resource storage"
+msgstr "Stockage de ressources"
+
+msgid "Plasma Cannon"
+msgstr "Canon à plasma"
+
+msgid "Basic turreted damage dealer"
+msgstr "Inflicteur de dégâts par tourelle de base"
+
+msgid "Increase mobility - mini size"
+msgstr "Augmente la mobilité : mini"
+
+msgid "Increase mobility - medium size"
+msgstr "Augmente la mobilité : moyen"
+
+msgid "Increase mobility - mega size"
+msgstr "Augmente la mobilité : méga"
+
+msgid "Increase mobility - asteroid relocation size"
+msgstr "Augmente la mobilité : délocalisation d'astéroïde"
+
+msgid "Missile Launcher"
+msgstr "Lance-missiles"
+
+msgid "Launches homing missiles"
+msgstr "Lance des missiles à tête chercheuse"
+
+msgid "Launches intelligent drones armed with plasma cannons"
+msgstr "Lance des drones intelligents armés de canons à plasma"
+
+msgid "Proton Beam"
+msgstr "Faisceau de protons"
+
+msgid "Long range high damage spinal beam weapon"
+msgstr "Une arme à faisceau vertébrale à longue portée et aux dégâts élevés"
+
+msgid "Defense Cannon"
+msgstr "Canon de défense"
+
+msgid "Short range rapid-fire point defense"
+msgstr "Défense de point à tir rapide et à courte portée"
+
+msgid "Plasma Projector"
+msgstr "Projecteur plasma"
+
+msgid "Rapid-fire directional plasma weapon"
+msgstr "Une arme à plasma directionnelle à tir rapide"
+
+msgid "Torpedo Launcher"
+msgstr "Lance-torpilles"
+
+msgid "Launches high damage unguided torpedoes"
+msgstr "Lance des torpilles non guidées aux dégâts élevés"
+
+msgid "Proton Sword"
+msgstr "Épée protonique"
+
+msgid "Extremely high damage but very short range beam weapon"
+msgstr "Une arme à faisceau aux dégâts extrêmement élevés, mais à la portée très courte"
+
+msgid "Railgun"
+msgstr "Canon à rail"
+
+msgid "Very long range turreted sniper weapon"
+msgstr "Arme de sniper à tourelle à très longue portée"
+
+msgid "Autocannon"
+msgstr "Canon automatique"
+
+msgid "Very high rate of fire short range plasma weapon"
+msgstr "Une arme à plasma à la cadence de tir très élevée et à moyenne portée"
+
+msgid "Blast Pulser"
+msgstr "Pulseur explosif"
+
+msgid "Unidirectional projectile emitter"
+msgstr "Émetteur de projectiles unidirectionnel"
+
+msgid "Burst Laser"
+msgstr "Rafale laser"
+
+msgid "Compact charging beam weapon"
+msgstr "Arme à faisceau compacte à chargement"
+
+msgid "Armor block, 1 by (1 - 1/sqrt2) units"
+msgstr "Bloc blindé, 1 sur (1 - 1/sqrt2) unités"
+
+msgid "Armor block, 1 by 1/2 units"
+msgstr "Bloc blindé, 1 sur 1/2 unités"
+
+msgid "Armor block, 1 by 1/sqrt2 units"
+msgstr "Bloc blindé, 1 sur 1/sqrt2 unités"
+
+msgid "Armor block, 2 by (2 - 2/sqrt2) units"
+msgstr "Bloc blindé, 2 sur (2 - 2/sqrt2) unités"
+
+msgid "Armor block, 2 by 2/sqrt2 units"
+msgstr "Bloc blindé, 2 sur 2/sqrt2 unités"
+
+msgid "Create more spaceships"
+msgstr "Créer plus de vaisseaux spatiaux"
+
+msgid "Plasma Mortar"
+msgstr "Mortier à plasma"
+
+msgid "Powerful charging splash damage weapon"
+msgstr "Une arme puissante à chargement infligeant des dégâts par dispersion"
+
+msgid "Mine Layer"
+msgstr "Couche de mines"
+
+msgid "High damage, large splash radius dumb mines"
+msgstr "Des mines aveugles infligeant des dégâts par dispersion élevés"
+
+msgid "Shield Projector"
+msgstr "Projecteur de bouclier"
+
+msgid "Absorbs damage - essential for capital ships"
+msgstr "Absorbe les dégâts, indispensable pour les vaisseaux capitaux"
+
+msgid "Flak Cannon"
+msgstr "Canon Flak"
+
+msgid "Explosive point defense cannon"
+msgstr "Un canon de défense de point explosif"
+
+msgid "Antimatter Cannon"
+msgstr "Canon d'antimatière"
+
+msgid "Very long range, high damage spinal mounted death machine"
+msgstr "Une machine de mort vertébrale à très longue portée infligeant des dégâts élevés"
+
+msgid "Teleporter"
+msgstr "Téléporteur"
+
+msgid "Rocket Launcher"
+msgstr "Lance-roquettes"
+
+msgid "Launches flurries of unguided rockets"
+msgstr "Lance une averse de roquettes non guidées"
+
+msgid "Station Shield Projector"
+msgstr "Projecteur de bouclier de station"
+
+msgid "Unobtanium Strut"
+msgstr "Support d'unobtanium"
+
+msgid "Wall"
+msgstr "Mur"
+
+msgid "Extender"
+msgstr "Extenseur"
+
+msgid "Mount"
+msgstr "Fixation"
+
+msgid "Corner"
+msgstr "Coin"
+
+msgid "Hex Wall"
+msgstr "Mur hexagonal"
+
+msgid "Wedge"
+msgstr "Tranche"
+
+msgid "Micro"
+msgstr "Micro"
+
+msgid "Medium"
+msgstr "Moyen"
+
+msgid "Macro"
+msgstr "Macro"
+
+msgid "Mighty"
+msgstr "Puissant"
+
+msgid "Massive"
+msgstr "Massif"
+
+msgid "Crystallite"
+msgstr "Cristallite"
+
+msgid "Booster"
+msgstr "Booster"
+
+msgid "Defense Pulser"
+msgstr "Pulseur de défense"
+
+#, c-format
+msgid "%s Pulser"
+msgstr "Pulseur %s"
+
+msgid "Plasma Condenser"
+msgstr "Condensateur de plasma"
+
+msgid "Antimatter Missle Launcher"
+msgstr "Lance-missiles d'antimatière"
+
+msgid "Power Conduit"
+msgstr "Conduit d'alimentation"
+
+msgid "Plasma Diffractor"
+msgstr "Diffracteur de plasma"
+
+msgid "Heavy Bodywork"
+msgstr "Carrosserie lourde"
+
+msgid "Light Bodywork"
+msgstr "Carrosserie légère"
+
+msgid "Maneuver Thruster"
+msgstr "Propulseur de manœuvre"
+
+msgid "Highly responsive low impulse thruster"
+msgstr "Un propulseur à faible impulsion très réactif"
+
+msgid "Impulse Thruster"
+msgstr "Propulseur à impulsion"
+
+msgid "High impulse thruster"
+msgstr "Un propulseur à forte impulsion"
+
+msgid "Shard Launcher"
+msgstr "Lanceur d'éclats"
+
+msgid "Launches explosive spinners"
+msgstr "Lance des tournoyeurs explosifs"
+
+msgid "PD Subsystem"
+msgstr "Sous-système DP"
+
+msgid "Quantum Doom Beam"
+msgstr "Faisceau apocalyptique quantique"
+
+msgid "Tractor Beam"
+msgstr "Rayon tracteur"
+
+msgid "Generator/Storage"
+msgstr "Générateur/stockage"
+
+msgid "Pod Command"
+msgstr "Commande de capsule"
+
+msgid "Polyp"
+msgstr "Polype"
+
+msgid "Light Spine"
+msgstr "Colonne légère"
+
+msgid "Thistle"
+msgstr "Chardon"
+
+msgid "Gauss Beam"
+msgstr "Faisceau de Gauss"
+
+msgid "Devastating pulse weapon"
+msgstr "Une arme pulsante dévastatrice"
+
+msgid "Plasma Bolt"
+msgstr "Éclair de plasma"
+
+msgid "Slow, high damage defense turret"
+msgstr "Une tourelle de défense lente, aux dégâts élevés"
+
+msgid "Flurry Missiles"
+msgstr "Rafale de missiles"
+
+msgid "Rapid-fire guided missile launcher"
+msgstr "Un lance-missiles guidé à tir rapide"
+
+msgid "Annihilator"
+msgstr "Annihilateur"
+
+msgid "Slow but powerful gun turret"
+msgstr "Une tourelle lente, mais puissante"
+
+msgid "Obliterator"
+msgstr "Anéantisseur"
+
+msgid "Obscenely powerful death laser"
+msgstr "Un laser de mort incroyablement puissant"
+
+msgid "Reactor"
+msgstr "Réacteur"
+
+msgid "Depot"
+msgstr "Dépôt"
+
+msgid "Nuclear Option"
+msgstr "Option nucléaire"
+
+msgid "Heavily armored death launcher"
+msgstr "Lanceur de mort lourdement blindé"
+
+msgid "Armor Plate"
+msgstr "Plaque de blindage"
+
+msgid "Armor Spike"
+msgstr "Pic de blindage"
+
+msgid "Segment"
+msgstr "Segment"
+
+msgid "Core hull"
+msgstr "Coque centrale"
+
+msgid "Auxiliary hull"
+msgstr "Coque auxiliaire"
+
+msgid "Thrust vector unit"
+msgstr "Unité vectorielle de poussée"
+
+msgid "Left Bumper"
+msgstr "Gâchette haute gauche"
+
+msgid "Right Bumper"
+msgstr "Gâchette haute droite"
+
+msgid "Left Trigger"
+msgstr "Gâchette gauche"
+
+msgid "Right Trigger"
+msgstr "Gâchette droite"
+
+msgid "Share"
+msgstr "Partager"
+
+msgid "ENTER/Click"
+msgstr "ENTRÉE/clic"
+
+msgid "ENTER"
+msgstr "ENTRÉE"
+
+msgid "Left Mouse"
+msgstr "Clic gauche"
+
+msgid "Right Mouse"
+msgstr "Clic droit"
+
+msgid "Middle Mouse"
+msgstr "Clic milieu"
+
+msgid "Mouse4"
+msgstr "Souris4"
+
+msgid "Mouse5"
+msgstr "Souris5"
+
+msgid "Mouse6"
+msgstr "Souris6"
+
+msgid "Up"
+msgstr "Haut"
+
+msgid "Down"
+msgstr "Bas"
+
+msgid "Shift"
+msgstr "Maj"
+
+msgid "Control"
+msgstr "Ctrl"
+
+msgid "Alt"
+msgstr "Alt"
+
+msgid "Tab"
+msgstr "Tab"
+
+msgid "Enter"
+msgstr "Entrée"
+
+msgid "Space"
+msgstr "Espace"
+
+msgid "Page Up"
+msgstr "Page précédente"
+
+msgid "Page Down"
+msgstr "Page suivante"
+
+msgid "Home"
+msgstr "Accueil"
+
+msgid "End"
+msgstr "Fin"
+
+msgid "Backspace"
+msgstr "Retour arrière"
+
+msgid "Escape"
+msgstr "Échap"
+
+msgid "Gamepad Start"
+msgstr "Start manette"
+
+msgid "Gamepad Guide"
+msgstr "Guide manette"
+
+msgid "Right Stick"
+msgstr "Joystick droit"
+
+msgid "DPad Up"
+msgstr "DPad Haut"
+
+msgid "DPad Down"
+msgstr "DPad Bas"
+
+msgid "DPad Left"
+msgstr "DPad Gauche"
+
+msgid "DPad Right"
+msgstr "DPad Droit"
+
+msgid "Left Axis X"
+msgstr "Axe gauche X"
+
+msgid "Left Axis Y"
+msgstr "Axe gauche Y"
+
+msgid "Right Axis X"
+msgstr "Axe droit X"
+
+msgid "Right Axis Y"
+msgstr "Axe droit Y"
+
+msgid "Left Trigger Axis"
+msgstr "Axe gâchette gauche"
+
+msgid "Right Trigger Axis"
+msgstr "Axe gâchette droite"
+
+msgid "Left Stick Up"
+msgstr "Joystick gauche Haut"
+
+msgid "Left Stick Down"
+msgstr "Joystick gauche Bas"
+
+msgid "Left Stick Left"
+msgstr "Joystick gauche Gauche"
+
+msgid "Left Stick Right"
+msgstr "Joystick gauche Droite"
+
+msgid "Right Stick Up"
+msgstr "Joystick droit Haut"
+
+msgid "Right Stick Down"
+msgstr "Joystick droit Bas"
+
+msgid "Right Stick Left"
+msgstr "Joystick droit Gauche"
+
+msgid "Right Stick Right"
+msgstr "Joystick droit Droite"
+
+msgid "Keypad 0"
+msgstr "Pavé num. 0"
+
+msgid "Keypad 1"
+msgstr "Pavé num. 1"
+
+msgid "Keypad 2"
+msgstr "Pavé num. 2"
+
+msgid "Keypad 3"
+msgstr "Pavé num. 3"
+
+msgid "Keypad 4"
+msgstr "Pavé num. 4"
+
+msgid "Keypad 5"
+msgstr "Pavé num. 5"
+
+msgid "Keypad 6"
+msgstr "Pavé num. 6"
+
+msgid "Keypad 7"
+msgstr "Pavé num. 7"
+
+msgid "Keypad 8"
+msgstr "Pavé num. 8"
+
+msgid "Keypad 9"
+msgstr "Pavé num. 9"
+
+msgid "Menu"
+msgstr "Menu"
+
+msgid "Volume Down"
+msgstr "Baisser le volume"
+
+msgid "Volume Up"
+msgstr "Monter le volume"
+
+msgid "Play Next"
+msgstr "Jouer suivant"
+
+msgid "Play Prev"
+msgstr "Jouer précédent"
+
+msgid "Play"
+msgstr "Jouer"
+
+msgid "Mute"
+msgstr "Muet"
+
+msgid "Gamepad A"
+msgstr "Manette A"
+
+msgid "Gamepad B"
+msgstr "Manette B"
+
+msgid "Gamepad X"
+msgstr "Manette X"
+
+msgid "Gamepad Y"
+msgstr "Manette Y"
+
+msgid "Ctrl-"
+msgstr "Ctrl-"
+
+msgid "Alt-"
+msgstr "Alt-"
+
+msgid "Shft-"
+msgstr "Maj-"
+
+msgid "Off"
+msgstr "Désactivé"
+
+msgid "Low"
+msgstr "Faible"
+
+msgid "Full"
+msgstr "Plein"
+
+msgid "On"
+msgstr "Activé"
+
+msgid "Message"
+msgstr "Message"
+
+msgid "Confirm"
+msgstr "Confirmer"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Terran"
+msgstr "Terrien"
+
+msgid "Farmer"
+msgstr "Fermier"
+
+msgid "Red"
+msgstr "Rouge"
+
+msgid "Tinkrell"
+msgstr "Tinkrell"
+
+msgid "Borg"
+msgstr "Borg"
+
+msgid "Flies"
+msgstr "Mouches"
+
+msgid "Crystalline"
+msgstr "Cristalline"
+
+msgid "Contestant"
+msgstr "Concurrent"
+
+msgid "Bee"
+msgstr "Abeille"
+
+msgid "Spikey Plant"
+msgstr "Plante piquante"
+
+msgid "Sentinel"
+msgstr "Sentinelle"
+
+msgid "Bindings"
+msgstr "Liaisons"
+
+msgid "Steam Cloud storage is nearly full! Clear save slots to create space"
+msgstr "L'espace disponible sur Steam Cloud est presque rempli ! Supprimez des sauvegardes pour faire de la place."
+
+msgid "Log in to enable upload through wormhole"
+msgstr "Connectez-vous pour activer l'envoi vers un trou de ver"
+
+msgid "Language"
+msgstr "Langue"
+
+#, c-format
+msgid "%s to continue"
+msgstr "%s pour continuer"
+
+msgid "Engage My Target"
+msgstr "Engager ma cible"
+
+msgid "Fire at Will"
+msgstr "Feu à volonté"
+
+msgid "Disengage"
+msgstr "Dégager"
+
+msgid "Fleet Orders: "
+msgstr "Ordres de la flotte : "
+
+msgid "Station"
+msgstr "Station"
+
+#, c-format
+msgid "%d/%d ships"
+msgstr "%d/%d vaisseaux"
+
+msgid "Cycle Fleet AI"
+msgstr "Parcourir l'IA de la flotte"
+
+msgid "Skip"
+msgstr "Passer"
+
+msgid "Extra durable"
+msgstr "Extra résistant"
+
+msgid "units"
+msgstr "unités"
+
+msgid "Armor block"
+msgstr "Bloc blindé"
+
+msgid "Pulser"
+msgstr "Pulseur"
+
+msgid "Laser Drone"
+msgstr "Drone laser"
+
+msgid "Dodging"
+msgstr "Esquive"
+
+msgid "Orders"
+msgstr "Ordres"
+
+msgid "ERROR"
+msgstr "ERREUR"
+
+msgid "missiles"
+msgstr "missiles"
+
+msgid "torpedoes"
+msgstr "torpilles"
+
+msgid "mines"
+msgstr "mines"
+
+msgid "seeds"
+msgstr "graines"
+
+msgid "drones"
+msgstr "drones"
+
+msgid " WARNING: Acquire additional P"
+msgstr " ATTENTION : acquérir des P supplémentaires"
+
+msgid "Arena Border"
+msgstr "Frontière de l’arène"
+
+msgid "Arena Size"
+msgstr "Taille de l’arène"
+
+msgid "Asteroid Fill"
+msgstr "Occupation astéroïde"
+
+msgid "Asteroid Size (blocks)"
+msgstr "Taille des astéroïdes (blocs)"
+
+msgid "Plants"
+msgstr "Plantes"
+
+msgid "Green"
+msgstr "Vert"
+
+msgid "Blue"
+msgstr "Bleu"
+
+msgid "Pink"
+msgstr "Rose"
+
+msgid "Spikey"
+msgstr "Piquante"
+
+msgid "Time Limit"
+msgstr "Délai"
+
+msgid "Rounds"
+msgstr "Munitions"
+
+msgid "Countdown"
+msgstr "Décompte"
+
+#, c-format
+msgid "%d Points"
+msgstr "%d points"
+
+#, c-format
+msgid "%d seconds"
+msgstr "%d secondes"
+
+#, c-format
+msgid "%d minutes, %d seconds"
+msgstr "%d minutes, %d secondes"
+
+#, c-format
+msgid "%d hours, %d minutes, %d seconds"
+msgstr "%d heures, %d minutes, %d secondes"
+
+msgid "Sort"
+msgstr "Trier"
+
+msgid "P Ascending"
+msgstr "P croissant"
+
+msgid "P Descending"
+msgstr "P décroissant"
+
+msgid "Name"
+msgstr "Nom"
+
+msgid "Mass Ascending"
+msgstr "Masse croissante"
+
+msgid "Mass Descending"
+msgstr "Masse décroissante"
+
+msgid "Developer, (c) 2013-2016"
+msgstr "Développeur, (c) 2013-2016"
+
+#, c-format
+msgid "  Healing: %.f/discharge\n"
+msgstr "  Soins : %.f/décharge\n"
+
+#, c-format
+msgid "  Tractor Force: %.f/discharge\n"
+msgstr "  Force tractrice : %.f/décharge\n"
+
+#, c-format
+msgid "  Healing: %.f/sec\n"
+msgstr "  Soins : %.f/s\n"
+
+#, c-format
+msgid "  Tractor Force: %.f/sec\n"
+msgstr "  Force tractrice : %.f/s\n"
+
+msgid "Single Elimination"
+msgstr "Élimination simple"
+
+msgid "Double Elimination"
+msgstr "Élimination double"
+
+msgid "AI Behavior"
+msgstr "Comportement de l‘IA"
+
+msgid "Dynamic"
+msgstr "Dynamique"
+
+msgid "Rush"
+msgstr "Agressif"
+
+msgid "Maneuver"
+msgstr "Manœuvre"
+
+msgid "Kite"
+msgstr "Sniper"
+
+msgid "MED Beam"
+msgstr "Rayon MED"
+
+msgid "Nanoassembler Beam"
+msgstr "Rayon nanoassembleur"
+
+msgid "Nanoassembler Drone Launcher"
+msgstr "Lanceur de drone nanoassembleur"
+
+msgid "Immobilizer"
+msgstr "Immobilisateur"
+
+msgid "Manipulator"
+msgstr "Manipulateur"
+
+msgid "Grabber beam"
+msgstr "Rayon grappin"
+
+msgid "Shard"
+msgstr "Fragment"
+
+msgid "Anchor Launcher"
+msgstr "Lanceur d’ancre"
+
+msgid "Anchor Drone"
+msgstr "Drone d’ancrage"
+
+msgid "Projectile Weapon Cluster:\n"
+msgstr "Amas d’armes à projectile :\n"
+
+

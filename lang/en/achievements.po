@@ -1,0 +1,202 @@
+# 
+# Reassembly data/achievements localization file
+# 
+# Copyright (C) 2015 Arthur Danskin
+# Content-Type: text/plain; charset=utf-8
+# 
+msgid ""
+msgstr ""
+
+# NEW_ACHIEVEMENT_6_19_NAME
+msgid "Combat Rating: Dangerous"
+msgstr "Combat Rating: Dangerous"
+
+# NEW_ACHIEVEMENT_6_0_NAME
+msgid "Beginning Archaeologist"
+msgstr "Beginning Archaeologist"
+
+# NEW_ACHIEVEMENT_6_9_DESC
+msgid "Build a ship with exactly 8000P"
+msgstr "Build a ship with exactly 8000P"
+
+# NEW_ACHIEVEMENT_6_16_NAME
+msgid "Frequent Wormholer"
+msgstr "Frequent Wormholer"
+
+# NEW_ACHIEVEMENT_6_3_DESC
+msgid "Destroy the largest crystalite ship"
+msgstr "Destroy the largest crystalite ship"
+
+# NEW_ACHIEVEMENT_6_3_NAME
+msgid "Skull Slayer"
+msgstr "Skull Slayer"
+
+# NEW_ACHIEVEMENT_6_1_NAME
+msgid "Persistent Archaeologist"
+msgstr "Persistent Archaeologist"
+
+# NEW_ACHIEVEMENT_6_4_NAME
+msgid "Crescent Slayer"
+msgstr "Crescent Slayer"
+
+# NEW_ACHIEVEMENT_6_19_DESC
+msgid "Destroy 30,000P of ships"
+msgstr "Destroy 30,000P of ships"
+
+# NEW_ACHIEVEMENT_6_20_NAME
+msgid "Combat Rating: Deadly"
+msgstr "Combat Rating: Deadly"
+
+# NEW_ACHIEVEMENT_6_6_NAME
+msgid "Explorer"
+msgstr "Explorer"
+
+# NEW_ACHIEVEMENT_6_22_NAME
+msgid "Six Figures"
+msgstr "Six Figures"
+
+# NEW_ACHIEVEMENT_6_0_DESC
+msgid "Activated 10 Stations"
+msgstr "Activated 10 Stations"
+
+# NEW_ACHIEVEMENT_6_9_NAME
+msgid "MinMaximizer"
+msgstr "MinMaximizer"
+
+# NEW_ACHIEVEMENT_6_14_NAME
+msgid "Agent Obliterator"
+msgstr "Agent Obliterator"
+
+# NEW_ACHIEVEMENT_6_14_DESC
+msgid "Destroy 50 Agents"
+msgstr "Destroy 50 Agents"
+
+# NEW_ACHIEVEMENT_6_18_NAME
+msgid "Combat Rating: Worthy of Note"
+msgstr "Combat Rating: Worthy of Note"
+
+# NEW_ACHIEVEMENT_6_23_DESC
+msgid "Die 100 times"
+msgstr "Die 100 times"
+
+# NEW_ACHIEVEMENT_6_17_DESC
+msgid "Acquire 10,000 C"
+msgstr "Acquire 10,000 C"
+
+# NEW_ACHIEVEMENT_6_10_DESC
+msgid "Spawn 100 ships"
+msgstr "Spawn 100 ships"
+
+# NEW_ACHIEVEMENT_6_8_NAME
+msgid "Thorough Explorer"
+msgstr "Thorough Explorer"
+
+# NEW_ACHIEVEMENT_6_11_DESC
+msgid "Transfer 10,000 R to allies"
+msgstr "Transfer 10,000 R to allies"
+
+# NEW_ACHIEVEMENT_6_15_DESC
+msgid "Travel through 1 wormhole"
+msgstr "Travel through 1 wormhole"
+
+# NEW_ACHIEVEMENT_6_5_DESC
+msgid "Conquer all sectors in a galaxy"
+msgstr "Conquer all sectors in a galaxy"
+
+# NEW_ACHIEVEMENT_6_4_DESC
+msgid "Destroy the crescent ship"
+msgstr "Destroy the crescent ship"
+
+# NEW_ACHIEVEMENT_6_23_NAME
+msgid "Consolation Prize"
+msgstr "Consolation Prize"
+
+# NEW_ACHIEVEMENT_6_11_NAME
+msgid "Resupplier"
+msgstr "Resupplier"
+
+# NEW_ACHIEVEMENT_6_2_DESC
+msgid "Unlock all 7 factions"
+msgstr "Unlock all 7 factions"
+
+# NEW_ACHIEVEMENT_6_6_DESC
+msgid "Explore 1000 Sectors"
+msgstr "Explore 1000 Sectors"
+
+# NEW_ACHIEVEMENT_6_2_NAME
+msgid "Diverse Destroyer"
+msgstr "Diverse Destroyer"
+
+# NEW_ACHIEVEMENT_6_13_NAME
+msgid "Agent Conquerer"
+msgstr "Agent Conquerer"
+
+# NEW_ACHIEVEMENT_6_15_NAME
+msgid "Wormhole Explorer"
+msgstr "Wormhole Explorer"
+
+# NEW_ACHIEVEMENT_6_7_NAME
+msgid "Super Explorer"
+msgstr "Super Explorer"
+
+# NEW_ACHIEVEMENT_6_10_NAME
+msgid "Fleet Mother"
+msgstr "Fleet Mother"
+
+# NEW_ACHIEVEMENT_6_12_NAME
+msgid "Agent Destroyer"
+msgstr "Agent Destroyer"
+
+# NEW_ACHIEVEMENT_6_12_DESC
+msgid "Destroy an agent"
+msgstr "Destroy an agent"
+
+# NEW_ACHIEVEMENT_6_17_NAME
+msgid "Hoarder"
+msgstr "Hoarder"
+
+# NEW_ACHIEVEMENT_6_21_NAME
+msgid "Combat Rating: Frightening"
+msgstr "Combat Rating: Frightening"
+
+# NEW_ACHIEVEMENT_6_13_DESC
+msgid "Destroy 10 agents"
+msgstr "Destroy 10 agents"
+
+# NEW_ACHIEVEMENT_6_21_DESC
+msgid "Destroy 70,000P of ships"
+msgstr "Destroy 70,000P of ships"
+
+# NEW_ACHIEVEMENT_6_1_DESC
+msgid "Activate all stations in a galaxy"
+msgstr "Activate all stations in a galaxy"
+
+# NEW_ACHIEVEMENT_6_18_DESC
+msgid "Destroy 10,000P of ships"
+msgstr "Destroy 10,000P of ships"
+
+# NEW_ACHIEVEMENT_6_16_DESC
+msgid "Travel through 10 wormholes"
+msgstr "Travel through 10 wormholes"
+
+# NEW_ACHIEVEMENT_6_22_DESC
+msgid "Acquire 100,000C"
+msgstr "Acquire 100,000C"
+
+# NEW_ACHIEVEMENT_6_8_DESC
+msgid "Explore all sectors in a galaxy"
+msgstr "Explore all sectors in a galaxy"
+
+# NEW_ACHIEVEMENT_6_5_NAME
+msgid "Completionist"
+msgstr "Completionist"
+
+# NEW_ACHIEVEMENT_6_7_DESC
+msgid "Explore 10,000 Sectors"
+msgstr "Explore 10,000 Sectors"
+
+# NEW_ACHIEVEMENT_6_20_DESC
+msgid "Destroy 50,000P of ships"
+msgstr "Destroy 50,000P of ships"
+
+
