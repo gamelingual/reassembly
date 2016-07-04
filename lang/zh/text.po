@@ -1,0 +1,2769 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"X-Generator: Poedit 1.8.8\n"
+
+# "Dodging - Official translation didn't reflect the -ing. Fan one shows it's dodgING.
+# Yet Rushing & Manueuvering (ID 2 & 3) both files didn't reflect the RushING and ManueuverING. "
+msgid "Dodging"
+msgstr "躲避中"
+
+msgid "Rushing"
+msgstr "冲锋"
+
+msgid "Maneuvering"
+msgstr "机动"
+
+# "Official one has a mistranslation, Edit palette became ""Exit the component board"".
+# Fan says Edit equipment storage."
+msgid "Edit palette"
+msgstr "编辑装备库"
+
+# "Drop here to remove 
+# Click to cancel edit
+# Adapted from both translations."
+msgid ""
+"Drop here to remove\n"
+"Click to cancel edit"
+msgstr ""
+"放到这里来移除\n"
+"单击以取消编辑"
+
+# Drop here to remove, Official puts it as "Drop here and remove"
+msgid "Drop here to remove"
+msgstr "放到这里来移除"
+
+msgid "Upgrade"
+msgstr "升级"
+
+# Binding, official one says Keyboard position binding, fan says Weapon Group Distrubution. To be confirmed.
+msgid "Bindings"
+msgstr "武器组分配"
+
+# Save. Fan version is more commonly used term in UI.
+msgid "Save"
+msgstr "保存"
+
+# Discard. Official means to throw away… Adapted from fan version of Discard changes, but can do without "changes" appearing
+msgid "Discard"
+msgstr "放弃"
+
+msgid "Cancel"
+msgstr "取消"
+
+# Save. Fan version is more commonly used term in UI.
+msgid "Confirm Save"
+msgstr "确认保存"
+
+msgid "Confirm Exit"
+msgstr "确认退出"
+
+msgid "Warning: Not enough P to build this ship"
+msgstr "警告：没有足够的P建造这艘飞船"
+
+msgid "Exit"
+msgstr "退出"
+
+msgid "Help"
+msgstr "帮助"
+
+msgid "View Instructions ('h' or '?')"
+msgstr "查看指南(’h’ 或 ’?’)"
+
+# Controls, Official version says Operation. Fan means Game Controls.
+msgid "Controls"
+msgstr "游戏控制"
+
+# Fan version means Change Editor's Controls. Official version means Change ship edit operation.
+msgid "Change editor controls"
+msgstr "改变编辑器的控制"
+
+msgid "Export"
+msgstr "导出"
+
+msgid "Export ship as a file on your Desktop"
+msgstr "将飞船导出到你的桌面"
+
+msgid "Import"
+msgstr "导入"
+
+msgid "Import design from a file"
+msgstr "从文件中导入飞船设计"
+
+msgid "Test"
+msgstr "测试"
+
+msgid "Automatically test ship against similar ships"
+msgstr "自动根据相似飞船对飞船进行测试"
+
+msgid " WARNING: Acquire additional P"
+msgstr "警告：获得额外的P"
+
+msgid "Warning: exceeded max P"
+msgstr "警告：超过了P的最大值"
+
+msgid "Import Failed: wrong command block"
+msgstr "导入失败：控制模块错误"
+
+msgid "Unnamed Spaceship"
+msgstr "未命名太空飞船"
+
+#, c-format
+msgid "Test Error: %s"
+msgstr "测试错误：%s"
+
+msgid "Sort"
+msgstr "排序"
+
+# Based on fan version. Removed the space between the letter and Chinese characters, to keep the style consistent with existing translation.
+msgid "P Ascending"
+msgstr "按P升序"
+
+# Based on fan version. Removed the space between the letter and Chinese characters, to keep the style consistent with existing translation.
+msgid "P Descending"
+msgstr "按P降序"
+
+msgid "Name"
+msgstr "飞船名"
+
+# Fan version reads more like the sorting terms.
+msgid "Mass Ascending"
+msgstr "按质量升序"
+
+# Fan version reads more like the sorting terms.
+msgid "Mass Descending"
+msgstr "按质量降序"
+
+msgid "Current Design"
+msgstr "当前设计"
+
+msgid "Child Spawn Order"
+msgstr "子飞船生产顺序"
+
+msgid "Design Storage"
+msgstr "设计库"
+
+# Ally adapted from official translation, keeping it consistent.
+msgid "Ally Fleet Control"
+msgstr "盟友舰队控制"
+
+msgid "Player Fleet Control"
+msgstr "玩家舰队控制"
+
+#, c-format
+msgid "WARNING Need %dR for metamorphosis"
+msgstr "警告：需要 %dR 以改变飞船形态"
+
+# Official one means "Not connected to factory." Fan is more accurate - there's no factory in the ship"
+msgid "No Factory Attached"
+msgstr "飞船上没有工厂"
+
+msgid "Drop to copy"
+msgstr "放到这里来复制"
+
+msgid "Drop to swap"
+msgstr "放到这里来替换"
+
+msgid "Drop to place"
+msgstr "放到这里来放置"
+
+msgid "Press DELETE again to confirm"
+msgstr "再次按DELETE键确认"
+
+msgid "DELETE to delete"
+msgstr "按DELETE键删除"
+
+msgid "Alt-drag to clone"
+msgstr "按下Alt并拖动来复制"
+
+msgid "Uses encrypted blocks"
+msgstr "使用加密模块"
+
+msgid "Click to select waypoint"
+msgstr "单击选择航路"
+
+msgid "Unsafe Spawner"
+msgstr "不安全的生产点"
+
+msgid "Activated Spawner"
+msgstr "正常运转的生产点"
+
+# Station.
+msgid "Damaged Station"
+msgstr "损坏的空间站"
+
+msgid "Wormhole"
+msgstr "虫洞"
+
+# The Official says agent as "special fleet", the fan translation says "worm hole fleet". Need confirmation
+msgid "Agent"
+msgstr "特种舰队"
+
+# Not sure about the context. Official one says "Through …" , fan says "by …." / "via..."
+#, c-format
+msgid "by %s"
+msgstr "由: %s"
+
+msgid "ships"
+msgstr "飞船"
+
+#, c-format
+msgid "Sector %dx%d"
+msgstr "区域 %dx%d"
+
+#, c-format
+msgid "Controlled by %s"
+msgstr "由 %s 控制"
+
+msgid "No controlling faction"
+msgstr "没有种族在控制"
+
+msgid "Unexplored"
+msgstr "未探查"
+
+msgid "Map Overview"
+msgstr "地图总览"
+
+msgid "Inactive Station"
+msgstr "闲置基地"
+
+msgid "Spawner"
+msgstr "生产点"
+
+msgid "Resources"
+msgstr "资源"
+
+msgid "You"
+msgstr "你"
+
+#, c-format
+msgid " Range %d"
+msgstr "射程 %d"
+
+msgid "Following"
+msgstr "跟随"
+
+msgid "Friendly"
+msgstr "友方"
+
+msgid "Neutral"
+msgstr "中立"
+
+msgid "Attacking"
+msgstr "进攻"
+
+msgid "Defending"
+msgstr "防守"
+
+msgid "TARGET LOCKED"
+msgstr "目标已锁定"
+
+msgid "Fleet: "
+msgstr "舰队："
+
+#, c-format
+msgid "%d ships"
+msgstr "%d 飞船"
+
+#, c-format
+msgid "%d drones, "
+msgstr "%d 无人机，"
+
+msgid "Orders"
+msgstr "指令"
+
+msgid "COMMAND MODE"
+msgstr "指挥模式"
+
+msgid "Back"
+msgstr "返回"
+
+msgid "<"
+msgstr "<"
+
+msgid "Select fleet or ship"
+msgstr "选择舰队或飞船"
+
+msgid "Select fleet"
+msgstr "选择舰队"
+
+msgid "Select ship"
+msgstr "选择飞船"
+
+#, c-format
+msgid "Exported to '%s': %s"
+msgstr "导出到’%s’：%s"
+
+#, c-format
+msgid "%s exported to '%s'"
+msgstr "%s 导出到’%s’"
+
+msgid "Export Failed"
+msgstr "导出失败"
+
+msgid "Importing..."
+msgstr "导入中……"
+
+msgid "New wormhole detected"
+msgstr "探测到新的虫洞"
+
+# Pending as for the Agent, Station's translation needs to be unified.
+#, c-format
+msgid "Agent '%s' destroyed %s of your stations"
+msgstr "虫洞舰队'%s'摧毁了你的%s个空间站"
+
+# Respawn/respawning has variants, the official one says Reproducing, the fan says reborning. To be confirmed.
+msgid "Respawning..."
+msgstr "重新生产中……"
+
+msgid "Destroyed"
+msgstr "已摧毁"
+
+msgid "FAILED!!!!"
+msgstr "失败！！！"
+
+msgid "Loading"
+msgstr "载入中"
+
+msgid "Welcome"
+msgstr "欢迎"
+
+msgid "Left Stick"
+msgstr "左摇杆"
+
+msgid "Mouse / WASD"
+msgstr "鼠标/WASD键"
+
+msgid "Starting"
+msgstr "正在开始"
+
+msgid "Loading regions"
+msgstr "正在载入地区"
+
+msgid "Generating Map"
+msgstr "正在生成地图"
+
+msgid "Saving Game"
+msgstr "保存游戏"
+
+# Fan version reflects the -ing.
+msgid "Saving Blueprints"
+msgstr "保存蓝图中"
+
+msgid "Finishing"
+msgstr "正在结束"
+
+msgid "Generating"
+msgstr "正在生成"
+
+msgid "Downloading"
+msgstr "下载中"
+
+msgid "Return To Game"
+msgstr "回到游戏"
+
+msgid "Options"
+msgstr "选项"
+
+msgid "Quit"
+msgstr "退出"
+
+msgid "Save & Quit"
+msgstr "保存并退出"
+
+msgid "Paused"
+msgstr "已暂停"
+
+msgid "Saving..."
+msgstr "保存中……"
+
+# O: Identity Confirmation; F: Personal profile.
+msgid "Identify Yourself"
+msgstr "身份确认"
+
+msgid "What is your name?"
+msgstr "你的名字是什么？"
+
+msgid "What is your favorite color?"
+msgstr "你最喜欢的颜色是什么？"
+
+msgid "Launch"
+msgstr "发射"
+
+#, c-format
+msgid "Slot %d"
+msgstr "存档位 %d"
+
+msgid "ERROR"
+msgstr "错误"
+
+msgid "LOCKED"
+msgstr "已锁定"
+
+# To keep consistent.
+msgid "Select Faction"
+msgstr "选择种族"
+
+msgid "Destroy a capital ship from each faction to unlock"
+msgstr "摧毁每个种族的主力飞船来解锁"
+
+msgid "Warning: Hard mode"
+msgstr "警告：困难模式"
+
+msgid "Loading..."
+msgstr "载入中……"
+
+msgid " fleet only"
+msgstr "仅限舰队"
+
+msgid "OLD SAVE: regenerate"
+msgstr "旧存档：重新生成"
+
+msgid "ERROR: CORRUPTED"
+msgstr "错误：已毁坏"
+
+msgid "Regenerate World"
+msgstr "重新生成世界"
+
+msgid "Clear Slot"
+msgstr "清除存档位"
+
+msgid "Import Fleet"
+msgstr "导入舰队"
+
+msgid "Export as Fleet"
+msgstr "导出为舰队"
+
+# For "export as" , fan says it better, because it's "export as", not "save as" in the official translation. Adapted from fan.
+msgid "Export as Mod"
+msgstr "导出为游戏模组"
+
+# For "export as" , fan says it better, because it's "export as", not "save as" in the official translation. Adapted from fan.
+msgid "Export as Mod (create blocks.lua)"
+msgstr "导出为游戏模组（并且创建blocks.lua）"
+
+msgid "Select Save Slot"
+msgstr "选择存档位"
+
+msgid "Right click slot for options"
+msgstr "右键点击存档位查看选项"
+
+msgid "WARNING: Not connected to Steam"
+msgstr "警告：未连接到Steam"
+
+msgid "Using System save path"
+msgstr "使用系统保存路径"
+
+msgid "Warning: Steam Cloud did not finish syncing (restart game)"
+msgstr "警告：Steam云未完成同步（重启游戏）"
+
+msgid "Using Steam Cloud saves"
+msgstr "使用Steam云存档"
+
+#, c-format
+msgid "%s/%s available"
+msgstr "%s/%s 可用"
+
+#, c-format
+msgid "%d/%d files available"
+msgstr "%d/%d 文件可用"
+
+msgid "Really regenerate world for save slot?"
+msgstr "确定使存档位重新生成世界？"
+
+msgid "Really clear save slot?"
+msgstr "确定清除存档位？"
+
+msgid "Mod Export Failed (see log for details)"
+msgstr "游戏模组导出失败（查看记录了解详情）"
+
+#, c-format
+msgid "Exported slot %d to %s\n"
+msgstr "将存档位 %d 导出至 %s\n"
+
+msgid ""
+"\n"
+"Edit blocks.lua in that directory to change block properties"
+msgstr ""
+"\n"
+"在此目录中编辑blocks.lua文件以改变模块属性"
+
+#, c-format
+msgid ""
+"\n"
+"See %s for modding documentation"
+msgstr ""
+"\n"
+"查看 %s 模组资料"
+
+msgid "Steam Cloud storage is nearly full! Clear save slots to create space"
+msgstr "Steam云存储空间不足！清除存档以释放空间"
+
+msgid "Submit"
+msgstr "提交"
+
+msgid "Register"
+msgstr "注册"
+
+msgid "Log Out"
+msgstr "登出"
+
+msgid "Log In"
+msgstr "登录"
+
+#, c-format
+msgid "Logged in as '%s'"
+msgstr "登录为 ’%s’"
+
+msgid "Connecting..."
+msgstr "连接中……"
+
+msgid "Not logged in"
+msgstr "未登录"
+
+msgid "Standalone Ship Builder"
+msgstr "单机飞船建造者"
+
+msgid "Clearing..."
+msgstr "清除中……"
+
+msgid "Start"
+msgstr "开始"
+
+msgid "Tournament"
+msgstr "锦标赛"
+
+msgid "Sandbox"
+msgstr "沙箱"
+
+msgid "Demo"
+msgstr "演示"
+
+msgid "Mods"
+msgstr "游戏模组"
+
+# Credits, revised as "production staff". Official syas "Scores", fan says "Thanks to"
+msgid "Credits"
+msgstr "制作人员"
+
+msgid "Stay Here"
+msgstr "留在这儿"
+
+msgid "Follow Wormhole"
+msgstr "跟随虫洞"
+
+msgid "Abort"
+msgstr "放弃"
+
+msgid "Error: No unique blueprints in fleet"
+msgstr "错误：舰队中没有独特设计图"
+
+msgid "Fleet uses modded blocks, upload disabled"
+msgstr "舰队使用了修改模块，已禁用上传"
+
+#, c-format
+msgid "Wormhole Connection Error: %s"
+msgstr "虫洞连接错误： %s"
+
+msgid "Log in to enable upload through wormhole"
+msgstr "登录以启用通过虫洞上传"
+
+msgid "Uploading..."
+msgstr "上传中……"
+
+# Official untranslated OK!.
+msgid "OK!"
+msgstr "确定！"
+
+msgid "Login Failed"
+msgstr "登录失败"
+
+msgid "Enter username and password"
+msgstr "输入用户名和密码"
+
+msgid "Login"
+msgstr "登录"
+
+msgid "Username (Anisoptera Forums)"
+msgstr "用户名（Anisoptera 论坛）"
+
+msgid "Password"
+msgstr "密码"
+
+msgid "Music Volume"
+msgstr "音乐音量"
+
+# Adapted from fan version
+msgid "Adjust background music volume"
+msgstr "背景音乐音量调节"
+
+# Basic gaming term. 
+msgid "Sfx Volume"
+msgstr "音效音量"
+
+msgid "Adjust sound effects volume"
+msgstr "调整音效音量"
+
+msgid "Fullscreen"
+msgstr "全屏"
+
+msgid "Windowed"
+msgstr "窗口化"
+
+msgid "Fullscreen Window"
+msgstr "全屏窗口"
+
+msgid "True Fullscreen"
+msgstr "真全屏"
+
+msgid "Toggle fullscreen"
+msgstr "全屏切换"
+
+msgid "Frame Rate"
+msgstr "帧速"
+
+msgid "60 FPS cap"
+msgstr "最高帧数 60"
+
+msgid "No limiter"
+msgstr "无上限"
+
+msgid "VSync"
+msgstr "垂直同步"
+
+msgid "Adaptive Vsync"
+msgstr "自动适应垂直同步"
+
+msgid "Physics Updates Per Second"
+msgstr "物理模型每秒刷新率"
+
+msgid "Game simulation step rate"
+msgstr "游戏模拟器步率"
+
+msgid "Particle Effects"
+msgstr "粒子效果"
+
+msgid "Particle effects"
+msgstr "粒子效果"
+
+msgid "Background Graphics"
+msgstr "背景图"
+
+msgid "Disabled"
+msgstr "禁用"
+
+# Official one： Just Planets; Fan: Just Stars.
+msgid "Just Stars"
+msgstr "仅显示星星"
+
+msgid "Stars and Halos"
+msgstr "显示星球和光晕"
+
+msgid "Post Processing"
+msgstr "后加工"
+
+# Official one says HDR rendering.
+msgid "HDR Effects"
+msgstr "高动态范围效果"
+
+# Official one says "anti-shaking HDR rendering". Fan says Mixed color HDR effects. Edited from fan version as "Dithered(the graphics term) HDR effect"
+msgid "Dithered HDR Effects"
+msgstr "抖动高动态范围效果"
+
+# Official one keeps the Bloom in English, and puts it as Bloom rendering. Fan one says "floodlight rendering". I searched on the internet, and found "full screen floodlight" is the common wording.
+msgid "Blur Effect"
+msgstr "全屏泛光"
+
+msgid "Menus"
+msgstr "菜单"
+
+msgid "Bloom"
+msgstr "Bloom渲染"
+
+msgid "Line Quality"
+msgstr "线条质量"
+
+msgid "Aliased"
+msgstr "锯齿"
+
+# Fan says Fastest line smooth, whereas official one says "ensure running speed"
+msgid "Fastest Smoothed"
+msgstr "最快线条平滑"
+
+# Fan says Finest line smooth, whereas official one says "ensure quality"
+msgid "Nicest Smoothed"
+msgstr "最好的线条平滑"
+
+msgid "Language"
+msgstr "语言"
+
+msgid "Developer, (c) 2013-2016"
+msgstr "开发者，(c) 2013-2016"
+
+# Official one says Designer/Special effect production in the text of "Composer/SFX"…
+msgid "Composer/Sfx"
+msgstr "作曲/音效制作"
+
+msgid "Production, Marketing"
+msgstr "制作人，市场销售"
+
+msgid "Additional Ship Design"
+msgstr "额外飞船设计"
+
+msgid "Alpha Testers"
+msgstr "Alpha版测试人员"
+
+msgid "Marketing Materials"
+msgstr "营销材料"
+
+msgid "QA"
+msgstr "质量保证"
+
+msgid "Localization"
+msgstr "本地化"
+
+msgid "Special Thanks"
+msgstr "特别感谢"
+
+msgid "Software and Assets"
+msgstr "软件和资产"
+
+#, c-format
+msgid ""
+"Kickstarter\n"
+"Backers (%.1f%%):"
+msgstr ""
+"Kickstarter\n"
+"赞助方 (%.1f%%)："
+
+msgid "Reset Defaults"
+msgstr "重置默认设置"
+
+msgid "DELETE"
+msgstr "DELETE键"
+
+msgid "Select"
+msgstr "选择"
+
+msgid "ESC"
+msgstr "ESC键"
+
+# Need confirmation
+msgid "Rebinding"
+msgstr "重新绑定键位"
+
+#, c-format
+msgid "Press %s to clear"
+msgstr "按下 %s 键清除"
+
+#, c-format
+msgid "Press %s to cancel"
+msgstr "按下 %s 键取消"
+
+msgid "Press any other key to bind"
+msgstr "按其他任意键绑定"
+
+msgid "Enabled"
+msgstr "启用"
+
+msgid "Deadzone Size"
+msgstr "死区大小"
+
+msgid "Adjust stick sensitivity"
+msgstr "调节摇杆灵敏度"
+
+msgid "Cursor Damping"
+msgstr "光标阻力"
+
+msgid "Adjust cursor movement smoothing"
+msgstr "调节光标移动速度"
+
+msgid "Menu Mouse Style"
+msgstr "菜单鼠标样式"
+
+msgid "Relative"
+msgstr "相对定位"
+
+msgid "Absolute"
+msgstr "绝对定位"
+
+msgid "Gamepad Type"
+msgstr "手柄类型"
+
+msgid "No Gamepad Detected"
+msgstr "未检测到手柄"
+
+msgid "Gamepad"
+msgstr "游戏手柄"
+
+# Need confirmation
+#, c-format
+msgid "%s for next tip"
+msgstr "%s 下一个提示"
+
+# Need confirmation
+#, c-format
+msgid "%s to continue"
+msgstr "%s 继续"
+
+msgid "Basic"
+msgstr "基本"
+
+# The -ing isn't shown in the O.
+msgid "Flying"
+msgstr "飞行中"
+
+msgid "Editor"
+msgstr "编辑"
+
+msgid "<Unbound>"
+msgstr "<未绑定>"
+
+# Fan puts it better. Weapon group of … priotity.
+msgid "Primary Group"
+msgstr "第一优先级武器组"
+
+# Fan puts it better. Weapon group of … priotity.
+msgid "Secondary Group"
+msgstr "第二优先级武器组"
+
+# Fan puts it better. Weapon group of … priotity.
+msgid "Tertiary Group"
+msgstr "第三优先级武器组"
+
+msgid "Auxiliary Group - automatically fire at selected target"
+msgstr "辅助级武器组——会对选中的目标自动开火"
+
+msgid "Point Defense Group - autofire at nearby targets, including missiles"
+msgstr "定点防守组——对附近目标自动开火，包括导弹"
+
+msgid "Autofire"
+msgstr "自动开火"
+
+msgid "Point Defense"
+msgstr "定点防守"
+
+msgid "Mouse Wheel"
+msgstr "鼠标滑轮"
+
+msgid "<Not Bound>"
+msgstr "<未绑定>"
+
+msgid "Blocks"
+msgstr "模块"
+
+msgid "Spaceships"
+msgstr "太空飞船"
+
+msgid "More Spaceships"
+msgstr "更多太空飞船"
+
+msgid "Space Sounds"
+msgstr "太空音效"
+
+msgid "LOADING"
+msgstr "载入中"
+
+msgid "View Workshop"
+msgstr "查看创意工坊"
+
+msgid "Publish"
+msgstr "发布"
+
+#, c-format
+msgid "View %d Errors"
+msgstr "查看 %d 错误"
+
+msgid "Needs Update"
+msgstr "需要更新"
+
+msgid "Uploading"
+msgstr "上传中"
+
+# The -ing isn't shown in the O.
+msgid "Creating Workshop Item..."
+msgstr "创建创意工坊项目中..."
+
+msgid "Workshop"
+msgstr "创意工坊"
+
+# O:Document; F: Description Document
+msgid "Docs"
+msgstr "文件"
+
+msgid "Mod Load Log"
+msgstr "模组载入日志"
+
+#, c-format
+msgid "%d Mods Loaded"
+msgstr "%d 游戏模组已载入"
+
+msgid "Top mods take precedence (drag to change order)"
+msgstr "排列在前的模组会优先载入（拖动模组以改变顺序）"
+
+msgid "Restart game to apply mod changes"
+msgstr "应用模组变化需重启游戏"
+
+msgid "Steam Workshop unavailable"
+msgstr "Steam创意工坊不可用"
+
+msgid "Engage My Target"
+msgstr "与目标交战"
+
+msgid "Fire at Will"
+msgstr "自由开火"
+
+msgid "Disengage"
+msgstr "停止攻击"
+
+# Released %s. O: Disengage fight; Fan: Release. Edited : Released
+#, c-format
+msgid "Released %s"
+msgstr "释放了 %s"
+
+msgid "Enabled Auto Zoom"
+msgstr "启用自动缩放"
+
+msgid "Disabled Auto Zoom"
+msgstr "禁用自动缩放"
+
+msgid "Enabled Auto Aim"
+msgstr "启用自动瞄准"
+
+msgid "Disabled Auto Aim"
+msgstr "禁用自动瞄准"
+
+msgid "Enabled Auto Target"
+msgstr "启用自动锁定目标"
+
+msgid "Disabled Auto Target"
+msgstr "禁用自动锁定目标"
+
+msgid "Cursor Rotates Ship"
+msgstr "通过光标旋转飞船"
+
+msgid "Absolute Controls, Cursor Rotates"
+msgstr "绝对控制，光标旋转"
+
+msgid "Keyboard Rotates Ship"
+msgstr "通过键盘旋转飞船"
+
+msgid "Ship Follows Cursor"
+msgstr "飞船跟随光标"
+
+msgid "Default HUD"
+msgstr "默认控制面板"
+
+msgid "Minimal HUD"
+msgstr "迷你控制面板"
+
+msgid "Disabled HUD"
+msgstr "禁用控制面板"
+
+msgid "Entered Command Mode"
+msgstr "已进入指挥模式"
+
+msgid "Entered Pilot Mode"
+msgstr "已进入飞行模式"
+
+msgid "Fleet Orders: "
+msgstr "舰队命令："
+
+# Mistranslation of O, "recuiting station is forbidden"
+msgid "Can't recruit stations"
+msgstr "无法招募空间站"
+
+#, c-format
+msgid "Need %d additional C to recruit"
+msgstr "需要 %d 额外C进行招募"
+
+#, c-format
+msgid "Recruited %s"
+msgstr "已招募 %s"
+
+msgid "Not Enough Power"
+msgstr "能源不足"
+
+msgid "No Teleporter on Ship"
+msgstr "飞船上没有空间传送器"
+
+msgid "Current blueprint is locked"
+msgstr "当前设计图已锁定"
+
+msgid "Entered Wormhole"
+msgstr "已进入虫洞"
+
+#, c-format
+msgid "Destroyed %s's fleet"
+msgstr "已摧毁 %s的舰队"
+
+# Unify term of Station.
+msgid "Station"
+msgstr "空间站"
+
+#, c-format
+msgid "Liberated %s"
+msgstr "已解放 %s"
+
+#, c-format
+msgid "Reactivated %s"
+msgstr "已激活 %s"
+
+msgid "Transfer Resources"
+msgstr "传输资源"
+
+#, c-format
+msgid "%s was destroyed by %s"
+msgstr "%s 已被 %s摧毁"
+
+#, c-format
+msgid "%s was destroyed"
+msgstr "%s 已被摧毁"
+
+#, c-format
+msgid "Destroyed %s"
+msgstr "已摧毁 %s"
+
+# Unity term of faction.
+#, c-format
+msgid "Faction %d unlocked"
+msgstr "种族 %d 已解锁"
+
+msgid "Unlocked Faction"
+msgstr "已解锁派系"
+
+msgid "Welcome back"
+msgstr "欢迎回来"
+
+msgid "Safe Journey"
+msgstr "一路顺风"
+
+msgid "Ship does not contain factory"
+msgstr "飞船上没有建造工厂"
+
+msgid "Child blueprint not defined"
+msgstr "子设计图未定义"
+
+#, c-format
+msgid "Need %d additional R to spawn"
+msgstr "需要 %d 额外的R进行生产"
+
+msgid "No space around factory block to spawn"
+msgstr "建造工厂模块周围没有生产空间"
+
+msgid "Explored new sectors"
+msgstr "已探索新区域"
+
+msgid "Current blueprint uses encrypted blocks"
+msgstr "当前设计图使用了加密模块"
+
+#, c-format
+msgid "Need %d additional P to metamorphosize ship"
+msgstr "需要 %d 额外P以改变飞船形态"
+
+#, c-format
+msgid "No current blueprint - use '%s'"
+msgstr "无当前设计图 - 使用 ’%s’"
+
+msgid "Metamorphosizing ship"
+msgstr "正在改变飞船形态"
+
+msgid "Missile"
+msgstr "导弹"
+
+msgid "Torpedo"
+msgstr "鱼雷"
+
+msgid "Mine"
+msgstr "地雷"
+
+msgid "Seed"
+msgstr "种子"
+
+msgid "Drone"
+msgstr "无人机"
+
+msgid "missiles"
+msgstr "导弹"
+
+msgid "torpedoes"
+msgstr "鱼雷"
+
+msgid "mines"
+msgstr "地雷"
+
+msgid "seeds"
+msgstr "种子"
+
+msgid "drones"
+msgstr "无人机"
+
+# Official one says Block size; Fan says size.
+#, c-format
+msgid "Scale %d\n"
+msgstr "尺寸 %d\n"
+
+msgid "Resource Storage Unit\n"
+msgstr "资源储藏单位\n"
+
+msgid "Hull Section\n"
+msgstr "船体部分\n"
+
+msgid "Command Module\n"
+msgstr "指挥模块\n"
+
+# Fan version puts the Collection better. Adapted.
+msgid "R Collection Range Booster\n"
+msgstr "R收集范围扩展器\n"
+
+msgid "Ship Production Unit\n"
+msgstr "飞船制造单位\n"
+
+#, c-format
+msgid "  Damage: %.f/round\n"
+msgstr "伤害：%.f/发\n"
+
+#, c-format
+msgid "  Splash Radius: %.f\n"
+msgstr "溅射半径：%.f\n"
+
+#, c-format
+msgid "  Rate: %g rounds/sec\n"
+msgstr "射速：%g 发/秒\n"
+
+#, c-format
+msgid "  Burst Size: %d rounds\n"
+msgstr "连发弹药数：%d 发\n"
+
+#, c-format
+msgid "  Range: %.f\n"
+msgstr "射程：%.f\n"
+
+#, c-format
+msgid "  Velocity: %.f\n"
+msgstr "速度：%.f\n"
+
+#, c-format
+msgid "  Energy: %.f/shot\n"
+msgstr "能量：%.f/次开火\n"
+
+msgid "Supports vegetation\n"
+msgstr "支援植物\n"
+
+msgid "Seed\n"
+msgstr "种子\n"
+
+#, c-format
+msgid "R Collection Range: %.f\n"
+msgstr "R收集范围：%.f\n"
+
+#, c-format
+msgid "R Generation: %.1f/sec\n"
+msgstr "R产生速率：%.1f/秒\n"
+
+#, c-format
+msgid "Teleporter Energy: %.f Energy/Mass\n"
+msgstr "空间传送器能量：%.f 能量/质量\n"
+
+#, c-format
+msgid "R Capacity: %.f\n"
+msgstr "R荷载量：%.f\n"
+
+#, c-format
+msgid "Melee Damage Multiplier: %.f%%\n"
+msgstr "近战伤害加成：%.f%%\n"
+
+#, c-format
+msgid "Explode Radius: %.f\n"
+msgstr "爆炸半径：%.f\n"
+
+#, c-format
+msgid "Explode Damage: %.f\n"
+msgstr "爆炸伤害：%.f\n"
+
+msgid "Auto-firing"
+msgstr "自动开火"
+
+msgid "Charging"
+msgstr "填充弹药"
+
+msgid "Projectile Weapon:\n"
+msgstr "抛射性武器：\n"
+
+# Fan puts it better as for the "spread".
+#, c-format
+msgid "  Spread: +-%.2f degrees\n"
+msgstr "  扩散角度：+-%.2f 度\n"
+
+#, c-format
+msgid "  Charge time: %.1f secs\n"
+msgstr "弹药填充时间：%.1f 秒\n"
+
+#, c-format
+msgid "  Min discharge: %.1f secs\n"
+msgstr "弹药卸载时间：%.1f 秒\n"
+
+msgid "Weapon Booster:\n"
+msgstr "武器强化：\n"
+
+msgid "Rate"
+msgstr "射速"
+
+# Velocity. In the official translation, the Rate and Velocity share the same translation.
+msgid "Velocity"
+msgstr "速率"
+
+msgid "Energy"
+msgstr "能量"
+
+msgid "/shot"
+msgstr "/次射击"
+
+msgid "Damage"
+msgstr "伤害"
+
+msgid "Range"
+msgstr "射程"
+
+msgid "Explode Radius"
+msgstr "爆炸半径"
+
+msgid "Beam Weapon:\n"
+msgstr "光束武器：\n"
+
+# Typo in official translation.
+#, c-format
+msgid "  Healing: %.f/discharge\n"
+msgstr "  修复：%.f/次发射\n"
+
+#, c-format
+msgid "  Damage: %.f/discharge\n"
+msgstr "伤害：%.f/次发射\n"
+
+#, c-format
+msgid "  Tractor Force: %.f/discharge\n"
+msgstr "牵引力：%.f/次发射\n"
+
+#, c-format
+msgid "  Energy: %.f/discharge\n"
+msgstr "能量：%.f/次发射\n"
+
+# Typo in official translation.
+#, c-format
+msgid "  Healing: %.f/sec\n"
+msgstr "  修复：%.f/秒\n"
+
+#, c-format
+msgid "  Damage: %.f/sec\n"
+msgstr "伤害：%.f/秒\n"
+
+#, c-format
+msgid "  Tractor Force: %.f/sec\n"
+msgstr "牵引力：%.f/秒\n"
+
+#, c-format
+msgid "  Energy: %.f/sec\n"
+msgstr "能量：%.f/秒\n"
+
+#, c-format
+msgid "Turret Speed: %.f degrees/sec\n"
+msgstr "炮塔转速：%.f度/秒\n"
+
+#, c-format
+msgid "Regen Rate: %.1f %s/sec\n"
+msgstr "再生速率：%.1f %s/秒\n"
+
+#, c-format
+msgid "Regen Energy: %.f/%s\n"
+msgstr "再生能量：%.f/%s\n"
+
+#, c-format
+msgid "Acceleration: %.f\n"
+msgstr "加速度: %.f\n"
+
+#, c-format
+msgid "Thrust: %.fK\n"
+msgstr "推力：%.fK\n"
+
+# Fan puts it better.
+#, c-format
+msgid "Torque: %.fK\n"
+msgstr "扭矩: %.fK\n"
+
+#, c-format
+msgid "Shield Health: %.f\n"
+msgstr "护盾生命值：%.f\n"
+
+#, c-format
+msgid "Shield Radius: %.f\n"
+msgstr "护盾半径：%.f\n"
+
+#, c-format
+msgid "Shield Regen Delay: %.f secs\n"
+msgstr "护盾再生延迟：%.f 秒\n"
+
+#, c-format
+msgid "Shield Regen Rate: %.f health/sec\n"
+msgstr "护盾再生速率：%.f 生命值/秒\n"
+
+#, c-format
+msgid "Shield Regen Energy: %.f/sec\n"
+msgstr "护盾再生能量：%.f/秒\n"
+
+#, c-format
+msgid "Energy Generated: %.f/sec\n"
+msgstr "能量产生：%.f/秒\n"
+
+#, c-format
+msgid "Energy Stored: %.f\n"
+msgstr "能量储存：%.f\n"
+
+#, c-format
+msgid "Health: %.f\n"
+msgstr "生命值：%.f\n"
+
+#, c-format
+msgid "Mass: %.f\n"
+msgstr "质量：%.f\n"
+
+#, c-format
+msgid "Regrowth: %.1f secs\n"
+msgstr "再生长：%.1f 秒\n"
+
+msgid "Projectile Weapon Cluster:\n"
+msgstr "抛射性武器群：\n"
+
+msgid "Block Limit Reached"
+msgstr "已达到模块限制"
+
+# Official translation didn't consider the localization. Yet fan one didn't consider consistency.
+#, c-format
+msgid "%3d Blocks Selected. Mass: %3.f, Health: %4.f, %4dP"
+msgstr "选择了 %3d 个模块。质量: %3.f，生命值: %4.f, %4dP"
+
+msgid "Tutorial"
+msgstr "教学任务"
+
+#, c-format
+msgid "Finished %s Tutorial"
+msgstr " %s 教学任务已完成"
+
+#, c-format
+msgid "Energy: %.f/%.f"
+msgstr "能量：%.f/%.f"
+
+msgid "^6R^7 Capacity Full"
+msgstr "^6R^7 载荷已满"
+
+msgid "^6Transferring^7"
+msgstr "^6传输中^7"
+
+msgid "Press '$transferRes' to trade ^6R^7 for ^3C^7"
+msgstr "按 ’$transferRes’ 键以^6R^7交换^3C^7"
+
+msgid "Activating..."
+msgstr "激活中……"
+
+msgid "MAX"
+msgstr "最大"
+
+msgid "Block already in palette"
+msgstr "模块已存在于元件板"
+
+# Official one didn't put as the common UI wording, fan one did. Fan one didn't bring out the decrypt though. Adatpted from both.
+msgid "Not enough C to decrypt"
+msgstr "没有足够的C来解密"
+
+# Fan one puts it better. Omitted the space to keep the style consistent.
+msgid "Not enough C to increase P"
+msgstr "没有足够的C来增加P"
+
+msgid "Maximum reached"
+msgstr "已达到最大值"
+
+msgid "Palette"
+msgstr "元件板"
+
+msgid "Databank"
+msgstr "数据库"
+
+# Adapted from both versions.
+msgid "Click to add to palette"
+msgstr "单击以添加至元件版"
+
+msgid "Click to decrypt"
+msgstr "单击解密模块"
+
+# Fan puts it better as for the "drag"
+msgid ""
+"\n"
+"Drag to rearrange"
+msgstr ""
+"\n"
+"拖动以重新排列"
+
+msgid ""
+"Palette Block\n"
+"Drag to rearrange"
+msgstr ""
+"元件板\n"
+"拖曳以重新排列"
+
+# Official translation has the problem with the term "drag."
+msgid ""
+"Empty palette slot\n"
+"Drag from databank to fill"
+msgstr ""
+"清空元件槽\n"
+"从数据库中拖动来填充"
+
+msgid "Maximum P reached"
+msgstr "已达到P的最大值"
+
+msgid "Permanently increase P"
+msgstr "永久性地增加P"
+
+msgid ""
+"Permanently increase P\n"
+"Not enough C to increase"
+msgstr ""
+"永久性地增加P\n"
+"没有足够的 C 来增加"
+
+msgid "Resource Description"
+msgstr "资源描述"
+
+msgid "Map"
+msgstr "地图"
+
+msgid "Profile"
+msgstr "个人档案"
+
+msgid "Tutorials"
+msgstr "教学任务"
+
+msgid "Binding"
+msgstr "绑定键位"
+
+msgid "Fleet"
+msgstr "舰队"
+
+msgid "Arena Border"
+msgstr "擂台边界"
+
+msgid "Arena Size"
+msgstr "擂台大小"
+
+msgid "Asteroid Fill"
+msgstr "小行星填充"
+
+msgid "Asteroid Size (blocks)"
+msgstr "小行星规模（模块）"
+
+msgid "Plants"
+msgstr "植物"
+
+msgid "Off"
+msgstr "关"
+
+msgid "Green"
+msgstr "绿色"
+
+msgid "Blue"
+msgstr "蓝色"
+
+msgid "Pink"
+msgstr "粉色"
+
+msgid "Spikey"
+msgstr "带刺的"
+
+msgid "Time Limit"
+msgstr "时间限制"
+
+msgid "Rounds"
+msgstr "回合"
+
+msgid "Mode"
+msgstr "模式"
+
+# O: Battle Pool; F: Qualitfying Match. To be clarified.
+msgid "Pool"
+msgstr "战池"
+
+# Single Elimination, fan puts it better.
+msgid "Single Elimination"
+msgstr "单败淘汰赛"
+
+# Double Elimination, fan puts it better.
+msgid "Double Elimination"
+msgstr "双败淘汰赛"
+
+msgid "Countdown"
+msgstr "倒计时"
+
+# Fan version considered localization.
+#, c-format
+msgid "%d wins, %d losses"
+msgstr "%d次获胜，%d次失败"
+
+#, c-format
+msgid "%2d wins: %s"
+msgstr "%2d 胜利：%s"
+
+#, c-format
+msgid "%d wins"
+msgstr "%d 胜利"
+
+#, c-format
+msgid "%d Points"
+msgstr "%d 分"
+
+#, c-format
+msgid "%d/%d ships"
+msgstr "%d/%d 飞船"
+
+#, c-format
+msgid "Round %d of %d"
+msgstr "第 %d 回合，共 %d回合"
+
+msgid "PAUSED"
+msgstr "已暂停"
+
+msgid "Wins!"
+msgstr "胜利！"
+
+# Fan version considered localization, but Round isn't consistent.
+#, c-format
+msgid "Wins Round %d!"
+msgstr "赢得了第%d回合的胜利！"
+
+# Both translation didn't put the "comparable" well.
+msgid "No comparable ships"
+msgstr "没有可匹敌的飞船"
+
+msgid "Tournament Brackets"
+msgstr "锦标赛等级"
+
+msgid "Ripple Fire alternates weapons to maximize rate of fire"
+msgstr "波形火力通过变换射击武器以达到最高射速"
+
+msgid "Fire all weapons in group simultaneously"
+msgstr "同组中的所有武器同时开火"
+
+#, c-format
+msgid "Double click to select all %ss"
+msgstr "双击选定所有 %ss"
+
+msgid "Ripple Fire"
+msgstr "波形火力"
+
+msgid "Fire All"
+msgstr "全部开火"
+
+msgid "AI Behavior"
+msgstr "AI 行为"
+
+msgid "Dynamic"
+msgstr "动态"
+
+msgid "Rush"
+msgstr "冲锋"
+
+msgid "Maneuver"
+msgstr "机动"
+
+msgid "Kite"
+msgstr "保持安全距离"
+
+msgid "Weapon Bindings"
+msgstr "武器键位绑定"
+
+msgid "Forwards"
+msgstr "向前"
+
+msgid "Backwards"
+msgstr "向后"
+
+msgid "Left"
+msgstr "向左"
+
+msgid "Right"
+msgstr "向右"
+
+# Keep consistent with the edited strings with Primary.
+msgid "Fire Primary"
+msgstr "第一优先级武器开火"
+
+msgid "Fire Secondary"
+msgstr "第二优先级武器开火"
+
+msgid "Fire Tertiary"
+msgstr "第三优先级武器开火"
+
+msgid "Stop"
+msgstr "停止"
+
+msgid "Strafe Left"
+msgstr "向左扫射"
+
+msgid "Strafe Right"
+msgstr "向右扫射"
+
+msgid "Lock Target"
+msgstr "锁定目标"
+
+msgid "Spawn Child"
+msgstr "生产子飞船"
+
+msgid "Teleport"
+msgstr "空间传送"
+
+msgid "Toggle Command mode"
+msgstr "切换指挥模式"
+
+msgid "View Map"
+msgstr "查看地图"
+
+msgid "View Weapon Bindings"
+msgstr "查看武器键位"
+
+msgid "View Upgrades"
+msgstr "查看升级"
+
+msgid "Cycle controls"
+msgstr "循环控制"
+
+msgid "Toggle auto-zoom"
+msgstr "切换自动缩放"
+
+msgid "Toggle auto-aim"
+msgstr "切换自动瞄准"
+
+msgid "Toggle minimal HUD"
+msgstr "切换最小控制面板"
+
+msgid "Cycle Fleet AI"
+msgstr "循环舰队AI"
+
+msgid "Zoom Out"
+msgstr "缩小"
+
+msgid "Zoom in"
+msgstr "放大"
+
+msgid "View Ships"
+msgstr "查看飞船"
+
+msgid "Edit Current Ship"
+msgstr "编辑当前飞船"
+
+msgid "Edit Child Ship"
+msgstr "编辑子飞船"
+
+msgid "Rotate Camera Counterclockwise"
+msgstr "逆时针旋转镜头"
+
+msgid "Rotate Camera Clockwise"
+msgstr "顺时针旋转镜头"
+
+msgid "Next"
+msgstr "下一个"
+
+msgid "Skip"
+msgstr "跳过"
+
+msgid "Console"
+msgstr "控制台"
+
+msgid "Faster"
+msgstr "加速"
+
+msgid "Slower"
+msgstr "减速"
+
+msgid "Pause"
+msgstr "暂停"
+
+msgid "Left Click"
+msgstr "鼠标左键"
+
+msgid "Right Click"
+msgstr "鼠标右键"
+
+msgid "Undo"
+msgstr "撤销上次操作"
+
+msgid "Redo"
+msgstr "恢复上次操作"
+
+msgid "Mirror"
+msgstr "镜面视图"
+
+msgid "Copy"
+msgstr "复制"
+
+msgid "Cut"
+msgstr "剪切"
+
+msgid "Paste"
+msgstr "粘贴"
+
+msgid "Scale Up"
+msgstr "按比例放大"
+
+msgid "Scale Down"
+msgstr "按比例缩小"
+
+msgid "Select All"
+msgstr "全部选定"
+
+msgid "Rotate Counterclockwise"
+msgstr "逆时针旋转"
+
+msgid "Rotate Clockwise"
+msgstr "顺时针旋转"
+
+msgid "Delete"
+msgstr "删除"
+
+msgid "Unknown"
+msgstr "未知"
+
+msgid "Steam Profile is Private"
+msgstr "Steam档案是私密的"
+
+msgid "Clear"
+msgstr "清除"
+
+msgid "Really Clear?"
+msgstr "确认清除？"
+
+msgid "Steam Friends"
+msgstr "Steam好友"
+
+#, c-format
+msgid "Imported Fleet %s"
+msgstr "导入舰队 %s"
+
+msgid "Imported Ships"
+msgstr "导入飞船"
+
+msgid "1 ship"
+msgstr "1艘飞船"
+
+msgid "Available"
+msgstr "可用"
+
+msgid "Team"
+msgstr "团队"
+
+msgid "Contestants"
+msgstr "参赛选手"
+
+msgid "Steam Friends Unavailable: "
+msgstr "Steam好友离线："
+
+msgid "Logging in..."
+msgstr "登录中……"
+
+#, c-format
+msgid "Downloading Steam Friend Ships: %.f%%"
+msgstr "正在下载Steam好友的飞船： %.f%%"
+
+msgid "Error: "
+msgstr "错误："
+
+msgid "Command Module"
+msgstr "指挥模块"
+
+msgid "The core of every ship"
+msgstr "每艘飞船的核心"
+
+msgid "Resource Containment Unit"
+msgstr "资源携带单位"
+
+msgid "Resource storage unit"
+msgstr "资源储藏单位"
+
+msgid "Thruster"
+msgstr "推进器"
+
+msgid "Produces a small amount of thrust"
+msgstr "产生较小推力"
+
+msgid "Provides a medium amount of thrust"
+msgstr "产生中等推力"
+
+msgid "Provides a large amount of thrust"
+msgstr "产生较大推力"
+
+msgid "Generator"
+msgstr "发电机"
+
+msgid "Produces energy to power a ship's weapons. More generators, more energy"
+msgstr "为一艘飞船的武器提供能量。发电机越多，能量越多"
+
+msgid "Solar Panel"
+msgstr "太阳能板"
+
+msgid "Adapter"
+msgstr "适配器"
+
+msgid "A basic building block"
+msgstr "一个基本的构造模块"
+
+msgid "Armor"
+msgstr "装甲"
+
+# Need clarification
+msgid "Extra durable"
+msgstr "提升抗击打能力"
+
+msgid "units"
+msgstr "单位"
+
+msgid "RK-12 Standard"
+msgstr "RK-12标准"
+
+msgid "Basic light cannon. Its consistent rate of fire and low energy use make it a reliable weapon"
+msgstr "基础级轻型加农炮。稳定的射击速率和低能耗使它成为一款可靠的武器"
+
+msgid "Hull"
+msgstr "船体"
+
+msgid "MGVD-4 Bolshevik"
+msgstr "MGVD-4 布尔什维克"
+
+msgid "Fires numerous but slow explosive rounds, akin to a grenade launcher"
+msgstr "能发射许多延时爆炸炮弹，类似于榴弹发射器"
+
+# Fan version is put more like a weapon. Official one says "AF-75 Infectee"
+msgid "AF-75 Spitter"
+msgstr "AF-75 快速弹夹炮"
+
+msgid "A powerful burst-fire turret that excels at medium range"
+msgstr "极具威力的连发炮塔，中程火力十分优秀\\"
+
+msgid "Minigun"
+msgstr "加特林机枪"
+
+# Fan translation is put like a weapon - Swatter Scatter Gun. Official translation means the racket that is used to squash flies.
+msgid "Swatter"
+msgstr "Swatter散射机枪"
+
+msgid "SG-9 Scattergun"
+msgstr "SG-9机枪"
+
+msgid "Anti-ship shotgun"
+msgstr "反飞船霰弹炮"
+
+# Fan translation : HC2 Heavy Artillery. Better than HC2 singled out in the official translation. 
+msgid "HC2"
+msgstr "HC2重型火炮"
+
+msgid "EXR-1 Railgun"
+msgstr "EXR-1磁轨炮"
+
+msgid "Unmatched in range, this sniper rifle will always give you the first shot"
+msgstr "拥有无与伦比的射程，这把狙击武器能帮你抢占先机"
+
+msgid "MED Beam"
+msgstr "MED光束"
+
+# In the Wikia, the Phalanx is a weapon under  the Blast, so it's better to put it as something like "phalanx close-in weapon system" than the "matrix" in the official translation.
+msgid "Phalanx"
+msgstr "Phalanx密集阵"
+
+msgid "MC3"
+msgstr "MC3中型火炮\\"
+
+msgid "HC3"
+msgstr "HC3重型火炮"
+
+msgid "MLS Avenger"
+msgstr "MLS复仇者"
+
+msgid "Very high rate of fire, medium range"
+msgstr "射速极高，射程中等"
+
+msgid "MLS Anti-Missile"
+msgstr "MLS 反导系统"
+
+msgid "Close in weapon system"
+msgstr "近战武器系统"
+
+msgid "Longbow"
+msgstr "长弓定向炮"
+
+msgid "ZLM Sparrow"
+msgstr "ZLM麻雀导弹"
+
+msgid "Who doesn't like showering a target in missiles?"
+msgstr "谁不喜欢用导弹雨淹没敌人呢？"
+
+msgid "Shield"
+msgstr "护盾"
+
+msgid "Low strength and limited area is balanced by a fast recharge time"
+msgstr "强度低，范围小，但是弹药填充速度很快"
+
+msgid "MM1"
+msgstr "MM1中型导弹\\"
+
+msgid "HM1"
+msgstr "HM1重型导弹"
+
+# In the Wikia, the Phalanx is a item under the Beam, so it's better to put it as something like "small-sized laser machine" than the "Arkas PRP-1" in the official translation.
+msgid "Arkas PRP-1"
+msgstr "Arkas小型激光器"
+
+msgid "This small laser cannon is capable of taking out small targets in seconds"
+msgstr "这个小型激光加农炮能在几秒钟内摧毁小型目标"
+
+msgid "Arkas PRP-2"
+msgstr "Arkas中型激光器\\"
+
+msgid "The instantaneous nature of lasers mean that damage is delivered before all else"
+msgstr "激光武器与生俱来的特性就是可以在第一时间造成伤害"
+
+msgid "Arkas PRP-3"
+msgstr "Arkas大型激光器"
+
+msgid "Need to burn through a battleship without breaking a sweat? Try this"
+msgstr "想要毫不费力烧穿敌人的战舰？试试这个吧"
+
+# Typo in official translation.
+msgid "This mid-size generator is versatile and effective"
+msgstr "这个中型发电机功能多、效率高"
+
+msgid "When you've got a lot of hardware to protect, look no further"
+msgstr "如果你有很多硬件需要保护，就选这个吧"
+
+msgid "Heavy Turret"
+msgstr "重型炮塔"
+
+msgid "Power Distributor"
+msgstr "电力分配器"
+
+msgid "Station Battery"
+msgstr "空间站防御火炮"
+
+msgid "Station Defense Laser"
+msgstr "空间站防御激光"
+
+msgid "Factory"
+msgstr "建造工厂"
+
+msgid "Tractor"
+msgstr "牵引器"
+
+# Nexus: Official translation means "Connector"; Fan one means "Core Capsule".
+msgid "Nexus"
+msgstr "连接器"
+
+msgid "Penrose Zero"
+msgstr "潘洛斯零号"
+
+msgid "Penrose One"
+msgstr "潘洛斯一号"
+
+# Blaster: Official translation means a device that can cause explosion; Fan means a small cannon that is used to attack.
+msgid "Blaster"
+msgstr "爆破器"
+
+msgid "Mini size"
+msgstr "微型\\"
+
+msgid "Small size"
+msgstr "小型"
+
+msgid "Medium size"
+msgstr "中型\\"
+
+msgid "Large size"
+msgstr "大型"
+
+# Phaser: Official means Phaser device, fan translation means Phaser Cannon.
+msgid "Phaser"
+msgstr "相位炮"
+
+msgid "Tempest"
+msgstr "暴风雨"
+
+msgid "Laser"
+msgstr "激光"
+
+msgid "Drone Launcher"
+msgstr "无人机发射器"
+
+msgid "Anti-Missile Laser"
+msgstr "反导激光"
+
+msgid "Storage Pod"
+msgstr "储物舱"
+
+# Edited as "Nanoassemble Beam"
+msgid "Nanoassembler Beam"
+msgstr "纳米装配光束"
+
+msgid "Nanoassembler Drone Launcher"
+msgstr "纳米装配无人机发射器"
+
+msgid "CommandControl"
+msgstr "指挥控制"
+
+# Strut. I checked Wikia, but still can't tell which one is more accurate. Official translation means "support" or "holder"; fan means "structural block".
+msgid "Strut"
+msgstr "支架"
+
+msgid "CannonBase"
+msgstr "加农炮炮台"
+
+msgid "Modular plasma cannon"
+msgstr "模块化等离子加农炮"
+
+msgid "DamageAmplifier"
+msgstr "伤害增强器"
+
+msgid "Increases damage of attached weapon"
+msgstr "提高已附着武器的伤害"
+
+msgid "Significantly increases damage of attached weapon"
+msgstr "显著提高已附着武器的伤害"
+
+msgid "RangeAmplifier"
+msgstr "射程扩大器"
+
+msgid "Increases range and projectile speed of attached weapon"
+msgstr "增加已附着武器的射程并提高弹道速度"
+
+msgid "RateAmplifier"
+msgstr "射速提高器"
+
+msgid "Increases rate of fire of attached weapon"
+msgstr "提高已附着武器的射速"
+
+# VelocityAmplifier.
+msgid "VelocityAmplifier"
+msgstr "速率增强器"
+
+msgid "Significantly increases projectile speed of attached weapon"
+msgstr "显著提高已附着武器弹药的抛射速度"
+
+msgid "Protector"
+msgstr "保护装置"
+
+msgid "Defense Laser"
+msgstr "防御激光"
+
+msgid "Solar Array"
+msgstr "太阳阵列"
+
+# R Bank, official one means it like it's a bank (like where people make deposite), fan means it like some storage device of R.
+msgid "RBank"
+msgstr "R储存器"
+
+msgid "Rocket Drone Launcher"
+msgstr "火箭无人机发射器"
+
+msgid "Crop Seed"
+msgstr "农作物种子"
+
+msgid "Stem"
+msgstr "茎"
+
+msgid "Crop Stem"
+msgstr "农作物的茎"
+
+msgid "Joint"
+msgstr "植物关节"
+
+msgid "Leaf"
+msgstr "叶子"
+
+msgid "Seed Planter"
+msgstr "播种机"
+
+msgid "Command"
+msgstr "指挥部"
+
+msgid "Subcommand"
+msgstr "次级指挥部"
+
+# Root. Searched in Wikia, it's the part as the base of the bee faction. Fan version is more accurate than Official one, which means the root of a plant.
+msgid "Root"
+msgstr "建筑基础"
+
+#, c-format
+msgid "Laser %d:%d"
+msgstr "激光 %d：%d"
+
+msgid "Laser Drone Launcher"
+msgstr "激光无人机发射器"
+
+msgid "Immobilizer"
+msgstr "防盗器"
+
+msgid "Sensoria"
+msgstr "传感器"
+
+msgid "Chitin"
+msgstr "防护外壳"
+
+msgid "Propulsor"
+msgstr "推进器"
+
+# Sting. Searched in Wikia, can't locate this item. Official translation says Accelerator, fan translation says Thorn. Need more context.
+msgid "Sting"
+msgstr "加速器"
+
+msgid "Station Command"
+msgstr "空间站指挥舱"
+
+msgid "Power your weapons"
+msgstr "为你的武器充能"
+
+msgid "Power your weapons (more)"
+msgstr "为你的武器充能（更多）"
+
+# Transformer. Can't locate in Wikia. Official translation means Morph device; Fan one means potential transformer (as in electricity).
+msgid "Transformer"
+msgstr "变压器"
+
+# As written in Wikia, it's "A quick ship made for dropping in and picking up a few resources. " So fan version is better.
+msgid "Harvester"
+msgstr "资源收集器"
+
+msgid "Increase resource pickup range"
+msgstr "增加资源采集范围"
+
+# Deadly in quantity, fan puts it right - when it's in great quantity then it's deadly.
+msgid "Inexpensive short range laser, deadly in quantity"
+msgstr "便宜的短程激光，数目多时十分致命\\"
+
+# Manipulator. Can't locate in Wikia. Oficial one means a device used to manipulate or control; fan one means that it is a beam, manipulate beam.
+msgid "Manipulator"
+msgstr "操纵光束"
+
+# Grabber beam. Official one means "Loot beam", fan one means "Gravity controlled beam".
+msgid "Grabber beam"
+msgstr "引力控制性光束"
+
+msgid "Armored building block"
+msgstr "操纵光束"
+
+# Container. Official one means "Resource Carrier", fan one means "Cargo cabin" 
+msgid "Container"
+msgstr "货舱"
+
+msgid "Resource storage"
+msgstr "资源储藏"
+
+msgid "Plasma Cannon"
+msgstr "等离子加农炮"
+
+msgid "Basic turreted damage dealer"
+msgstr "基本炮塔伤害输出"
+
+msgid "Increase mobility - mini size"
+msgstr "增加机动性——小型尺寸"
+
+msgid "Increase mobility - medium size"
+msgstr "增加机动性——中型尺寸\\"
+
+msgid "Increase mobility - mega size"
+msgstr "增加机动性——大型尺寸"
+
+msgid "Increase mobility - asteroid relocation size"
+msgstr "增加机动性——小行星迁移级尺寸"
+
+msgid "Missile Launcher"
+msgstr "导弹发射器"
+
+msgid "Launches homing missiles"
+msgstr "发射跟踪导弹"
+
+msgid "Launches intelligent drones armed with plasma cannons"
+msgstr "发射装备有等离子加农炮的智能无人机"
+
+msgid "Proton Beam"
+msgstr "质子光束"
+
+msgid "Long range high damage spinal beam weapon"
+msgstr "射程远、伤害高的脊柱型光束武器"
+
+msgid "Defense Cannon"
+msgstr "防御加农炮"
+
+msgid "Short range rapid-fire point defense"
+msgstr "射程短，射速高，定点防卫"
+
+msgid "Plasma Projector"
+msgstr "等离子抛射器"
+
+msgid "Rapid-fire directional plasma weapon"
+msgstr "高射速定向等离子武器"
+
+msgid "Torpedo Launcher"
+msgstr "鱼雷发射器"
+
+msgid "Launches high damage unguided torpedoes"
+msgstr "发射高伤害非制导鱼雷"
+
+msgid "Proton Sword"
+msgstr "质子剑"
+
+msgid "Extremely high damage but very short range beam weapon"
+msgstr "伤害极高但射程很短的光束武器"
+
+msgid "Railgun"
+msgstr "磁轨炮"
+
+msgid "Very long range turreted sniper weapon"
+msgstr "射程非常远的炮塔型狙击武器"
+
+msgid "Autocannon"
+msgstr "自动加农炮"
+
+msgid "Very high rate of fire short range plasma weapon"
+msgstr "射速极高、射程较短的等离子武器"
+
+msgid "Blast Pulser"
+msgstr "爆破脉冲"
+
+msgid "Unidirectional projectile emitter"
+msgstr "非定向弹药发射器"
+
+msgid "Burst Laser"
+msgstr "连发激光"
+
+msgid "Compact charging beam weapon"
+msgstr "压缩装填光束武器"
+
+msgid "Armor block"
+msgstr "装甲模块"
+
+msgid "Create more spaceships"
+msgstr "创造更多的太空飞船"
+
+msgid "Plasma Mortar"
+msgstr "等离子迫击炮"
+
+msgid "Powerful charging splash damage weapon"
+msgstr "填充式溅射伤害武器"
+
+msgid "Mine Layer"
+msgstr "布雷器"
+
+msgid "High damage, large splash radius dumb mines"
+msgstr "伤害高、溅射半径大的未爆地雷"
+
+msgid "Shield Projector"
+msgstr "护盾发射器"
+
+msgid "Absorbs damage - essential for capital ships"
+msgstr "吸收伤害——主力飞船必备"
+
+msgid "Flak Cannon"
+msgstr "高射加农炮"
+
+msgid "Explosive point defense cannon"
+msgstr "爆破性定点防卫加农炮"
+
+msgid "Antimatter Cannon"
+msgstr "反物质加农炮"
+
+msgid "Very long range, high damage spinal mounted death machine"
+msgstr "射程极远、伤害高的脊柱型死亡机器"
+
+msgid "Teleporter"
+msgstr "空间传送器"
+
+msgid "Rocket Launcher"
+msgstr "火箭发射器"
+
+msgid "Launches flurries of unguided rockets"
+msgstr "快速发射一批非制导火箭"
+
+msgid "Station Shield Projector"
+msgstr "空间站护盾发射器"
+
+msgid "Unobtanium Strut"
+msgstr "超导矿石支架"
+
+# Wall. Official one means the wall that is to divide inner and outer; fan one means plantable structural block. Need to be confirmed.
+msgid "Wall"
+msgstr "可种植结构块"
+
+# Extender. O: Reinforcement; F: Rectangular structural block.
+msgid "Extender"
+msgstr "长方形结构块"
+
+# Mount. Official: trench (in war); fan: trapezoid structural block.
+msgid "Mount"
+msgstr "梯形块"
+
+msgid "Corner"
+msgstr "转角"
+
+msgid "Hex Wall"
+msgstr "六角墙"
+
+msgid "Wedge"
+msgstr "楔子"
+
+msgid "Micro"
+msgstr "微型"
+
+msgid "Medium"
+msgstr "中等"
+
+msgid "Macro"
+msgstr "大型"
+
+msgid "Mighty"
+msgstr "超大型"
+
+msgid "Massive"
+msgstr "巨型"
+
+msgid "Crystallite"
+msgstr "微晶体"
+
+# Booster. O: means Augmentation device; F: means Propeller device. 
+msgid "Booster"
+msgstr "助推器"
+
+msgid "Defense Pulser"
+msgstr "防御脉冲发射器"
+
+msgid "Pulser"
+msgstr "脉冲发射器"
+
+msgid "Plasma Condenser"
+msgstr "等离子电容器"
+
+msgid "Antimatter Missle Launcher"
+msgstr "反物质导弹发射器"
+
+msgid "Power Conduit"
+msgstr "电能导管"
+
+msgid "Plasma Diffractor"
+msgstr "等离子衍射仪"
+
+msgid "Heavy Bodywork"
+msgstr "重型骨架"
+
+msgid "Light Bodywork"
+msgstr "轻型骨架"
+
+msgid "Maneuver Thruster"
+msgstr "机动推进器"
+
+msgid "Highly responsive low impulse thruster"
+msgstr "高敏感度低冲力推进器"
+
+msgid "Impulse Thruster"
+msgstr "冲力推进器"
+
+msgid "High impulse thruster"
+msgstr "高冲力推进器"
+
+msgid "Shard Launcher"
+msgstr "碎片发射器"
+
+msgid "Launches explosive spinners"
+msgstr "发射可爆炸的旋转诱饵"
+
+msgid "Shard"
+msgstr "碎片"
+
+msgid "Laser Drone"
+msgstr "激光无人机"
+
+msgid "Anchor Launcher"
+msgstr "船锚发射器"
+
+msgid "Anchor Drone"
+msgstr "船锚机器人"
+
+msgid "PD Subsystem"
+msgstr "点防御子系统"
+
+msgid "Quantum Doom Beam"
+msgstr "量子末日光束"
+
+msgid "Tractor Beam"
+msgstr "牵引光束"
+
+# Generator/Storage. O: means a device that generate electricity, and a battery that stores electricity; F: its Storage means a cabin to store goods.
+msgid "Generator/Storage"
+msgstr "发电器/货舱"
+
+msgid "Pod Command"
+msgstr "指挥吊舱"
+
+msgid "Polyp"
+msgstr "珊瑚虫"
+
+msgid "Light Spine"
+msgstr "光脊"
+
+msgid "Thistle"
+msgstr "蓟草"
+
+msgid "Gauss Beam"
+msgstr "高斯光束"
+
+msgid "Devastating pulse weapon"
+msgstr "毁灭性脉冲武器"
+
+msgid "Plasma Bolt"
+msgstr "等离子闪电"
+
+msgid "Slow, high damage defense turret"
+msgstr "速度慢、高伤害的防御炮塔"
+
+# Flurry Missiles. O: means Missile rain; F: Missile quick launcher.
+msgid "Flurry Missiles"
+msgstr "快速导弹发射器"
+
+msgid "Rapid-fire guided missile launcher"
+msgstr "高射速制导导弹发射器"
+
+msgid "Annihilator"
+msgstr "歼灭者"
+
+msgid "Slow but powerful gun turret"
+msgstr "速度慢但火力猛的炮塔"
+
+msgid "Obliterator"
+msgstr "毁灭者"
+
+msgid "Obscenely powerful death laser"
+msgstr "强到爆表的死亡激光"
+
+msgid "Reactor"
+msgstr "反应堆"
+
+msgid "Depot"
+msgstr "仓库"
+
+msgid "Nuclear Option"
+msgstr "核选项"
+
+msgid "Heavily armored death launcher"
+msgstr "重甲致命发射器"
+
+msgid "Armor Plate"
+msgstr "板状装甲"
+
+msgid "Armor Spike"
+msgstr "锥状装甲"
+
+msgid "Segment"
+msgstr "部分"
+
+msgid "Core hull"
+msgstr "核心船体"
+
+msgid "Auxiliary hull"
+msgstr "辅助船体"
+
+msgid "Thrust vector unit"
+msgstr "矢量推进单位"
+
+msgid "Left Bumper"
+msgstr "左减震器"
+
+msgid "Right Bumper"
+msgstr "右减震器"
+
+msgid "Left Trigger"
+msgstr "左扳机"
+
+msgid "Right Trigger"
+msgstr "右扳机"
+
+msgid "Share"
+msgstr "分享"
+
+msgid "ENTER/Click"
+msgstr "回车键/单击"
+
+msgid "ENTER"
+msgstr "回车键"
+
+msgid "Left Mouse"
+msgstr "鼠标左键"
+
+msgid "Right Mouse"
+msgstr "鼠标右键"
+
+msgid "Middle Mouse"
+msgstr "鼠标滑轮"
+
+msgid "Mouse4"
+msgstr "Mouse4"
+
+msgid "Mouse5"
+msgstr "Mouse5"
+
+msgid "Mouse6"
+msgstr "Mouse6"
+
+msgid "Up"
+msgstr "上"
+
+msgid "Down"
+msgstr "下"
+
+msgid "Shift"
+msgstr "Shift键"
+
+msgid "Control"
+msgstr "Control键"
+
+msgid "Alt"
+msgstr "Alt键"
+
+msgid "Tab"
+msgstr "Tab键"
+
+msgid "Enter"
+msgstr "回车键"
+
+msgid "Space"
+msgstr "空格键"
+
+msgid "Page Up"
+msgstr "Page Up键"
+
+msgid "Page Down"
+msgstr "Page Down键"
+
+msgid "Home"
+msgstr "Home键"
+
+msgid "End"
+msgstr "End键"
+
+msgid "Backspace"
+msgstr "Backspace键"
+
+msgid "Escape"
+msgstr "Escape键"
+
+msgid "Gamepad Start"
+msgstr "开始使用手柄"
+
+msgid "Gamepad Guide"
+msgstr "游戏手柄向导"
+
+msgid "Right Stick"
+msgstr "右摇杆"
+
+msgid "DPad Up"
+msgstr "上键"
+
+msgid "DPad Down"
+msgstr "下键"
+
+msgid "DPad Left"
+msgstr "左键"
+
+msgid "DPad Right"
+msgstr "右键"
+
+msgid "Left Axis X"
+msgstr "左摇杆X轴"
+
+msgid "Left Axis Y"
+msgstr "左摇杆Y轴"
+
+msgid "Right Axis X"
+msgstr "右摇杆X轴"
+
+msgid "Right Axis Y"
+msgstr "右摇杆Y轴"
+
+msgid "Left Trigger Axis"
+msgstr "左摇杆扳机轴"
+
+msgid "Right Trigger Axis"
+msgstr "右摇杆扳机轴"
+
+msgid "Left Stick Up"
+msgstr "左摇杆向上"
+
+msgid "Left Stick Down"
+msgstr "左摇杆向下"
+
+msgid "Left Stick Left"
+msgstr "左摇杆向左"
+
+msgid "Left Stick Right"
+msgstr "左摇杆向右"
+
+msgid "Right Stick Up"
+msgstr "右摇杆向上"
+
+msgid "Right Stick Down"
+msgstr "右摇杆向下"
+
+msgid "Right Stick Left"
+msgstr "右摇杆向左"
+
+msgid "Right Stick Right"
+msgstr "右摇杆向右"
+
+msgid "Keypad 0"
+msgstr "小键盘0"
+
+msgid "Keypad 1"
+msgstr "小键盘1"
+
+msgid "Keypad 2"
+msgstr "小键盘2"
+
+msgid "Keypad 3"
+msgstr "小键盘3"
+
+msgid "Keypad 4"
+msgstr "小键盘4"
+
+msgid "Keypad 5"
+msgstr "小键盘5"
+
+msgid "Keypad 6"
+msgstr "小键盘6"
+
+msgid "Keypad 7"
+msgstr "小键盘7"
+
+msgid "Keypad 8"
+msgstr "小键盘8"
+
+msgid "Keypad 9"
+msgstr "小键盘9"
+
+msgid "Menu"
+msgstr "菜单"
+
+msgid "Volume Down"
+msgstr "调低音量"
+
+msgid "Volume Up"
+msgstr "调高音量"
+
+msgid "Play Next"
+msgstr "下一曲"
+
+msgid "Play Prev"
+msgstr "上一曲"
+
+msgid "Play"
+msgstr "播放"
+
+msgid "Mute"
+msgstr "静音"
+
+msgid "Gamepad A"
+msgstr "游戏手柄A"
+
+msgid "Gamepad B"
+msgstr "游戏手柄B"
+
+msgid "Gamepad X"
+msgstr "游戏手柄X"
+
+msgid "Gamepad Y"
+msgstr "游戏手柄Y"
+
+msgid "Ctrl-"
+msgstr "Ctrl-"
+
+msgid "Alt-"
+msgstr "Alt-"
+
+msgid "Shft-"
+msgstr "Shft-"
+
+msgid "Low"
+msgstr "低"
+
+msgid "Full"
+msgstr "全"
+
+msgid "On"
+msgstr "开"
+
+msgid "Message"
+msgstr "信息"
+
+msgid "Confirm"
+msgstr "确认"
+
+#, c-format
+msgid "%d seconds"
+msgstr "%d 秒"
+
+#, c-format
+msgid "%d minutes, %d seconds"
+msgstr "%d 分， %d 秒"
+
+#, c-format
+msgid "%d hours, %d minutes, %d seconds"
+msgstr "%d 小时，%d 分，%d 秒"
+
+msgid "OK"
+msgstr "确定"
+
+msgid "Terran"
+msgstr "人族"
+
+msgid "Farmer"
+msgstr "放牧者"
+
+msgid "Red"
+msgstr "红族"
+
+msgid "Tinkrell"
+msgstr "叮当族"
+
+# Fan puts it like a faction, borg faction.
+msgid "Borg"
+msgstr "博格族"
+
+msgid "Flies"
+msgstr "蝇群"
+
+# Crystalline. Both means the transparent gem. Is it a faction name?
+msgid "Crystalline"
+msgstr "水晶"
+
+# Contestant. Official one means the participants of a contest. Fan one means whole block faction.
+msgid "Contestant"
+msgstr "参赛者"
+
+# Bee. Both means the swarm of bees. Is it a faction name?
+msgid "Bee"
+msgstr "蜂群"
+
+msgid "Spikey Plant"
+msgstr "带刺植物"
+
+# Fan puts it like a faction, sentinel faction.
+msgid "Sentinel"
+msgstr "哨兵族"
