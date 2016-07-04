@@ -1,9 +1,8 @@
-﻿# 
 # Reassembly data/tips.lua localization file
-# 
+#
 # Copyright (C) 2015-2016 Arthur Danskin
 # Content-Type: text/plain; charset=utf-8
-# 
+#
 msgid ""
 msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -17,39 +16,56 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: zh_CN\n"
 "X-Generator: Poedit 1.8.8\n"
+
+# Adapted from both Fan and Official ones. Official one put Trade as Exchange. Trade fits the context better. Also Station is put as Space Station, not Base.
 msgid ""
 "Ships equipped with Factory blocks do not automatically trade ^6R^7 to "
 "Stations. Use '$transferRes' to initiate a trade."
-msgstr "配有建造工厂模块的飞船不会自动向基地交换^6R^7。使用’$transferRes’进行交换。"
+msgstr ""
+"配有建造工厂模块的飞船不会自动与空间站交易^6R^7 。使用^3'$transferRes'^7进行"
+"交易。"
 
+# "Fixed as ""Press … button"" so that to be consistent with the Official translation, as all strings with ""press"" had ""button"" followed up. 
+# Fan translation puts it as ""Press … to switch ship control mode"", which is better for one to understand from ""Press ... button to adjust ship operating routine."""
 msgid "Press '$mouseRotToggle' to cycle ship control schemes."
-msgstr "按下’$mouseRotToggle’键调整飞船操作规程。"
+msgstr "按下'$mouseRotToggle'键来切换飞船控制模式。"
 
+# Adapted from both translations. Added "button" to keep consistent with Official one. Used a more common translation for Disable.
 msgid ""
 "Press '$autoZoomToggle' to completely disable automatic zooming, or zoom "
 "with '$zoom' to temporarily disable."
-msgstr "按下’$autoZoomToggle’ 键可完全弃用自动缩放，或在缩放时按下’$zoom’键暂时弃用。"
+msgstr ""
+"按下'$autoZoomToggle'键来完全禁用自动缩放，或者在缩放时按下'$zoom'键来暂时禁"
+"用。"
 
+# Adapted from both translations. Added "button" to keep consistent with Official one. 
 msgid ""
 "Press '$toggleHUD' to cycle HUD visibility. This can be used to hide "
 "tutorial objectives."
-msgstr "按下’$toggleHUD’键调整控制面板是否可见。也可以隐藏教学任务。"
+msgstr "按下 '$toggleHUD' 键来循环切换控制面板界面。它可以用来隐藏教程任务。"
 
+# Retranslated as "By spwaning a design in which there's factory yet no thruster, build a new station. If the newly discovered unactivated station is avaiable, then this station will spawn new station in your fleet screen. " I am not sure what is a fleet screen, both translation doesn't mention it. Official one says it's "fleet interface", but if it's an interface, then the preposition would be ON the screen, maybe?
 msgid ""
 "Build new stations by spawning a design with a factory but no thrusters. "
-"Newly discovered deactivated stations will spawn with stations in your fleet"
-" screen if available."
-msgstr "令建造工厂生产设计好的飞船可以建立新的基地，但没有推进器。新发现的废弃基地如可用，将会和舰队界面中的基地一起生产。"
+"Newly discovered deactivated stations will spawn with stations in your "
+"fleet screen if available."
+msgstr ""
+"通过生成一个有建造工厂却无推进器的设计来建造新的空间站。 如果新发现的未激活"
+"空间站处于可用状态，该空间站就会你的舰队屏幕上生成空间站。"
 
+# Both translation didn't put out the Allied. Official one says Ally station; fan says Your station. Anyway, still there's Fleet Screen.
 msgid ""
 "Allied stations and Factory ships will spawn ship designs from your Fleet "
 "screen."
-msgstr "友方的基地和带工厂的飞船会生产舰队界面中设计好的飞船。"
+msgstr "结成盟友的空间站和具有建造工厂的飞船会从你的舰队界面里生成飞船蓝图。"
 
+# Official one has one typo in the latter of the sentence.
 msgid ""
 "Increase your ^5P^7 limit and unlock new blocks via the Upgrade screen "
 "('$viewUpgrades') to get more powerful."
-msgstr "可以在升级界面(’$viewUpgrades’)中增加^5P^7 限制并解锁新的模块，以是你更加强大。"
+msgstr ""
+"进入升级界面（ '$viewUpgrades' ）来增加你的^5P^7限制并解锁新模块，让你的飞船"
+"更加强大。"
 
 msgid ""
 "Generator blocks boost weapon power but explode dramatically when destroyed "
@@ -60,9 +76,11 @@ msgid ""
 "Keybindings can be changed within the Controls section of the main menu."
 msgstr "在主菜单控制选项中可以更改键位绑定。"
 
+# "Official one puts command mode as ""commander mode"", following fan's one.
+# Adapted from both translations."
 msgid ""
-"Press '$viewSelector' when targetting an allied ship in COMMAND mode to edit"
-" its design or child build order."
-msgstr "在指挥官模式下选中友方飞船并按’$viewSelector’键可编辑它的设计图或子飞船建造顺序。"
-
-
+"Press '$viewSelector' when targetting an allied ship in COMMAND mode to "
+"edit its design or child build order."
+msgstr ""
+"在指挥模式下选中一个友方飞船并按下'$viewSelector'，可编辑它的设计或者更改子"
+"飞船建造顺序。"
