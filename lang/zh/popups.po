@@ -1,0 +1,58 @@
+﻿# 
+# Reassembly data/popups.lua localization file
+# 
+# Copyright (C) 2015-2016 Arthur Danskin
+# Content-Type: text/plain; charset=utf-8
+# 
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"X-Generator: Poedit 1.8.8\n"
+msgid "Similarly colored ships are allies, everyone else is hostile."
+msgstr "颜色相近的飞船为友方飞船，其余颜色均为敌方飞船。"
+
+msgid "'$viewMap' to expand minimap."
+msgstr "’$viewMap’ 用来放大小地图。"
+
+msgid "$zoom to zoom camera."
+msgstr "$zoom 用来缩放游戏镜头。"
+
+msgid "Follow tutorial objectives to advance."
+msgstr "从教学任务开始，逐步开始高级任务。"
+
+msgid "'$escape' to save / quit."
+msgstr "’$escape’用来保存/退出。"
+
+msgid "'$viewSelector' to edit ships."
+msgstr "’$viewSelector’用来编辑飞船。"
+
+msgid ""
+"Ship ^6R^7 capacity filled. Increase capacity by adding containers or fly "
+"near a station to trade ^6R^7 for ^3C^7"
+msgstr "飞船^6R^7载荷已满。增加资源携带器以增大荷载量，或靠近基地将^6R^7转化为^3C^7"
+
+msgid "Drag new blocks from palette"
+msgstr "从操作控制台上拖曳新模块"
+
+msgid "'^5P^7' value limits ship features"
+msgstr "’^5P^7’的值会限制飞船的功能"
+
+msgid "View Keyboard commands in Help menu"
+msgstr "在“帮助”菜单中查看键盘命令"
+
+msgid "Exit when finished"
+msgstr "结束时退出游戏"
+
+msgid "Increase ^5P^7 to build larger ships"
+msgstr "增加^5P^7以建造更大的飞船"
+
+
