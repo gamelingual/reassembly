@@ -1,0 +1,139 @@
+# Reassembly data/tutorial.lua localization file
+#
+# Copyright (C) 2015-2016 Arthur Danskin
+# Content-Type: text/plain; charset=utf-8
+#
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"X-Generator: Poedit 1.8.8\n"
+
+# Fan translation (Fan) sounds more like a UI text.Official (O) one means "Basic Knowledge" which sounds a bit nerdy and not very gamish. 
+msgid "Basics"
+msgstr "基础操作"
+
+msgid "Enter the world"
+msgstr "进入世界"
+
+# Need to be consistent with the next string, and symmetrical with the words with common usage of primary and secondary.
+msgid "Use '$fireMain' to fire primary weapons"
+msgstr "使用'$fireMain'发射主要武器"
+
+msgid "Use '$fireAlt' to launch secondary weapons"
+msgstr "使用’$fireAlt’发射次要武器"
+
+# 修改 in the O is more in a sense of "correct" something, not very fitting as the wording used in Fan. Edited as the Fan one isn't consistent with existing translation "Use".
+msgid "Use '$viewConstructor' to modify ship"
+msgstr "使用'$viewConstructor'改造你的飞船"
+
+msgid "Resources"
+msgstr "资源"
+
+msgid "Pick up an ^6R packet^7"
+msgstr "捡起一个^6R 资源包^7"
+
+msgid "Fly near a ^2spawner^7 to trade ^6R^7 for ^3C^7"
+msgstr "在^2生产点^7附近飞行，以^6R^7换取^3C^7"
+
+msgid "Trade ^6100R^7 to a ^2spawner^7 for ^3C^7"
+msgstr "以^6100R^7向^2生产点^7换取^3C^7"
+
+msgid "Earn ^3C^7 by exploring"
+msgstr "通过探索获得^3C^7"
+
+msgid "Earn ^3C^7 and ^6R^7 by destroying enemy ships"
+msgstr "通过摧毁敌方飞船获得^3C^7和^6R^7"
+
+msgid "Press '$viewUpgrades' and upgrade something"
+msgstr "按下’$viewUpgrades’键进行升级"
+
+# Fan made the Weapon Binding as Weapon group, whichis clearer than O, in which it is "weapon key mapping binding". To be confirmed if it's related to the keyboard or just the weapons.
+msgid "Weapon Binding"
+msgstr "武器组"
+
+msgid "Use '$viewBindings' to modify weapon groups"
+msgstr "使用’$viewBindings’更改武器组"
+
+msgid "Objective"
+msgstr "任务"
+
+msgid "Use '$viewMap' to view full map"
+msgstr "使用’$viewMap’查看完整地图"
+
+# Fan uses word that is more fitting for the context. Like the Station (Space Station), and Reactivate means what it means. O put it as Base, and "Back Running"
+msgid "Fly near a ^4damaged station^7 to reactivate"
+msgstr "靠近^4损坏的空间站^7飞行来重新激活它"
+
+msgid "Factory"
+msgstr "建造工厂"
+
+msgid "Unlock the factory block using '$viewUpgrades'"
+msgstr "使用’$viewUpgrades’解锁建造工厂模块"
+
+msgid "Attach a factory to your ship"
+msgstr "为你的飞船附加建造工厂"
+
+msgid "Use '$viewSelector' to place a ship design in the alternate slot"
+msgstr "使用’$viewSelector’在另一存档位中放置飞船设计"
+
+# Fan is doing better, as the Official one says "Use … to mass produce a ship". Modified the punctuation/style (Space between variable is removed to keep consistent, removed periods.)
+msgid "Use '$activate' to spawn a ship"
+msgstr "使用'$activate'来制造一艘飞船"
+
+# Edited/Adapted from the Fan translation, as official translation said "mass produce" the ship again.
+msgid "Spawn a ship with its own factory to complete the cycle"
+msgstr "制造一艘有建造工厂的飞船来完成这个循环"
+
+msgid "Fleets"
+msgstr "舰队"
+
+# Official translation isn't being consistent with the Command's translation. Edited/Adapted Fan one instead.
+msgid "Use '$toggleTractor' to engage command mode"
+msgstr "使用'$toggleTractor'进入指挥模式"
+
+# Both versions have a bit of problem. Official one isn't being consitenct, Fan one omitted the Command Mode. 
+msgid "Use '$fireMain' in command mode to recruit an ally"
+msgstr "在指挥模式中使用'$fireMain'可招募盟友"
+
+# A little tweak on Official translation. 
+msgid "Use '$fireMain' again to release the ally (and gain ^3C^7)"
+msgstr "再次使用'$fireMain'可释放盟友（并获得^3C^7）"
+
+msgid "Use '$viewSelector' to edit targeted ally's ship and build order"
+msgstr "使用’$viewSelector’编辑目标盟友的飞船和建造次序"
+
+msgid "Generator"
+msgstr "发电机"
+
+msgid "Attach a generator to your ship to boost power"
+msgstr "在你的飞船上安装发电机以增加电力"
+
+msgid "Targets"
+msgstr "目标"
+
+# The Official says agent as "special fleet", the fan translation says "worm hole fleet". I didn't play that far so I am not sure whether it's special or worm hole fleet…
+msgid "Use the map to locate and destroy an ^1agent^7"
+msgstr "使用地图定位并摧毁一个^1特种舰队^7"
+
+# Treaked the Fan translation as "To unlock new faction, please destroy the ship from this faction that exceeds 51000P."
+msgid "Unlock a playable faction by destroying a ^51000P+^7 ship from that faction"
+msgstr "若要解锁新种族，请摧毁该种族超过^51000P+^7的飞船。"
+
+msgid "Wormhole"
+msgstr "虫洞"
+
+# A little tweak on Fan translation. 
+msgid "Use a wormhole to upload your fleet without changing worlds"
+msgstr "使用虫洞可上传你的舰队且不改变世界。"
+
+msgid "Travel through a wormhole into a new world"
+msgstr "通过虫洞穿越至一个新的世界"
