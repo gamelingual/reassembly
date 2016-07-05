@@ -1,0 +1,496 @@
+# 
+# Reassembly data/shipnames.lua localization file
+# 
+# Copyright (C) 2015-2016 Arthur Danskin
+# Content-Type: text/plain; charset=utf-8
+# 
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"X-Generator: Poedit 1.8.8\n"
+# this is the name of a ship
+msgid "Angel"
+msgstr "天使"
+
+# this is the name of a ship
+msgid "Arbalest"
+msgstr "劲弩"
+
+# this is the name of a ship
+msgid "Archangel"
+msgstr "大天使"
+
+# this is the name of a ship
+msgid "Archer"
+msgstr "弓箭手"
+
+# this is the name of a ship
+msgid "Assault"
+msgstr "进击号"
+
+# this is the name of a ship
+msgid "Asteroid Home"
+msgstr "小行星之家"
+
+# this is the name of a ship
+msgid "Bachelaskultz"
+msgstr "巴彻库尔茨"
+
+# this is the name of a ship
+msgid "Ballista"
+msgstr "连弩"
+
+# this is the name of a ship
+msgid "Barge"
+msgstr "驳船"
+
+# this is the name of a ship
+msgid "Barium"
+msgstr "钡元素"
+
+# this is the name of a ship
+msgid "Bastion"
+msgstr "堡垒"
+
+# this is the name of a ship
+msgid "Battle Nurse"
+msgstr "战地护士"
+
+# this is the name of a ship
+msgid "Battleship"
+msgstr "战船"
+
+# this is the name of a ship
+msgid "Beryllium"
+msgstr "铍元素"
+
+# this is the name of a ship
+msgid "Bombard"
+msgstr "轰击"
+
+# this is the name of a ship
+msgid "Bramble"
+msgstr "黑蔷薇"
+
+# this is the name of a ship
+msgid "Brawler"
+msgstr "格斗家"
+
+# this is the name of a ship
+msgid "Cactus"
+msgstr "仙人掌"
+
+# this is the name of a ship
+msgid "Caesium"
+msgstr "铯元素"
+
+# this is the name of a ship
+msgid "Claw"
+msgstr "利爪"
+
+# this is the name of a ship
+msgid "Colony"
+msgstr "殖民者"
+
+# this is the name of a ship
+msgid "Column"
+msgstr "石柱"
+
+# this is the name of a ship
+msgid "Combat Engineer"
+msgstr "战斗工程师"
+
+# this is the name of a ship
+msgid "Crescent"
+msgstr "新月"
+
+# this is the name of a ship
+msgid "Cruiser"
+msgstr "巡洋舰"
+
+# this is the name of a ship
+msgid "Destroyer"
+msgstr "摧毁者"
+
+# this is the name of a ship
+msgid "Dragonfly"
+msgstr "蜻蜓"
+
+# this is the name of a ship
+msgid "Eagle"
+msgstr "雄鹰"
+
+# this is the name of a ship
+msgid "Energy Barge"
+msgstr "超能驳船"
+
+# this is the name of a ship
+msgid "Fighter"
+msgstr "战士"
+
+# this is the name of a ship
+msgid "Fly"
+msgstr "蝇"
+
+# this is the name of a ship
+msgid "Forklift"
+msgstr "铲车"
+
+# this is the name of a ship
+msgid "Fractal City"
+msgstr "破碎之城"
+
+# this is the name of a ship
+msgid "Frigate"
+msgstr "护卫舰"
+
+# this is the name of a ship
+msgid "Gallium"
+msgstr "镓元素"
+
+# this is the name of a ship
+msgid "Germanium"
+msgstr "锗元素"
+
+# this is the name of a ship
+msgid "Gnat"
+msgstr "跳蚤"
+
+# this is the name of a ship
+msgid "Guardian"
+msgstr "守卫者"
+
+# this is the name of a ship
+msgid "Harbinger"
+msgstr "预言家"
+
+# this is the name of a ship
+msgid "Heavy Barge"
+msgstr "重型驳船"
+
+# this is the name of a ship
+msgid "Heavy Depot"
+msgstr "重型军械库"
+
+# this is the name of a ship
+msgid "Heavy Minelayer"
+msgstr "重型布雷舰"
+
+# this is the name of a ship
+msgid "Hiveblock"
+msgstr "养蜂场"
+
+# this is the name of a ship
+msgid "Indium"
+msgstr "铟元素"
+
+# this is the name of a ship
+msgid "Interceptor"
+msgstr "拦截者"
+
+# this is the name of a ship
+msgid "Lithium"
+msgstr "锂元素"
+
+# this is the name of a ship
+msgid "Magnesium"
+msgstr "镁元素"
+
+# this is the name of a ship
+msgid "Metacolumn"
+msgstr "巨型石柱"
+
+# this is the name of a ship
+msgid "Minelayer"
+msgstr "布雷舰"
+
+# this is the name of a ship
+msgid "Minifreight"
+msgstr "迷你运输舰"
+
+# this is the name of a ship
+msgid "Mosquito"
+msgstr "蚊蚋"
+
+# this is the name of a ship
+msgid "Mothership"
+msgstr "母舰"
+
+# this is the name of a ship
+msgid "Mouse"
+msgstr "灵鼠"
+
+# this is the name of a ship
+msgid "Nami"
+msgstr "奈美"
+
+# this is the name of a ship
+msgid "Necropolis"
+msgstr "古墓"
+
+# this is the name of a ship
+msgid "Nurse"
+msgstr "护士"
+
+# this is the name of a ship
+msgid "Obelisk"
+msgstr "方尖碑"
+
+# this is the name of a ship
+msgid "Owl"
+msgstr "猫头鹰"
+
+# this is the name of a ship
+msgid "Pewpew"
+msgstr "几何战机"
+
+# this is the name of a ship
+msgid "Pineapple"
+msgstr "菠萝"
+
+# this is the name of a ship
+msgid "Pinnacle"
+msgstr "顶峰"
+
+# this is the name of a ship
+msgid "Plutonium"
+msgstr "钚元素"
+
+# this is the name of a ship
+msgid "Probe"
+msgstr "探查者"
+
+# this is the name of a ship
+msgid "Probe0"
+msgstr "探查者0"
+
+# this is the name of a ship
+msgid "Promethium"
+msgstr "钷元素"
+
+# this is the name of a ship
+msgid "Radium"
+msgstr "镭元素"
+
+# this is the name of a ship
+msgid "Raptor"
+msgstr "猛禽"
+
+# this is the name of a ship
+msgid "Reaper"
+msgstr "收割者"
+
+# this is the name of a ship
+msgid "Recon"
+msgstr "复兴"
+
+# this is the name of a ship
+msgid "Resurrection"
+msgstr "复活者"
+
+# this is the name of a ship
+msgid "Rubidium"
+msgstr "铷元素"
+
+# this is the name of a ship
+msgid "Saber"
+msgstr "斩马刀"
+
+# this is the name of a ship
+msgid "Scarab"
+msgstr "圣甲虫"
+
+# this is the name of a ship
+msgid "Science Vessel"
+msgstr "科学飞船"
+
+# this is the name of a ship
+msgid "Scout"
+msgstr "侦察者"
+
+# this is the name of a ship
+msgid "Scythe"
+msgstr "镰刀"
+
+# this is the name of a ship
+msgid "Seraphim"
+msgstr "六翼天使"
+
+# this is the name of a ship
+msgid "Shield Barge"
+msgstr "护盾驳船"
+
+# this is the name of a ship
+msgid "Shriek"
+msgstr "尖叫"
+
+# this is the name of a ship
+msgid "Shroud"
+msgstr "裹尸布"
+
+# this is the name of a ship
+msgid "Shrub"
+msgstr "灌木"
+
+# this is the name of a ship
+msgid "Shuriken"
+msgstr "手里剑"
+
+# this is the name of a ship
+msgid "Skirmisher"
+msgstr "遭遇战专家"
+
+# this is the name of a ship
+msgid "Sniper"
+msgstr "狙击者"
+
+# this is the name of a ship
+msgid "Soldier"
+msgstr "战士"
+
+# this is the name of a ship
+msgid "Soraka"
+msgstr "索拉卡"
+
+# this is the name of a ship
+msgid "Sparrow"
+msgstr "麻雀"
+
+# this is the name of a ship
+msgid "Spider"
+msgstr "蜘蛛"
+
+# this is the name of a ship
+msgid "Spike"
+msgstr "利锥"
+
+# this is the name of a ship
+msgid "Spinner"
+msgstr "织布机"
+
+# this is the name of a ship
+msgid "Spire"
+msgstr "教堂塔尖"
+
+# this is the name of a ship
+msgid "Sprite"
+msgstr "小妖"
+
+# this is the name of a ship
+msgid "Squirt"
+msgstr "喷射机"
+
+# this is the name of a ship
+msgid "Stamens"
+msgstr "花之雄蕊"
+
+# this is the name of a ship
+msgid "Star Home"
+msgstr "恒星之家"
+
+# this is the name of a ship
+msgid "Storm"
+msgstr "风暴"
+
+# this is the name of a ship
+msgid "Strike"
+msgstr "突袭"
+
+# this is the name of a ship
+msgid "Stronium"
+msgstr "锶元素"
+
+# this is the name of a ship
+msgid "Sunflower"
+msgstr "向日葵"
+
+# this is the name of a ship
+msgid "T2 Interceptor"
+msgstr "T2 拦截者"
+
+# this is the name of a ship
+msgid "T2 Viking"
+msgstr "T2 维京"
+
+# this is the name of a ship
+msgid "T3 Valkyrie"
+msgstr "T3 女武神"
+
+# this is the name of a ship
+msgid "Talon"
+msgstr "魔爪"
+
+# this is the name of a ship
+msgid "Technician"
+msgstr "技术专家"
+
+# this is the name of a ship
+msgid "Tellurium"
+msgstr "碲元素"
+
+# this is the name of a ship
+msgid "Thistle"
+msgstr "蓟草"
+
+# this is the name of a ship
+msgid "Thistle Thorn"
+msgstr "蓟草荆棘"
+
+# this is the name of a ship
+msgid "Thorn"
+msgstr "荆棘"
+
+# this is the name of a ship
+msgid "Tomb"
+msgstr "坟墓"
+
+# this is the name of a ship
+msgid "Tsunami"
+msgstr "海啸"
+
+# this is the name of a ship
+msgid "Tubule"
+msgstr "微型管道"
+
+# this is the name of a ship
+msgid "Twerp"
+msgstr "无用之才"
+
+# this is the name of a ship
+msgid "TwerpX2"
+msgstr "无用之才×2"
+
+# this is the name of a ship
+msgid "Uranium"
+msgstr "铀元素"
+
+# this is the name of a ship
+msgid "Vault"
+msgstr "苍穹"
+
+# this is the name of a ship
+msgid "Whirl Base"
+msgstr "飓风之眼"
+
+# this is the name of a ship
+msgid "Worker"
+msgstr "劳动者"
+
+# this is the name of a ship
+msgid "Yggdrasil"
+msgstr "世界之树"
+
+# this is the name of a ship
+msgid "Ziggurat"
+msgstr "通灵塔"
+
+

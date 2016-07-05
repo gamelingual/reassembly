@@ -1,0 +1,50 @@
+# 
+# Reassembly steam store localization file
+# 
+# Copyright (C) 2015 Arthur Danskin
+# Content-Type: text/plain; charset=utf-8
+# 
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"X-Generator: Poedit 1.8.8\n"
+# Short Description
+msgid "A spaceship building and universe-exploration game. Collect resources, expand and grow your fleet, and conquer your personal galaxy. Stellar ambience by Peaks."
+msgstr "一款建造太空飞船，探索宇宙空间的游戏。搜集资源，扩充你的舰队，征服属于你的星系。Peaks 为你带来身临其境的星际氛围。"
+
+# About This Game
+msgid "And through the Kickstarter gauntlet we have arrived. Yes, we have a procedurally-generated universe to explore. Yes, we have eye-gogglingly gorgeous vector-based gameplay coupled with particle effects so effortlessly effervescent that you won't have time to wonder if \"effortlessly effervescent\" means anything coherent. And yes, we have noises and musical moods that take a warm soapy sponge to your brain and massage it into cerebral splendor. \n"
+"\n"
+"BUT YOU DON'T HAVE TIME FOR THAT!!!\n"
+"\n"
+"You're too busy crafting the perfect vessel, a spaceship pristine and precise and, perhaps, powerful, agile, and envy-inducing. Your shapes and colors will induce both fear and wonder into the electronic hearts of whatever insectoid, angley, squarish, plantlike race of alien ships that you come across in your digital safari. \n"
+"\n"
+"And then you grow. And it changes everything. Now your left wing must become your right wing in a lopsided arrangement of fancy new weaponry and mega-buffed shields. You recall thinking when you last were destroyed (and you will be destroyed), that you really needed to buff up that armor. Right? Definitely.\n"
+"\n"
+"And then you grow again. And again. And now you're a battleship capable of producing your own fleet, and each member of your fleet can spawn it's own fleet, and you need it. Your enemies are constantly changing shapes, sizes, and intensities as ships created and honed through the experience of a thousand battles find their way from their creator's computer to yours, leaping into your universe with all the mercy in the world of NONE AT ALL.\n"
+"\n"
+"It's time to visit the electronic tide pool. \n"
+"\n"
+"[h2]Reassembly[/h2]\n"
+"[list]\n"
+"[*] Gorgeous Vector-Based Graphics\n"
+"[*] Procedurally Generated Universes\n"
+"[*] Ridiculously User-Friendly Spaceship Designer\n"
+"[*] A Beautiful and Haunting Soundtrack by Peter Brown (Peaks)\n"
+"[*] More Particle Effects Than You can Shake a Stick At\n"
+"[*] Very Smart and Reactive AI\n"
+"[*] Physics that Give Weight to Your Creations\n"
+"[*] Asynchronous Multiplayer: Universes Populated by Fellow Players\n"
+"[/list]\n"
+msgstr "我们通过Kickstarter众筹使这款游戏得以面世。是的，这里有一个程序自动生成的宇宙空间待你探索。是的，这里有一个令你目瞪口呆的炫目的矢量游戏画面，配以雪落无痕、汹涌澎湃的粒子效果，你会目不暇接，根本没时间反应“雪落无痕、汹涌澎湃”到底是什么意思。是的，这里的噪声和音效会把你的脑子变成一块吸满肥皂水的海绵，让它兴奋至极。\n\n但是你没时间理会这一切！！！\n\n你会忙着制造一架完美的飞行器，一艘质朴、精密、强大、灵活、令人羡慕的太空飞船。在这场探险中，你将碰见昆虫形、多边形、方形甚至植物形等各种各样的其他种族的外星飞船，而你创造的性状和颜色将震慑它们的心灵，留下恐惧与惊讶。\n\n之后你将扩建飞船。它能改变一切。通过不对称编排，你将左翼转化为右翼，以适应新的进攻性武器，和经过特殊强化的护盾。你回想起上次飞船被摧毁的场景（是的，你一定会被摧毁的），你确实需要强化护盾，对吧？那当然了。\n\n之后你会不断扩建。直到你的战舰可以生产出一支属于你的舰队，而舰队中的每一艘飞船，都能继续生产出舰队，因为你需要这些舰队。你的敌人们会不断改变飞船的形状、大小和攻击力，那些经历过数千场战斗磨练、根据丰富的战斗经验而建造的飞船，将会从建造者的电脑来到你的电脑，闯入你的宇宙，对你痛下杀手，毫不留情。\n\n是时候来见识一下这个电子蓄潮池了。 \n\n[h2]Reassembly[/h2]\n[list]\n[*] 令人炫目的矢量游戏画面\n[*] 系统自动生成多个宇宙\n[*] 简单到难以置信的飞船设计界面\n[*] 彼得·布朗（Peaks）创作的美妙萦回的游戏原声音乐\n[*] 无与伦比的粒子效果\n[*] 无比机智、对策灵活的AI\n[*] 精确的物理模型不会辜负你的创造力\n[*] 异步多人游戏：其他玩家会占领其它宇宙\n[/list]\n"
+
+
